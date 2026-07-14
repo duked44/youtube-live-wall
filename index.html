@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Live Wall</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Live Wall</h1>
+    <p class="subtitle">Shows every tracked channel that's currently live. Nothing live, nothing shown.</p>
+    <div class="header-actions">
+      <span id="last-checked" class="last-checked"></span>
+      <button id="open-settings" class="btn-secondary" type="button">Settings</button>
+    </div>
+  </header>
+
+  <main>
+    <div id="empty-state" class="empty-state" hidden>
+      <p>No tracked channels are live right now.</p>
+    </div>
+    <div id="grid" class="grid"></div>
+  </main>
+
+  <aside id="settings-panel" class="settings-panel" hidden>
+    <div class="settings-panel-inner">
+      <div class="settings-panel-header">
+        <h2>Settings</h2>
+        <button id="close-settings" class="btn-secondary" type="button">Close</button>
+      </div>
+
+      <section>
+        <h3>Hidden channels</h3>
+        <p class="hint">Channels you dismissed with the "Hide" button while they were live. They'll stay hidden until you restore them here.</p>
+        <ul id="hidden-list" class="hidden-list"></ul>
+      </section>
+
+      <section>
+        <h3>Tracked channels</h3>
+        <p class="hint">
+          The full list lives in <code>channels.json</code> in the repo &mdash;
+          add or remove a channel by editing that file. This panel is read-only for now.
+        </p>
+        <ul id="tracked-list" class="tracked-list"></ul>
+      </section>
+    </div>
+  </aside>
+  <div id="settings-backdrop" class="settings-backdrop" hidden></div>
+
+  <script src="app.js"></script>
+</body>
+</html>
