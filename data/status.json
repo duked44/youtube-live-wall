@@ -1,23 +1,8 @@
 {
-  "generatedAt": "2026-07-14T16:52:37.588Z",
-  "channels": [
-    {
-      "id": "example-news-1",
-      "name": "Example News Channel 1",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    },
-    {
-      "id": "example-news-2",
-      "name": "Example News Channel 2",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    },
-    {
-      "id": "example-news-3",
-      "name": "Example News Channel 3",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    }
-  ]
+  "generatedAt": null,
+  "channels": [],
+  "health": {
+    "last24h": { "runs": 0, "channelChecks": 0, "errors": 0 },
+    "lastRun": null
+  }
 }

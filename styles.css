@@ -66,6 +66,51 @@ body {
   font-size: 0.8rem;
 }
 
+.health-summary {
+  color: var(--text-dim);
+  font-size: 0.8rem;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.health-summary .status-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #3bd671;
+  display: inline-block;
+}
+
+.health-summary .status-dot.warn {
+  background: #ffb020;
+}
+
+.health-summary .status-dot.bad {
+  background: var(--accent);
+}
+
+.health-summary .status-dot.unknown {
+  background: var(--text-dim);
+}
+
+.health-detail {
+  margin: 8px 0 0;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 4px 12px;
+  font-size: 0.85rem;
+}
+
+.health-detail dt {
+  color: var(--text-dim);
+}
+
+.health-detail dd {
+  margin: 0;
+  text-align: right;
+}
+
 .btn-secondary {
   background: var(--surface-2);
   color: var(--text);

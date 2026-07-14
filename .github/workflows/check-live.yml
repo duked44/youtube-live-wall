@@ -2,9 +2,9 @@ name: Check live channels
 
 on:
   schedule:
-    # GitHub's minimum scheduled interval is 5 minutes, and it can be delayed
-    # further under load. Every 10 minutes is a reasonable, well-behaved default.
-    - cron: "*/10 * * * *"
+    # 5 minutes is the fastest interval GitHub's scheduler supports. Actual
+    # runs can still land a few minutes late under load.
+    - cron: "*/5 * * * *"
   workflow_dispatch: {}
   push:
     paths:
@@ -33,12 +33,12 @@ jobs:
 
       - name: Commit status.json if changed
         run: |
-          if git diff --quiet -- data/status.json; then
+          if git diff --quiet -- data/status.json data/run-log.json; then
             echo "No change in live status, skipping commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/status.json
+          git add data/status.json data/run-log.json
           git commit -m "chore: update live status"
           git push

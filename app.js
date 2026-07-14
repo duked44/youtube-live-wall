@@ -6,6 +6,8 @@ const HIDDEN_KEY = "liveWall.hiddenChannelIds";
 const grid = document.getElementById("grid");
 const emptyState = document.getElementById("empty-state");
 const lastCheckedEl = document.getElementById("last-checked");
+const healthSummaryEl = document.getElementById("health-summary");
+const healthDetailEl = document.getElementById("health-detail");
 const hiddenListEl = document.getElementById("hidden-list");
 const trackedListEl = document.getElementById("tracked-list");
 const settingsPanel = document.getElementById("settings-panel");
@@ -119,6 +121,47 @@ function renderHiddenList(allChannelsById, hiddenIds) {
   }
 }
 
+function minutesAgo(iso) {
+  if (!iso) return null;
+  return Math.max(0, Math.round((Date.now() - new Date(iso).getTime()) / 60_000));
+}
+
+function renderHealth(health) {
+  const last24h = health?.last24h ?? { runs: 0, channelChecks: 0, errors: 0 };
+  const lastRun = health?.lastRun ?? null;
+
+  let statusClass = "unknown";
+  let summaryText = "no checks yet";
+  if (lastRun) {
+    const mins = minutesAgo(lastRun.at);
+    const allFailed = lastRun.checked > 0 && lastRun.errors === lastRun.checked;
+    statusClass = allFailed ? "bad" : lastRun.errors > 0 ? "warn" : "ok";
+    summaryText = `${last24h.runs} checks in last 24h · last run ${mins}m ago`;
+  }
+
+  healthSummaryEl.innerHTML = `<span class="status-dot ${statusClass}"></span>${escapeHtml(
+    summaryText
+  )}`;
+
+  healthDetailEl.innerHTML = "";
+  const rows = [
+    ["Checks in last 24h", String(last24h.runs)],
+    ["Channel checks (24h)", String(last24h.channelChecks)],
+    ["Errors (24h)", String(last24h.errors)],
+    [
+      "Last run",
+      lastRun ? `${minutesAgo(lastRun.at)}m ago (${lastRun.errors}/${lastRun.checked} errors)` : "never",
+    ],
+  ];
+  for (const [label, value] of rows) {
+    const dt = document.createElement("dt");
+    dt.textContent = label;
+    const dd = document.createElement("dd");
+    dd.textContent = value;
+    healthDetailEl.append(dt, dd);
+  }
+}
+
 function renderTrackedList(channelsConfig, liveIds) {
   trackedListEl.innerHTML = "";
   for (const channel of channelsConfig) {
@@ -168,6 +211,7 @@ async function render() {
     const allChannelsById = new Map(channelsConfig.map((c) => [c.id, c]));
 
     lastCheckedEl.textContent = formatTime(status.generatedAt);
+    renderHealth(status.health);
     renderCards(liveChannels, hiddenIds);
     renderHiddenList(allChannelsById, hiddenIds);
     renderTrackedList(channelsConfig, liveIds);

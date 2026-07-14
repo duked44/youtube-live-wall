@@ -117,6 +117,18 @@ function baseResult(channel) {
   };
 }
 
+const RUN_LOG_WINDOW_MS = 24 * 60 * 60 * 1000;
+
+async function readRunLog(outDir) {
+  try {
+    const raw = await readFile(path.join(outDir, "run-log.json"), "utf8");
+    const parsed = JSON.parse(raw);
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
 async function main() {
   const channelsRaw = await readFile(path.join(ROOT, "channels.json"), "utf8");
   const { channels } = JSON.parse(channelsRaw);
@@ -132,13 +144,37 @@ async function main() {
     await sleep(DELAY_BETWEEN_CHANNELS_MS);
   }
 
-  const status = {
-    generatedAt: new Date().toISOString(),
-    channels: results,
-  };
+  const now = new Date();
+  const errorCount = results.filter((r) => r.error).length;
 
   const outDir = path.join(ROOT, "data");
   await mkdir(outDir, { recursive: true });
+
+  const runLog = await readRunLog(outDir);
+  runLog.push({ time: now.toISOString(), checked: results.length, errors: errorCount });
+  const cutoff = now.getTime() - RUN_LOG_WINDOW_MS;
+  const recentRuns = runLog.filter((entry) => new Date(entry.time).getTime() >= cutoff);
+
+  const health = {
+    last24h: {
+      runs: recentRuns.length,
+      channelChecks: recentRuns.reduce((sum, r) => sum + r.checked, 0),
+      errors: recentRuns.reduce((sum, r) => sum + r.errors, 0),
+    },
+    lastRun: { at: now.toISOString(), checked: results.length, errors: errorCount },
+  };
+
+  const status = {
+    generatedAt: now.toISOString(),
+    channels: results,
+    health,
+  };
+
+  await writeFile(
+    path.join(outDir, "run-log.json"),
+    JSON.stringify(recentRuns, null, 2) + "\n",
+    "utf8"
+  );
   await writeFile(
     path.join(outDir, "status.json"),
     JSON.stringify(status, null, 2) + "\n",
@@ -146,7 +182,10 @@ async function main() {
   );
 
   const liveCount = results.filter((r) => r.live).length;
-  console.log(`Checked ${results.length} channels, ${liveCount} live.`);
+  console.log(
+    `Checked ${results.length} channels, ${liveCount} live, ${errorCount} errors. ` +
+      `Last 24h: ${health.last24h.runs} runs, ${health.last24h.errors} errors.`
+  );
 }
 
 main().catch((err) => {

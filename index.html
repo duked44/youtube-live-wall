@@ -11,6 +11,7 @@
     <h1>Live Wall</h1>
     <p class="subtitle">Shows every tracked channel that's currently live. Nothing live, nothing shown.</p>
     <div class="header-actions">
+      <span id="health-summary" class="health-summary"></span>
       <span id="last-checked" class="last-checked"></span>
       <button id="open-settings" class="btn-secondary" type="button">Settings</button>
     </div>
@@ -29,6 +30,17 @@
         <h2>Settings</h2>
         <button id="close-settings" class="btn-secondary" type="button">Close</button>
       </div>
+
+      <section>
+        <h3>Checker health</h3>
+        <p class="hint">
+          This site polls each channel's public page on a schedule (every 5
+          minutes, GitHub's fastest supported interval) &mdash; there's no
+          external quota being consumed, so this tracks pacing and failures,
+          not a limit being approached.
+        </p>
+        <dl id="health-detail" class="health-detail"></dl>
+      </section>
 
       <section>
         <h3>Hidden channels</h3>
