@@ -1,24 +1,6 @@
 {
-  "generatedAt": "2026-07-14T21:01:52.318Z",
+  "generatedAt": "2026-07-14T21:02:18.080Z",
   "channels": [
-    {
-      "id": "example-news-1",
-      "name": "Example News Channel 1",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    },
-    {
-      "id": "example-news-2",
-      "name": "Example News Channel 2",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    },
-    {
-      "id": "example-news-3",
-      "name": "Example News Channel 3",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "live": false
-    },
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
@@ -29,12 +11,12 @@
   "health": {
     "last24h": {
       "runs": 6,
-      "channelChecks": 19,
+      "channelChecks": 16,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-14T21:01:52.318Z",
-      "checked": 4,
+      "at": "2026-07-14T21:02:18.080Z",
+      "checked": 1,
       "errors": 0
     }
   }
