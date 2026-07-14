@@ -20,12 +20,6 @@
       "enabled": true
     },
     {
-      "id": "example-news-4",
-      "name": "Example News Channel 4",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "enabled": false
-    },
-    {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
