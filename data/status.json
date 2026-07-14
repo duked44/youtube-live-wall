@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T19:48:04.906Z",
+  "generatedAt": "2026-07-14T20:46:19.113Z",
   "channels": [
     {
       "id": "example-news-1",
@@ -22,12 +22,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 12,
+      "runs": 5,
+      "channelChecks": 15,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-14T19:48:04.906Z",
+      "at": "2026-07-14T20:46:19.113Z",
       "checked": 3,
       "errors": 0
     }
