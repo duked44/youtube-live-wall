@@ -2,12 +2,6 @@
   "_comment": "This is the master channel list. Normally you add/remove channels from the site's Settings panel (enter an @handle, click Add) rather than editing this file directly - see README.md. You can still hand-edit this as a fallback: copy a block and paste it in the array, fill in name + channelId (the UC... id, not the @handle), or delete a block to remove a channel.",
   "channels": [
     {
-      "id": "example-news-1",
-      "name": "Example News Channel 1",
-      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
-      "enabled": true
-    },
-    {
       "id": "example-news-2",
       "name": "Example News Channel 2",
       "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
