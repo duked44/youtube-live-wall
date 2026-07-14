@@ -1,8 +1,35 @@
 {
-  "generatedAt": null,
-  "channels": [],
+  "generatedAt": "2026-07-14T17:06:15.131Z",
+  "channels": [
+    {
+      "id": "example-news-1",
+      "name": "Example News Channel 1",
+      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
+      "live": false
+    },
+    {
+      "id": "example-news-2",
+      "name": "Example News Channel 2",
+      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
+      "live": false
+    },
+    {
+      "id": "example-news-3",
+      "name": "Example News Channel 3",
+      "channelId": "UCxxxxxxxxxxxxxxxxxxxxxx",
+      "live": false
+    }
+  ],
   "health": {
-    "last24h": { "runs": 0, "channelChecks": 0, "errors": 0 },
-    "lastRun": null
+    "last24h": {
+      "runs": 1,
+      "channelChecks": 3,
+      "errors": 0
+    },
+    "lastRun": {
+      "at": "2026-07-14T17:06:15.131Z",
+      "checked": 3,
+      "errors": 0
+    }
   }
 }
