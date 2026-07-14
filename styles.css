@@ -125,6 +125,28 @@ body {
   background: #262933;
 }
 
+.btn-primary {
+  background: var(--accent);
+  color: #fff;
+  border: 1px solid var(--accent);
+  border-radius: 8px;
+  padding: 8px 14px;
+  font-size: 0.85rem;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.btn-primary:hover {
+  filter: brightness(1.1);
+}
+
+.btn-primary:disabled,
+.btn-secondary:disabled {
+  opacity: 0.5;
+  cursor: default;
+  filter: none;
+}
+
 main {
   padding: 24px 32px 48px;
 }
@@ -291,11 +313,21 @@ main {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 8px;
   background: var(--surface-2);
   border: 1px solid var(--border);
   border-radius: 8px;
   padding: 8px 10px;
   font-size: 0.85rem;
+}
+
+.tracked-list .channel-name {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 
 .tracked-list .status-dot {
@@ -305,6 +337,7 @@ main {
   background: var(--text-dim);
   display: inline-block;
   margin-right: 8px;
+  flex-shrink: 0;
 }
 
 .tracked-list .status-dot.live {
@@ -316,7 +349,8 @@ main {
   border: 1px solid var(--text-dim);
 }
 
-.restore-btn {
+.restore-btn,
+.remove-btn {
   background: transparent;
   border: 1px solid var(--border);
   color: var(--text);
@@ -324,9 +358,85 @@ main {
   padding: 3px 9px;
   font-size: 0.75rem;
   cursor: pointer;
+  flex-shrink: 0;
+}
+
+.remove-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
 }
 
 .empty-hint {
   color: var(--text-dim);
   font-size: 0.8rem;
+}
+
+.field-label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  margin: 14px 0 4px;
+}
+
+.field-label .hint {
+  display: block;
+  font-weight: 400;
+  margin: 2px 0 0;
+}
+
+.field-label .hint a {
+  color: inherit;
+}
+
+#connect-form input[type="password"],
+#connect-form input[type="text"],
+.add-channel-row input[type="text"] {
+  width: 100%;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  color: var(--text);
+  border-radius: 8px;
+  padding: 8px 10px;
+  font-size: 0.85rem;
+}
+
+#save-credentials-btn {
+  margin-top: 14px;
+}
+
+.connect-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.connect-summary .hint {
+  flex: 1 1 auto;
+}
+
+.add-channel-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.add-channel-row input {
+  flex: 1 1 auto;
+}
+
+.form-status {
+  margin: 8px 0 0;
+  font-size: 0.8rem;
+  color: var(--text-dim);
+  min-height: 1.2em;
+}
+
+.form-status.error {
+  color: var(--accent);
+}
+
+.form-status.success {
+  color: #3bd671;
 }

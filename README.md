@@ -1,13 +1,17 @@
 # Live Wall
 
 A tiny GitHub-hosted site that shows only the channels (from a list you control)
-that are currently live streaming. No API key, no ads baked in beyond whatever
-YouTube's own player shows, no build step.
+that are currently live streaming. No ads baked in beyond whatever YouTube's
+own player shows, no build step. Live-checking itself needs no API key; adding
+a channel by @handle from the site's Settings panel optionally uses a YouTube
+API key just for that one lookup (see "Adding / removing channels" below).
 
 ## How it works
 
-- `channels.json` is the list of channels you're tracking. Add or remove an
-  entry to change what's tracked.
+- `channels.json` is the list of channels you're tracking. Normally you don't
+  edit this by hand — use the **Settings** panel on the site (see "Adding /
+  removing channels" below). It's still a plain JSON file you *can* hand-edit
+  as a fallback.
 - A GitHub Actions workflow (`.github/workflows/check-live.yml`) runs every
   ~5 minutes (GitHub's fastest supported schedule interval), checks each
   enabled channel's public `/live` page, and writes the result to
@@ -45,7 +49,40 @@ YouTube's own player shows, no build step.
 
 ## Adding / removing channels
 
-Just edit `channels.json`:
+Open the site, click **Settings**, and set up two credentials once (both are
+stored only in your browser's `localStorage` — never committed to the repo):
+
+1. **GitHub token** — lets the page commit changes to `channels.json`
+   directly. Create a **fine-grained personal access token** at
+   [github.com/settings/personal-access-tokens/new](https://github.com/settings/personal-access-tokens/new):
+   - Repository access: **Only select repositories** → this repo.
+   - Permissions: **Contents → Read and write**. Nothing else needed.
+   - Consider a short expiration (e.g. 90 days) and just regenerate it when it
+     lapses — narrower blast radius if it ever leaks.
+2. **YouTube Data API key** — lets the page resolve an `@handle` you type
+   into a channel ID. Create one at
+   [console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials)
+   (enable "YouTube Data API v3" on the project first). Optionally restrict
+   the key to your `*.github.io` referrer so it can't be used from elsewhere
+   if it leaks. Each lookup costs ~1 quota unit out of the free 10,000/day —
+   this is the one place the project *does* touch the official API, and it's
+   negligible even if you add channels constantly.
+
+Paste both into the Settings panel and hit **Save**. After that:
+
+- **Add a channel**: type its `@handle` (or paste the full channel URL) into
+  the "Add a channel" box and click **Add channel**. It resolves the handle,
+  commits the updated `channels.json`, and shows up as live within about 5
+  minutes of actually going live (whenever the next scheduled check lands).
+- **Remove a channel**: click **Remove** next to it in the "Tracked channels"
+  list, confirm, done.
+
+Only someone with your saved token can add/remove channels — visiting the
+site itself doesn't expose it to anyone else.
+
+`channels.json` still has the same shape under the hood if you ever want to
+hand-edit it instead (e.g. to bulk-import channels, or set `enabled: false`
+to pause one without removing it):
 
 ```json
 {
@@ -55,12 +92,6 @@ Just edit `channels.json`:
   "enabled": true
 }
 ```
-
-- `id` is only used internally (hidden-channel storage, DOM keys) — keep it
-  short and unique.
-- Set `enabled: false` to keep a channel in the file without checking it.
-- Commit and push; the next scheduled run (or a manual "Run workflow") will
-  pick it up.
 
 ## Notes and known limitations
 

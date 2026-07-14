@@ -2,6 +2,126 @@ const STATUS_URL = "data/status.json";
 const CHANNELS_URL = "channels.json";
 const POLL_INTERVAL_MS = 60_000;
 const HIDDEN_KEY = "liveWall.hiddenChannelIds";
+const GITHUB_TOKEN_KEY = "liveWall.githubToken";
+const YOUTUBE_API_KEY_KEY = "liveWall.youtubeApiKey";
+
+let lastLiveIds = new Set();
+
+function utf8ToBase64(str) {
+  return btoa(unescape(encodeURIComponent(str)));
+}
+
+function base64ToUtf8(str) {
+  return decodeURIComponent(escape(atob(str)));
+}
+
+function getGithubToken() {
+  return localStorage.getItem(GITHUB_TOKEN_KEY) || "";
+}
+
+function getYoutubeApiKey() {
+  return localStorage.getItem(YOUTUBE_API_KEY_KEY) || "";
+}
+
+function setCredentials(token, key) {
+  if (token) localStorage.setItem(GITHUB_TOKEN_KEY, token);
+  if (key) localStorage.setItem(YOUTUBE_API_KEY_KEY, key);
+}
+
+function clearCredentials() {
+  localStorage.removeItem(GITHUB_TOKEN_KEY);
+  localStorage.removeItem(YOUTUBE_API_KEY_KEY);
+}
+
+function repoInfo() {
+  const owner = location.hostname.split(".")[0];
+  const repo = location.pathname.split("/").filter(Boolean)[0] || "";
+  return { owner, repo };
+}
+
+async function githubApiRequest(path, options = {}) {
+  const token = getGithubToken();
+  if (!token) throw new Error("No GitHub token saved. Add one in the Connection section.");
+  const res = await fetch(`https://api.github.com${path}`, {
+    ...options,
+    headers: {
+      Authorization: `Bearer ${token}`,
+      Accept: "application/vnd.github+json",
+      "X-GitHub-Api-Version": "2022-11-28",
+      ...(options.headers || {}),
+    },
+  });
+  if (!res.ok) {
+    let detail = "";
+    try {
+      const body = await res.json();
+      if (body.message) detail = `: ${body.message}`;
+    } catch {
+      // ignore non-JSON error bodies
+    }
+    throw new Error(`GitHub API ${res.status}${detail}`);
+  }
+  if (res.status === 204) return null;
+  return res.json();
+}
+
+async function fetchChannelsFile() {
+  const { owner, repo } = repoInfo();
+  const data = await githubApiRequest(`/repos/${owner}/${repo}/contents/channels.json`);
+  return { sha: data.sha, json: JSON.parse(base64ToUtf8(data.content)) };
+}
+
+async function writeChannelsFile(json, sha, message) {
+  const { owner, repo } = repoInfo();
+  const content = utf8ToBase64(JSON.stringify(json, null, 2) + "\n");
+  return githubApiRequest(`/repos/${owner}/${repo}/contents/channels.json`, {
+    method: "PUT",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ message, content, sha }),
+  });
+}
+
+function normalizeHandle(raw) {
+  const trimmed = raw.trim();
+  const urlMatch = trimmed.match(/youtube\.com\/@([\w.-]+)/i);
+  const bare = urlMatch ? urlMatch[1] : trimmed.replace(/^@+/, "");
+  return `@${bare}`;
+}
+
+async function resolveHandle(rawHandle) {
+  const key = getYoutubeApiKey();
+  if (!key) throw new Error("No YouTube API key saved. Add one in the Connection section.");
+  const handle = normalizeHandle(rawHandle);
+  if (handle === "@") throw new Error("Enter a channel handle, e.g. @somechannel.");
+
+  const url = `https://www.googleapis.com/youtube/v3/channels?part=snippet&forHandle=${encodeURIComponent(
+    handle.slice(1)
+  )}&key=${encodeURIComponent(key)}`;
+  const res = await fetch(url);
+  const body = await res.json();
+  if (!res.ok) {
+    throw new Error(body?.error?.message || `YouTube API ${res.status}`);
+  }
+  const item = body.items?.[0];
+  if (!item) throw new Error(`No channel found for ${handle}.`);
+  return { channelId: item.id, name: item.snippet.title, handle };
+}
+
+function slugify(handle, existingIds) {
+  const base =
+    handle
+      .replace(/^@/, "")
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "") || "channel";
+  let candidate = base;
+  let n = 2;
+  while (existingIds.has(candidate)) {
+    candidate = `${base}-${n}`;
+    n++;
+  }
+  return candidate;
+}
 
 const grid = document.getElementById("grid");
 const emptyState = document.getElementById("empty-state");
@@ -12,6 +132,123 @@ const hiddenListEl = document.getElementById("hidden-list");
 const trackedListEl = document.getElementById("tracked-list");
 const settingsPanel = document.getElementById("settings-panel");
 const settingsBackdrop = document.getElementById("settings-backdrop");
+const connectSummaryEl = document.getElementById("connect-summary");
+const connectFormEl = document.getElementById("connect-form");
+const connectTokenPreviewEl = document.getElementById("connect-token-preview");
+const connectKeyStatusEl = document.getElementById("connect-key-status");
+const disconnectBtn = document.getElementById("disconnect-btn");
+const githubTokenInput = document.getElementById("github-token-input");
+const youtubeKeyInput = document.getElementById("youtube-key-input");
+const saveCredentialsBtn = document.getElementById("save-credentials-btn");
+const connectStatusEl = document.getElementById("connect-status");
+const addHandleInput = document.getElementById("add-handle-input");
+const addChannelBtn = document.getElementById("add-channel-btn");
+const addChannelStatusEl = document.getElementById("add-channel-status");
+
+function setFormStatus(el, message, kind) {
+  el.textContent = message;
+  el.classList.remove("error", "success");
+  if (kind) el.classList.add(kind);
+}
+
+function maskToken(token) {
+  if (token.length <= 4) return "****";
+  return `****${token.slice(-4)}`;
+}
+
+function renderConnectSection() {
+  const token = getGithubToken();
+  const key = getYoutubeApiKey();
+  const connected = Boolean(token);
+
+  connectSummaryEl.hidden = !connected;
+  connectFormEl.hidden = connected;
+
+  if (connected) {
+    connectTokenPreviewEl.textContent = maskToken(token);
+    connectKeyStatusEl.textContent = key ? "set" : "not set";
+  }
+}
+
+function scrollToConnect() {
+  document.getElementById("connect-section").scrollIntoView({ behavior: "smooth" });
+}
+
+saveCredentialsBtn.addEventListener("click", () => {
+  const token = githubTokenInput.value.trim();
+  const key = youtubeKeyInput.value.trim();
+  if (!token && !key) {
+    setFormStatus(connectStatusEl, "Enter at least a GitHub token.", "error");
+    return;
+  }
+  setCredentials(token, key);
+  githubTokenInput.value = "";
+  youtubeKeyInput.value = "";
+  setFormStatus(connectStatusEl, "Saved.", "success");
+  renderConnectSection();
+});
+
+disconnectBtn.addEventListener("click", () => {
+  clearCredentials();
+  setFormStatus(connectStatusEl, "", null);
+  renderConnectSection();
+});
+
+async function addChannel() {
+  const rawHandle = addHandleInput.value.trim();
+  if (!getGithubToken() || !getYoutubeApiKey()) {
+    setFormStatus(addChannelStatusEl, "Add both credentials in the Connection section first.", "error");
+    scrollToConnect();
+    return;
+  }
+  if (!rawHandle) {
+    setFormStatus(addChannelStatusEl, "Enter a channel handle first.", "error");
+    return;
+  }
+
+  addChannelBtn.disabled = true;
+  setFormStatus(addChannelStatusEl, `Looking up ${rawHandle}…`, null);
+
+  try {
+    const resolved = await resolveHandle(rawHandle);
+    const { sha, json } = await fetchChannelsFile();
+
+    if (json.channels.some((c) => c.channelId === resolved.channelId)) {
+      setFormStatus(addChannelStatusEl, `${resolved.name} is already tracked.`, "error");
+      return;
+    }
+
+    const existingIds = new Set(json.channels.map((c) => c.id));
+    const newChannel = {
+      id: slugify(resolved.handle, existingIds),
+      name: resolved.name,
+      channelId: resolved.channelId,
+      enabled: true,
+    };
+    json.channels.push(newChannel);
+
+    setFormStatus(addChannelStatusEl, `Adding ${resolved.name}…`, null);
+    await writeChannelsFile(json, sha, `chore: add channel (${resolved.name})`);
+
+    channelsConfigCache = json.channels;
+    renderTrackedList(channelsConfigCache, lastLiveIds);
+    addHandleInput.value = "";
+    setFormStatus(
+      addChannelStatusEl,
+      `Added ${resolved.name}. It'll appear on the wall within ~5 minutes of going live.`,
+      "success"
+    );
+  } catch (err) {
+    setFormStatus(addChannelStatusEl, err.message, "error");
+  } finally {
+    addChannelBtn.disabled = false;
+  }
+}
+
+addChannelBtn.addEventListener("click", addChannel);
+addHandleInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") addChannel();
+});
 
 function getHiddenIds() {
   try {
@@ -164,9 +401,17 @@ function renderHealth(health) {
 
 function renderTrackedList(channelsConfig, liveIds) {
   trackedListEl.innerHTML = "";
+  if (channelsConfig.length === 0) {
+    const li = document.createElement("li");
+    li.className = "empty-hint";
+    li.textContent = "No channels tracked yet — add one above.";
+    trackedListEl.appendChild(li);
+    return;
+  }
   for (const channel of channelsConfig) {
     const li = document.createElement("li");
     const label = document.createElement("span");
+    label.className = "channel-name";
     const dot = document.createElement("span");
     dot.className = "status-dot";
     if (!channel.enabled) dot.classList.add("disabled");
@@ -177,8 +422,34 @@ function renderTrackedList(channelsConfig, liveIds) {
         channel.name + (channel.enabled ? "" : " (disabled)")
       )
     );
-    li.appendChild(label);
+
+    const removeBtn = document.createElement("button");
+    removeBtn.className = "remove-btn";
+    removeBtn.type = "button";
+    removeBtn.textContent = "Remove";
+    removeBtn.addEventListener("click", () => removeChannel(channel));
+
+    li.append(label, removeBtn);
     trackedListEl.appendChild(li);
+  }
+}
+
+async function removeChannel(channel) {
+  if (!getGithubToken()) {
+    alert("Add a GitHub token in the Connection section first.");
+    scrollToConnect();
+    return;
+  }
+  if (!confirm(`Remove "${channel.name}" from your tracked channels?`)) return;
+
+  try {
+    const { sha, json } = await fetchChannelsFile();
+    json.channels = json.channels.filter((c) => c.id !== channel.id);
+    await writeChannelsFile(json, sha, `chore: remove channel (${channel.name})`);
+    channelsConfigCache = json.channels;
+    renderTrackedList(channelsConfigCache, lastLiveIds);
+  } catch (err) {
+    alert(`Couldn't remove "${channel.name}": ${err.message}`);
   }
 }
 
@@ -208,6 +479,7 @@ async function render() {
     const hiddenIds = getHiddenIds();
     const liveChannels = status.channels.filter((c) => c.live);
     const liveIds = new Set(liveChannels.map((c) => c.id));
+    lastLiveIds = liveIds;
     const allChannelsById = new Map(channelsConfig.map((c) => [c.id, c]));
 
     lastCheckedEl.textContent = formatTime(status.generatedAt);
@@ -234,5 +506,6 @@ function closeSettings() {
 document.getElementById("close-settings").addEventListener("click", closeSettings);
 settingsBackdrop.addEventListener("click", closeSettings);
 
+renderConnectSection();
 render();
 setInterval(render, POLL_INTERVAL_MS);

@@ -31,15 +31,57 @@
         <button id="close-settings" class="btn-secondary" type="button">Close</button>
       </div>
 
+      <section id="connect-section">
+        <h3>Connection</h3>
+        <div id="connect-summary" class="connect-summary" hidden>
+          <p class="hint">
+            Connected &mdash; GitHub token <code id="connect-token-preview"></code>,
+            YouTube key <span id="connect-key-status"></span>.
+          </p>
+          <button id="disconnect-btn" class="btn-secondary" type="button">Disconnect</button>
+        </div>
+        <div id="connect-form">
+          <p class="hint">
+            Adding/removing channels from this panel writes directly to your
+            GitHub repo, so it needs two credentials. Both are stored only in
+            this browser's <code>localStorage</code> &mdash; never committed,
+            never sent anywhere except github.com / googleapis.com. Don't use
+            this on a shared computer.
+          </p>
+          <label class="field-label" for="github-token-input">
+            GitHub token
+            <span class="hint">Fine-grained PAT, scoped to just this repo, "Contents: Read and write" only. Create one at
+              <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">github.com/settings/personal-access-tokens/new</a>.</span>
+          </label>
+          <input id="github-token-input" type="password" placeholder="github_pat_..." autocomplete="off" />
+
+          <label class="field-label" for="youtube-key-input">
+            YouTube Data API key
+            <span class="hint">Only used to resolve an @handle to a channel &mdash; about 1 quota unit per add. Create one at
+              <a href="https://console.cloud.google.com/apis/credentials" target="_blank" rel="noopener">console.cloud.google.com/apis/credentials</a>,
+              then enable "YouTube Data API v3" for the project.</span>
+          </label>
+          <input id="youtube-key-input" type="password" placeholder="AIza..." autocomplete="off" />
+
+          <button id="save-credentials-btn" class="btn-primary" type="button">Save</button>
+          <p id="connect-status" class="form-status" role="status"></p>
+        </div>
+      </section>
+
       <section>
-        <h3>Checker health</h3>
-        <p class="hint">
-          This site polls each channel's public page on a schedule (every 5
-          minutes, GitHub's fastest supported interval) &mdash; there's no
-          external quota being consumed, so this tracks pacing and failures,
-          not a limit being approached.
-        </p>
-        <dl id="health-detail" class="health-detail"></dl>
+        <h3>Add a channel</h3>
+        <p class="hint">Enter the channel's @handle (from its YouTube URL) and add it to the tracked list.</p>
+        <div class="add-channel-row">
+          <input id="add-handle-input" type="text" placeholder="@channelhandle" autocomplete="off" />
+          <button id="add-channel-btn" class="btn-primary" type="button">Add channel</button>
+        </div>
+        <p id="add-channel-status" class="form-status" role="status"></p>
+      </section>
+
+      <section>
+        <h3>Tracked channels</h3>
+        <p class="hint">Everything currently being checked for live status.</p>
+        <ul id="tracked-list" class="tracked-list"></ul>
       </section>
 
       <section>
@@ -49,12 +91,14 @@
       </section>
 
       <section>
-        <h3>Tracked channels</h3>
+        <h3>Checker health</h3>
         <p class="hint">
-          The full list lives in <code>channels.json</code> in the repo &mdash;
-          add or remove a channel by editing that file. This panel is read-only for now.
+          This site polls each channel's public page on a schedule (every 5
+          minutes, GitHub's fastest supported interval) &mdash; there's no
+          external quota being consumed, so this tracks pacing and failures,
+          not a limit being approached.
         </p>
-        <ul id="tracked-list" class="tracked-list"></ul>
+        <dl id="health-detail" class="health-detail"></dl>
       </section>
     </div>
   </aside>
