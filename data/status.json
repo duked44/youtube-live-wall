@@ -1,25 +1,32 @@
 {
-  "generatedAt": "2026-07-15T01:50:53.561Z",
+  "generatedAt": "2026-07-15T01:57:12.822Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "dTYmK3aAxpY",
+      "title": "Iran War - New U.S. Strikes & Blockade Resumes - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/dTYmK3aAxpY/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "CeUWWZBcenI",
+      "title": "TOP NEWS: Supreme Court Justices Amy Coney Barrett And Elena Kagan Testify Before Congress",
+      "thumbnail": "https://i.ytimg.com/vi/CeUWWZBcenI/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "hqId8YLImYc",
+      "title": "Todd Blanche Senate Confirmation Hearing to be Attorney General",
+      "thumbnail": "https://i.ytimg.com/vi/hqId8YLImYc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -97,29 +104,37 @@
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "fo0w3f9c-D8",
+      "title": "LIVE: ABC News Live - Tuesday, July 14 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/fo0w3f9c-D8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "UK2Ks-5qso4",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/UK2Ks-5qso4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "Eck4Pf4CgGE",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/Eck4Pf4CgGE/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -131,49 +146,64 @@
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "oTPyGdKR2bQ",
+      "title": "Ann Widdecombe killed in 'targeted attack' | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/oTPyGdKR2bQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
       "name": "Al Jazeera English",
       "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "gCNeDWCI0vo",
+      "title": "🔴 Al Jazeera English | Live",
+      "thumbnail": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg"
     },
     {
       "id": "dwnews",
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "LuKwFajn37U",
+      "title": "DW News livestream | Headline news from around the world",
+      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
     },
     {
       "id": "france24-en",
       "name": "FRANCE 24 English",
       "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "HvZt-nh9sGg",
+      "title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream",
+      "thumbnail": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg"
     },
     {
       "id": "bloomberg-tv",
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
       "name": "CNBC",
       "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "9NyxcX3rhQs",
+      "title": "LIVE: CNBC Marathon - Documentaries and deep dives 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg"
     },
     {
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "ThybphPIXjQ",
+      "title": "WATCH LIVE: GOP senators speak after weekly policy lunch as the U.S. resumes Iran strikes",
+      "thumbnail": "https://i.ytimg.com/vi/ThybphPIXjQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -185,7 +215,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "2NMizlhDZDY",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/2NMizlhDZDY/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -209,20 +242,22 @@
       "id": "cna",
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "live": false,
-      "error": "player blocked: Sign in to confirm you’re not a bot"
+      "live": true,
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 87,
+      "runs": 14,
+      "channelChecks": 120,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T01:50:53.561Z",
+      "at": "2026-07-15T01:57:12.822Z",
       "checked": 33,
-      "errors": 13
+      "errors": 0
     }
   }
 }
