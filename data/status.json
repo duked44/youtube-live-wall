@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-07-15T18:36:15.990Z",
+  "generatedAt": "2026-07-15T19:50:08.995Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "3BsAWo-JzvU",
+      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/3BsAWo-JzvU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "QFoDJovuCn0",
-      "title": "LIVE: Trump Holds Public Event As US Renews Strikes On Iran, Todd Blanche Testifies Before Congress",
-      "thumbnail": "https://i.ytimg.com/vi/QFoDJovuCn0/hqdefault.jpg"
+      "videoId": "TfDc5TN8ZlM",
+      "title": "LIVE: President Trump Holds Roundtable Event Amid Renewed Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/TfDc5TN8ZlM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,16 +29,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Una6OLLA3tk",
+      "title": "WATCH LIVE: President Trump participates in Pennsylvania Defense and Innovation Summit roundtable",
+      "thumbnail": "https://i.ytimg.com/vi/Una6OLLA3tk/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "d7TOKybPcfk",
-      "title": "Watch Live: Todd Blanche Nominated to be Attorney General of the United States",
-      "thumbnail": "https://i.ytimg.com/vi/d7TOKybPcfk/hqdefault.jpg"
+      "videoId": "bqJvV9nhObw",
+      "title": "Watch Live: Trump Addresses Pennsylvania Defense and Innovation Summit",
+      "thumbnail": "https://i.ytimg.com/vi/bqJvV9nhObw/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -108,18 +114,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "7dmIozs0xrs",
-      "title": "LIVE: ABC News Live - Wednesday, July 15 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/7dmIozs0xrs/hqdefault.jpg"
+      "videoId": "WWaLdLNhgO8",
+      "title": "President Trump attends defense industrial summit at U.S. Army War College: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/WWaLdLNhgO8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "oaCDCMRGQpI",
-      "title": "LIVE: NBC News NOW - July 15",
-      "thumbnail": "https://i.ytimg.com/vi/oaCDCMRGQpI/hqdefault.jpg"
+      "videoId": "nRtAPSU2FV8",
+      "title": "LIVE: Trump participates in Pennsylvania Defense and Innovation Summit | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/nRtAPSU2FV8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "Xh2gE1YkRrc",
-      "title": "LIVE: Senate Judiciary Dems hold presser with Epstein survivors following Todd Blanche hearing",
-      "thumbnail": "https://i.ytimg.com/vi/Xh2gE1YkRrc/hqdefault.jpg"
+      "videoId": "V1g5JPHeA3Y",
+      "title": "LIVE: President Trump participates in a Pennsylvania Defense and Innovation Summit",
+      "thumbnail": "https://i.ytimg.com/vi/V1g5JPHeA3Y/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "fcPYSQ4wYmw",
-      "title": "Argentina fans watch World Cup semi-final clash against England",
-      "thumbnail": "https://i.ytimg.com/vi/fcPYSQ4wYmw/hqdefault.jpg"
+      "videoId": "v2VCFSLwR2g",
+      "title": "Donald Trump delivers speech in Pennsylvania",
+      "thumbnail": "https://i.ytimg.com/vi/v2VCFSLwR2g/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "aKPgSgeO-Fg",
-      "title": "WATCH LIVE: House Oversight Committee holds hearing into emerging fraud threats, role of digital IDs",
-      "thumbnail": "https://i.ytimg.com/vi/aKPgSgeO-Fg/hqdefault.jpg"
+      "videoId": "twwX928PF00",
+      "title": "WATCH LIVE: Trump touts battlefield technology investments at Army War College in Pennsylvania",
+      "thumbnail": "https://i.ytimg.com/vi/twwX928PF00/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -245,10 +251,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "YQ8e7C4eH1A",
-      "title": "Champagne speaks to media as provincial, territorial finance ministers meet in PEI | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/YQ8e7C4eH1A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -263,11 +266,11 @@
   "health": {
     "last24h": {
       "runs": 21,
-      "channelChecks": 441,
+      "channelChecks": 471,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T18:36:15.990Z",
+      "at": "2026-07-15T19:50:08.995Z",
       "checked": 33,
       "errors": 0
     }
