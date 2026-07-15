@@ -2,6 +2,7 @@ const STATUS_URL = "data/status.json";
 const CHANNELS_URL = "channels.json";
 const POLL_INTERVAL_MS = 60_000;
 const HIDDEN_KEY = "liveWall.hiddenChannelIds";
+const ORDER_KEY = "liveWall.cardOrder";
 const GITHUB_TOKEN_KEY = "liveWall.githubToken";
 const YOUTUBE_API_KEY_KEY = "liveWall.youtubeApiKey";
 const BASE_TITLE = "Airwave · Live Monitor Wall";
@@ -197,6 +198,43 @@ saveCredentialsBtn.addEventListener("click", () => {
   renderConnectSection();
 });
 
+// Credentials also save without the Save click: on blur/Enter of each field,
+// and any action that needs them adopts whatever is typed but unsaved —
+// pasting a token and going straight to "Sweep now" used to silently lose it.
+function adoptPendingCredentials() {
+  const token = githubTokenInput.value.trim();
+  const key = youtubeKeyInput.value.trim();
+  if (!token && !key) return;
+  setCredentials(token, key);
+  githubTokenInput.value = "";
+  youtubeKeyInput.value = "";
+  setFormStatus(connectStatusEl, "Saved.", "success");
+  renderConnectSection();
+}
+
+githubTokenInput.addEventListener("change", () => {
+  const v = githubTokenInput.value.trim();
+  if (!v) return;
+  localStorage.setItem(GITHUB_TOKEN_KEY, v);
+  setFormStatus(connectStatusEl, "GitHub token saved ✓", "success");
+});
+
+youtubeKeyInput.addEventListener("change", () => {
+  const v = youtubeKeyInput.value.trim();
+  if (!v) return;
+  localStorage.setItem(YOUTUBE_API_KEY_KEY, v);
+  setFormStatus(connectStatusEl, "YouTube key saved ✓", "success");
+});
+
+for (const input of [githubTokenInput, youtubeKeyInput]) {
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      input.blur(); // fires the change handler above
+      adoptPendingCredentials();
+    }
+  });
+}
+
 disconnectBtn.addEventListener("click", () => {
   clearCredentials();
   setFormStatus(connectStatusEl, "", null);
@@ -204,6 +242,7 @@ disconnectBtn.addEventListener("click", () => {
 });
 
 async function addChannel() {
+  adoptPendingCredentials();
   const rawHandle = addHandleInput.value.trim();
   if (!getGithubToken() || !getYoutubeApiKey()) {
     setFormStatus(addChannelStatusEl, "Add both credentials in the Connection section first.", "error");
@@ -336,6 +375,23 @@ function beginUnmuteCampaign(card) {
   tick();
 }
 
+function clearAudio() {
+  audioFocusId = null;
+  unmuteCampaign++;
+  for (const card of grid.querySelectorAll(".card")) {
+    card.classList.remove("audio");
+    sendPlayerCommand(card.querySelector("iframe"), "mute");
+    refreshCardButtons(card);
+  }
+}
+
+// The Listen button toggles: clicking the card that already has audio mutes
+// everything instead of being a no-op.
+function toggleAudio(id) {
+  if (audioFocusId === id) clearAudio();
+  else setAudio(id);
+}
+
 function setAudio(id) {
   audioFocusId = id;
   for (const card of grid.querySelectorAll(".card")) {
@@ -412,6 +468,119 @@ document.addEventListener("keydown", (e) => {
   moveAudio(dir);
 });
 
+/* ---------- Drag-to-rearrange ----------
+   Cards are repositioned with CSS `order`, never by moving DOM nodes —
+   reparenting an <iframe> reloads it, which would restart playing feeds. */
+
+function getCardOrder() {
+  try {
+    const raw = localStorage.getItem(ORDER_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function setCardOrder(ids) {
+  localStorage.setItem(ORDER_KEY, JSON.stringify(ids));
+}
+
+function applyCardOrder() {
+  const saved = getCardOrder();
+  const pos = new Map(saved.map((id, i) => [id, i]));
+  let next = saved.length;
+  for (const card of grid.querySelectorAll(".card")) {
+    const id = card.dataset.channelId;
+    card.style.order = pos.has(id) ? pos.get(id) : next++;
+  }
+}
+
+function orderedVisibleIds() {
+  return [...grid.querySelectorAll(".card:not(.leaving)")]
+    .sort((a, b) => (Number(a.style.order) || 0) - (Number(b.style.order) || 0))
+    .map((c) => c.dataset.channelId);
+}
+
+let drag = null;
+
+function startDrag(e, card, handle) {
+  if (drag || e.button > 0) return;
+  e.preventDefault();
+  const rect = card.getBoundingClientRect();
+  drag = {
+    card,
+    handle,
+    pointerId: e.pointerId,
+    offX: e.clientX - rect.left,
+    offY: e.clientY - rect.top,
+    lastUnder: null,
+  };
+  card.classList.add("dragging");
+  try {
+    handle.setPointerCapture(e.pointerId);
+  } catch {
+    // capture can fail for already-released pointers; drag still works while
+    // the pointer stays over the handle
+  }
+  handle.addEventListener("pointermove", onDragMove);
+  handle.addEventListener("pointerup", endDrag);
+  handle.addEventListener("pointercancel", endDrag);
+}
+
+function onDragMove(e) {
+  if (!drag || e.pointerId !== drag.pointerId) return;
+  const { card } = drag;
+  // Measure the card's untransformed slot so the float tracks the pointer
+  // even after a live reorder moves the slot.
+  const prev = card.style.transform;
+  card.style.transform = "none";
+  const base = card.getBoundingClientRect();
+  card.style.transform = prev;
+  const tx = e.clientX - drag.offX - base.left;
+  const ty = e.clientY - drag.offY - base.top;
+  card.style.transform = `translate(${tx}px, ${ty}px) scale(1.03)`;
+
+  const under = document
+    .elementsFromPoint(e.clientX, e.clientY)
+    .find((el) => el.classList && el.classList.contains("card") && el !== card && !el.classList.contains("leaving"));
+  if (under && under !== drag.lastUnder) {
+    drag.lastUnder = under;
+    reorderAround(card, under);
+  } else if (!under) {
+    drag.lastUnder = null;
+  }
+}
+
+function reorderAround(card, under) {
+  const ids = orderedVisibleIds();
+  const from = ids.indexOf(card.dataset.channelId);
+  const to = ids.indexOf(under.dataset.channelId);
+  if (from === -1 || to === -1 || from === to) return;
+  ids.splice(from, 1);
+  ids.splice(to, 0, card.dataset.channelId);
+  ids.forEach((id, i) => {
+    const el = grid.querySelector(`.card[data-channel-id="${CSS.escape(id)}"]`);
+    if (el) el.style.order = i;
+  });
+}
+
+function endDrag(e) {
+  if (!drag || e.pointerId !== drag.pointerId) return;
+  const { card, handle } = drag;
+  handle.removeEventListener("pointermove", onDragMove);
+  handle.removeEventListener("pointerup", endDrag);
+  handle.removeEventListener("pointercancel", endDrag);
+  card.classList.remove("dragging");
+  card.style.transform = "";
+  // Persist: current visible order first, then remembered channels that
+  // aren't on the wall right now keep their old relative slots after it.
+  const visibleOrder = orderedVisibleIds();
+  const merged = visibleOrder.concat(getCardOrder().filter((id) => !visibleOrder.includes(id)));
+  setCardOrder(merged);
+  drag = null;
+}
+
 /* ---------- Cards ---------- */
 
 const ICONS = {
@@ -420,6 +589,7 @@ const ICONS = {
   speaker:
     '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a3.5 3.5 0 0 0-2-3.16v6.32a3.5 3.5 0 0 0 2-3.16zm-2-8.14v2.06A6.5 6.5 0 0 1 19 12a6.5 6.5 0 0 1-4.5 6.08v2.06A8.5 8.5 0 0 0 21 12a8.5 8.5 0 0 0-6.5-8.14z"/></svg>',
   hide: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 6c4.7 0 8.6 2.9 10 7-.5 1.4-1.3 2.7-2.3 3.7l-1.5-1.5c.7-.7 1.3-1.4 1.7-2.2A9 9 0 0 0 12 8c-.7 0-1.4.1-2.1.2L8.3 6.6C9.5 6.2 10.7 6 12 6zM3.3 4.3l16.4 16.4-1.4 1.4-2.7-2.7c-1.1.4-2.3.6-3.6.6-4.7 0-8.6-2.9-10-7 .6-1.7 1.6-3.2 2.9-4.3L1.9 5.7l1.4-1.4zM12 18c.6 0 1.2-.1 1.8-.2l-1.6-1.6a3.5 3.5 0 0 1-3.4-3.4L6.3 10.3c-1 .8-1.8 1.7-2.3 2.7 1.4 3 4.4 5 8 5zm3.5-6.2-3.3-3.3h-.2a3.5 3.5 0 0 1 3.5 3.3z"/></svg>',
+  drag: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 7h16v2H4zm0 4h16v2H4zm0 4h16v2H4z"/></svg>',
 };
 
 function startPlaying(card) {
@@ -451,7 +621,7 @@ function refreshCardButtons(card) {
     listenBtn.classList.toggle("active", hasAudio);
     listenBtn.querySelector(".btn-text").textContent = hasAudio ? "Audio on" : "Listen";
     listenBtn.title = hasAudio
-      ? "This feed has the audio"
+      ? "This feed has the audio — click again to mute"
       : "Play this feed's audio (mutes the others)";
   }
 }
@@ -476,6 +646,15 @@ function buildCard(channel) {
   poster.appendChild(posterBadge);
   poster.addEventListener("click", () => startPlaying(card));
   stage.appendChild(poster);
+
+  const dragHandle = document.createElement("button");
+  dragHandle.className = "card-drag";
+  dragHandle.type = "button";
+  dragHandle.title = "Drag to rearrange";
+  dragHandle.setAttribute("aria-label", "Drag to rearrange");
+  dragHandle.innerHTML = ICONS.drag;
+  dragHandle.addEventListener("pointerdown", (e) => startDrag(e, card, dragHandle));
+  stage.appendChild(dragHandle);
 
   const body = document.createElement("div");
   body.className = "card-body";
@@ -508,7 +687,7 @@ function buildCard(channel) {
   listenBtn.className = "card-action card-listen";
   listenBtn.type = "button";
   listenBtn.innerHTML = `${ICONS.speaker}<span class="btn-text">Listen</span>`;
-  listenBtn.addEventListener("click", () => setAudio(channel.id));
+  listenBtn.addEventListener("click", () => toggleAudio(channel.id));
 
   const stopBtn = document.createElement("button");
   stopBtn.className = "card-action card-stop";
@@ -583,6 +762,7 @@ function renderCards(liveChannels, hiddenIds) {
 
   emptyState.hidden = visible.length > 0;
   updateOnAir(visible.length);
+  applyCardOrder();
 }
 
 function renderHiddenList(allChannelsById, hiddenIds) {
@@ -698,6 +878,7 @@ function renderTrackedList(channelsConfig, liveIds) {
 }
 
 async function removeChannel(channel) {
+  adoptPendingCredentials();
   if (!getGithubToken()) {
     alert("Add a GitHub token in the Connection section first.");
     scrollToConnect();
@@ -722,6 +903,7 @@ async function removeChannel(channel) {
 // already has) push-triggers the checker workflow immediately — the schedule
 // is best-effort, but push triggers are not.
 async function requestSweep() {
+  adoptPendingCredentials();
   if (!getGithubToken()) {
     openSettings();
     scrollToConnect();

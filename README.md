@@ -29,9 +29,12 @@ API key just for that one lookup (see "Adding / removing channels" below).
   start streaming one. Only feeds you start consume bandwidth/CPU, and a
   **Stop** button drops a feed back to its preview.
 - One feed at a time owns the audio, marked by a white ring. Click **Listen**
-  on any card to move the audio there, or use the **arrow keys** to shift the
-  ring between cards YouTube-TV-style (a not-yet-playing card starts
-  automatically when the ring lands on it).
+  on any card to move the audio there (click it again to mute everything), or
+  use the **arrow keys** to shift the ring between cards YouTube-TV-style (a
+  not-yet-playing card starts automatically when the ring lands on it).
+- Hover a card and grab the **≡ handle** (top-left of the video) to drag the
+  tile to a different spot on the wall. The arrangement is remembered in your
+  browser.
 - Each live card also has a **Hide** button — click it to dismiss that stream
   from your view entirely (stored in your browser's localStorage, not synced
   anywhere). Restore hidden channels from the **Settings** panel in the top
