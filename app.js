@@ -4,8 +4,10 @@ const POLL_INTERVAL_MS = 60_000;
 const HIDDEN_KEY = "liveWall.hiddenChannelIds";
 const GITHUB_TOKEN_KEY = "liveWall.githubToken";
 const YOUTUBE_API_KEY_KEY = "liveWall.youtubeApiKey";
+const BASE_TITLE = "Airwave · Live Monitor Wall";
 
 let lastLiveIds = new Set();
+let lastStatus = null;
 
 function utf8ToBase64(str) {
   return btoa(unescape(encodeURIComponent(str)));
@@ -132,6 +134,8 @@ const hiddenListEl = document.getElementById("hidden-list");
 const trackedListEl = document.getElementById("tracked-list");
 const settingsPanel = document.getElementById("settings-panel");
 const settingsBackdrop = document.getElementById("settings-backdrop");
+const onairLamp = document.getElementById("onair-lamp");
+const onairText = document.getElementById("onair-text");
 const connectSummaryEl = document.getElementById("connect-summary");
 const connectFormEl = document.getElementById("connect-form");
 const connectTokenPreviewEl = document.getElementById("connect-token-preview");
@@ -267,14 +271,14 @@ function hideChannel(id) {
   const hidden = getHiddenIds();
   hidden.add(id);
   setHiddenIds(hidden);
-  render();
+  renderFromCache();
 }
 
 function restoreChannel(id) {
   const hidden = getHiddenIds();
   hidden.delete(id);
   setHiddenIds(hidden);
-  render();
+  renderFromCache();
 }
 
 function embedUrl(videoId) {
@@ -284,54 +288,118 @@ function embedUrl(videoId) {
 function formatTime(iso) {
   if (!iso) return "never checked yet";
   const d = new Date(iso);
-  return `checked ${d.toLocaleTimeString()}`;
+  return `last sweep ${d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}`;
+}
+
+function updateOnAir(liveCount) {
+  if (liveCount > 0) {
+    onairLamp.classList.add("on");
+    onairText.textContent = liveCount === 1 ? "ON AIR" : `ON AIR · ${liveCount}`;
+    document.title = `● ${liveCount} live — ${BASE_TITLE}`;
+  } else {
+    onairLamp.classList.remove("on");
+    onairText.textContent = "STANDBY";
+    document.title = BASE_TITLE;
+  }
+}
+
+const HIDE_ICON_SVG =
+  '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 6c4.7 0 8.6 2.9 10 7-.5 1.4-1.3 2.7-2.3 3.7l-1.5-1.5c.7-.7 1.3-1.4 1.7-2.2A9 9 0 0 0 12 8c-.7 0-1.4.1-2.1.2L8.3 6.6C9.5 6.2 10.7 6 12 6zM3.3 4.3l16.4 16.4-1.4 1.4-2.7-2.7c-1.1.4-2.3.6-3.6.6-4.7 0-8.6-2.9-10-7 .6-1.7 1.6-3.2 2.9-4.3L1.9 5.7l1.4-1.4zM12 18c.6 0 1.2-.1 1.8-.2l-1.6-1.6a3.5 3.5 0 0 1-3.4-3.4L6.3 10.3c-1 .8-1.8 1.7-2.3 2.7 1.4 3 4.4 5 8 5zm3.5-6.2-3.3-3.3h-.2a3.5 3.5 0 0 1 3.5 3.3z"/></svg>';
+
+function buildCard(channel) {
+  const card = document.createElement("article");
+  card.className = "card";
+  card.dataset.channelId = channel.id;
+  card.dataset.videoId = channel.videoId || "";
+
+  const video = document.createElement("div");
+  video.className = "card-video";
+  const iframe = document.createElement("iframe");
+  iframe.src = embedUrl(channel.videoId);
+  iframe.title = channel.name;
+  iframe.allow =
+    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+  iframe.allowFullscreen = true;
+  video.appendChild(iframe);
+
+  const body = document.createElement("div");
+  body.className = "card-body";
+
+  const info = document.createElement("div");
+  info.className = "card-info";
+
+  const channelLine = document.createElement("div");
+  channelLine.className = "card-channel";
+  const chip = document.createElement("span");
+  chip.className = "live-chip";
+  const chipDot = document.createElement("span");
+  chipDot.className = "live-chip-dot";
+  chip.append(chipDot, document.createTextNode("LIVE"));
+  const nameEl = document.createElement("span");
+  nameEl.className = "channel-name";
+  nameEl.textContent = channel.name;
+  channelLine.append(chip, nameEl);
+
+  const titleLine = document.createElement("div");
+  titleLine.className = "card-title";
+  titleLine.textContent = channel.title || "";
+  titleLine.title = channel.title || "";
+  info.append(channelLine, titleLine);
+
+  const hideBtn = document.createElement("button");
+  hideBtn.className = "card-hide";
+  hideBtn.type = "button";
+  hideBtn.innerHTML = `${HIDE_ICON_SVG}Hide`;
+  hideBtn.addEventListener("click", () => hideChannel(channel.id));
+
+  body.append(info, hideBtn);
+  card.append(video, body);
+  return card;
+}
+
+function updateCard(card, channel) {
+  // Only touch the iframe if the stream itself changed, so a playing
+  // embed is never restarted by the 60s poll.
+  if (card.dataset.videoId !== (channel.videoId || "")) {
+    card.dataset.videoId = channel.videoId || "";
+    const iframe = card.querySelector("iframe");
+    if (iframe) iframe.src = embedUrl(channel.videoId);
+  }
+  const nameEl = card.querySelector(".channel-name");
+  if (nameEl && nameEl.textContent !== channel.name) nameEl.textContent = channel.name;
+  const titleLine = card.querySelector(".card-title");
+  const title = channel.title || "";
+  if (titleLine && titleLine.textContent !== title) {
+    titleLine.textContent = title;
+    titleLine.title = title;
+  }
+}
+
+function retireCard(card) {
+  if (card.classList.contains("leaving")) return;
+  card.classList.add("leaving");
+  card.addEventListener("animationend", () => card.remove(), { once: true });
+  setTimeout(() => card.remove(), 600); // fallback if animations are disabled
 }
 
 function renderCards(liveChannels, hiddenIds) {
-  grid.innerHTML = "";
   const visible = liveChannels.filter((c) => !hiddenIds.has(c.id));
+  const wantedIds = new Set(visible.map((c) => c.id));
 
-  emptyState.hidden = visible.length > 0;
-  if (visible.length === 0) return;
+  for (const card of [...grid.querySelectorAll(".card")]) {
+    if (!wantedIds.has(card.dataset.channelId)) retireCard(card);
+  }
 
   for (const channel of visible) {
-    const card = document.createElement("article");
-    card.className = "card";
-
-    const video = document.createElement("div");
-    video.className = "card-video";
-    const iframe = document.createElement("iframe");
-    iframe.src = embedUrl(channel.videoId);
-    iframe.title = channel.name;
-    iframe.allow =
-      "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-    iframe.allowFullscreen = true;
-    video.appendChild(iframe);
-
-    const body = document.createElement("div");
-    body.className = "card-body";
-
-    const info = document.createElement("div");
-    info.className = "card-info";
-    const channelLine = document.createElement("div");
-    channelLine.className = "card-channel";
-    channelLine.innerHTML = `<span class="live-badge">LIVE</span> ${escapeHtml(channel.name)}`;
-    const titleLine = document.createElement("div");
-    titleLine.className = "card-title";
-    titleLine.textContent = channel.title || "";
-    titleLine.title = channel.title || "";
-    info.append(channelLine, titleLine);
-
-    const hideBtn = document.createElement("button");
-    hideBtn.className = "card-hide";
-    hideBtn.type = "button";
-    hideBtn.textContent = "Hide";
-    hideBtn.addEventListener("click", () => hideChannel(channel.id));
-
-    body.append(info, hideBtn);
-    card.append(video, body);
-    grid.appendChild(card);
+    const existing = grid.querySelector(
+      `.card[data-channel-id="${CSS.escape(channel.id)}"]:not(.leaving)`
+    );
+    if (existing) updateCard(existing, channel);
+    else grid.appendChild(buildCard(channel));
   }
+
+  emptyState.hidden = visible.length > 0;
+  updateOnAir(visible.length);
 }
 
 function renderHiddenList(allChannelsById, hiddenIds) {
@@ -368,34 +436,46 @@ function renderHealth(health) {
   const lastRun = health?.lastRun ?? null;
 
   let statusClass = "unknown";
-  let summaryText = "no checks yet";
+  let summaryText = "no sweeps yet";
   if (lastRun) {
     const mins = minutesAgo(lastRun.at);
     const allFailed = lastRun.checked > 0 && lastRun.errors === lastRun.checked;
     statusClass = allFailed ? "bad" : lastRun.errors > 0 ? "warn" : "ok";
-    summaryText = `${last24h.runs} checks in last 24h · last run ${mins}m ago`;
+    summaryText = `${last24h.runs} sweeps / 24h · last ${mins}m ago`;
   }
 
-  healthSummaryEl.innerHTML = `<span class="status-dot ${statusClass}"></span>${escapeHtml(
-    summaryText
-  )}`;
+  healthSummaryEl.innerHTML = "";
+  const dot = document.createElement("span");
+  dot.className = `status-dot ${statusClass}`;
+  healthSummaryEl.append(dot, document.createTextNode(summaryText));
 
   healthDetailEl.innerHTML = "";
-  const rows = [
-    ["Checks in last 24h", String(last24h.runs)],
-    ["Channel checks (24h)", String(last24h.channelChecks)],
-    ["Errors (24h)", String(last24h.errors)],
+  const tiles = [
+    ["Sweeps · 24h", String(last24h.runs)],
+    ["Channel checks · 24h", String(last24h.channelChecks)],
+    ["Errors · 24h", String(last24h.errors)],
     [
       "Last run",
-      lastRun ? `${minutesAgo(lastRun.at)}m ago (${lastRun.errors}/${lastRun.checked} errors)` : "never",
+      lastRun ? `${minutesAgo(lastRun.at)}m ago` : "never",
+      lastRun ? `${lastRun.errors}/${lastRun.checked} errors` : "",
     ],
   ];
-  for (const [label, value] of rows) {
-    const dt = document.createElement("dt");
-    dt.textContent = label;
-    const dd = document.createElement("dd");
-    dd.textContent = value;
-    healthDetailEl.append(dt, dd);
+  for (const [label, value, sub] of tiles) {
+    const tile = document.createElement("div");
+    tile.className = "stat-tile";
+    const labelEl = document.createElement("span");
+    labelEl.className = "stat-label";
+    labelEl.textContent = label;
+    const valueEl = document.createElement("span");
+    valueEl.className = "stat-value";
+    valueEl.textContent = value;
+    if (sub) {
+      const subEl = document.createElement("small");
+      subEl.textContent = ` ${sub}`;
+      valueEl.appendChild(subEl);
+    }
+    tile.append(labelEl, valueEl);
+    healthDetailEl.appendChild(tile);
   }
 }
 
@@ -453,12 +533,6 @@ async function removeChannel(channel) {
   }
 }
 
-function escapeHtml(str) {
-  const div = document.createElement("div");
-  div.textContent = str;
-  return div.innerHTML;
-}
-
 let channelsConfigCache = null;
 
 async function loadChannelsConfig() {
@@ -469,42 +543,53 @@ async function loadChannelsConfig() {
   return channelsConfigCache;
 }
 
+// Re-renders everything derived from the last fetched status (used by
+// hide/restore so they respond instantly without a network round-trip).
+function renderFromCache() {
+  if (!lastStatus || !channelsConfigCache) return;
+  const hiddenIds = getHiddenIds();
+  const liveChannels = lastStatus.channels.filter((c) => c.live);
+  const liveIds = new Set(liveChannels.map((c) => c.id));
+  lastLiveIds = liveIds;
+  const allChannelsById = new Map(channelsConfigCache.map((c) => [c.id, c]));
+
+  lastCheckedEl.textContent = formatTime(lastStatus.generatedAt);
+  renderHealth(lastStatus.health);
+  renderCards(liveChannels, hiddenIds);
+  renderHiddenList(allChannelsById, hiddenIds);
+  renderTrackedList(channelsConfigCache, liveIds);
+}
+
 async function render() {
   try {
-    const [statusRes, channelsConfig] = await Promise.all([
+    const [statusRes] = await Promise.all([
       fetch(`${STATUS_URL}?t=${Date.now()}`),
       loadChannelsConfig(),
     ]);
-    const status = await statusRes.json();
-    const hiddenIds = getHiddenIds();
-    const liveChannels = status.channels.filter((c) => c.live);
-    const liveIds = new Set(liveChannels.map((c) => c.id));
-    lastLiveIds = liveIds;
-    const allChannelsById = new Map(channelsConfig.map((c) => [c.id, c]));
-
-    lastCheckedEl.textContent = formatTime(status.generatedAt);
-    renderHealth(status.health);
-    renderCards(liveChannels, hiddenIds);
-    renderHiddenList(allChannelsById, hiddenIds);
-    renderTrackedList(channelsConfig, liveIds);
+    lastStatus = await statusRes.json();
+    renderFromCache();
   } catch (err) {
     console.error("Failed to load live status", err);
     lastCheckedEl.textContent = "status unavailable";
   }
 }
 
-document.getElementById("open-settings").addEventListener("click", () => {
-  settingsPanel.hidden = false;
-  settingsBackdrop.hidden = false;
-});
-
-function closeSettings() {
-  settingsPanel.hidden = true;
-  settingsBackdrop.hidden = true;
+function openSettings() {
+  settingsPanel.classList.add("open");
+  settingsBackdrop.classList.add("open");
 }
 
+function closeSettings() {
+  settingsPanel.classList.remove("open");
+  settingsBackdrop.classList.remove("open");
+}
+
+document.getElementById("open-settings").addEventListener("click", openSettings);
 document.getElementById("close-settings").addEventListener("click", closeSettings);
 settingsBackdrop.addEventListener("click", closeSettings);
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") closeSettings();
+});
 
 renderConnectSection();
 render();

@@ -3,42 +3,70 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Live Wall</title>
+  <meta name="description" content="Airwave — a live monitor wall. Every tracked YouTube channel that's on the air right now, nothing else." />
+  <meta name="theme-color" content="#07080c" />
+  <title>Airwave · Live Monitor Wall</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='6' fill='%23ff3355'/%3E%3Ccircle cx='16' cy='16' r='11' fill='none' stroke='%23ff3355' stroke-opacity='.45' stroke-width='2'/%3E%3Ccircle cx='16' cy='16' r='15' fill='none' stroke='%23ff3355' stroke-opacity='.18' stroke-width='2'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="site-header">
-    <h1>Live Wall</h1>
-    <p class="subtitle">Shows every tracked channel that's currently live. Nothing live, nothing shown.</p>
+    <div class="brand">
+      <svg class="brand-mark" viewBox="0 0 32 32" aria-hidden="true">
+        <circle cx="16" cy="20" r="4" fill="currentColor" />
+        <path d="M8.9 12.9a10 10 0 0 1 14.2 0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" opacity=".55" />
+        <path d="M4.7 8.7a16 16 0 0 1 22.6 0" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" opacity=".25" />
+      </svg>
+      <span class="brand-name">AIRWAVE</span>
+      <span class="brand-tag">live monitor wall</span>
+    </div>
+
     <div class="header-actions">
       <span id="health-summary" class="health-summary"></span>
       <span id="last-checked" class="last-checked"></span>
-      <button id="open-settings" class="btn-secondary" type="button">Settings</button>
+      <span id="onair-lamp" class="onair-lamp" role="status">
+        <span class="lamp-dot"></span>
+        <span id="onair-text">STANDBY</span>
+      </span>
+      <button id="open-settings" class="btn btn-ghost" type="button">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 15.5A3.5 3.5 0 1 1 12 8.5a3.5 3.5 0 0 1 0 7zm7.4-2.6c.04-.3.06-.6.06-.9s-.02-.6-.07-.9l2.03-1.58a.5.5 0 0 0 .12-.64l-1.92-3.32a.5.5 0 0 0-.61-.22l-2.39.96a7.03 7.03 0 0 0-1.56-.9l-.36-2.54a.5.5 0 0 0-.5-.36h-3.84a.5.5 0 0 0-.5.42l-.36 2.54c-.56.23-1.09.54-1.56.9l-2.39-.96a.5.5 0 0 0-.61.22L2.02 8.88a.5.5 0 0 0 .12.64L4.17 11.1c-.05.3-.07.62-.07.9s.02.6.07.9l-2.03 1.58a.5.5 0 0 0-.12.64l1.92 3.32c.14.24.42.34.68.24l2.39-.96c.47.36 1 .67 1.56.9l.36 2.54c.05.24.25.42.5.42h3.84a.5.5 0 0 0 .5-.42l.36-2.54c.56-.23 1.09-.54 1.56-.9l2.39.96c.26.1.54 0 .68-.24l1.92-3.32a.5.5 0 0 0-.12-.64l-2.03-1.58z"/></svg>
+        Settings
+      </button>
     </div>
   </header>
 
   <main>
     <div id="empty-state" class="empty-state" hidden>
-      <p>No tracked channels are live right now.</p>
+      <div class="empty-card">
+        <div class="color-bars" aria-hidden="true"></div>
+        <p class="offair-sign">OFF AIR</p>
+        <p class="empty-copy">No tracked channels are on the air right now. The wall lights up automatically the moment one goes live.</p>
+        <p class="empty-meta">sweeping every 5 minutes &middot; via GitHub Actions</p>
+      </div>
     </div>
     <div id="grid" class="grid"></div>
   </main>
 
-  <aside id="settings-panel" class="settings-panel" hidden>
+  <aside id="settings-panel" class="settings-panel" aria-label="Settings">
     <div class="settings-panel-inner">
       <div class="settings-panel-header">
         <h2>Settings</h2>
-        <button id="close-settings" class="btn-secondary" type="button">Close</button>
+        <button id="close-settings" class="btn btn-ghost btn-icon" type="button" aria-label="Close settings">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.3 5.7a1 1 0 0 0-1.4 0L12 10.6 7.1 5.7a1 1 0 0 0-1.4 1.4l4.9 4.9-4.9 4.9a1 1 0 1 0 1.4 1.4l4.9-4.9 4.9 4.9a1 1 0 0 0 1.4-1.4L13.4 12l4.9-4.9a1 1 0 0 0 0-1.4z"/></svg>
+        </button>
       </div>
 
-      <section id="connect-section">
+      <section id="connect-section" class="settings-section">
         <h3>Connection</h3>
         <div id="connect-summary" class="connect-summary" hidden>
           <p class="hint">
             Connected &mdash; GitHub token <code id="connect-token-preview"></code>,
             YouTube key <span id="connect-key-status"></span>.
           </p>
-          <button id="disconnect-btn" class="btn-secondary" type="button">Disconnect</button>
+          <button id="disconnect-btn" class="btn btn-ghost" type="button">Disconnect</button>
         </div>
         <div id="connect-form">
           <p class="hint">
@@ -63,34 +91,34 @@
           </label>
           <input id="youtube-key-input" type="password" placeholder="AIza..." autocomplete="off" />
 
-          <button id="save-credentials-btn" class="btn-primary" type="button">Save</button>
+          <button id="save-credentials-btn" class="btn btn-primary" type="button">Save</button>
           <p id="connect-status" class="form-status" role="status"></p>
         </div>
       </section>
 
-      <section>
+      <section class="settings-section">
         <h3>Add a channel</h3>
         <p class="hint">Enter the channel's @handle (from its YouTube URL) and add it to the tracked list.</p>
         <div class="add-channel-row">
           <input id="add-handle-input" type="text" placeholder="@channelhandle" autocomplete="off" />
-          <button id="add-channel-btn" class="btn-primary" type="button">Add channel</button>
+          <button id="add-channel-btn" class="btn btn-primary" type="button">Add</button>
         </div>
         <p id="add-channel-status" class="form-status" role="status"></p>
       </section>
 
-      <section>
+      <section class="settings-section">
         <h3>Tracked channels</h3>
         <p class="hint">Everything currently being checked for live status.</p>
         <ul id="tracked-list" class="tracked-list"></ul>
       </section>
 
-      <section>
+      <section class="settings-section">
         <h3>Hidden channels</h3>
         <p class="hint">Channels you dismissed with the "Hide" button while they were live. They'll stay hidden until you restore them here.</p>
         <ul id="hidden-list" class="hidden-list"></ul>
       </section>
 
-      <section>
+      <section class="settings-section">
         <h3>Checker health</h3>
         <p class="hint">
           This site polls each channel's public page on a schedule (every 5
@@ -98,11 +126,11 @@
           external quota being consumed, so this tracks pacing and failures,
           not a limit being approached.
         </p>
-        <dl id="health-detail" class="health-detail"></dl>
+        <div id="health-detail" class="health-detail"></div>
       </section>
     </div>
   </aside>
-  <div id="settings-backdrop" class="settings-backdrop" hidden></div>
+  <div id="settings-backdrop" class="settings-backdrop"></div>
 
   <script src="app.js"></script>
 </body>

@@ -1,4 +1,4 @@
-# Live Wall
+# Airwave — live monitor wall
 
 A tiny GitHub-hosted site that shows only the channels (from a list you control)
 that are currently live streaming. No ads baked in beyond whatever YouTube's
