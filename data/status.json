@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T22:43:21.223Z",
+  "generatedAt": "2026-07-15T23:43:41.723Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -53,10 +53,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "E_w8fVY_C4U",
-      "title": "Lindsey Graham Drama, Time Zones, & Biden's Book | Friendly Fire",
-      "thumbnail": "https://i.ytimg.com/vi/E_w8fVY_C4U/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -92,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "WYCudQwlWxw",
-      "title": "Argentina vs England: LIVE watch parties of 2026 World Cup semifinal",
-      "thumbnail": "https://i.ytimg.com/vi/WYCudQwlWxw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -129,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "q5qJELWgM38",
+      "videoId": "HvtirwPi8Rs",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/q5qJELWgM38/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/HvtirwPi8Rs/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "hFBpyXX61ho",
-      "title": "England out of World Cup after semi-final defeat | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/hFBpyXX61ho/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "G6fvvJ_EiWA",
-      "title": "PBS News Hour live episode, July 15, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/G6fvvJ_EiWA/hqdefault.jpg"
+      "videoId": "ThybphPIXjQ",
+      "title": "WATCH LIVE: GOP senators speak after weekly policy lunch as the U.S. resumes Iran strikes",
+      "thumbnail": "https://i.ytimg.com/vi/ThybphPIXjQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -257,11 +251,11 @@
   "health": {
     "last24h": {
       "runs": 20,
-      "channelChecks": 564,
+      "channelChecks": 596,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T22:43:21.223Z",
+      "at": "2026-07-15T23:43:41.723Z",
       "checked": 33,
       "errors": 0
     }
