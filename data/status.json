@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T16:29:31.278Z",
+  "generatedAt": "2026-07-15T17:20:43.773Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1Ww_ofniFYk",
-      "title": "LIVE: Haze over Toronto from Canada wildfires",
-      "thumbnail": "https://i.ytimg.com/vi/1Ww_ofniFYk/hqdefault.jpg"
+      "videoId": "Dtyj11KlZVo",
+      "title": "LIVE: World Cup fans in Buenos Aires gather to watch Argentina-England semi-final",
+      "thumbnail": "https://i.ytimg.com/vi/Dtyj11KlZVo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -216,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "TnQw00apEMY",
-      "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau budget amid agency cuts",
-      "thumbnail": "https://i.ytimg.com/vi/TnQw00apEMY/hqdefault.jpg"
+      "videoId": "rgogiEsHvmM",
+      "title": "WATCH LIVE: Todd Blanche testifies in confirmation hearing for attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/rgogiEsHvmM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -257,7 +257,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "YQ8e7C4eH1A",
+      "title": "Champagne speaks to media as provincial, territorial finance ministers meet in PEI | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/YQ8e7C4eH1A/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -272,11 +275,11 @@
   "health": {
     "last24h": {
       "runs": 22,
-      "channelChecks": 384,
+      "channelChecks": 414,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T16:29:31.278Z",
+      "at": "2026-07-15T17:20:43.773Z",
       "checked": 33,
       "errors": 0
     }
