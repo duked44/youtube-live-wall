@@ -1,10 +1,14 @@
 #!/usr/bin/env node
-// Checks every enabled channel in channels.json for a live broadcast right now,
-// using the public /live page (no API key, no quota). Writes data/status.json.
+// Checks every enabled channel in channels.json for a live broadcast right now
+// (no API key, no quota). Writes data/status.json.
 //
-// How it works: YouTube's channel "/live" URL serves the watch page directly
-// when a stream is live, embedding a ytInitialPlayerResponse JSON blob with
-// videoDetails.isLive. When nothing is live, that flag is absent/false.
+// Primary path: YouTube's public innertube JSON endpoints (the same ones the
+// youtube.com frontend calls) — resolve_url on the channel's /live URL yields
+// a videoId only when a stream is live or scheduled, then player yields
+// videoDetails.isLive. Fallback path: scrape the /live HTML page for the
+// embedded ytInitialPlayerResponse blob. The JSON endpoints are the primary
+// because datacenter IPs (Actions runners) get bot-walled on HTML pages
+// frequently, which used to read as a silent "not live".
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
@@ -17,7 +21,9 @@ const USER_AGENT =
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36";
 
 const FETCH_TIMEOUT_MS = 12_000;
-const DELAY_BETWEEN_CHANNELS_MS = 350;
+// Modest pacing keeps dozens of sequential requests from tripping YouTube's
+// rate-based bot detection on the runner's shared IP.
+const DELAY_BETWEEN_CHANNELS_MS = 900;
 
 function sleep(ms) {
   return new Promise((resolve) => setTimeout(resolve, ms));
@@ -75,11 +81,65 @@ function extractPlayerResponse(html) {
   return null;
 }
 
-// YouTube sometimes serves datacenter IPs (like Actions runners) a consent
-// interstitial or bot check instead of the real page. Without these cookies
-// the wall page has no ytInitialPlayerResponse, which used to read as a
-// silent "not live" — a live channel would show as offline with zero errors.
+// YouTube serves datacenter IPs (like Actions runners) reCAPTCHA/bot-check
+// pages instead of real HTML far too often for page scraping to be reliable
+// at this channel count. The innertube JSON endpoints — the same ones the
+// youtube.com frontend itself calls, no API key or quota involved — are far
+// less aggressively walled, so they are the primary path; the HTML scrape
+// stays as a fallback.
 const COOKIE = "SOCS=CAI; CONSENT=YES+1";
+
+const INNERTUBE_CONTEXT = {
+  client: { clientName: "WEB", clientVersion: "2.20250101.00.00" },
+};
+
+async function innertube(endpoint, payload) {
+  const res = await fetchWithTimeout(`https://www.youtube.com/youtubei/v1/${endpoint}`, {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "User-Agent": USER_AGENT,
+      "Accept-Language": "en-US,en;q=0.9",
+    },
+    body: JSON.stringify({ context: INNERTUBE_CONTEXT, ...payload }),
+  });
+  if (!res.ok) throw new Error(`innertube ${endpoint} HTTP ${res.status}`);
+  return res.json();
+}
+
+async function checkChannelViaInnertube(channel) {
+  // /live resolves to a watchEndpoint only when a stream is live or in a
+  // waiting room; otherwise it resolves back to the channel (browseEndpoint).
+  const resolved = await innertube("navigation/resolve_url", {
+    url: `https://www.youtube.com/channel/${channel.channelId}/live`,
+  });
+  const videoId = resolved?.endpoint?.watchEndpoint?.videoId;
+  if (!videoId) {
+    return { ...baseResult(channel), live: false };
+  }
+
+  const player = await innertube("player", { videoId });
+  const videoDetails = player?.videoDetails;
+  if (!videoDetails) {
+    const status = player?.playabilityStatus;
+    const reason = status?.reason || status?.status || "no videoDetails";
+    return { ...baseResult(channel), error: `player blocked: ${reason}` };
+  }
+
+  // isLive is false for scheduled/waiting-room streams (isUpcoming) — those
+  // must not appear on the wall.
+  if (!videoDetails.isLive) {
+    return { ...baseResult(channel), live: false };
+  }
+
+  return {
+    ...baseResult(channel),
+    live: true,
+    videoId: videoDetails.videoId || videoId,
+    title: videoDetails.title ?? null,
+    thumbnail: `https://i.ytimg.com/vi/${videoDetails.videoId || videoId}/hqdefault.jpg`,
+  };
+}
 
 function classifyWallPage(html) {
   if (html.includes("consent.youtube.com")) return "consent wall served instead of page";
@@ -88,7 +148,7 @@ function classifyWallPage(html) {
   return null;
 }
 
-async function checkChannel(channel) {
+async function checkChannelViaHtml(channel) {
   const url = `https://www.youtube.com/channel/${channel.channelId}/live`;
   const res = await fetchWithTimeout(url, {
     headers: {
@@ -128,6 +188,14 @@ async function checkChannel(channel) {
       ? `https://i.ytimg.com/vi/${videoDetails.videoId}/hqdefault.jpg`
       : null,
   };
+}
+
+async function checkChannel(channel) {
+  try {
+    return await checkChannelViaInnertube(channel);
+  } catch {
+    return checkChannelViaHtml(channel);
+  }
 }
 
 function baseResult(channel) {
