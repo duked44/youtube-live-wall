@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T06:30:06.727Z",
+  "generatedAt": "2026-07-15T08:57:27.798Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "JgzDRlCNVk4",
+      "title": "LIVE: Keir Starmer answers questions at likely his last Prime Minister's Questions session",
+      "thumbnail": "https://i.ytimg.com/vi/JgzDRlCNVk4/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -247,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 16,
-      "channelChecks": 186,
+      "runs": 17,
+      "channelChecks": 219,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T06:30:06.727Z",
+      "at": "2026-07-15T08:57:27.798Z",
       "checked": 33,
       "errors": 0
     }
