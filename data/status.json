@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T17:20:43.773Z",
+  "generatedAt": "2026-07-15T18:36:15.990Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,19 +20,13 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "hqId8YLImYc",
-      "title": "Todd Blanche Senate Confirmation Hearing to be Attorney General",
-      "thumbnail": "https://i.ytimg.com/vi/hqId8YLImYc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "IDHN-O9Dlzw",
-      "title": "WATCH LIVE: Trump AG nominee Todd Blanche testifies before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/IDHN-O9Dlzw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -53,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "18BTC7RzEss",
-      "title": "World Cup: Countdown to England v Argentina | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/18BTC7RzEss/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -99,72 +90,72 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "763ZT4sVSys",
-      "title": "LIVE: Todd Blanche testifies at confirmation hearing to be attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/763ZT4sVSys/hqdefault.jpg"
+      "videoId": "WYCudQwlWxw",
+      "title": "Argentina vs England: LIVE watch parties of 2026 World Cup semifinal",
+      "thumbnail": "https://i.ytimg.com/vi/WYCudQwlWxw/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Dtyj11KlZVo",
-      "title": "LIVE: World Cup fans in Buenos Aires gather to watch Argentina-England semi-final",
-      "thumbnail": "https://i.ytimg.com/vi/Dtyj11KlZVo/hqdefault.jpg"
+      "videoId": "-kABTfdfDgU",
+      "title": "LIVE: World Cup fans in London watch England-Argentina semi-final",
+      "thumbnail": "https://i.ytimg.com/vi/-kABTfdfDgU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "54f1LPXN8jk",
-      "title": "Acting AG Todd Blanche testifies at his confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/54f1LPXN8jk/hqdefault.jpg"
+      "videoId": "7dmIozs0xrs",
+      "title": "LIVE: ABC News Live - Wednesday, July 15 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/7dmIozs0xrs/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "F_t7BjECg8M",
-      "title": "LIVE: Todd Blanche confirmation hearing for attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/F_t7BjECg8M/hqdefault.jpg"
+      "videoId": "oaCDCMRGQpI",
+      "title": "LIVE: NBC News NOW - July 15",
+      "thumbnail": "https://i.ytimg.com/vi/oaCDCMRGQpI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "bUT5-q4LhDU",
-      "title": "Watch Live: Todd Blanche faces questions at his Senate confirmation hearing for attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/bUT5-q4LhDU/hqdefault.jpg"
+      "videoId": "q5qJELWgM38",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/q5qJELWgM38/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "UKSOQtqeHx4",
-      "title": "Live: Todd Blanche AG confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/UKSOQtqeHx4/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "31OoMFrYSBw",
-      "title": "LIVE: Trump’s controversial AG pick Todd Blanche testifies at confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/31OoMFrYSBw/hqdefault.jpg"
+      "videoId": "Xh2gE1YkRrc",
+      "title": "LIVE: Senate Judiciary Dems hold presser with Epstein survivors following Todd Blanche hearing",
+      "thumbnail": "https://i.ytimg.com/vi/Xh2gE1YkRrc/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "JI1dWDbUXzc",
-      "title": "Fans arrive for England vs Argentina World Cup semi-final",
-      "thumbnail": "https://i.ytimg.com/vi/JI1dWDbUXzc/hqdefault.jpg"
+      "videoId": "fcPYSQ4wYmw",
+      "title": "Argentina fans watch World Cup semi-final clash against England",
+      "thumbnail": "https://i.ytimg.com/vi/fcPYSQ4wYmw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "rgogiEsHvmM",
-      "title": "WATCH LIVE: Todd Blanche testifies in confirmation hearing for attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/rgogiEsHvmM/hqdefault.jpg"
+      "videoId": "aKPgSgeO-Fg",
+      "title": "WATCH LIVE: House Oversight Committee holds hearing into emerging fraud threats, role of digital IDs",
+      "thumbnail": "https://i.ytimg.com/vi/aKPgSgeO-Fg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "U_aPkayoMLA",
-      "title": "Blanche testifies in two-day Senate confirmation hearing - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/U_aPkayoMLA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -274,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 22,
-      "channelChecks": 414,
+      "runs": 21,
+      "channelChecks": 441,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T17:20:43.773Z",
+      "at": "2026-07-15T18:36:15.990Z",
       "checked": 33,
       "errors": 0
     }
