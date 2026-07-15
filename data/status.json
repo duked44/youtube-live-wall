@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:19:59.306Z",
+  "generatedAt": "2026-07-15T14:16:49.176Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,33 +12,36 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "CeUWWZBcenI",
-      "title": "TOP NEWS: Supreme Court Justices Amy Coney Barrett And Elena Kagan Testify Before Congress",
-      "thumbnail": "https://i.ytimg.com/vi/CeUWWZBcenI/hqdefault.jpg"
+      "videoId": "QFoDJovuCn0",
+      "title": "LIVE: Federal Reserve Chair Kevin Warsh Testifies Before The Senate Banking Committee",
+      "thumbnail": "https://i.ytimg.com/vi/QFoDJovuCn0/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "hqId8YLImYc",
-      "title": "Todd Blanche Senate Confirmation Hearing to be Attorney General",
-      "thumbnail": "https://i.ytimg.com/vi/hqId8YLImYc/hqdefault.jpg"
+      "videoId": "-9BnwsWg4E8",
+      "title": "CDC Director & Assistant HHS Secretary Confirmation Hearing",
+      "thumbnail": "https://i.ytimg.com/vi/-9BnwsWg4E8/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "IDHN-O9Dlzw",
-      "title": "WATCH LIVE: Trump AG nominee Todd Blanche testifies before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/IDHN-O9Dlzw/hqdefault.jpg"
+      "videoId": "EK53PYxnZlA",
+      "title": "WATCH LIVE: Fed Chair Kevin Warsh GRILLED on inflation, interest rates",
+      "thumbnail": "https://i.ytimg.com/vi/EK53PYxnZlA/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "d7TOKybPcfk",
+      "title": "Watch Live: Todd Blanche Nominated to be Attorney General of the United States",
+      "thumbnail": "https://i.ytimg.com/vi/d7TOKybPcfk/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -93,63 +96,63 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "763ZT4sVSys",
-      "title": "LIVE: Todd Blanche testifies at confirmation hearing to be attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/763ZT4sVSys/hqdefault.jpg"
+      "videoId": "zhyiAhYXdhM",
+      "title": "LIVE: Jay Clayton’s confirmation hearing for Director of National Intelligence",
+      "thumbnail": "https://i.ytimg.com/vi/zhyiAhYXdhM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "l1Z7rnOndAg",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/l1Z7rnOndAg/hqdefault.jpg"
+      "videoId": "ruq90vCb33o",
+      "title": "LIVE: Jay Clayton's US intelligence director confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/ruq90vCb33o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "7dmIozs0xrs",
-      "title": "LIVE: ABC News Live - Wednesday, July 15 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/7dmIozs0xrs/hqdefault.jpg"
+      "videoId": "54f1LPXN8jk",
+      "title": "Acting AG Todd Blanche testifies at his confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/54f1LPXN8jk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "oaCDCMRGQpI",
-      "title": "LIVE: NBC News NOW - July 15",
-      "thumbnail": "https://i.ytimg.com/vi/oaCDCMRGQpI/hqdefault.jpg"
+      "videoId": "F_t7BjECg8M",
+      "title": "LIVE: Todd Blanche confirmation hearing for attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/F_t7BjECg8M/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "q5qJELWgM38",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/q5qJELWgM38/hqdefault.jpg"
+      "videoId": "vFNegNhqO7Q",
+      "title": "Watch Live: Trump's intelligence chief pick Jay Clayton attends his Senate confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/vFNegNhqO7Q/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "UKSOQtqeHx4",
+      "title": "Live: Todd Blanche AG confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/UKSOQtqeHx4/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "31OoMFrYSBw",
-      "title": "LIVE: Todd Blanche testifies in nomination hearing for Attorney General",
-      "thumbnail": "https://i.ytimg.com/vi/31OoMFrYSBw/hqdefault.jpg"
+      "videoId": "e9BYMPKDB3g",
+      "title": "LIVE: Senators hold hearing on Jay Clayton’s nomination for Director of National Intelligence",
+      "thumbnail": "https://i.ytimg.com/vi/e9BYMPKDB3g/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -210,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ThybphPIXjQ",
-      "title": "WATCH LIVE: GOP senators speak after weekly policy lunch as the U.S. resumes Iran strikes",
-      "thumbnail": "https://i.ytimg.com/vi/ThybphPIXjQ/hqdefault.jpg"
+      "videoId": "r7maU7iT428",
+      "title": "WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in Senate Banking hearing",
+      "thumbnail": "https://i.ytimg.com/vi/r7maU7iT428/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,7 +236,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "U_aPkayoMLA",
+      "title": "Blanche testifies in two-day Senate confirmation hearing - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/U_aPkayoMLA/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -245,7 +251,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "HY87d3PekxY",
+      "title": "Bank of Canada holds benchmark interest rate at 2.25% | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/HY87d3PekxY/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -259,12 +268,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 19,
-      "channelChecks": 285,
+      "runs": 20,
+      "channelChecks": 318,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T12:19:59.306Z",
+      "at": "2026-07-15T14:16:49.176Z",
       "checked": 33,
       "errors": 0
     }
