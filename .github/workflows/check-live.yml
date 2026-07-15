@@ -10,6 +10,10 @@ on:
     paths:
       - "channels.json"
       - "scripts/check-live.mjs"
+      # Touched by the site's "Sweep now" button (via the Contents API) to
+      # trigger an immediate check — push triggers run right away, unlike
+      # the best-effort cron schedule.
+      - ".sweep-request"
 
 permissions:
   contents: write

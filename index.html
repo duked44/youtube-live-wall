@@ -31,6 +31,10 @@
         <span class="lamp-dot"></span>
         <span id="onair-text">STANDBY</span>
       </span>
+      <button id="sweep-now" class="btn btn-ghost" type="button" title="Trigger a fresh live check right now (uses your saved GitHub token)">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.65 6.35A7.95 7.95 0 0 0 12 4a8 8 0 1 0 7.73 10h-2.08A6 6 0 1 1 12 6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></svg>
+        <span class="btn-text">Sweep now</span>
+      </button>
       <button id="open-settings" class="btn btn-ghost" type="button">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 15.5A3.5 3.5 0 1 1 12 8.5a3.5 3.5 0 0 1 0 7zm7.4-2.6c.04-.3.06-.6.06-.9s-.02-.6-.07-.9l2.03-1.58a.5.5 0 0 0 .12-.64l-1.92-3.32a.5.5 0 0 0-.61-.22l-2.39.96a7.03 7.03 0 0 0-1.56-.9l-.36-2.54a.5.5 0 0 0-.5-.36h-3.84a.5.5 0 0 0-.5.42l-.36 2.54c-.56.23-1.09.54-1.56.9l-2.39-.96a.5.5 0 0 0-.61.22L2.02 8.88a.5.5 0 0 0 .12.64L4.17 11.1c-.05.3-.07.62-.07.9s.02.6.07.9l-2.03 1.58a.5.5 0 0 0-.12.64l1.92 3.32c.14.24.42.34.68.24l2.39-.96c.47.36 1 .67 1.56.9l.36 2.54c.05.24.25.42.5.42h3.84a.5.5 0 0 0 .5-.42l.36-2.54c.56-.23 1.09-.54 1.56-.9l2.39.96c.26.1.54 0 .68-.24l1.92-3.32a.5.5 0 0 0-.12-.64l-2.03-1.58z"/></svg>
         Settings
@@ -44,7 +48,7 @@
         <div class="color-bars" aria-hidden="true"></div>
         <p class="offair-sign">OFF AIR</p>
         <p class="empty-copy">No tracked channels are on the air right now. The wall lights up automatically the moment one goes live.</p>
-        <p class="empty-meta">sweeping every 5 minutes &middot; via GitHub Actions</p>
+        <p class="empty-meta">swept via GitHub Actions &middot; hit &ldquo;Sweep now&rdquo; for an instant check</p>
       </div>
     </div>
     <div id="grid" class="grid"></div>
@@ -121,8 +125,10 @@
       <section class="settings-section">
         <h3>Checker health</h3>
         <p class="hint">
-          This site polls each channel's public page on a schedule (every 5
-          minutes, GitHub's fastest supported interval) &mdash; there's no
+          Sweeps run on GitHub's scheduler. 5 minutes is the fastest interval
+          it supports, and delivery is best-effort &mdash; on quiet stretches
+          GitHub often runs them much less often. The <strong>Sweep now</strong>
+          button in the header triggers an immediate check any time. There's no
           external quota being consumed, so this tracks pacing and failures,
           not a limit being approached.
         </p>

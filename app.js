@@ -5,9 +5,13 @@ const HIDDEN_KEY = "liveWall.hiddenChannelIds";
 const GITHUB_TOKEN_KEY = "liveWall.githubToken";
 const YOUTUBE_API_KEY_KEY = "liveWall.youtubeApiKey";
 const BASE_TITLE = "Airwave · Live Monitor Wall";
+const SWEEP_REQUEST_PATH = ".sweep-request";
+const EMBED_ORIGIN = "https://www.youtube-nocookie.com";
 
 let lastLiveIds = new Set();
 let lastStatus = null;
+let audioFocusId = null;
+let unmuteCampaign = 0;
 
 function utf8ToBase64(str) {
   return btoa(unescape(encodeURIComponent(str)));
@@ -136,6 +140,7 @@ const settingsPanel = document.getElementById("settings-panel");
 const settingsBackdrop = document.getElementById("settings-backdrop");
 const onairLamp = document.getElementById("onair-lamp");
 const onairText = document.getElementById("onair-text");
+const sweepBtn = document.getElementById("sweep-now");
 const connectSummaryEl = document.getElementById("connect-summary");
 const connectFormEl = document.getElementById("connect-form");
 const connectTokenPreviewEl = document.getElementById("connect-token-preview");
@@ -239,7 +244,7 @@ async function addChannel() {
     addHandleInput.value = "";
     setFormStatus(
       addChannelStatusEl,
-      `Added ${resolved.name}. It'll appear on the wall within ~5 minutes of going live.`,
+      `Added ${resolved.name}. It'll appear on the wall within a sweep or two of going live.`,
       "success"
     );
   } catch (err) {
@@ -282,7 +287,8 @@ function restoreChannel(id) {
 }
 
 function embedUrl(videoId) {
-  return `https://www.youtube-nocookie.com/embed/${videoId}?autoplay=1&mute=1&rel=0&modestbranding=1`;
+  const origin = encodeURIComponent(location.origin);
+  return `${EMBED_ORIGIN}/embed/${videoId}?autoplay=1&mute=1&rel=0&modestbranding=1&playsinline=1&enablejsapi=1&origin=${origin}`;
 }
 
 function formatTime(iso) {
@@ -303,24 +309,173 @@ function updateOnAir(liveCount) {
   }
 }
 
-const HIDE_ICON_SVG =
-  '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 6c4.7 0 8.6 2.9 10 7-.5 1.4-1.3 2.7-2.3 3.7l-1.5-1.5c.7-.7 1.3-1.4 1.7-2.2A9 9 0 0 0 12 8c-.7 0-1.4.1-2.1.2L8.3 6.6C9.5 6.2 10.7 6 12 6zM3.3 4.3l16.4 16.4-1.4 1.4-2.7-2.7c-1.1.4-2.3.6-3.6.6-4.7 0-8.6-2.9-10-7 .6-1.7 1.6-3.2 2.9-4.3L1.9 5.7l1.4-1.4zM12 18c.6 0 1.2-.1 1.8-.2l-1.6-1.6a3.5 3.5 0 0 1-3.4-3.4L6.3 10.3c-1 .8-1.8 1.7-2.3 2.7 1.4 3 4.4 5 8 5zm3.5-6.2-3.3-3.3h-.2a3.5 3.5 0 0 1 3.5 3.3z"/></svg>';
+/* ---------- Player control (mute/unmute via the YouTube iframe API) ---------- */
+
+function sendPlayerCommand(iframe, func, args = []) {
+  iframe?.contentWindow?.postMessage(
+    JSON.stringify({ event: "command", func, args }),
+    EMBED_ORIGIN
+  );
+}
+
+// The embed takes a few seconds to boot, so a single unMute would get lost.
+// Keep nudging the focused player until it's audible (or focus moves on).
+function beginUnmuteCampaign(card) {
+  const token = ++unmuteCampaign;
+  const id = card.dataset.channelId;
+  let attempts = 0;
+  const tick = () => {
+    if (token !== unmuteCampaign || audioFocusId !== id) return;
+    const iframe = card.isConnected ? card.querySelector("iframe") : null;
+    if (iframe) {
+      sendPlayerCommand(iframe, "unMute");
+      sendPlayerCommand(iframe, "setVolume", [100]);
+    }
+    if (++attempts < 14) setTimeout(tick, 700);
+  };
+  tick();
+}
+
+function setAudio(id) {
+  audioFocusId = id;
+  for (const card of grid.querySelectorAll(".card")) {
+    const isTarget = card.dataset.channelId === id;
+    card.classList.toggle("audio", isTarget);
+    if (!isTarget) {
+      sendPlayerCommand(card.querySelector("iframe"), "mute");
+    } else {
+      if (!card.classList.contains("playing")) startPlaying(card);
+      beginUnmuteCampaign(card);
+      card.scrollIntoView({ block: "nearest", behavior: "smooth" });
+    }
+    refreshCardButtons(card);
+  }
+}
+
+function clearAudioIfCard(card) {
+  if (audioFocusId === card.dataset.channelId) {
+    audioFocusId = null;
+    unmuteCampaign++;
+    card.classList.remove("audio");
+  }
+}
+
+// Arrow-key spatial navigation: pick the nearest card whose center lies in
+// the pressed direction, favoring same-row/column neighbors.
+function moveAudio(dir) {
+  const cards = [...grid.querySelectorAll(".card:not(.leaving)")];
+  if (cards.length === 0) return;
+  const current = audioFocusId
+    ? cards.find((c) => c.dataset.channelId === audioFocusId)
+    : null;
+  if (!current) {
+    setAudio(cards[0].dataset.channelId);
+    return;
+  }
+  const cr = current.getBoundingClientRect();
+  const cx = cr.left + cr.width / 2;
+  const cy = cr.top + cr.height / 2;
+  let best = null;
+  let bestScore = Infinity;
+  for (const card of cards) {
+    if (card === current) continue;
+    const r = card.getBoundingClientRect();
+    const dx = r.left + r.width / 2 - cx;
+    const dy = r.top + r.height / 2 - cy;
+    let primary;
+    let secondary;
+    if (dir === "left") { if (dx >= -4) continue; primary = -dx; secondary = Math.abs(dy); }
+    else if (dir === "right") { if (dx <= 4) continue; primary = dx; secondary = Math.abs(dy); }
+    else if (dir === "up") { if (dy >= -4) continue; primary = -dy; secondary = Math.abs(dx); }
+    else { if (dy <= 4) continue; primary = dy; secondary = Math.abs(dx); }
+    const score = primary + secondary * 2.5;
+    if (score < bestScore) {
+      bestScore = score;
+      best = card;
+    }
+  }
+  if (best) setAudio(best.dataset.channelId);
+}
+
+document.addEventListener("keydown", (e) => {
+  if (e.key === "Escape") {
+    closeSettings();
+    return;
+  }
+  const dirs = { ArrowLeft: "left", ArrowRight: "right", ArrowUp: "up", ArrowDown: "down" };
+  const dir = dirs[e.key];
+  if (!dir) return;
+  if (settingsPanel.classList.contains("open")) return;
+  const t = e.target;
+  if (t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.tagName === "SELECT" || t.isContentEditable)) return;
+  e.preventDefault();
+  moveAudio(dir);
+});
+
+/* ---------- Cards ---------- */
+
+const ICONS = {
+  play: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M8 5.5v13a1 1 0 0 0 1.52.86l10.5-6.5a1 1 0 0 0 0-1.72L9.52 4.64A1 1 0 0 0 8 5.5z"/></svg>',
+  stop: '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="6" y="6" width="12" height="12" rx="1.5" fill="currentColor"/></svg>',
+  speaker:
+    '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 9v6h4l5 4V5L8 9H4zm12.5 3a3.5 3.5 0 0 0-2-3.16v6.32a3.5 3.5 0 0 0 2-3.16zm-2-8.14v2.06A6.5 6.5 0 0 1 19 12a6.5 6.5 0 0 1-4.5 6.08v2.06A8.5 8.5 0 0 0 21 12a8.5 8.5 0 0 0-6.5-8.14z"/></svg>',
+  hide: '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 6c4.7 0 8.6 2.9 10 7-.5 1.4-1.3 2.7-2.3 3.7l-1.5-1.5c.7-.7 1.3-1.4 1.7-2.2A9 9 0 0 0 12 8c-.7 0-1.4.1-2.1.2L8.3 6.6C9.5 6.2 10.7 6 12 6zM3.3 4.3l16.4 16.4-1.4 1.4-2.7-2.7c-1.1.4-2.3.6-3.6.6-4.7 0-8.6-2.9-10-7 .6-1.7 1.6-3.2 2.9-4.3L1.9 5.7l1.4-1.4zM12 18c.6 0 1.2-.1 1.8-.2l-1.6-1.6a3.5 3.5 0 0 1-3.4-3.4L6.3 10.3c-1 .8-1.8 1.7-2.3 2.7 1.4 3 4.4 5 8 5zm3.5-6.2-3.3-3.3h-.2a3.5 3.5 0 0 1 3.5 3.3z"/></svg>',
+};
+
+function startPlaying(card) {
+  if (card.classList.contains("playing")) return;
+  const stage = card.querySelector(".card-stage");
+  const iframe = document.createElement("iframe");
+  iframe.src = embedUrl(card.dataset.videoId);
+  iframe.title = card.dataset.name;
+  iframe.allow =
+    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
+  iframe.allowFullscreen = true;
+  stage.appendChild(iframe);
+  card.classList.add("playing");
+  refreshCardButtons(card);
+}
+
+function stopPlaying(card) {
+  const iframe = card.querySelector("iframe");
+  if (iframe) iframe.remove();
+  card.classList.remove("playing");
+  clearAudioIfCard(card);
+  refreshCardButtons(card);
+}
+
+function refreshCardButtons(card) {
+  const listenBtn = card.querySelector(".card-listen");
+  const hasAudio = card.classList.contains("audio");
+  if (listenBtn) {
+    listenBtn.classList.toggle("active", hasAudio);
+    listenBtn.querySelector(".btn-text").textContent = hasAudio ? "Audio on" : "Listen";
+    listenBtn.title = hasAudio
+      ? "This feed has the audio"
+      : "Play this feed's audio (mutes the others)";
+  }
+}
 
 function buildCard(channel) {
   const card = document.createElement("article");
   card.className = "card";
   card.dataset.channelId = channel.id;
   card.dataset.videoId = channel.videoId || "";
+  card.dataset.name = channel.name;
 
-  const video = document.createElement("div");
-  video.className = "card-video";
-  const iframe = document.createElement("iframe");
-  iframe.src = embedUrl(channel.videoId);
-  iframe.title = channel.name;
-  iframe.allow =
-    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture";
-  iframe.allowFullscreen = true;
-  video.appendChild(iframe);
+  const stage = document.createElement("div");
+  stage.className = "card-stage";
+
+  const poster = document.createElement("button");
+  poster.className = "card-poster";
+  poster.type = "button";
+  if (channel.thumbnail) poster.style.backgroundImage = `url("${channel.thumbnail}")`;
+  const posterBadge = document.createElement("span");
+  posterBadge.className = "poster-badge";
+  posterBadge.innerHTML = `${ICONS.play}<span>PLAY FEED</span>`;
+  poster.appendChild(posterBadge);
+  poster.addEventListener("click", () => startPlaying(card));
+  stage.appendChild(poster);
 
   const body = document.createElement("div");
   body.className = "card-body";
@@ -346,27 +501,54 @@ function buildCard(channel) {
   titleLine.title = channel.title || "";
   info.append(channelLine, titleLine);
 
+  const actions = document.createElement("div");
+  actions.className = "card-actions";
+
+  const listenBtn = document.createElement("button");
+  listenBtn.className = "card-action card-listen";
+  listenBtn.type = "button";
+  listenBtn.innerHTML = `${ICONS.speaker}<span class="btn-text">Listen</span>`;
+  listenBtn.addEventListener("click", () => setAudio(channel.id));
+
+  const stopBtn = document.createElement("button");
+  stopBtn.className = "card-action card-stop";
+  stopBtn.type = "button";
+  stopBtn.title = "Stop this feed (stays on the wall as a preview)";
+  stopBtn.innerHTML = `${ICONS.stop}<span class="btn-text">Stop</span>`;
+  stopBtn.addEventListener("click", () => stopPlaying(card));
+
   const hideBtn = document.createElement("button");
-  hideBtn.className = "card-hide";
+  hideBtn.className = "card-action card-hide";
   hideBtn.type = "button";
-  hideBtn.innerHTML = `${HIDE_ICON_SVG}Hide`;
+  hideBtn.title = "Remove from the wall until restored from Settings";
+  hideBtn.innerHTML = `${ICONS.hide}<span class="btn-text">Hide</span>`;
   hideBtn.addEventListener("click", () => hideChannel(channel.id));
 
-  body.append(info, hideBtn);
-  card.append(video, body);
+  actions.append(listenBtn, stopBtn, hideBtn);
+  body.append(info, actions);
+  card.append(stage, body);
+  refreshCardButtons(card);
   return card;
 }
 
 function updateCard(card, channel) {
-  // Only touch the iframe if the stream itself changed, so a playing
-  // embed is never restarted by the 60s poll.
+  // Only touch the player if the stream itself changed, so a playing embed
+  // is never restarted by the 60s poll.
   if (card.dataset.videoId !== (channel.videoId || "")) {
     card.dataset.videoId = channel.videoId || "";
+    const poster = card.querySelector(".card-poster");
+    if (poster && channel.thumbnail) poster.style.backgroundImage = `url("${channel.thumbnail}")`;
     const iframe = card.querySelector("iframe");
-    if (iframe) iframe.src = embedUrl(channel.videoId);
+    if (iframe) {
+      iframe.src = embedUrl(channel.videoId);
+      if (audioFocusId === channel.id) beginUnmuteCampaign(card);
+    }
   }
-  const nameEl = card.querySelector(".channel-name");
-  if (nameEl && nameEl.textContent !== channel.name) nameEl.textContent = channel.name;
+  if (card.dataset.name !== channel.name) {
+    card.dataset.name = channel.name;
+    const nameEl = card.querySelector(".channel-name");
+    if (nameEl) nameEl.textContent = channel.name;
+  }
   const titleLine = card.querySelector(".card-title");
   const title = channel.title || "";
   if (titleLine && titleLine.textContent !== title) {
@@ -377,6 +559,7 @@ function updateCard(card, channel) {
 
 function retireCard(card) {
   if (card.classList.contains("leaving")) return;
+  clearAudioIfCard(card);
   card.classList.add("leaving");
   card.addEventListener("animationend", () => card.remove(), { once: true });
   setTimeout(() => card.remove(), 600); // fallback if animations are disabled
@@ -533,6 +716,68 @@ async function removeChannel(channel) {
   }
 }
 
+/* ---------- Sweep now ---------- */
+
+// Committing a timestamp to .sweep-request (via the Contents API the token
+// already has) push-triggers the checker workflow immediately — the schedule
+// is best-effort, but push triggers are not.
+async function requestSweep() {
+  if (!getGithubToken()) {
+    openSettings();
+    scrollToConnect();
+    setFormStatus(
+      connectStatusEl,
+      "Add a GitHub token here first — the Sweep button uses it to trigger the checker.",
+      "error"
+    );
+    return;
+  }
+
+  const label = sweepBtn.querySelector(".btn-text");
+  sweepBtn.disabled = true;
+  label.textContent = "Requesting…";
+
+  try {
+    const { owner, repo } = repoInfo();
+    let sha;
+    try {
+      const cur = await githubApiRequest(`/repos/${owner}/${repo}/contents/${SWEEP_REQUEST_PATH}`);
+      sha = cur.sha;
+    } catch {
+      // file doesn't exist yet — the PUT below creates it
+    }
+    await githubApiRequest(`/repos/${owner}/${repo}/contents/${SWEEP_REQUEST_PATH}`, {
+      method: "PUT",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        message: "chore: request live sweep",
+        content: utf8ToBase64(new Date().toISOString() + "\n"),
+        ...(sha ? { sha } : {}),
+      }),
+    });
+    label.textContent = "Sweep queued ✓";
+    // Poll faster for a few minutes so the fresh results land without waiting
+    // for the next 60s tick.
+    const fast = setInterval(render, 20_000);
+    setTimeout(() => clearInterval(fast), 4 * 60_000);
+    setTimeout(() => {
+      sweepBtn.disabled = false;
+      label.textContent = "Sweep now";
+    }, 60_000);
+  } catch (err) {
+    label.textContent = "Sweep failed";
+    console.error("Sweep request failed", err);
+    setTimeout(() => {
+      sweepBtn.disabled = false;
+      label.textContent = "Sweep now";
+    }, 4_000);
+  }
+}
+
+sweepBtn.addEventListener("click", requestSweep);
+
+/* ---------- Data loading ---------- */
+
 let channelsConfigCache = null;
 
 async function loadChannelsConfig() {
@@ -587,9 +832,6 @@ function closeSettings() {
 document.getElementById("open-settings").addEventListener("click", openSettings);
 document.getElementById("close-settings").addEventListener("click", closeSettings);
 settingsBackdrop.addEventListener("click", closeSettings);
-document.addEventListener("keydown", (e) => {
-  if (e.key === "Escape") closeSettings();
-});
 
 renderConnectSection();
 render();

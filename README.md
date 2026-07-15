@@ -25,9 +25,21 @@ API key just for that one lookup (see "Adding / removing channels" below).
   checks in the last 24h, and how many of those hit an error. There's no
   external quota being tracked here (see "Notes" below); it's a pacing/health
   gauge, not a countdown to a limit.
-- Each live card has a **Hide** button — click it to dismiss that stream from
-  your view (stored in your browser's localStorage, not synced anywhere).
-  Restore hidden channels from the **Settings** panel in the top right.
+- Live cards start as lightweight thumbnail previews — click **Play feed** to
+  start streaming one. Only feeds you start consume bandwidth/CPU, and a
+  **Stop** button drops a feed back to its preview.
+- One feed at a time owns the audio, marked by a white ring. Click **Listen**
+  on any card to move the audio there, or use the **arrow keys** to shift the
+  ring between cards YouTube-TV-style (a not-yet-playing card starts
+  automatically when the ring lands on it).
+- Each live card also has a **Hide** button — click it to dismiss that stream
+  from your view entirely (stored in your browser's localStorage, not synced
+  anywhere). Restore hidden channels from the **Settings** panel in the top
+  right.
+- The **Sweep now** header button commits a timestamp to `.sweep-request`
+  (using your saved GitHub token), which push-triggers the checker workflow
+  immediately — useful because GitHub's cron schedule is best-effort and often
+  runs sparser than the nominal 5 minutes.
 
 ## Setup
 
