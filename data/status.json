@@ -1,15 +1,22 @@
 {
-  "generatedAt": "2026-07-15T01:17:50.243Z",
-  "channels": [],
+  "generatedAt": "2026-07-15T01:18:07.247Z",
+  "channels": [
+    {
+      "id": "agendafreetv",
+      "name": "Agenda-Free TV",
+      "channelId": "UCshCsg1YVKli8yBai-wa78w",
+      "live": false
+    }
+  ],
   "health": {
     "last24h": {
       "runs": 11,
-      "channelChecks": 20,
+      "channelChecks": 21,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-15T01:17:50.243Z",
-      "checked": 0,
+      "at": "2026-07-15T01:18:07.247Z",
+      "checked": 1,
       "errors": 0
     }
   }
