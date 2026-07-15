@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T15:56:16.184Z",
+  "generatedAt": "2026-07-15T16:29:31.278Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -13,7 +13,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "QFoDJovuCn0",
-      "title": "LIVE: Federal Reserve Chair Kevin Warsh Testifies Before The Senate Banking Committee",
+      "title": "LIVE: Trump Holds Public Event As US Renews Strikes On Iran, Todd Blanche Testifies Before Congress",
       "thumbnail": "https://i.ytimg.com/vi/QFoDJovuCn0/hqdefault.jpg"
     },
     {
@@ -21,18 +21,18 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "-9BnwsWg4E8",
-      "title": "CDC Director & Assistant HHS Secretary Confirmation Hearing",
-      "thumbnail": "https://i.ytimg.com/vi/-9BnwsWg4E8/hqdefault.jpg"
+      "videoId": "hqId8YLImYc",
+      "title": "Todd Blanche Senate Confirmation Hearing to be Attorney General",
+      "thumbnail": "https://i.ytimg.com/vi/hqId8YLImYc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "EK53PYxnZlA",
-      "title": "WATCH LIVE: Fed Chair Kevin Warsh GRILLED on inflation, interest rates",
-      "thumbnail": "https://i.ytimg.com/vi/EK53PYxnZlA/hqdefault.jpg"
+      "videoId": "IDHN-O9Dlzw",
+      "title": "WATCH LIVE: Trump AG nominee Todd Blanche testifies before Senate",
+      "thumbnail": "https://i.ytimg.com/vi/IDHN-O9Dlzw/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "efFhY_8C65E",
-      "title": "LIVE: Federal Reserve Chair Kevin Warsh hearing",
-      "thumbnail": "https://i.ytimg.com/vi/efFhY_8C65E/hqdefault.jpg"
+      "videoId": "763ZT4sVSys",
+      "title": "LIVE: Todd Blanche testifies at confirmation hearing to be attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/763ZT4sVSys/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "33OJAqXHhug",
-      "title": "LIVE: Failed Turkish coup commemorated on 10th anniversary in Ankara",
-      "thumbnail": "https://i.ytimg.com/vi/33OJAqXHhug/hqdefault.jpg"
+      "videoId": "1Ww_ofniFYk",
+      "title": "LIVE: Haze over Toronto from Canada wildfires",
+      "thumbnail": "https://i.ytimg.com/vi/1Ww_ofniFYk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -162,9 +162,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "JI1dWDbUXzc",
+      "title": "Fans arrive for England vs Argentina World Cup semi-final",
+      "thumbnail": "https://i.ytimg.com/vi/JI1dWDbUXzc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "r7maU7iT428",
-      "title": "WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in Senate Banking hearing",
-      "thumbnail": "https://i.ytimg.com/vi/r7maU7iT428/hqdefault.jpg"
+      "videoId": "TnQw00apEMY",
+      "title": "WATCH LIVE: Vought testifies on Consumer Financial Protection Bureau budget amid agency cuts",
+      "thumbnail": "https://i.ytimg.com/vi/TnQw00apEMY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -271,12 +271,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 21,
-      "channelChecks": 351,
+      "runs": 22,
+      "channelChecks": 384,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T15:56:16.184Z",
+      "at": "2026-07-15T16:29:31.278Z",
       "checked": 33,
       "errors": 0
     }
