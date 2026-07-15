@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-15T01:57:12.822Z",
+  "generatedAt": "2026-07-15T04:12:40.125Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "dTYmK3aAxpY",
-      "title": "Iran War - New U.S. Strikes & Blockade Resumes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/dTYmK3aAxpY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -105,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "fo0w3f9c-D8",
-      "title": "LIVE: ABC News Live - Tuesday, July 14 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/fo0w3f9c-D8/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -123,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Eck4Pf4CgGE",
+      "videoId": "pPZxXWiEhWY",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Eck4Pf4CgGE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/pPZxXWiEhWY/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -250,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 120,
+      "runs": 15,
+      "channelChecks": 153,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T01:57:12.822Z",
+      "at": "2026-07-15T04:12:40.125Z",
       "checked": 33,
       "errors": 0
     }
