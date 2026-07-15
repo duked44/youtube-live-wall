@@ -1,17 +1,19 @@
 {
-  "generatedAt": "2026-07-15T01:44:13.805Z",
+  "generatedAt": "2026-07-15T01:50:53.561Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "cspan",
@@ -23,152 +25,149 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "livenowfromfox",
       "name": "LiveNOW from FOX",
       "channelId": "UCyEUZXhmHr2rXGVHqX4gt7g",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "turningpointusa",
       "name": "Turning Point USA",
       "channelId": "UCVrK_pMRp_q8IelpfUCTGLQ",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "insideedition",
       "name": "Inside Edition",
       "channelId": "UC9k-yiEpRHMNVOnOi_aQK8w",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "wsj",
       "name": "The Wall Street Journal",
       "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "nytimes",
       "name": "The New York Times",
       "channelId": "UCqnbDFdCpuN8CMEg0VuEBqA",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "aljazeeraenglish",
       "name": "Al Jazeera English",
       "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "dwnews",
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "france24-en",
       "name": "FRANCE 24 English",
       "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "bloomberg-tv",
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "cnbc",
       "name": "CNBC",
       "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     },
     {
       "id": "pbsnewshour",
@@ -180,8 +179,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -193,40 +191,38 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "channel4news",
       "name": "Channel 4 News",
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false,
-      "error": "bot check served instead of page"
+      "live": false
     },
     {
       "id": "cna",
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "live": false
+      "live": false,
+      "error": "player blocked: Sign in to confirm you’re not a bot"
     }
   ],
   "health": {
     "last24h": {
-      "runs": 12,
-      "channelChecks": 54,
-      "errors": 17
+      "runs": 13,
+      "channelChecks": 87,
+      "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T01:44:13.805Z",
+      "at": "2026-07-15T01:50:53.561Z",
       "checked": 33,
-      "errors": 17
+      "errors": 13
     }
   }
 }
