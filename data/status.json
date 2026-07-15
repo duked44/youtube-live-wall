@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T19:50:08.995Z",
+  "generatedAt": "2026-07-15T20:46:24.992Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "-kABTfdfDgU",
-      "title": "LIVE: World Cup fans in London watch England-Argentina semi-final",
-      "thumbnail": "https://i.ytimg.com/vi/-kABTfdfDgU/hqdefault.jpg"
+      "videoId": "Dhsfbc2LfcI",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/Dhsfbc2LfcI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "V1g5JPHeA3Y",
-      "title": "LIVE: President Trump participates in a Pennsylvania Defense and Innovation Summit",
-      "thumbnail": "https://i.ytimg.com/vi/V1g5JPHeA3Y/hqdefault.jpg"
+      "videoId": "m8tzHhXO7-Y",
+      "title": "LIVE: Senate Judiciary Dems hold presser with Epstein survivors following Todd Blanche hearing",
+      "thumbnail": "https://i.ytimg.com/vi/m8tzHhXO7-Y/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "v2VCFSLwR2g",
-      "title": "Donald Trump delivers speech in Pennsylvania",
-      "thumbnail": "https://i.ytimg.com/vi/v2VCFSLwR2g/hqdefault.jpg"
+      "videoId": "rzSWg4W__Ss",
+      "title": "US launches second wave of strikes against Iran | The World",
+      "thumbnail": "https://i.ytimg.com/vi/rzSWg4W__Ss/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,10 +221,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "403cLrPPYcY",
-      "title": "Can the Dems outrun the DSA? Debate with Mally Smith | Prove it! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/403cLrPPYcY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -266,11 +263,11 @@
   "health": {
     "last24h": {
       "runs": 21,
-      "channelChecks": 471,
+      "channelChecks": 501,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T19:50:08.995Z",
+      "at": "2026-07-15T20:46:24.992Z",
       "checked": 33,
       "errors": 0
     }
