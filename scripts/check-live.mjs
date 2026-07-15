@@ -4,11 +4,12 @@
 //
 // Primary path: YouTube's public innertube JSON endpoints (the same ones the
 // youtube.com frontend calls) — resolve_url on the channel's /live URL yields
-// a videoId only when a stream is live or scheduled, then player yields
-// videoDetails.isLive. Fallback path: scrape the /live HTML page for the
-// embedded ytInitialPlayerResponse blob. The JSON endpoints are the primary
-// because datacenter IPs (Actions runners) get bot-walled on HTML pages
-// frequently, which used to read as a silent "not live".
+// a videoId only when a stream is live or scheduled, then next (watch-page
+// metadata) yields the live flag and title. Fallback path: scrape the /live
+// HTML page for the embedded ytInitialPlayerResponse blob. The JSON endpoints
+// are primary because datacenter IPs (Actions runners) get bot-walled on both
+// HTML pages and the player endpoint, which used to read as a silent
+// "not live"; resolve_url and next are served reliably.
 
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
@@ -118,26 +119,33 @@ async function checkChannelViaInnertube(channel) {
     return { ...baseResult(channel), live: false };
   }
 
-  const player = await innertube("player", { videoId });
-  const videoDetails = player?.videoDetails;
-  if (!videoDetails) {
-    const status = player?.playabilityStatus;
-    const reason = status?.reason || status?.status || "no videoDetails";
-    return { ...baseResult(channel), error: `player blocked: ${reason}` };
+  // The "player" endpoint is aggressively bot-walled for datacenter IPs
+  // ("Sign in to confirm you're not a bot"), but "next" (watch-page metadata)
+  // is served reliably and carries both the title and a live flag:
+  // videoViewCountRenderer.isLive is true only for an actually-live stream —
+  // waiting rooms show a "waiting" count without it, so upcoming streams
+  // don't reach the wall.
+  const next = await innertube("next", { videoId });
+  const contents = next?.contents?.twoColumnWatchNextResults?.results?.results?.contents;
+  const primary = Array.isArray(contents)
+    ? contents.map((c) => c?.videoPrimaryInfoRenderer).find(Boolean)
+    : null;
+  if (!primary) {
+    return { ...baseResult(channel), error: "next response missing videoPrimaryInfoRenderer" };
   }
 
-  // isLive is false for scheduled/waiting-room streams (isUpcoming) — those
-  // must not appear on the wall.
-  if (!videoDetails.isLive) {
+  const isLive = Boolean(primary.viewCount?.videoViewCountRenderer?.isLive);
+  if (!isLive) {
     return { ...baseResult(channel), live: false };
   }
 
+  const title = primary.title?.runs?.map((r) => r.text).join("") || null;
   return {
     ...baseResult(channel),
     live: true,
-    videoId: videoDetails.videoId || videoId,
-    title: videoDetails.title ?? null,
-    thumbnail: `https://i.ytimg.com/vi/${videoDetails.videoId || videoId}/hqdefault.jpg`,
+    videoId,
+    title,
+    thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`,
   };
 }
 
