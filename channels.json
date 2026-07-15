@@ -6,6 +6,198 @@
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "enabled": true
+    },
+    {
+      "id": "forbesbreakingnews",
+      "name": "Forbes Breaking News",
+      "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
+      "enabled": true
+    },
+    {
+      "id": "cspan",
+      "name": "C-SPAN",
+      "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
+      "enabled": true
+    },
+    {
+      "id": "foxnews",
+      "name": "Fox News",
+      "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
+      "enabled": true
+    },
+    {
+      "id": "nypost",
+      "name": "New York Post",
+      "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
+      "enabled": true
+    },
+    {
+      "id": "livenowfromfox",
+      "name": "LiveNOW from FOX",
+      "channelId": "UCyEUZXhmHr2rXGVHqX4gt7g",
+      "enabled": true
+    },
+    {
+      "id": "bbcnews",
+      "name": "BBC News",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "enabled": true
+    },
+    {
+      "id": "dailywire",
+      "name": "The Daily Wire",
+      "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
+      "enabled": true
+    },
+    {
+      "id": "turningpointusa",
+      "name": "Turning Point USA",
+      "channelId": "UCVrK_pMRp_q8IelpfUCTGLQ",
+      "enabled": true
+    },
+    {
+      "id": "insideedition",
+      "name": "Inside Edition",
+      "channelId": "UC9k-yiEpRHMNVOnOi_aQK8w",
+      "enabled": true
+    },
+    {
+      "id": "frontline",
+      "name": "FRONTLINE PBS",
+      "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
+      "enabled": true
+    },
+    {
+      "id": "wsj",
+      "name": "The Wall Street Journal",
+      "channelId": "UCK7tptUDHh-RYDsdxO1-5QQ",
+      "enabled": true
+    },
+    {
+      "id": "nytimes",
+      "name": "The New York Times",
+      "channelId": "UCqnbDFdCpuN8CMEg0VuEBqA",
+      "enabled": true
+    },
+    {
+      "id": "associatedpress",
+      "name": "Associated Press",
+      "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
+      "enabled": true
+    },
+    {
+      "id": "reuters",
+      "name": "Reuters",
+      "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
+      "enabled": true
+    },
+    {
+      "id": "abcnews",
+      "name": "ABC News",
+      "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
+      "enabled": true
+    },
+    {
+      "id": "nbcnews",
+      "name": "NBC News",
+      "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
+      "enabled": true
+    },
+    {
+      "id": "cbsnews",
+      "name": "CBS News",
+      "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
+      "enabled": true
+    },
+    {
+      "id": "cnn",
+      "name": "CNN",
+      "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
+      "enabled": true
+    },
+    {
+      "id": "msnow",
+      "name": "MS NOW",
+      "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
+      "enabled": true
+    },
+    {
+      "id": "skynews",
+      "name": "Sky News",
+      "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
+      "enabled": true
+    },
+    {
+      "id": "aljazeeraenglish",
+      "name": "Al Jazeera English",
+      "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
+      "enabled": true
+    },
+    {
+      "id": "dwnews",
+      "name": "DW News",
+      "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
+      "enabled": true
+    },
+    {
+      "id": "france24-en",
+      "name": "FRANCE 24 English",
+      "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
+      "enabled": true
+    },
+    {
+      "id": "bloomberg-tv",
+      "name": "Bloomberg Television",
+      "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
+      "enabled": true
+    },
+    {
+      "id": "cnbc",
+      "name": "CNBC",
+      "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
+      "enabled": true
+    },
+    {
+      "id": "pbsnewshour",
+      "name": "PBS NewsHour",
+      "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
+      "enabled": true
+    },
+    {
+      "id": "newsnation",
+      "name": "NewsNation",
+      "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
+      "enabled": true
+    },
+    {
+      "id": "scrippsnews",
+      "name": "Scripps News",
+      "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
+      "enabled": true
+    },
+    {
+      "id": "guardiannews",
+      "name": "Guardian News",
+      "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
+      "enabled": true
+    },
+    {
+      "id": "channel4news",
+      "name": "Channel 4 News",
+      "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+      "enabled": true
+    },
+    {
+      "id": "globalnews",
+      "name": "Global News",
+      "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
+      "enabled": true
+    },
+    {
+      "id": "cna",
+      "name": "CNA",
+      "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
+      "enabled": true
     }
   ]
 }

@@ -75,12 +75,26 @@ function extractPlayerResponse(html) {
   return null;
 }
 
+// YouTube sometimes serves datacenter IPs (like Actions runners) a consent
+// interstitial or bot check instead of the real page. Without these cookies
+// the wall page has no ytInitialPlayerResponse, which used to read as a
+// silent "not live" — a live channel would show as offline with zero errors.
+const COOKIE = "SOCS=CAI; CONSENT=YES+1";
+
+function classifyWallPage(html) {
+  if (html.includes("consent.youtube.com")) return "consent wall served instead of page";
+  if (html.includes("google.com/sorry") || html.includes("recaptcha"))
+    return "bot check served instead of page";
+  return null;
+}
+
 async function checkChannel(channel) {
   const url = `https://www.youtube.com/channel/${channel.channelId}/live`;
   const res = await fetchWithTimeout(url, {
     headers: {
       "User-Agent": USER_AGENT,
       "Accept-Language": "en-US,en;q=0.9",
+      Cookie: COOKIE,
     },
   });
 
@@ -91,6 +105,14 @@ async function checkChannel(channel) {
   const html = await res.text();
   const playerResponse = extractPlayerResponse(html);
   const videoDetails = playerResponse?.videoDetails;
+
+  if (!playerResponse) {
+    // No player blob at all: either a genuinely-offline channel page, or a
+    // wall page. Surface the wall case as an error so health tracking sees it.
+    const wall = classifyWallPage(html);
+    if (wall) return { ...baseResult(channel), error: wall };
+    return { ...baseResult(channel), live: false };
+  }
 
   const isLive = Boolean(videoDetails?.isLive);
   if (!isLive) {
@@ -136,11 +158,19 @@ async function main() {
 
   const results = [];
   for (const channel of enabled) {
-    try {
-      results.push(await checkChannel(channel));
-    } catch (err) {
-      results.push({ ...baseResult(channel), error: String(err?.message ?? err) });
+    let result;
+    // One retry per channel: transient network blips and one-off wall pages
+    // shouldn't mark a channel offline for a whole 5-minute cycle.
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        result = await checkChannel(channel);
+      } catch (err) {
+        result = { ...baseResult(channel), error: String(err?.message ?? err) };
+      }
+      if (!result.error) break;
+      if (attempt === 1) await sleep(1500);
     }
+    results.push(result);
     await sleep(DELAY_BETWEEN_CHANNELS_MS);
   }
 
