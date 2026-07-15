@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T21:43:42.983Z",
+  "generatedAt": "2026-07-15T22:43:21.223Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -16,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "QFoDJovuCn0",
-      "title": "LIVE: Trump Holds Public Event As US Renews Strikes On Iran, Todd Blanche Testifies Before Congress",
+      "title": "TOP NEWS: Trump Holds Event As US Renews Strikes On Iran, Todd Blanche Testifies Before Congress",
       "thumbnail": "https://i.ytimg.com/vi/QFoDJovuCn0/hqdefault.jpg"
     },
     {
@@ -53,7 +53,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "E_w8fVY_C4U",
+      "title": "Lindsey Graham Drama, Time Zones, & Biden's Book | Friendly Fire",
+      "thumbnail": "https://i.ytimg.com/vi/E_w8fVY_C4U/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -117,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "oaCDCMRGQpI",
+      "videoId": "oTYWwC5dPPM",
       "title": "LIVE: NBC News NOW - July 15",
-      "thumbnail": "https://i.ytimg.com/vi/oaCDCMRGQpI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/oTYWwC5dPPM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ThybphPIXjQ",
-      "title": "WATCH LIVE: GOP senators speak after weekly policy lunch as the U.S. resumes Iran strikes",
-      "thumbnail": "https://i.ytimg.com/vi/ThybphPIXjQ/hqdefault.jpg"
+      "videoId": "G6fvvJ_EiWA",
+      "title": "PBS News Hour live episode, July 15, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/G6fvvJ_EiWA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -219,9 +222,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "2NMizlhDZDY",
+      "videoId": "hsmpXfc-S2A",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/2NMizlhDZDY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/hsmpXfc-S2A/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -254,11 +257,11 @@
   "health": {
     "last24h": {
       "runs": 20,
-      "channelChecks": 532,
+      "channelChecks": 564,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T21:43:42.983Z",
+      "at": "2026-07-15T22:43:21.223Z",
       "checked": 33,
       "errors": 0
     }
