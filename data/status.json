@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T10:56:54.958Z",
+  "generatedAt": "2026-07-15T12:19:59.306Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "IDHN-O9Dlzw",
+      "title": "WATCH LIVE: Trump AG nominee Todd Blanche testifies before Senate",
+      "thumbnail": "https://i.ytimg.com/vi/IDHN-O9Dlzw/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "JgzDRlCNVk4",
-      "title": "LIVE: Keir Starmer answers questions at likely his last Prime Minister's Questions session",
-      "thumbnail": "https://i.ytimg.com/vi/JgzDRlCNVk4/hqdefault.jpg"
+      "videoId": "763ZT4sVSys",
+      "title": "LIVE: Todd Blanche testifies at confirmation hearing to be attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/763ZT4sVSys/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Zl9qPrGQ4Sc",
-      "title": "LIVE: Starmer faces final PMQs as prime minister",
-      "thumbnail": "https://i.ytimg.com/vi/Zl9qPrGQ4Sc/hqdefault.jpg"
+      "videoId": "l1Z7rnOndAg",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/l1Z7rnOndAg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "pPZxXWiEhWY",
+      "videoId": "q5qJELWgM38",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/pPZxXWiEhWY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/q5qJELWgM38/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "31OoMFrYSBw",
+      "title": "LIVE: Todd Blanche testifies in nomination hearing for Attorney General",
+      "thumbnail": "https://i.ytimg.com/vi/31OoMFrYSBw/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "g7GCIspM4g8",
-      "title": "Keir Starmer's final PMQs | In full",
-      "thumbnail": "https://i.ytimg.com/vi/g7GCIspM4g8/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -227,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "8IjetOZOYdg",
-      "title": "Keir Starmer takes questions in final PMQs – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/8IjetOZOYdg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 18,
-      "channelChecks": 252,
+      "runs": 19,
+      "channelChecks": 285,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T10:56:54.958Z",
+      "at": "2026-07-15T12:19:59.306Z",
       "checked": 33,
       "errors": 0
     }
