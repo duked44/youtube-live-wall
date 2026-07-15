@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T14:16:49.176Z",
+  "generatedAt": "2026-07-15T15:56:16.184Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -53,7 +53,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "18BTC7RzEss",
+      "title": "World Cup: Countdown to England v Argentina | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/18BTC7RzEss/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -96,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "zhyiAhYXdhM",
-      "title": "LIVE: Jay Clayton’s confirmation hearing for Director of National Intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/zhyiAhYXdhM/hqdefault.jpg"
+      "videoId": "efFhY_8C65E",
+      "title": "LIVE: Federal Reserve Chair Kevin Warsh hearing",
+      "thumbnail": "https://i.ytimg.com/vi/efFhY_8C65E/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ruq90vCb33o",
-      "title": "LIVE: Jay Clayton's US intelligence director confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/ruq90vCb33o/hqdefault.jpg"
+      "videoId": "33OJAqXHhug",
+      "title": "LIVE: Failed Turkish coup commemorated on 10th anniversary in Ankara",
+      "thumbnail": "https://i.ytimg.com/vi/33OJAqXHhug/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -132,9 +135,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "vFNegNhqO7Q",
-      "title": "Watch Live: Trump's intelligence chief pick Jay Clayton attends his Senate confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/vFNegNhqO7Q/hqdefault.jpg"
+      "videoId": "bUT5-q4LhDU",
+      "title": "Watch Live: Todd Blanche faces questions at his Senate confirmation hearing for attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/bUT5-q4LhDU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "e9BYMPKDB3g",
-      "title": "LIVE: Senators hold hearing on Jay Clayton’s nomination for Director of National Intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/e9BYMPKDB3g/hqdefault.jpg"
+      "videoId": "31OoMFrYSBw",
+      "title": "LIVE: Trump’s controversial AG pick Todd Blanche testifies at confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/31OoMFrYSBw/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -221,7 +224,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "403cLrPPYcY",
+      "title": "Can the Dems outrun the DSA? Debate with Mally Smith | Prove it! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/403cLrPPYcY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -251,10 +257,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "HY87d3PekxY",
-      "title": "Bank of Canada holds benchmark interest rate at 2.25% | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/HY87d3PekxY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -268,12 +271,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 20,
-      "channelChecks": 318,
+      "runs": 21,
+      "channelChecks": 351,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T14:16:49.176Z",
+      "at": "2026-07-15T15:56:16.184Z",
       "checked": 33,
       "errors": 0
     }
