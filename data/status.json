@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:57:27.798Z",
+  "generatedAt": "2026-07-15T10:56:54.958Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,25 +98,28 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Zl9qPrGQ4Sc",
+      "title": "LIVE: Starmer faces final PMQs as prime minister",
+      "thumbnail": "https://i.ytimg.com/vi/Zl9qPrGQ4Sc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "7dmIozs0xrs",
+      "title": "LIVE: ABC News Live - Wednesday, July 15 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/7dmIozs0xrs/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "UK2Ks-5qso4",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/UK2Ks-5qso4/hqdefault.jpg"
+      "videoId": "oaCDCMRGQpI",
+      "title": "LIVE: NBC News NOW - July 15",
+      "thumbnail": "https://i.ytimg.com/vi/oaCDCMRGQpI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Q9FnCrwxY6I",
-      "title": "Old foes Argentina and England face off for place in World Cup final | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/Q9FnCrwxY6I/hqdefault.jpg"
+      "videoId": "g7GCIspM4g8",
+      "title": "Keir Starmer's final PMQs | In full",
+      "thumbnail": "https://i.ytimg.com/vi/g7GCIspM4g8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,7 +227,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "8IjetOZOYdg",
+      "title": "Keir Starmer takes questions in final PMQs – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/8IjetOZOYdg/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -250,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 17,
-      "channelChecks": 219,
+      "runs": 18,
+      "channelChecks": 252,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T08:57:27.798Z",
+      "at": "2026-07-15T10:56:54.958Z",
       "checked": 33,
       "errors": 0
     }
