@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T04:26:43.400Z",
+  "generatedAt": "2026-07-16T07:02:21.931Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "pKglMNDSf_k",
+      "title": "Heartbreak for England after holding the lead until 85th minute | Mornings with Jones and Melbourne",
+      "thumbnail": "https://i.ytimg.com/vi/pKglMNDSf_k/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T04:26:43.400Z",
+      "at": "2026-07-16T07:02:21.931Z",
       "checked": 33,
       "errors": 0
     }
