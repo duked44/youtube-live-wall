@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-16T01:10:34.722Z",
+  "generatedAt": "2026-07-16T04:26:43.400Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "3BsAWo-JzvU",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/3BsAWo-JzvU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -23,7 +20,10 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "NoyiHAMTk3g",
+      "title": "President Trump Addresses the Nation",
+      "thumbnail": "https://i.ytimg.com/vi/NoyiHAMTk3g/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -89,28 +89,25 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "KZwm_Olw5vM",
-      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
-      "thumbnail": "https://i.ytimg.com/vi/KZwm_Olw5vM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "xE1aiY75N4Q",
-      "title": "LIVE: Fans gather in Buenos Aires after Argentina beats England in World Cup semi-finals",
-      "thumbnail": "https://i.ytimg.com/vi/xE1aiY75N4Q/hqdefault.jpg"
+      "videoId": "Dhsfbc2LfcI",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/Dhsfbc2LfcI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "7dmIozs0xrs",
-      "title": "LIVE: ABC News Live - Wednesday, July 15 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/7dmIozs0xrs/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -118,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "oTYWwC5dPPM",
-      "title": "LIVE: NBC News NOW - July 15",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/oTYWwC5dPPM/hqdefault.jpg"
     },
     {
@@ -253,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 20,
-      "channelChecks": 628,
-      "errors": 30
+      "runs": 16,
+      "channelChecks": 528,
+      "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T01:10:34.722Z",
+      "at": "2026-07-16T04:26:43.400Z",
       "checked": 33,
       "errors": 0
     }
