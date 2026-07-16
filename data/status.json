@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T23:43:41.723Z",
+  "generatedAt": "2026-07-16T01:10:34.722Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "KZwm_Olw5vM",
+      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
+      "thumbnail": "https://i.ytimg.com/vi/KZwm_Olw5vM/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -251,11 +254,11 @@
   "health": {
     "last24h": {
       "runs": 20,
-      "channelChecks": 596,
+      "channelChecks": 628,
       "errors": 30
     },
     "lastRun": {
-      "at": "2026-07-15T23:43:41.723Z",
+      "at": "2026-07-16T01:10:34.722Z",
       "checked": 33,
       "errors": 0
     }
