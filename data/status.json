@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T17:52:11.475Z",
+  "generatedAt": "2026-07-16T18:58:26.545Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,36 +12,36 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "gULroJ6GUBo",
-      "title": "LIVE: Karoline Leavitt Holds First White House Press Briefing Since Maternity Leave",
-      "thumbnail": "https://i.ytimg.com/vi/gULroJ6GUBo/hqdefault.jpg"
+      "videoId": "7gdonicl_FM",
+      "title": "LIVE: Trump Addresses The Nation, Leavitt White House Briefing, US Intensifies Strike Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/7gdonicl_FM/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "q-UP7Rqgqfs",
-      "title": "White House Press Briefing",
-      "thumbnail": "https://i.ytimg.com/vi/q-UP7Rqgqfs/hqdefault.jpg"
+      "videoId": "NoyiHAMTk3g",
+      "title": "President Trump Addresses the Nation",
+      "thumbnail": "https://i.ytimg.com/vi/NoyiHAMTk3g/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "eD-k85F1j0M",
-      "title": "WATCH LIVE: Leavitt briefs as Trump weighs expanded Iran operations",
-      "thumbnail": "https://i.ytimg.com/vi/eD-k85F1j0M/hqdefault.jpg"
+      "videoId": "Cr2k-I2o4z8",
+      "title": "WATCH LIVE: Trump addresses the nation",
+      "thumbnail": "https://i.ytimg.com/vi/Cr2k-I2o4z8/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "KfiKu7d3ePc",
-      "title": "Watch Live: Karoline Leavitt Leads First White House Presser Since Her Maternity Leave",
-      "thumbnail": "https://i.ytimg.com/vi/KfiKu7d3ePc/hqdefault.jpg"
+      "videoId": "tiIF-45PIG8",
+      "title": "Watch Live: Trump Addresses the Nation on Election Integrity",
+      "thumbnail": "https://i.ytimg.com/vi/tiIF-45PIG8/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -96,72 +96,69 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "77MWXlCDHZo",
-      "title": "LIVE: White House press briefing with Karoline Leavitt",
-      "thumbnail": "https://i.ytimg.com/vi/77MWXlCDHZo/hqdefault.jpg"
+      "videoId": "HbNcnKNpMtQ",
+      "title": "LIVE: SpaceX Starship Flight 13 launch",
+      "thumbnail": "https://i.ytimg.com/vi/HbNcnKNpMtQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1UX0jLgJNII",
-      "title": "LIVE: White House briefing with Karoline Leavitt ahead of Trump prime-time address",
-      "thumbnail": "https://i.ytimg.com/vi/1UX0jLgJNII/hqdefault.jpg"
+      "videoId": "vSOZlfy70SY",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/vSOZlfy70SY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "P241GXj54nk",
-      "title": "White House Press Briefing | July 16",
-      "thumbnail": "https://i.ytimg.com/vi/P241GXj54nk/hqdefault.jpg"
+      "videoId": "M9rYaVmKnaw",
+      "title": "LIVE: ABC News Live - Thursday, July 16 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/M9rYaVmKnaw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "n9dQin4nfIU",
-      "title": "LIVE: White House holds press briefing | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/n9dQin4nfIU/hqdefault.jpg"
+      "videoId": "M5hBNxH85JQ",
+      "title": "LIVE: NBC News NOW - July 16",
+      "thumbnail": "https://i.ytimg.com/vi/M5hBNxH85JQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "83CxN7CEU_Q",
-      "title": "Watch Live: White House holds briefing ahead of Trump's primetime address",
-      "thumbnail": "https://i.ytimg.com/vi/83CxN7CEU_Q/hqdefault.jpg"
+      "videoId": "8lUSOg_lmDo",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/8lUSOg_lmDo/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "QofEjUIC-74",
-      "title": "Live: White House press briefing",
-      "thumbnail": "https://i.ytimg.com/vi/QofEjUIC-74/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "dzXyUshXnDY",
-      "title": "LIVE: White House Press Secretary Karoline Leavitt holds press briefing",
-      "thumbnail": "https://i.ytimg.com/vi/dzXyUshXnDY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "pYMsHGxlcA8",
-      "title": "White House press secretary Karoline Leavitt holds news briefing",
-      "thumbnail": "https://i.ytimg.com/vi/pYMsHGxlcA8/hqdefault.jpg"
+      "videoId": "60BdZbmomUY",
+      "title": "Remember me for 'saving the Labour party', Starmer tells Sky News | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/60BdZbmomUY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "auaLmBGIH9I",
-      "title": "WATCH LIVE: Karoline Leavitt returns for White House briefing as Trump readies primetime speech",
-      "thumbnail": "https://i.ytimg.com/vi/auaLmBGIH9I/hqdefault.jpg"
+      "videoId": "RMCAWTv0ODg",
+      "title": "WATCH LIVE: Trump to address nation from White House",
+      "thumbnail": "https://i.ytimg.com/vi/RMCAWTv0ODg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -270,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T17:52:11.475Z",
+      "at": "2026-07-16T18:58:26.545Z",
       "checked": 33,
       "errors": 0
     }
