@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T07:02:21.931Z",
+  "generatedAt": "2026-07-16T09:24:00.413Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,16 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "sRmqMj2TlLo",
+      "title": "LIVE: Protest in Ukraine as Zelenskyy moves to oust defense minister",
+      "thumbnail": "https://i.ytimg.com/vi/sRmqMj2TlLo/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Dhsfbc2LfcI",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/Dhsfbc2LfcI/hqdefault.jpg"
+      "videoId": "zz1r_On-YFU",
+      "title": "LIVE: Macron visits site of forest fires near Paris",
+      "thumbnail": "https://i.ytimg.com/vi/zz1r_On-YFU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "pKglMNDSf_k",
-      "title": "Heartbreak for England after holding the lead until 85th minute | Mornings with Jones and Melbourne",
-      "thumbnail": "https://i.ytimg.com/vi/pKglMNDSf_k/hqdefault.jpg"
+      "videoId": "Iqee71lzTTM",
+      "title": "Ministry of Defence questioned on Defence Investment Plan",
+      "thumbnail": "https://i.ytimg.com/vi/Iqee71lzTTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T07:02:21.931Z",
+      "at": "2026-07-16T09:24:00.413Z",
       "checked": 33,
       "errors": 0
     }
