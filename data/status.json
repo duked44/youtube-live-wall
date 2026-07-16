@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T16:39:13.922Z",
+  "generatedAt": "2026-07-16T17:52:11.475Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -31,7 +31,7 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "eD-k85F1j0M",
-      "title": "WATCH LIVE: Leavitt briefs after Trump UNLEASHES new attacks on Iran",
+      "title": "WATCH LIVE: Leavitt briefs as Trump weighs expanded Iran operations",
       "thumbnail": "https://i.ytimg.com/vi/eD-k85F1j0M/hqdefault.jpg"
     },
     {
@@ -105,45 +105,45 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "UR1Nwe8K3GE",
-      "title": "LIVE: Helicopters load water to battle wildfire in Spain's northern Aragon region",
-      "thumbnail": "https://i.ytimg.com/vi/UR1Nwe8K3GE/hqdefault.jpg"
+      "videoId": "1UX0jLgJNII",
+      "title": "LIVE: White House briefing with Karoline Leavitt ahead of Trump prime-time address",
+      "thumbnail": "https://i.ytimg.com/vi/1UX0jLgJNII/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "M9rYaVmKnaw",
-      "title": "LIVE: ABC News Live - Thursday, July 16 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/M9rYaVmKnaw/hqdefault.jpg"
+      "videoId": "P241GXj54nk",
+      "title": "White House Press Briefing | July 16",
+      "thumbnail": "https://i.ytimg.com/vi/P241GXj54nk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "M5hBNxH85JQ",
-      "title": "LIVE: NBC News NOW - July 16",
-      "thumbnail": "https://i.ytimg.com/vi/M5hBNxH85JQ/hqdefault.jpg"
+      "videoId": "n9dQin4nfIU",
+      "title": "LIVE: White House holds press briefing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/n9dQin4nfIU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8lUSOg_lmDo",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/8lUSOg_lmDo/hqdefault.jpg"
+      "videoId": "83CxN7CEU_Q",
+      "title": "Watch Live: White House holds briefing ahead of Trump's primetime address",
+      "thumbnail": "https://i.ytimg.com/vi/83CxN7CEU_Q/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "QofEjUIC-74",
+      "title": "Live: White House press briefing",
+      "thumbnail": "https://i.ytimg.com/vi/QofEjUIC-74/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -159,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "pYMsHGxlcA8",
+      "title": "White House press secretary Karoline Leavitt holds news briefing",
+      "thumbnail": "https://i.ytimg.com/vi/pYMsHGxlcA8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -242,7 +242,10 @@
       "id": "channel4news",
       "name": "Channel 4 News",
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
-      "live": false
+      "live": true,
+      "videoId": "i5SZldyfs0I",
+      "title": "WATCH LIVE: Andy Burnham becomes Britain's latest Prime Minister",
+      "thumbnail": "https://i.ytimg.com/vi/i5SZldyfs0I/hqdefault.jpg"
     },
     {
       "id": "globalnews",
@@ -267,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T16:39:13.922Z",
+      "at": "2026-07-16T17:52:11.475Z",
       "checked": 33,
       "errors": 0
     }
