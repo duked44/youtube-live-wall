@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T15:04:22.081Z",
+  "generatedAt": "2026-07-16T16:39:13.922Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,18 +12,18 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "7gdonicl_FM",
-      "title": "LIVE: House Budget Committee Debates Republican’s Budget Reconciliation Bill",
-      "thumbnail": "https://i.ytimg.com/vi/7gdonicl_FM/hqdefault.jpg"
+      "videoId": "gULroJ6GUBo",
+      "title": "LIVE: Karoline Leavitt Holds First White House Press Briefing Since Maternity Leave",
+      "thumbnail": "https://i.ytimg.com/vi/gULroJ6GUBo/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "NoyiHAMTk3g",
-      "title": "President Trump Addresses the Nation",
-      "thumbnail": "https://i.ytimg.com/vi/NoyiHAMTk3g/hqdefault.jpg"
+      "videoId": "q-UP7Rqgqfs",
+      "title": "White House Press Briefing",
+      "thumbnail": "https://i.ytimg.com/vi/q-UP7Rqgqfs/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -96,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "KHIqlO-nJns",
-      "title": "LIVE: Human rights groups address Trump immigration policies during World Cup",
-      "thumbnail": "https://i.ytimg.com/vi/KHIqlO-nJns/hqdefault.jpg"
+      "videoId": "77MWXlCDHZo",
+      "title": "LIVE: White House press briefing with Karoline Leavitt",
+      "thumbnail": "https://i.ytimg.com/vi/77MWXlCDHZo/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "-RyPNCXdP7g",
-      "title": "LIVE: Blanche's Senate confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/-RyPNCXdP7g/hqdefault.jpg"
+      "videoId": "UR1Nwe8K3GE",
+      "title": "LIVE: Helicopters load water to battle wildfire in Spain's northern Aragon region",
+      "thumbnail": "https://i.ytimg.com/vi/UR1Nwe8K3GE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -132,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "aeo9G34kRKE",
-      "title": "Watch Live: Epstein survivor, others testify on Day 2 of Todd Blanche's confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/aeo9G34kRKE/hqdefault.jpg"
+      "videoId": "8lUSOg_lmDo",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/8lUSOg_lmDo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "d3CTKH2A_pA",
-      "title": "LIVE: Witnesses testify before Senate about Todd Blanche in AG confirmation hearing",
-      "thumbnail": "https://i.ytimg.com/vi/d3CTKH2A_pA/hqdefault.jpg"
+      "videoId": "dzXyUshXnDY",
+      "title": "LIVE: White House Press Secretary Karoline Leavitt holds press briefing",
+      "thumbnail": "https://i.ytimg.com/vi/dzXyUshXnDY/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -213,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "tjxuK9gzR-g",
-      "title": "WATCH LIVE: House considers Take Care of America's Veterans Act",
-      "thumbnail": "https://i.ytimg.com/vi/tjxuK9gzR-g/hqdefault.jpg"
+      "videoId": "auaLmBGIH9I",
+      "title": "WATCH LIVE: Karoline Leavitt returns for White House briefing as Trump readies primetime speech",
+      "thumbnail": "https://i.ytimg.com/vi/auaLmBGIH9I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -248,10 +248,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "0m55DUVAshU",
-      "title": "Carney announces new measures to strengthen Canada's defence capabilities | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/0m55DUVAshU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -265,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 16,
-      "channelChecks": 528,
+      "runs": 15,
+      "channelChecks": 495,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T15:04:22.081Z",
+      "at": "2026-07-16T16:39:13.922Z",
       "checked": 33,
       "errors": 0
     }
