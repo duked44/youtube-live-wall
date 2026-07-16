@@ -13,7 +13,7 @@
   <!-- Bump ?v= whenever styles.css or app.js change: GitHub Pages caches
        files for 10 minutes, and versioned URLs make the HTML and its assets
        update together instead of mixing stale and fresh copies. -->
-  <link rel="stylesheet" href="styles.css?v=3" />
+  <link rel="stylesheet" href="styles.css?v=4" />
 </head>
 <body>
   <header class="site-header">
@@ -34,6 +34,10 @@
         <span class="lamp-dot"></span>
         <span id="onair-text">STANDBY</span>
       </span>
+      <button id="toggle-captions" class="btn btn-ghost" type="button" title="Live captions, transcript, and AI digest">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M19 4H5a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm-8 7H9.5v-.5h-2v3h2V13H11v1a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v1zm7 0h-1.5v-.5h-2v3h2V13H18v1a1 1 0 0 1-1 1h-3a1 1 0 0 1-1-1v-4a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v1z"/></svg>
+        <span class="btn-text">Captions</span>
+      </button>
       <button id="sweep-now" class="btn btn-ghost" type="button" title="Trigger a fresh live check right now (uses your saved GitHub token)">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M17.65 6.35A7.95 7.95 0 0 0 12 4a8 8 0 1 0 7.73 10h-2.08A6 6 0 1 1 12 6c1.66 0 3.14.69 4.22 1.78L13 11h7V4l-2.35 2.35z"/></svg>
         <span class="btn-text">Sweep now</span>
@@ -56,6 +60,59 @@
     </div>
     <div id="grid" class="grid"></div>
   </main>
+
+  <aside id="captions-panel" class="captions-panel" aria-label="Live transcript">
+    <div class="captions-header">
+      <h2>Transcript</h2>
+      <span id="captions-status" class="captions-status">
+        <span class="dot"></span>
+        <span id="captions-status-text">off</span>
+      </span>
+      <button id="close-captions" class="btn btn-ghost btn-icon" type="button" aria-label="Close transcript panel">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M18.3 5.7a1 1 0 0 0-1.4 0L12 10.6 7.1 5.7a1 1 0 0 0-1.4 1.4l4.9 4.9-4.9 4.9a1 1 0 1 0 1.4 1.4l4.9-4.9 4.9 4.9a1 1 0 0 0 1.4-1.4L13.4 12l4.9-4.9a1 1 0 0 0 0-1.4z"/></svg>
+      </button>
+    </div>
+
+    <div class="captions-controls">
+      <button id="captions-start" class="btn btn-primary" type="button">Start captions</button>
+      <button id="captions-summarize" class="btn btn-ghost" type="button">Summarize</button>
+      <button id="captions-download" class="btn btn-ghost" type="button" title="Download the transcript as a text file">Save</button>
+      <button id="captions-clear" class="btn btn-ghost" type="button" title="Erase the recorded transcript">Clear</button>
+    </div>
+
+    <details class="captions-help">
+      <summary>One-time setup: caption the wall's audio, not your room</summary>
+      <ol>
+        <li>Press <kbd>Win</kbd>+<kbd>R</kbd>, run <code>mmsys.cpl</code>, open the <strong>Recording</strong> tab.</li>
+        <li>Right-click the empty list area &rarr; <strong>Show Disabled Devices</strong>.</li>
+        <li>Right-click <strong>Stereo Mix</strong> &rarr; <strong>Enable</strong>, then <strong>Set as Default Device</strong>.</li>
+        <li>Click <strong>Start captions</strong> above and allow microphone access.</li>
+      </ol>
+      <p>
+        Now the transcript captures whatever feed has the audio (the white
+        ring). No Stereo Mix on your PC? The free VB-CABLE driver
+        (vb-audio.com) does the same job, or plain speakers + microphone works
+        in a quiet room. Heads up: Chrome's free recognizer sends the audio to
+        Google's speech service to transcribe it.
+      </p>
+    </details>
+
+    <div id="live-caption" class="live-caption" aria-live="polite"></div>
+
+    <div id="digest" class="digest" hidden>
+      <h3>Summary</h3>
+      <p id="digest-summary"></p>
+      <h3>Key points</h3>
+      <ul id="digest-points"></ul>
+      <h3>Quotes</h3>
+      <div id="digest-quotes"></div>
+      <p id="digest-meta" class="digest-meta"></p>
+    </div>
+
+    <div id="transcript-log" class="transcript-log">
+      <p class="transcript-empty">Nothing recorded yet. Start captions, give one feed the audio, and everything said lands here with timestamps.</p>
+    </div>
+  </aside>
 
   <aside id="settings-panel" class="settings-panel" aria-label="Settings">
     <div class="settings-panel-inner">
@@ -141,6 +198,6 @@
   </aside>
   <div id="settings-backdrop" class="settings-backdrop"></div>
 
-  <script src="app.js?v=3"></script>
+  <script src="app.js?v=4"></script>
 </body>
 </html>

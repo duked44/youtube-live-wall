@@ -39,6 +39,15 @@ API key just for that one lookup (see "Adding / removing channels" below).
   from your view entirely (stored in your browser's localStorage, not synced
   anywhere). Restore hidden channels from the **Settings** panel in the top
   right.
+- The **Captions** header button opens a transcript dock: free live captions
+  via Chrome's built-in speech recognition, a timestamped transcript
+  (attributed to whichever feed holds the audio ring, kept in localStorage),
+  and a **Summarize** action producing a summary, key-point bullets, and
+  verbatim quotes — using Chrome's on-device Summarizer AI when available,
+  with a local text-ranking fallback everywhere else. To caption the wall's
+  audio rather than your microphone, enable Windows' **Stereo Mix** recording
+  device and set it as default (steps are in the panel itself). Note that
+  Chrome's recognizer sends audio to Google's speech service to transcribe it.
 - The **Sweep now** header button commits a timestamp to `.sweep-request`
   (using your saved GitHub token), which push-triggers the checker workflow
   immediately — useful because GitHub's cron schedule is best-effort and often

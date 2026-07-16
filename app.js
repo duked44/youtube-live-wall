@@ -3,6 +3,7 @@ const CHANNELS_URL = "channels.json";
 const POLL_INTERVAL_MS = 60_000;
 const HIDDEN_KEY = "liveWall.hiddenChannelIds";
 const ORDER_KEY = "liveWall.cardOrder";
+const TRANSCRIPT_KEY = "liveWall.transcript";
 const GITHUB_TOKEN_KEY = "liveWall.githubToken";
 const YOUTUBE_API_KEY_KEY = "liveWall.youtubeApiKey";
 const BASE_TITLE = "Airwave · Live Monitor Wall";
@@ -1014,6 +1015,353 @@ function closeSettings() {
 document.getElementById("open-settings").addEventListener("click", openSettings);
 document.getElementById("close-settings").addEventListener("click", closeSettings);
 settingsBackdrop.addEventListener("click", closeSettings);
+
+/* ---------- Live captions, transcript, digest ---------- */
+
+const captionsPanel = document.getElementById("captions-panel");
+const captionsStatusEl = document.getElementById("captions-status");
+const captionsStatusText = document.getElementById("captions-status-text");
+const captionsStartBtn = document.getElementById("captions-start");
+const liveCaptionEl = document.getElementById("live-caption");
+const transcriptLogEl = document.getElementById("transcript-log");
+const digestEl = document.getElementById("digest");
+const digestSummaryEl = document.getElementById("digest-summary");
+const digestPointsEl = document.getElementById("digest-points");
+const digestQuotesEl = document.getElementById("digest-quotes");
+const digestMetaEl = document.getElementById("digest-meta");
+const summarizeBtn = document.getElementById("captions-summarize");
+
+const SpeechRec = window.SpeechRecognition || window.webkitSpeechRecognition;
+let recognizer = null;
+let listening = false;
+let transcript = loadTranscript();
+
+function loadTranscript() {
+  try {
+    const raw = localStorage.getItem(TRANSCRIPT_KEY);
+    const parsed = raw ? JSON.parse(raw) : [];
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveTranscript() {
+  try {
+    // A full day of talk is well under localStorage limits; cap defensively.
+    localStorage.setItem(TRANSCRIPT_KEY, JSON.stringify(transcript.slice(-4000)));
+  } catch {
+    // storage full — drop the oldest half and retry once
+    transcript = transcript.slice(-1500);
+    try {
+      localStorage.setItem(TRANSCRIPT_KEY, JSON.stringify(transcript));
+    } catch {}
+  }
+}
+
+function currentAudioChannelName() {
+  if (!audioFocusId) return null;
+  const card = grid.querySelector(`.card[data-channel-id="${CSS.escape(audioFocusId)}"]`);
+  return card ? card.dataset.name : null;
+}
+
+function setCaptionsStatus(text, live) {
+  captionsStatusText.textContent = text;
+  captionsStatusEl.classList.toggle("live", Boolean(live));
+}
+
+function segTime(t) {
+  return new Date(t).toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" });
+}
+
+function appendLogEntry(seg) {
+  const emptyHint = transcriptLogEl.querySelector(".transcript-empty");
+  if (emptyHint) emptyHint.remove();
+  const entry = document.createElement("div");
+  entry.className = "transcript-entry";
+  const meta = document.createElement("span");
+  meta.className = "meta";
+  meta.innerHTML = `${segTime(seg.t)}${seg.ch ? ` · <span class="ch"></span>` : ""}`;
+  if (seg.ch) meta.querySelector(".ch").textContent = seg.ch;
+  const text = document.createElement("span");
+  text.textContent = seg.text;
+  entry.append(meta, text);
+  const nearBottom =
+    transcriptLogEl.scrollHeight - transcriptLogEl.scrollTop - transcriptLogEl.clientHeight < 80;
+  transcriptLogEl.appendChild(entry);
+  if (nearBottom) transcriptLogEl.scrollTop = transcriptLogEl.scrollHeight;
+}
+
+function renderTranscriptLog() {
+  transcriptLogEl.innerHTML = "";
+  if (transcript.length === 0) {
+    const p = document.createElement("p");
+    p.className = "transcript-empty";
+    p.textContent =
+      "Nothing recorded yet. Start captions, give one feed the audio, and everything said lands here with timestamps.";
+    transcriptLogEl.appendChild(p);
+    return;
+  }
+  for (const seg of transcript.slice(-400)) appendLogEntry(seg);
+  transcriptLogEl.scrollTop = transcriptLogEl.scrollHeight;
+}
+
+function addSegment(text) {
+  const cleaned = text.trim();
+  if (!cleaned) return;
+  const seg = { t: Date.now(), ch: currentAudioChannelName(), text: cleaned };
+  transcript.push(seg);
+  saveTranscript();
+  appendLogEntry(seg);
+}
+
+function startCaptions() {
+  if (!SpeechRec) {
+    setCaptionsStatus("needs Chrome or Edge", false);
+    return;
+  }
+  if (listening) {
+    stopCaptions();
+    return;
+  }
+  listening = true;
+  recognizer = new SpeechRec();
+  recognizer.continuous = true;
+  recognizer.interimResults = true;
+  recognizer.lang = "en-US";
+
+  recognizer.onresult = (e) => {
+    let interim = "";
+    for (let i = e.resultIndex; i < e.results.length; i++) {
+      const r = e.results[i];
+      if (r.isFinal) addSegment(r[0].transcript);
+      else interim += r[0].transcript;
+    }
+    liveCaptionEl.textContent = interim.trim();
+    liveCaptionEl.classList.toggle("active", interim.trim().length > 0);
+  };
+  recognizer.onerror = (e) => {
+    if (e.error === "not-allowed" || e.error === "service-not-allowed") {
+      stopCaptions();
+      setCaptionsStatus("mic blocked — allow it in the address bar", false);
+    } else if (e.error === "audio-capture") {
+      stopCaptions();
+      setCaptionsStatus("no input device found", false);
+    }
+    // no-speech / network / aborted: onend fires and we restart
+  };
+  // Chrome ends recognition after silence or ~1 minute; keep it rolling.
+  recognizer.onend = () => {
+    if (listening) {
+      try {
+        recognizer.start();
+      } catch {}
+    }
+  };
+
+  try {
+    recognizer.start();
+    setCaptionsStatus("listening", true);
+    captionsStartBtn.textContent = "Stop captions";
+  } catch {
+    listening = false;
+    setCaptionsStatus("couldn't start", false);
+  }
+}
+
+function stopCaptions() {
+  listening = false;
+  if (recognizer) {
+    try {
+      recognizer.stop();
+    } catch {}
+    recognizer = null;
+  }
+  liveCaptionEl.classList.remove("active");
+  setCaptionsStatus("off", false);
+  captionsStartBtn.textContent = "Start captions";
+}
+
+/* --- Digest: summary, key points, verbatim quotes --- */
+
+const STOPWORDS = new Set(
+  ("the a an and or but if then so of to in on at by for with about as is are was were be been being " +
+    "this that these those it its from we you they he she i not no yes do does did have has had will " +
+    "would can could should our your their them his her us my me there here what when who how why which " +
+    "just going go get got like know think really very well also because been more some out up down all").split(" ")
+);
+
+function words(text) {
+  return text.toLowerCase().match(/[a-z']{3,}/g) || [];
+}
+
+function scoreSentences(sentences) {
+  const freq = new Map();
+  for (const s of sentences) {
+    for (const w of words(s.text)) {
+      if (!STOPWORDS.has(w)) freq.set(w, (freq.get(w) || 0) + 1);
+    }
+  }
+  for (const s of sentences) {
+    const ws = words(s.text).filter((w) => !STOPWORDS.has(w));
+    let sum = 0;
+    for (const w of ws) sum += freq.get(w) || 0;
+    s.score = ws.length ? sum / Math.sqrt(ws.length + 3) : 0;
+  }
+  return sentences;
+}
+
+function transcriptSentences(segs) {
+  const out = [];
+  for (const seg of segs) {
+    for (const raw of seg.text.split(/(?<=[.!?])\s+/)) {
+      const text = raw.trim();
+      if (text) out.push({ text, t: seg.t, ch: seg.ch });
+    }
+  }
+  return out;
+}
+
+function extractiveDigest(segs) {
+  const sentences = scoreSentences(transcriptSentences(segs));
+  const byScore = [...sentences].sort((a, b) => b.score - a.score);
+  const summaryPicks = byScore
+    .slice(0, 4)
+    .sort((a, b) => a.t - b.t)
+    .map((s) => s.text);
+  const points = byScore
+    .filter((s) => words(s.text).length >= 6)
+    .slice(0, 6)
+    .map((s) => (s.text.length > 160 ? s.text.slice(0, 157) + "…" : s.text));
+  return { summary: summaryPicks.join(" "), points };
+}
+
+function extractQuotes(segs) {
+  const sentences = scoreSentences(transcriptSentences(segs));
+  return sentences
+    .filter((s) => {
+      const n = words(s.text).length;
+      return n >= 8 && n <= 45;
+    })
+    .sort((a, b) => b.score - a.score)
+    .slice(0, 5)
+    .sort((a, b) => a.t - b.t);
+}
+
+async function chromeAiDigest(text) {
+  if (!("Summarizer" in self)) return null;
+  const availability = await Summarizer.availability();
+  if (availability === "unavailable") return null;
+  if (availability !== "available") {
+    digestMetaEl.textContent = "downloading Chrome's on-device model (one time)…";
+  }
+  const clipped = text.slice(-16000);
+  const tldr = await Summarizer.create({ type: "tldr", format: "plain-text", length: "medium" });
+  const summary = await tldr.summarize(clipped);
+  tldr.destroy?.();
+  const kp = await Summarizer.create({ type: "key-points", format: "plain-text", length: "medium" });
+  const pointsRaw = await kp.summarize(clipped);
+  kp.destroy?.();
+  const points = pointsRaw
+    .split(/\n+/)
+    .map((l) => l.replace(/^[-*•]\s*/, "").trim())
+    .filter(Boolean);
+  return { summary: summary.trim(), points };
+}
+
+async function summarizeTranscript() {
+  const segs = transcript.slice(-1200);
+  const fullText = segs.map((s) => s.text).join(" ");
+  if (words(fullText).length < 40) {
+    digestEl.hidden = false;
+    digestSummaryEl.textContent = "";
+    digestPointsEl.innerHTML = "";
+    digestQuotesEl.innerHTML = "";
+    digestMetaEl.textContent = "not enough transcript yet — let it listen for a minute or two first";
+    return;
+  }
+
+  summarizeBtn.disabled = true;
+  summarizeBtn.textContent = "Summarizing…";
+  digestEl.hidden = false;
+
+  let digest = null;
+  let engine = "local extractive";
+  try {
+    digest = await chromeAiDigest(fullText);
+    if (digest) engine = "Chrome on-device AI";
+  } catch (err) {
+    console.warn("Chrome Summarizer unavailable, using local fallback", err);
+  }
+  if (!digest) digest = extractiveDigest(segs);
+
+  const quotes = extractQuotes(segs);
+
+  digestSummaryEl.textContent = digest.summary;
+  digestPointsEl.innerHTML = "";
+  for (const point of digest.points) {
+    const li = document.createElement("li");
+    li.textContent = point;
+    digestPointsEl.appendChild(li);
+  }
+  digestQuotesEl.innerHTML = "";
+  for (const q of quotes) {
+    const bq = document.createElement("blockquote");
+    const body = document.createElement("span");
+    body.textContent = `“${q.text}”`;
+    const footer = document.createElement("footer");
+    footer.textContent = `${segTime(q.t)}${q.ch ? ` · ${q.ch}` : ""}`;
+    bq.append(body, footer);
+    digestQuotesEl.appendChild(bq);
+  }
+
+  const spanMins = Math.max(1, Math.round((segs[segs.length - 1].t - segs[0].t) / 60000));
+  digestMetaEl.textContent = `covers ~${spanMins} min of transcript · ${engine} · quotes are verbatim from the transcript`;
+  summarizeBtn.disabled = false;
+  summarizeBtn.textContent = "Summarize";
+}
+
+function downloadTranscript() {
+  if (transcript.length === 0) return;
+  const lines = transcript.map(
+    (s) => `[${new Date(s.t).toLocaleString()}]${s.ch ? ` ${s.ch}:` : ""} ${s.text}`
+  );
+  const blob = new Blob([lines.join("\n") + "\n"], { type: "text/plain" });
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(blob);
+  a.download = `airwave-transcript-${new Date().toISOString().slice(0, 16).replace(/[T:]/g, "-")}.txt`;
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function clearTranscript() {
+  if (transcript.length && !confirm("Erase the recorded transcript?")) return;
+  transcript = [];
+  saveTranscript();
+  digestEl.hidden = true;
+  renderTranscriptLog();
+}
+
+function openCaptions() {
+  captionsPanel.classList.add("open");
+  document.body.classList.add("captions-open");
+}
+
+function closeCaptions() {
+  captionsPanel.classList.remove("open");
+  document.body.classList.remove("captions-open");
+}
+
+document.getElementById("toggle-captions").addEventListener("click", () => {
+  if (captionsPanel.classList.contains("open")) closeCaptions();
+  else openCaptions();
+});
+document.getElementById("close-captions").addEventListener("click", closeCaptions);
+captionsStartBtn.addEventListener("click", startCaptions);
+summarizeBtn.addEventListener("click", summarizeTranscript);
+document.getElementById("captions-download").addEventListener("click", downloadTranscript);
+document.getElementById("captions-clear").addEventListener("click", clearTranscript);
+renderTranscriptLog();
 
 renderConnectSection();
 render();

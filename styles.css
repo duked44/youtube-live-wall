@@ -612,6 +612,241 @@ main {
   color: var(--text-faint);
 }
 
+/* ---------- Transcript dock ---------- */
+
+.captions-panel {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: min(390px, 100%);
+  background: #0c0e14;
+  border-left: 1px solid var(--border);
+  z-index: 7;
+  display: flex;
+  flex-direction: column;
+  transform: translateX(102%);
+  transition: transform 0.32s cubic-bezier(0.25, 0.9, 0.3, 1);
+  visibility: hidden;
+}
+
+.captions-panel.open {
+  transform: translateX(0);
+  visibility: visible;
+}
+
+/* The wall shrinks to make room instead of being covered */
+body.captions-open main {
+  margin-right: min(390px, 60vw);
+}
+
+.captions-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 14px 16px 10px;
+  border-bottom: 1px solid var(--border);
+}
+
+.captions-header h2 {
+  margin: 0;
+  font-size: 0.95rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  flex: 1 1 auto;
+}
+
+.captions-status {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  color: var(--text-dim);
+}
+
+.captions-status .dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--text-faint);
+}
+
+.captions-status.live .dot {
+  background: var(--live);
+  box-shadow: 0 0 8px var(--live);
+  animation: pulse 1.6s ease-in-out infinite;
+}
+
+.captions-controls {
+  display: flex;
+  gap: 8px;
+  padding: 12px 16px;
+  flex-wrap: wrap;
+}
+
+.captions-help {
+  margin: 0 16px 10px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  font-size: 0.79rem;
+  color: var(--text-dim);
+}
+
+.captions-help summary {
+  cursor: pointer;
+  padding: 9px 12px;
+  font-weight: 500;
+  color: var(--text);
+  font-size: 0.79rem;
+}
+
+.captions-help ol,
+.captions-help p {
+  margin: 6px 12px 10px;
+  padding-left: 14px;
+  line-height: 1.55;
+}
+
+.captions-help p {
+  padding-left: 0;
+}
+
+.captions-help code,
+.captions-help kbd {
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  padding: 1px 5px;
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+}
+
+.live-caption {
+  min-height: 0;
+  margin: 0 16px 10px;
+  padding: 10px 12px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: var(--text);
+  display: none;
+}
+
+.live-caption.active {
+  display: block;
+}
+
+.digest {
+  margin: 0 16px 10px;
+  padding: 12px 14px;
+  border-radius: var(--radius-sm);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  overflow-y: auto;
+  max-height: 45%;
+  flex-shrink: 0;
+}
+
+.digest h3 {
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--text-dim);
+  margin: 12px 0 6px;
+}
+
+.digest h3:first-child {
+  margin-top: 0;
+}
+
+.digest p,
+.digest li {
+  font-size: 0.83rem;
+  line-height: 1.55;
+  color: var(--text);
+  margin: 0;
+}
+
+.digest ul {
+  margin: 0;
+  padding-left: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.digest blockquote {
+  margin: 0 0 8px;
+  padding: 8px 12px;
+  border-left: 3px solid var(--live);
+  background: var(--surface-2);
+  border-radius: 0 var(--radius-sm) var(--radius-sm) 0;
+  font-size: 0.83rem;
+  line-height: 1.5;
+}
+
+.digest blockquote footer {
+  margin-top: 4px;
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  color: var(--text-faint);
+}
+
+.digest-meta {
+  font-family: var(--font-mono);
+  font-size: 0.64rem;
+  color: var(--text-faint);
+  margin: 10px 0 0;
+}
+
+.transcript-log {
+  flex: 1 1 auto;
+  overflow-y: auto;
+  padding: 4px 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.transcript-empty {
+  color: var(--text-faint);
+  font-size: 0.8rem;
+  line-height: 1.5;
+  padding: 12px 4px;
+}
+
+.transcript-entry {
+  font-size: 0.83rem;
+  line-height: 1.5;
+}
+
+.transcript-entry .meta {
+  font-family: var(--font-mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.06em;
+  color: var(--text-faint);
+  display: block;
+  margin-bottom: 2px;
+}
+
+.transcript-entry .meta .ch {
+  color: var(--text-dim);
+}
+
+@media (max-width: 900px) {
+  body.captions-open main {
+    margin-right: 0;
+  }
+}
+
 /* ---------- Settings drawer ---------- */
 
 .settings-backdrop {
