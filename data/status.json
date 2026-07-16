@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T22:18:44.217Z",
+  "generatedAt": "2026-07-16T23:15:55.860Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HbNcnKNpMtQ",
-      "title": "LIVE: SpaceX Starship Flight 13 launch",
-      "thumbnail": "https://i.ytimg.com/vi/HbNcnKNpMtQ/hqdefault.jpg"
+      "videoId": "9jjHi2O5fBw",
+      "title": "LIVE: Trump addresses the nation",
+      "thumbnail": "https://i.ytimg.com/vi/9jjHi2O5fBw/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -135,18 +135,18 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8lUSOg_lmDo",
+      "videoId": "1fznjzceN8o",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/8lUSOg_lmDo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1fznjzceN8o/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "HAFY3-Z0vQE",
-      "title": "Live: SpaceX Starship test flight launch",
-      "thumbnail": "https://i.ytimg.com/vi/HAFY3-Z0vQE/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -159,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "jetHjoBWSXc",
-      "title": "Burnham will become Labour leader tomorrow | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/jetHjoBWSXc/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,24 +213,27 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "k0Tm_CvYOUQ",
-      "title": "PBS News Hour live episode, July 16, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/k0Tm_CvYOUQ/hqdefault.jpg"
+      "videoId": "RMCAWTv0ODg",
+      "title": "WATCH LIVE: Trump to address nation from White House",
+      "thumbnail": "https://i.ytimg.com/vi/RMCAWTv0ODg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "raSQ5tAqnQs",
+      "title": "The Mysterious Parasite Spreading Across 34 States — How to Stay Safe | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/raSQ5tAqnQs/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "hsmpXfc-S2A",
+      "videoId": "mGfoHhKDAkM",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/hsmpXfc-S2A/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/mGfoHhKDAkM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -273,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T22:18:44.217Z",
+      "at": "2026-07-16T23:15:55.860Z",
       "checked": 33,
       "errors": 0
     }
