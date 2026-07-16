@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T11:17:02.710Z",
+  "generatedAt": "2026-07-16T12:55:55.204Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "njGbIfH4mA0",
+      "title": "WATCH LIVE: Todd Blanche faces Senate SCRUTINY over DOJ's future",
+      "thumbnail": "https://i.ytimg.com/vi/njGbIfH4mA0/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +93,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "sRmqMj2TlLo",
-      "title": "LIVE: Protest in Ukraine as Zelenskyy reshuffles government",
-      "thumbnail": "https://i.ytimg.com/vi/sRmqMj2TlLo/hqdefault.jpg"
+      "videoId": "BwItSDy5jBc",
+      "title": "LIVE: Todd Blanche testifies on second day of confirmation hearing to be attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/BwItSDy5jBc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "WQ0ucF3lNis",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/WQ0ucF3lNis/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -143,7 +143,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "d3CTKH2A_pA",
+      "title": "LIVE: Witnesses testify before Senate about Todd Blanche in AG confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/d3CTKH2A_pA/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T11:17:02.710Z",
+      "at": "2026-07-16T12:55:55.204Z",
       "checked": 33,
       "errors": 0
     }
