@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T12:55:55.204Z",
+  "generatedAt": "2026-07-16T15:04:22.081Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "QFoDJovuCn0",
-      "title": "TOP NEWS: Trump Holds Event As US Renews Strikes On Iran, Todd Blanche Testifies Before Congress",
-      "thumbnail": "https://i.ytimg.com/vi/QFoDJovuCn0/hqdefault.jpg"
+      "videoId": "7gdonicl_FM",
+      "title": "LIVE: House Budget Committee Debates Republican’s Budget Reconciliation Bill",
+      "thumbnail": "https://i.ytimg.com/vi/7gdonicl_FM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,15 +30,18 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "njGbIfH4mA0",
-      "title": "WATCH LIVE: Todd Blanche faces Senate SCRUTINY over DOJ's future",
-      "thumbnail": "https://i.ytimg.com/vi/njGbIfH4mA0/hqdefault.jpg"
+      "videoId": "eD-k85F1j0M",
+      "title": "WATCH LIVE: Leavitt briefs after Trump UNLEASHES new attacks on Iran",
+      "thumbnail": "https://i.ytimg.com/vi/eD-k85F1j0M/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "KfiKu7d3ePc",
+      "title": "Watch Live: Karoline Leavitt Leads First White House Presser Since Her Maternity Leave",
+      "thumbnail": "https://i.ytimg.com/vi/KfiKu7d3ePc/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -93,15 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "BwItSDy5jBc",
-      "title": "LIVE: Todd Blanche testifies on second day of confirmation hearing to be attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/BwItSDy5jBc/hqdefault.jpg"
+      "videoId": "KHIqlO-nJns",
+      "title": "LIVE: Human rights groups address Trump immigration policies during World Cup",
+      "thumbnail": "https://i.ytimg.com/vi/KHIqlO-nJns/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "-RyPNCXdP7g",
+      "title": "LIVE: Blanche's Senate confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/-RyPNCXdP7g/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8lUSOg_lmDo",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/8lUSOg_lmDo/hqdefault.jpg"
+      "videoId": "aeo9G34kRKE",
+      "title": "Watch Live: Epstein survivor, others testify on Day 2 of Todd Blanche's confirmation hearing",
+      "thumbnail": "https://i.ytimg.com/vi/aeo9G34kRKE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -207,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ThybphPIXjQ",
-      "title": "WATCH LIVE: GOP senators speak after weekly policy lunch as the U.S. resumes Iran strikes",
-      "thumbnail": "https://i.ytimg.com/vi/ThybphPIXjQ/hqdefault.jpg"
+      "videoId": "tjxuK9gzR-g",
+      "title": "WATCH LIVE: House considers Take Care of America's Veterans Act",
+      "thumbnail": "https://i.ytimg.com/vi/tjxuK9gzR-g/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "0m55DUVAshU",
+      "title": "Carney announces new measures to strengthen Canada's defence capabilities | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/0m55DUVAshU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T12:55:55.204Z",
+      "at": "2026-07-16T15:04:22.081Z",
       "checked": 33,
       "errors": 0
     }
