@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T20:08:06.239Z",
+  "generatedAt": "2026-07-16T21:15:29.268Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -16,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "7gdonicl_FM",
-      "title": "LIVE: Trump Addresses The Nation, Leavitt White House Briefing, US Intensifies Strike Against Iran",
+      "title": "TOP NEWS: Trump's Address To Nation, Leavitt White House Briefing, US Renews Strikes Against Iran",
       "thumbnail": "https://i.ytimg.com/vi/7gdonicl_FM/hqdefault.jpg"
     },
     {
@@ -108,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "qPzu-dREn4k",
-      "title": "LIVE: RFK Jr., Brooke Rollins sign pledge to improve hospital food",
-      "thumbnail": "https://i.ytimg.com/vi/qPzu-dREn4k/hqdefault.jpg"
+      "videoId": "vSOZlfy70SY",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/vSOZlfy70SY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -159,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "jetHjoBWSXc",
+      "title": "The Wrap | Thursday 16 July 2026",
+      "thumbnail": "https://i.ytimg.com/vi/jetHjoBWSXc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,10 +221,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "kTEx7lrHRJ0",
-      "title": "Are the Dems done with Israel? Debate with Dan Kanninen | Prove it! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/kTEx7lrHRJ0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -254,7 +251,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "359HGr4ZP9k",
+      "title": "Trump delivers address to the nation on election security | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/359HGr4ZP9k/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -273,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T20:08:06.239Z",
+      "at": "2026-07-16T21:15:29.268Z",
       "checked": 33,
       "errors": 0
     }
