@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:26:43.387Z",
+  "generatedAt": "2026-07-17T10:19:30.128Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "x-ls5wXeAzc",
-      "title": "LIVE: World Artificial Intelligence Conference kicks-off in Shanghai",
-      "thumbnail": "https://i.ytimg.com/vi/x-ls5wXeAzc/hqdefault.jpg"
+      "videoId": "_8LvsQfKfYU",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/_8LvsQfKfYU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "dsvX-DL6mUk",
+      "title": "LIVE: ABC News Live - Friday, July 17 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/dsvX-DL6mUk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "8pQSW9OIHzU",
-      "title": "Andy Burnham set to become Labour leader today | Mornings with Jones and Melbourne",
-      "thumbnail": "https://i.ytimg.com/vi/8pQSW9OIHzU/hqdefault.jpg"
+      "videoId": "UcCHyys6Twc",
+      "title": "Burnham becomes Labour leader | Sky News special programme",
+      "thumbnail": "https://i.ytimg.com/vi/UcCHyys6Twc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T08:26:43.387Z",
+      "at": "2026-07-17T10:19:30.128Z",
       "checked": 33,
       "errors": 0
     }
