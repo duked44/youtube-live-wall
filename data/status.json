@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T21:31:30.209Z",
+  "generatedAt": "2026-07-17T22:27:47.376Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "mQDbIx67fRE",
-      "title": "WATCH LIVE: President Trump attends FIFA World Cup reception at Trump Tower",
-      "thumbnail": "https://i.ytimg.com/vi/mQDbIx67fRE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -95,7 +92,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "fHKWgsoVHd0",
+      "title": "LIVE: Air quality across Canada and North America as wildfires burn",
+      "thumbnail": "https://i.ytimg.com/vi/fHKWgsoVHd0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "r9r_YABuWpY",
+      "videoId": "McVKZS3gTMw",
       "title": "LIVE: NBC News NOW - July 17",
-      "thumbnail": "https://i.ytimg.com/vi/r9r_YABuWpY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/McVKZS3gTMw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -198,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "V2xRjOpU2k0",
-      "title": "WATCH LIVE: Trump attends FIFA event at Trump Tower as World Cup matches wrap up",
-      "thumbnail": "https://i.ytimg.com/vi/V2xRjOpU2k0/hqdefault.jpg"
+      "videoId": "XWKjKs1gHHg",
+      "title": "PBS News Hour live episode, July 17, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/XWKjKs1gHHg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T21:31:30.209Z",
+      "at": "2026-07-17T22:27:47.376Z",
       "checked": 33,
       "errors": 0
     }
