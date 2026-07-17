@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T11:47:08.344Z",
+  "generatedAt": "2026-07-17T12:52:41.730Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,16 +86,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "TVTMYQ5KiPI",
+      "title": "LIVE: Manhattan skyline as Canadian wildfire smoke spreads across US Northeast.",
+      "thumbnail": "https://i.ytimg.com/vi/TVTMYQ5KiPI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "tA5fyQJOU1M",
-      "title": "LIVE: UK's Andy Burnham makes first address as new Labour Leader",
-      "thumbnail": "https://i.ytimg.com/vi/tA5fyQJOU1M/hqdefault.jpg"
+      "videoId": "_8LvsQfKfYU",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/_8LvsQfKfYU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "SsJCSVAR7FQ",
-      "title": "Burnham vows new path for UK as he becomes Labour leader",
-      "thumbnail": "https://i.ytimg.com/vi/SsJCSVAR7FQ/hqdefault.jpg"
+      "videoId": "UcCHyys6Twc",
+      "title": "Burnham becomes Labour leader | Sky News special programme",
+      "thumbnail": "https://i.ytimg.com/vi/UcCHyys6Twc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -247,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 15,
-      "channelChecks": 495,
+      "runs": 16,
+      "channelChecks": 528,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T11:47:08.344Z",
+      "at": "2026-07-17T12:52:41.730Z",
       "checked": 33,
       "errors": 0
     }
