@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T23:15:55.860Z",
+  "generatedAt": "2026-07-17T00:16:00.835Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "PjEpfuRHoLI",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
+      "title": "Iran War & Trump Speech - LIVE Breaking News Coverage (New U.S. Strikes)",
       "thumbnail": "https://i.ytimg.com/vi/PjEpfuRHoLI/hqdefault.jpg"
     },
     {
@@ -126,9 +126,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "VaKRjgWZIDM",
-      "title": "LIVE: NBC News NOW - July 16",
-      "thumbnail": "https://i.ytimg.com/vi/VaKRjgWZIDM/hqdefault.jpg"
+      "videoId": "ul6t6oKVWIk",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Jul 16",
+      "thumbnail": "https://i.ytimg.com/vi/ul6t6oKVWIk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -221,10 +221,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "raSQ5tAqnQs",
-      "title": "The Mysterious Parasite Spreading Across 34 States — How to Stay Safe | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/raSQ5tAqnQs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -276,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-16T23:15:55.860Z",
+      "at": "2026-07-17T00:16:00.835Z",
       "checked": 33,
       "errors": 0
     }
