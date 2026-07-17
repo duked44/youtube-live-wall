@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T14:27:47.570Z",
+  "generatedAt": "2026-07-17T15:59:34.426Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "U_LWY4SlmvI",
-      "title": "LIVE: DHS Secretary Markwayne Mullin Holds American Elections Press Conference After Trump's Address",
-      "thumbnail": "https://i.ytimg.com/vi/U_LWY4SlmvI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -86,19 +83,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "TVTMYQ5KiPI",
-      "title": "LIVE: Manhattan skyline as Canadian wildfire smoke spreads across US Northeast.",
-      "thumbnail": "https://i.ytimg.com/vi/TVTMYQ5KiPI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_8LvsQfKfYU",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/_8LvsQfKfYU/hqdefault.jpg"
+      "videoId": "BusVsDBXfQA",
+      "title": "LIVE: Venice activists protest US ambassador’s planned mega-yacht visit",
+      "thumbnail": "https://i.ytimg.com/vi/BusVsDBXfQA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -200,10 +194,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "37rA0AqVybU",
-      "title": "WATCH LIVE: Mullin holds news conference on election security after Trump's address to the nation",
-      "thumbnail": "https://i.ytimg.com/vi/37rA0AqVybU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -240,9 +231,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "cirYgPBWmCU",
-      "title": "Doug Ford speaks to media amid criticism over wildfire response in northern Ontario | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/cirYgPBWmCU/hqdefault.jpg"
+      "videoId": "-DVUeEUa5Jo",
+      "title": "Canada Foreign Minister Anand, Mexico Foreign Minister press conference | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/-DVUeEUa5Jo/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T14:27:47.570Z",
+      "at": "2026-07-17T15:59:34.426Z",
       "checked": 33,
       "errors": 0
     }
