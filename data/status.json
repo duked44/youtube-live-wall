@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T06:06:10.828Z",
+  "generatedAt": "2026-07-17T08:26:43.387Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_8LvsQfKfYU",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/_8LvsQfKfYU/hqdefault.jpg"
+      "videoId": "x-ls5wXeAzc",
+      "title": "LIVE: World Artificial Intelligence Conference kicks-off in Shanghai",
+      "thumbnail": "https://i.ytimg.com/vi/x-ls5wXeAzc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -145,7 +145,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "8pQSW9OIHzU",
-      "title": "Mornings with Jones and Melbourne | Friday 17 July 2026",
+      "title": "Andy Burnham set to become Labour leader today | Mornings with Jones and Melbourne",
       "thumbnail": "https://i.ytimg.com/vi/8pQSW9OIHzU/hqdefault.jpg"
     },
     {
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T06:06:10.828Z",
+      "at": "2026-07-17T08:26:43.387Z",
       "checked": 33,
       "errors": 0
     }
