@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T03:43:18.972Z",
+  "generatedAt": "2026-07-17T06:06:10.828Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "vSOZlfy70SY",
+      "videoId": "_8LvsQfKfYU",
       "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/vSOZlfy70SY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_8LvsQfKfYU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "8pQSW9OIHzU",
+      "title": "Mornings with Jones and Melbourne | Friday 17 July 2026",
+      "thumbnail": "https://i.ytimg.com/vi/8pQSW9OIHzU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T03:43:18.972Z",
+      "at": "2026-07-17T06:06:10.828Z",
       "checked": 33,
       "errors": 0
     }
