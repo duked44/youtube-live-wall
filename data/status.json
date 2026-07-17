@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T20:37:19.409Z",
+  "generatedAt": "2026-07-17T21:31:30.209Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "mQDbIx67fRE",
+      "title": "WATCH LIVE: President Trump attends FIFA World Cup reception at Trump Tower",
+      "thumbnail": "https://i.ytimg.com/vi/mQDbIx67fRE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,10 +95,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "zZvO3Leyc8k",
-      "title": "LIVE: Texas governor holds severe weather response briefing",
-      "thumbnail": "https://i.ytimg.com/vi/zZvO3Leyc8k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -213,9 +213,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "mGfoHhKDAkM",
+      "videoId": "vAF9plB-wRE",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/mGfoHhKDAkM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/vAF9plB-wRE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T20:37:19.409Z",
+      "at": "2026-07-17T21:31:30.209Z",
       "checked": 33,
       "errors": 0
     }
