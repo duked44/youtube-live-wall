@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T22:27:47.376Z",
+  "generatedAt": "2026-07-17T23:28:07.130Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -197,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "XWKjKs1gHHg",
-      "title": "PBS News Hour live episode, July 17, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/XWKjKs1gHHg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T22:27:47.376Z",
+      "at": "2026-07-17T23:28:07.130Z",
       "checked": 33,
       "errors": 0
     }
