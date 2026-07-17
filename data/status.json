@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T17:20:35.131Z",
+  "generatedAt": "2026-07-17T18:31:26.971Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "zzIaaRjbees",
-      "title": "LIVE: Venice activists protest US ambassador’s planned mega-yacht visit",
-      "thumbnail": "https://i.ytimg.com/vi/zzIaaRjbees/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T17:20:35.131Z",
+      "at": "2026-07-17T18:31:26.971Z",
       "checked": 33,
       "errors": 0
     }
