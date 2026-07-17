@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-17T00:16:00.835Z",
+  "generatedAt": "2026-07-17T03:43:18.972Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "PjEpfuRHoLI",
-      "title": "Iran War & Trump Speech - LIVE Breaking News Coverage (New U.S. Strikes)",
-      "thumbnail": "https://i.ytimg.com/vi/PjEpfuRHoLI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -23,28 +20,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "NoyiHAMTk3g",
-      "title": "President Trump Addresses the Nation",
-      "thumbnail": "https://i.ytimg.com/vi/NoyiHAMTk3g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Cr2k-I2o4z8",
-      "title": "WATCH LIVE: Trump addresses the nation",
-      "thumbnail": "https://i.ytimg.com/vi/Cr2k-I2o4z8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "tiIF-45PIG8",
-      "title": "Watch Live: Trump Addresses the Nation on Election Integrity",
-      "thumbnail": "https://i.ytimg.com/vi/tiIF-45PIG8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -98,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "9jjHi2O5fBw",
-      "title": "LIVE: Trump addresses the nation",
-      "thumbnail": "https://i.ytimg.com/vi/9jjHi2O5fBw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -117,18 +102,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "M9rYaVmKnaw",
-      "title": "LIVE: ABC News Live - Thursday, July 16 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/M9rYaVmKnaw/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ul6t6oKVWIk",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Jul 16",
-      "thumbnail": "https://i.ytimg.com/vi/ul6t6oKVWIk/hqdefault.jpg"
+      "videoId": "VaKRjgWZIDM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/VaKRjgWZIDM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -212,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "RMCAWTv0ODg",
-      "title": "WATCH LIVE: Trump to address nation from White House",
-      "thumbnail": "https://i.ytimg.com/vi/RMCAWTv0ODg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -251,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "359HGr4ZP9k",
-      "title": "Trump delivers address to the nation on election security | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/359HGr4ZP9k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -273,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T00:16:00.835Z",
+      "at": "2026-07-17T03:43:18.972Z",
       "checked": 33,
       "errors": 0
     }
