@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T12:52:41.730Z",
+  "generatedAt": "2026-07-17T14:27:47.570Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "7gdonicl_FM",
-      "title": "TOP NEWS: Trump's Address To Nation, Leavitt White House Briefing, US Renews Strikes Against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/7gdonicl_FM/hqdefault.jpg"
+      "videoId": "U_LWY4SlmvI",
+      "title": "LIVE: DHS Secretary Markwayne Mullin Holds American Elections Press Conference After Trump's Address",
+      "thumbnail": "https://i.ytimg.com/vi/U_LWY4SlmvI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "UcCHyys6Twc",
-      "title": "Burnham becomes Labour leader | Sky News special programme",
-      "thumbnail": "https://i.ytimg.com/vi/UcCHyys6Twc/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +200,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "37rA0AqVybU",
+      "title": "WATCH LIVE: Mullin holds news conference on election security after Trump's address to the nation",
+      "thumbnail": "https://i.ytimg.com/vi/37rA0AqVybU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -236,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "cirYgPBWmCU",
+      "title": "Doug Ford speaks to media amid criticism over wildfire response in northern Ontario | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/cirYgPBWmCU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T12:52:41.730Z",
+      "at": "2026-07-17T14:27:47.570Z",
       "checked": 33,
       "errors": 0
     }
