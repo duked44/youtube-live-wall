@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T15:59:34.426Z",
+  "generatedAt": "2026-07-17T17:20:35.131Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "BusVsDBXfQA",
+      "videoId": "zzIaaRjbees",
       "title": "LIVE: Venice activists protest US ambassador’s planned mega-yacht visit",
-      "thumbnail": "https://i.ytimg.com/vi/BusVsDBXfQA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/zzIaaRjbees/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -194,7 +194,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "V2xRjOpU2k0",
+      "title": "WATCH LIVE: Trump attends FIFA event at Trump Tower as World Cup matches wrap up",
+      "thumbnail": "https://i.ytimg.com/vi/V2xRjOpU2k0/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -230,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "-DVUeEUa5Jo",
-      "title": "Canada Foreign Minister Anand, Mexico Foreign Minister press conference | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/-DVUeEUa5Jo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-17T15:59:34.426Z",
+      "at": "2026-07-17T17:20:35.131Z",
       "checked": 33,
       "errors": 0
     }
