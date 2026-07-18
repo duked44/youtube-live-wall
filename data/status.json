@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T12:44:46.338Z",
+  "generatedAt": "2026-07-18T14:11:40.082Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "fHKWgsoVHd0",
-      "title": "LIVE: Air quality across Canada and North America as wildfires burn",
-      "thumbnail": "https://i.ytimg.com/vi/fHKWgsoVHd0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -174,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "hYlNWol_9M8",
-      "title": "China AI Selloff, Wildfire Smoke, Trump's Clash With Iran | Bloomberg This Weekend: July 18, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/hYlNWol_9M8/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-18T12:44:46.338Z",
+      "at": "2026-07-18T14:11:40.082Z",
       "checked": 33,
       "errors": 0
     }
