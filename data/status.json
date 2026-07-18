@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-18T18:13:32.577Z",
+  "generatedAt": "2026-07-18T19:35:47.258Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "c8fDuAhGu2g",
+      "title": "Iran War - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/c8fDuAhGu2g/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-18T18:13:32.577Z",
+      "at": "2026-07-18T19:35:47.258Z",
       "checked": 33,
       "errors": 0
     }
