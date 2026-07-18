@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:50:41.817Z",
+  "generatedAt": "2026-07-18T12:44:46.338Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "FfhIcvpIlrE",
+      "title": "LIVE: ABC News Live - Saturday, July 18 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/FfhIcvpIlrE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "_dW2dBJdOPA",
-      "title": "Mornings with Anna Jones | Saturday 18 July",
-      "thumbnail": "https://i.ytimg.com/vi/_dW2dBJdOPA/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 17,
-      "channelChecks": 561,
+      "runs": 18,
+      "channelChecks": 594,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-18T11:50:41.817Z",
+      "at": "2026-07-18T12:44:46.338Z",
       "checked": 33,
       "errors": 0
     }
