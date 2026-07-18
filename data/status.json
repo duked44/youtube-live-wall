@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-18T00:59:15.305Z",
+  "generatedAt": "2026-07-18T04:08:14.403Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "INk9337oJsI",
-      "title": "Iran War - LIVE Breaking News Coverage (New U.S. Strikes)",
-      "thumbnail": "https://i.ytimg.com/vi/INk9337oJsI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -102,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "dsvX-DL6mUk",
-      "title": "LIVE: ABC News Live - Friday, July 17 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/dsvX-DL6mUk/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,17 +109,14 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "McVKZS3gTMw",
-      "title": "LIVE: NBC News NOW - July 17",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/McVKZS3gTMw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "Lt1KH3D_Pe8",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Lt1KH3D_Pe8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -252,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-18T00:59:15.305Z",
+      "at": "2026-07-18T04:08:14.403Z",
       "checked": 33,
       "errors": 0
     }
