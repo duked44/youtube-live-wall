@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T12:41:00.904Z",
+  "generatedAt": "2026-07-19T14:13:16.618Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -174,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "5hbt3X9nnGE",
-      "title": "US & Iran Trade Attacks, New UK Prime Minister, World Cup Final | Bloomberg This Weekend: July 19",
-      "thumbnail": "https://i.ytimg.com/vi/5hbt3X9nnGE/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 18,
-      "channelChecks": 594,
+      "runs": 17,
+      "channelChecks": 561,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T12:41:00.904Z",
+      "at": "2026-07-19T14:13:16.618Z",
       "checked": 33,
       "errors": 0
     }
