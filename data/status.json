@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T15:17:43.094Z",
+  "generatedAt": "2026-07-19T16:16:22.806Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "WtXEVXYtxIM",
+      "title": "WATCH LIVE: Bernie Sanders, AOC Speak At Rally For Senate Candidate Abdul El-Sayed In Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/WtXEVXYtxIM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -84,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "0eks6mfl6vU",
-      "title": "LIVE: New Jersey governor briefs on security ahead of World Cup final",
-      "thumbnail": "https://i.ytimg.com/vi/0eks6mfl6vU/hqdefault.jpg"
+      "videoId": "LJhccWToNbg",
+      "title": "Argentina vs. Spain: LIVE watch parties of the 2026 World Cup final",
+      "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T15:17:43.094Z",
+      "at": "2026-07-19T16:16:22.806Z",
       "checked": 33,
       "errors": 0
     }
