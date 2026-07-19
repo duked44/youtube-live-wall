@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T16:16:22.806Z",
+  "generatedAt": "2026-07-19T17:28:36.247Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -88,7 +88,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "LJhccWToNbg",
-      "title": "Argentina vs. Spain: LIVE watch parties of the 2026 World Cup final",
+      "title": "Argentina vs Spain: LIVE watch parties of the 2026 World Cup final",
       "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
     },
     {
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T16:16:22.806Z",
+      "at": "2026-07-19T17:28:36.247Z",
       "checked": 33,
       "errors": 0
     }
