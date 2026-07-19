@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T07:09:27.114Z",
+  "generatedAt": "2026-07-19T09:18:03.773Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,7 +83,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "LJhccWToNbg",
+      "title": "Argentina vs. Spain: LIVE watch parties of the 2026 World Cup final",
+      "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -104,10 +107,7 @@
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": true,
-      "videoId": "McVKZS3gTMw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/McVKZS3gTMw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cbsnews",
@@ -119,10 +119,7 @@
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
-      "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "msnow",
@@ -215,10 +212,7 @@
       "id": "channel4news",
       "name": "Channel 4 News",
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
-      "live": true,
-      "videoId": "i5SZldyfs0I",
-      "title": "WATCH LIVE: Andy Burnham becomes Britain's latest Prime Minister",
-      "thumbnail": "https://i.ytimg.com/vi/i5SZldyfs0I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "globalnews",
@@ -230,10 +224,7 @@
       "id": "cna",
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "live": true,
-      "videoId": "XWq5kBlakcQ",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
+      "live": false
     }
   ],
   "health": {
@@ -243,7 +234,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T07:09:27.114Z",
+      "at": "2026-07-19T09:18:03.773Z",
       "checked": 33,
       "errors": 0
     }
