@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T19:47:47.651Z",
+  "generatedAt": "2026-07-19T20:34:22.374Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "TVpI2oeqPOY",
-      "title": "WATCH LIVE: President Donald Trump Attends Final FIFA 2026 World Cup Game In East Rutherford, NJ",
-      "thumbnail": "https://i.ytimg.com/vi/TVpI2oeqPOY/hqdefault.jpg"
+      "videoId": "WBcbbr15c4k",
+      "title": "LIVE: Pete Hegseth Testifies Before The Senate Amidst The Iran War",
+      "thumbnail": "https://i.ytimg.com/vi/WBcbbr15c4k/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T19:47:47.651Z",
+      "at": "2026-07-19T20:34:22.374Z",
       "checked": 33,
       "errors": 0
     }
