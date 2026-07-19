@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T09:18:03.773Z",
+  "generatedAt": "2026-07-19T10:47:30.645Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -107,7 +107,10 @@
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": false
+      "live": true,
+      "videoId": "McVKZS3gTMw",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/McVKZS3gTMw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -119,7 +122,10 @@
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
-      "live": false
+      "live": true,
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -212,7 +218,10 @@
       "id": "channel4news",
       "name": "Channel 4 News",
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
-      "live": false
+      "live": true,
+      "videoId": "i5SZldyfs0I",
+      "title": "WATCH LIVE: Andy Burnham becomes Britain's latest Prime Minister",
+      "thumbnail": "https://i.ytimg.com/vi/i5SZldyfs0I/hqdefault.jpg"
     },
     {
       "id": "globalnews",
@@ -224,7 +233,10 @@
       "id": "cna",
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "live": false
+      "live": true,
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
@@ -234,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T09:18:03.773Z",
+      "at": "2026-07-19T10:47:30.645Z",
       "checked": 33,
       "errors": 0
     }
