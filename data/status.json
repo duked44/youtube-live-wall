@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T14:13:16.618Z",
+  "generatedAt": "2026-07-19T15:17:43.094Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -84,9 +84,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "LJhccWToNbg",
-      "title": "Argentina vs. Spain: LIVE watch parties of the 2026 World Cup final",
-      "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
+      "videoId": "0eks6mfl6vU",
+      "title": "LIVE: New Jersey governor briefs on security ahead of World Cup final",
+      "thumbnail": "https://i.ytimg.com/vi/0eks6mfl6vU/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T14:13:16.618Z",
+      "at": "2026-07-19T15:17:43.094Z",
       "checked": 33,
       "errors": 0
     }
