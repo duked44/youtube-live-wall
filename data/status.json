@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T21:30:55.747Z",
+  "generatedAt": "2026-07-19T22:30:00.572Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -91,7 +91,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "LJhccWToNbg",
-      "title": "Argentina vs Spain: LIVE watch party of the 2026 FIFA World Cup final",
+      "title": "LIVE: Spain beats Argentina 1-0 to win the 2026 FIFA World Cup",
       "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
     },
     {
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "afF6oyFhvb0",
-      "title": "LIVE: Soccer fans gather in Central Park to watch the World Cup Final",
-      "thumbnail": "https://i.ytimg.com/vi/afF6oyFhvb0/hqdefault.jpg"
+      "videoId": "yVWObBZOasg",
+      "title": "LIVE: Fans in Buenos Aires watch Argentina play Spain in World Cup final",
+      "thumbnail": "https://i.ytimg.com/vi/yVWObBZOasg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -165,9 +165,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "videoId": "AffpOxCQzII",
+      "title": "LIVE: After the final: Can World Cup fever last? | DW News",
+      "thumbnail": "https://i.ytimg.com/vi/AffpOxCQzII/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T21:30:55.747Z",
+      "at": "2026-07-19T22:30:00.572Z",
       "checked": 33,
       "errors": 0
     }
