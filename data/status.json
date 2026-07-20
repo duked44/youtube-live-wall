@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T16:50:04.767Z",
+  "generatedAt": "2026-07-20T18:46:55.651Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,18 +99,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "n4JWc-Rwg7U",
-      "title": "LIVE: Outside Florida court for Tate brothers' hearing",
-      "thumbnail": "https://i.ytimg.com/vi/n4JWc-Rwg7U/hqdefault.jpg"
+      "videoId": "h9tUG6DD9LM",
+      "title": "LIVE: Spain's soccer team celebrates FIFA World Cup win",
+      "thumbnail": "https://i.ytimg.com/vi/h9tUG6DD9LM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "CFZ6zgY6Cio",
-      "title": "Nolan Wells' Memorial Service",
-      "thumbnail": "https://i.ytimg.com/vi/CFZ6zgY6Cio/hqdefault.jpg"
+      "videoId": "12r-pW_0B3E",
+      "title": "LIVE: ABC News Live - Monday, July 20 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/12r-pW_0B3E/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "GrKBP3zKa9o",
-      "title": "Watch Live: Mississippi teen Nolan Wells' family, friends gather at funeral",
-      "thumbnail": "https://i.ytimg.com/vi/GrKBP3zKa9o/hqdefault.jpg"
+      "videoId": "ddVP568Kf3U",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/ddVP568Kf3U/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "bS91RY0Hk14",
-      "title": "Spain celebrate World Cup win in victory parade",
-      "thumbnail": "https://i.ytimg.com/vi/bS91RY0Hk14/hqdefault.jpg"
+      "videoId": "qnC4NEitBrU",
+      "title": "Who's in Andy Burnham's Cabinet? | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/qnC4NEitBrU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,7 +212,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "dkRdm8zAcx0",
+      "title": "Can Republicans deliver for the working class? Debate with Antjuan Seawright | Prove It! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/dkRdm8zAcx0/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T16:50:04.767Z",
+      "at": "2026-07-20T18:46:55.651Z",
       "checked": 33,
       "errors": 0
     }
