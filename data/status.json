@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-20T01:10:26.342Z",
+  "generatedAt": "2026-07-20T04:53:26.096Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "7wWzVXeQEYs",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/7wWzVXeQEYs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -89,16 +86,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "7JO2sovUQaY",
+      "title": "LIVE: Andy Burnham becomes Britain's new prime minister",
+      "thumbnail": "https://i.ytimg.com/vi/7JO2sovUQaY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "yVWObBZOasg",
-      "title": "LIVE: Fans in Buenos Aires watch Argentina play Spain in World Cup final",
-      "thumbnail": "https://i.ytimg.com/vi/yVWObBZOasg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T01:10:26.342Z",
+      "at": "2026-07-20T04:53:26.096Z",
       "checked": 33,
       "errors": 0
     }
