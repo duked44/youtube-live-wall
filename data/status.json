@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:15:08.245Z",
+  "generatedAt": "2026-07-20T21:36:33.630Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "3P_r246bCMQ",
-      "title": "Iran War - LIVE Breaking News Coverage",
+      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/3P_r246bCMQ/hqdefault.jpg"
     },
     {
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "v89CXZyHpv0",
-      "title": "LIVE: Traffic in the Bab el-Mandeb strait",
-      "thumbnail": "https://i.ytimg.com/vi/v89CXZyHpv0/hqdefault.jpg"
+      "videoId": "doiwlxll1wE",
+      "title": "LIVE: Argentina World Cup team arrives in Buenos Aires",
+      "thumbnail": "https://i.ytimg.com/vi/doiwlxll1wE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "bS91RY0Hk14",
-      "title": "Spain celebrate World Cup win in victory parade",
-      "thumbnail": "https://i.ytimg.com/vi/bS91RY0Hk14/hqdefault.jpg"
+      "videoId": "36D-SLRwdUM",
+      "title": "A new era begins, Andy Burnham is now prime minister | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/36D-SLRwdUM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,10 +215,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "dkRdm8zAcx0",
-      "title": "Can Republicans deliver for the working class? Debate with Antjuan Seawright | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/dkRdm8zAcx0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -262,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 12,
+      "channelChecks": 396,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T20:15:08.245Z",
+      "at": "2026-07-20T21:36:33.630Z",
       "checked": 33,
       "errors": 0
     }
