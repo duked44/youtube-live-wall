@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:55:26.299Z",
+  "generatedAt": "2026-07-20T10:53:15.320Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -91,7 +91,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "7JO2sovUQaY",
-      "title": "LIVE: Andy Burnham to become Britain's new prime minister",
+      "title": "LIVE: Andy Burnham to become UK's new prime minister",
       "thumbnail": "https://i.ytimg.com/vi/7JO2sovUQaY/hqdefault.jpg"
     },
     {
@@ -108,24 +108,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "12r-pW_0B3E",
+      "title": "LIVE: ABC News Live - Monday, July 20 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/12r-pW_0B3E/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "McVKZS3gTMw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/McVKZS3gTMw/hqdefault.jpg"
+      "videoId": "qXdb6Bn24yY",
+      "title": "LIVE: NBC News NOW - July 20",
+      "thumbnail": "https://i.ytimg.com/vi/qXdb6Bn24yY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "ddVP568Kf3U",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/ddVP568Kf3U/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "pOX7laJxt7c",
-      "title": "Live from Downing Street as Starmer leaves No.10",
-      "thumbnail": "https://i.ytimg.com/vi/pOX7laJxt7c/hqdefault.jpg"
+      "videoId": "9xt27hrM-sw",
+      "title": "Starmer resigns as PM | Sky News special programme",
+      "thumbnail": "https://i.ytimg.com/vi/9xt27hrM-sw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -232,7 +235,7 @@
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
       "live": true,
       "videoId": "i5SZldyfs0I",
-      "title": "WATCH LIVE: Andy Burnham becomes Britain's latest Prime Minister",
+      "title": "LIVE: The King has accepted Keir Starmer's  resignation | Burnham becomes PM",
       "thumbnail": "https://i.ytimg.com/vi/i5SZldyfs0I/hqdefault.jpg"
     },
     {
@@ -253,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 17,
-      "channelChecks": 561,
+      "runs": 16,
+      "channelChecks": 528,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T07:55:26.299Z",
+      "at": "2026-07-20T10:53:15.320Z",
       "checked": 33,
       "errors": 0
     }
