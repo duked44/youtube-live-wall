@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T22:36:52.473Z",
+  "generatedAt": "2026-07-20T23:38:31.728Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "9jTaktJznGk",
-      "title": "LIVE: Stop Insider Trading Act Is Debated In House Rules Committee",
-      "thumbnail": "https://i.ytimg.com/vi/9jTaktJznGk/hqdefault.jpg"
+      "videoId": "QJTOiDvHQZg",
+      "title": "Jim Jordan Leads House Judiciary Committee Hearing On The Permanent Trump Secure Border Act",
+      "thumbnail": "https://i.ytimg.com/vi/QJTOiDvHQZg/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -123,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ddVP568Kf3U",
+      "videoId": "a569b9tK9ns",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ddVP568Kf3U/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/a569b9tK9ns/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "36D-SLRwdUM",
-      "title": "A new era begins, Andy Burnham is now prime minister | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/36D-SLRwdUM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "iTnh5sCb4BM",
-      "title": "PBS News Hour live episode, July 20, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/iTnh5sCb4BM/hqdefault.jpg"
+      "videoId": "gzuKqWnElAY",
+      "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
+      "thumbnail": "https://i.ytimg.com/vi/gzuKqWnElAY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -215,10 +215,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "vAF9plB-wRE",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/vAF9plB-wRE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T22:36:52.473Z",
+      "at": "2026-07-20T23:38:31.728Z",
       "checked": 33,
       "errors": 0
     }
