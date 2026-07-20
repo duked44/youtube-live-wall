@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T21:36:33.630Z",
+  "generatedAt": "2026-07-20T22:36:52.473Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,19 +92,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "NCzFizcflA4",
-      "title": "LIVE: Spain parade in Madrid after 2026 FIFA World Cup win",
-      "thumbnail": "https://i.ytimg.com/vi/NCzFizcflA4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "doiwlxll1wE",
-      "title": "LIVE: Argentina World Cup team arrives in Buenos Aires",
-      "thumbnail": "https://i.ytimg.com/vi/doiwlxll1wE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "qXdb6Bn24yY",
+      "videoId": "u5ogKuX_F_g",
       "title": "LIVE: NBC News NOW - July 20",
-      "thumbnail": "https://i.ytimg.com/vi/qXdb6Bn24yY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/u5ogKuX_F_g/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -207,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "gzuKqWnElAY",
-      "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
-      "thumbnail": "https://i.ytimg.com/vi/gzuKqWnElAY/hqdefault.jpg"
+      "videoId": "iTnh5sCb4BM",
+      "title": "PBS News Hour live episode, July 20, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/iTnh5sCb4BM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "0dDkzJS0HBc",
-      "title": "Spain celebrates winning 2026 FIFA World Cup with victory parade in Madrid | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/0dDkzJS0HBc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T21:36:33.630Z",
+      "at": "2026-07-20T22:36:52.473Z",
       "checked": 33,
       "errors": 0
     }
