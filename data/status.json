@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T13:02:50.412Z",
+  "generatedAt": "2026-07-20T15:19:55.584Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,15 +12,18 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "WBcbbr15c4k",
-      "title": "LIVE: Pete Hegseth Testifies Before The Senate Amidst The Iran War",
-      "thumbnail": "https://i.ytimg.com/vi/WBcbbr15c4k/hqdefault.jpg"
+      "videoId": "9jTaktJznGk",
+      "title": "LIVE: Stop Insider Trading Act Is Debated In House Rules Committee",
+      "thumbnail": "https://i.ytimg.com/vi/9jTaktJznGk/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "NNRSNp-pnsI",
+      "title": "White House Correspondents' Association Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/NNRSNp-pnsI/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -44,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "Ve29XEAzcfI",
-      "title": "LIVE: Andy Burnham becomes UK prime minister | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/Ve29XEAzcfI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -89,16 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "zU4Kcuqvw0k",
+      "title": "LIVE: Spain’s soccer team meet King Felipe VI after 2026 World Cup victory",
+      "thumbnail": "https://i.ytimg.com/vi/zU4Kcuqvw0k/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "h9tUG6DD9LM",
-      "title": "LIVE: Spain's soccer team celebrates FIFA World Cup win",
-      "thumbnail": "https://i.ytimg.com/vi/h9tUG6DD9LM/hqdefault.jpg"
+      "videoId": "OFf0wNDXtS4",
+      "title": "LIVE: Traffic in the Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/OFf0wNDXtS4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "9xt27hrM-sw",
-      "title": "Andy Burnham becomes prime minister | Sky News special programme",
-      "thumbnail": "https://i.ytimg.com/vi/9xt27hrM-sw/hqdefault.jpg"
+      "videoId": "3_ypNLub2ug",
+      "title": "England legend Kevin Keegan dies after cancer battle | Breaking Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/3_ypNLub2ug/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +212,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "f7Kav93cscQ",
+      "title": "Watch live: ‘El Mayo’ sentenced on criminal enterprise charges",
+      "thumbnail": "https://i.ytimg.com/vi/f7Kav93cscQ/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -250,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 15,
-      "channelChecks": 495,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T13:02:50.412Z",
+      "at": "2026-07-20T15:19:55.584Z",
       "checked": 33,
       "errors": 0
     }
