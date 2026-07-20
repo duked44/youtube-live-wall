@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T10:53:15.320Z",
+  "generatedAt": "2026-07-20T13:02:50.412Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -46,7 +46,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "Ve29XEAzcfI",
-      "title": "LIVE: Andy Burnham to become UK prime minister as Keir Starmer prepares to leave No 10 | BBC News",
+      "title": "LIVE: Andy Burnham becomes UK prime minister | BBC News",
       "thumbnail": "https://i.ytimg.com/vi/Ve29XEAzcfI/hqdefault.jpg"
     },
     {
@@ -89,19 +89,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "7JO2sovUQaY",
-      "title": "LIVE: Andy Burnham to become UK's new prime minister",
-      "thumbnail": "https://i.ytimg.com/vi/7JO2sovUQaY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "PP6hVkOW6O0",
-      "title": "LIVE: Outgoing UK PM Starmer steps down, Andy Burnham takes office",
-      "thumbnail": "https://i.ytimg.com/vi/PP6hVkOW6O0/hqdefault.jpg"
+      "videoId": "h9tUG6DD9LM",
+      "title": "LIVE: Spain's soccer team celebrates FIFA World Cup win",
+      "thumbnail": "https://i.ytimg.com/vi/h9tUG6DD9LM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -151,7 +148,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "9xt27hrM-sw",
-      "title": "Starmer resigns as PM | Sky News special programme",
+      "title": "Andy Burnham becomes prime minister | Sky News special programme",
       "thumbnail": "https://i.ytimg.com/vi/9xt27hrM-sw/hqdefault.jpg"
     },
     {
@@ -233,10 +230,7 @@
       "id": "channel4news",
       "name": "Channel 4 News",
       "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
-      "live": true,
-      "videoId": "i5SZldyfs0I",
-      "title": "LIVE: The King has accepted Keir Starmer's  resignation | Burnham becomes PM",
-      "thumbnail": "https://i.ytimg.com/vi/i5SZldyfs0I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "globalnews",
@@ -256,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 16,
-      "channelChecks": 528,
+      "runs": 15,
+      "channelChecks": 495,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T10:53:15.320Z",
+      "at": "2026-07-20T13:02:50.412Z",
       "checked": 33,
       "errors": 0
     }
