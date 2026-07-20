@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-19T23:33:28.175Z",
+  "generatedAt": "2026-07-20T01:10:26.342Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "LJhccWToNbg",
-      "title": "LIVE: Spain beats Argentina 1-0 to win the 2026 FIFA World Cup",
-      "thumbnail": "https://i.ytimg.com/vi/LJhccWToNbg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -200,7 +197,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "upK_xGZAMNg",
+      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
+      "thumbnail": "https://i.ytimg.com/vi/upK_xGZAMNg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-19T23:33:28.175Z",
+      "at": "2026-07-20T01:10:26.342Z",
       "checked": 33,
       "errors": 0
     }
