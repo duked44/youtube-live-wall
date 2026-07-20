@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T15:19:55.584Z",
+  "generatedAt": "2026-07-20T16:50:04.767Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,27 +90,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "zU4Kcuqvw0k",
-      "title": "LIVE: Spain’s soccer team meet King Felipe VI after 2026 World Cup victory",
-      "thumbnail": "https://i.ytimg.com/vi/zU4Kcuqvw0k/hqdefault.jpg"
+      "videoId": "NCzFizcflA4",
+      "title": "LIVE: Spain celebrates 2026 World Cup win with a parade in Madrid",
+      "thumbnail": "https://i.ytimg.com/vi/NCzFizcflA4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "OFf0wNDXtS4",
-      "title": "LIVE: Traffic in the Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/OFf0wNDXtS4/hqdefault.jpg"
+      "videoId": "n4JWc-Rwg7U",
+      "title": "LIVE: Outside Florida court for Tate brothers' hearing",
+      "thumbnail": "https://i.ytimg.com/vi/n4JWc-Rwg7U/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "12r-pW_0B3E",
-      "title": "LIVE: ABC News Live - Monday, July 20 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/12r-pW_0B3E/hqdefault.jpg"
+      "videoId": "CFZ6zgY6Cio",
+      "title": "Nolan Wells' Memorial Service",
+      "thumbnail": "https://i.ytimg.com/vi/CFZ6zgY6Cio/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ddVP568Kf3U",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ddVP568Kf3U/hqdefault.jpg"
+      "videoId": "GrKBP3zKa9o",
+      "title": "Watch Live: Mississippi teen Nolan Wells' family, friends gather at funeral",
+      "thumbnail": "https://i.ytimg.com/vi/GrKBP3zKa9o/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3_ypNLub2ug",
-      "title": "England legend Kevin Keegan dies after cancer battle | Breaking Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/3_ypNLub2ug/hqdefault.jpg"
+      "videoId": "bS91RY0Hk14",
+      "title": "Spain celebrate World Cup win in victory parade",
+      "thumbnail": "https://i.ytimg.com/vi/bS91RY0Hk14/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +204,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "upK_xGZAMNg",
-      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/upK_xGZAMNg/hqdefault.jpg"
+      "videoId": "T2etKWXb9eo",
+      "title": "WATCH LIVE: House meets as U.S. expands bombing of Iran",
+      "thumbnail": "https://i.ytimg.com/vi/T2etKWXb9eo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "f7Kav93cscQ",
-      "title": "Watch live: ‘El Mayo’ sentenced on criminal enterprise charges",
-      "thumbnail": "https://i.ytimg.com/vi/f7Kav93cscQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -242,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "0dDkzJS0HBc",
+      "title": "Spain celebrates winning 2026 FIFA World Cup with victory parade in Madrid | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/0dDkzJS0HBc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T15:19:55.584Z",
+      "at": "2026-07-20T16:50:04.767Z",
       "checked": 33,
       "errors": 0
     }
