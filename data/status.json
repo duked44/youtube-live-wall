@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-20T18:46:55.651Z",
+  "generatedAt": "2026-07-20T20:15:08.245Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "3P_r246bCMQ",
+      "title": "Iran War - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/3P_r246bCMQ/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -21,9 +24,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "NNRSNp-pnsI",
-      "title": "White House Correspondents' Association Dinner",
-      "thumbnail": "https://i.ytimg.com/vi/NNRSNp-pnsI/hqdefault.jpg"
+      "videoId": "S_1CfAx_MCo",
+      "title": "Defense Secretary, Joint Chiefs Chair & Agriculture Secretary Testify before Senate",
+      "thumbnail": "https://i.ytimg.com/vi/S_1CfAx_MCo/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -91,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "NCzFizcflA4",
-      "title": "LIVE: Spain celebrates 2026 World Cup win with a parade in Madrid",
+      "title": "LIVE: Spain parade in Madrid after 2026 FIFA World Cup win",
       "thumbnail": "https://i.ytimg.com/vi/NCzFizcflA4/hqdefault.jpg"
     },
     {
@@ -99,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "h9tUG6DD9LM",
-      "title": "LIVE: Spain's soccer team celebrates FIFA World Cup win",
-      "thumbnail": "https://i.ytimg.com/vi/h9tUG6DD9LM/hqdefault.jpg"
+      "videoId": "v89CXZyHpv0",
+      "title": "LIVE: Traffic in the Bab el-Mandeb strait",
+      "thumbnail": "https://i.ytimg.com/vi/v89CXZyHpv0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "qnC4NEitBrU",
-      "title": "Who's in Andy Burnham's Cabinet? | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/qnC4NEitBrU/hqdefault.jpg"
+      "videoId": "bS91RY0Hk14",
+      "title": "Spain celebrate World Cup win in victory parade",
+      "thumbnail": "https://i.ytimg.com/vi/bS91RY0Hk14/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "T2etKWXb9eo",
-      "title": "WATCH LIVE: House meets as U.S. expands bombing of Iran",
-      "thumbnail": "https://i.ytimg.com/vi/T2etKWXb9eo/hqdefault.jpg"
+      "videoId": "gzuKqWnElAY",
+      "title": "WATCH LIVE: Senate convenes as Democrats push for answers around ICE policies",
+      "thumbnail": "https://i.ytimg.com/vi/gzuKqWnElAY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-20T18:46:55.651Z",
+      "at": "2026-07-20T20:15:08.245Z",
       "checked": 33,
       "errors": 0
     }
