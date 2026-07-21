@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T15:13:27.601Z",
+  "generatedAt": "2026-07-21T16:46:00.941Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -13,7 +13,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "OlI1bpbHv5s",
-      "title": "LIVE: Trump Hosts Lebanese President As U.S.-Iran War Escalates, Hegseth Testifies Before Congress",
+      "title": "LIVE: Trump Meets With Lebanon's President As U.S. Strikes Iran",
       "thumbnail": "https://i.ytimg.com/vi/OlI1bpbHv5s/hqdefault.jpg"
     },
     {
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "fsmZdBPcPHE",
-      "title": "WATCH LIVE: Trump hosts Lebanese president at White House amid Iran tensions",
-      "thumbnail": "https://i.ytimg.com/vi/fsmZdBPcPHE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "vzTiNoaZYsY",
-      "title": "LIVE: House Intelligence Committee holds hearing on emerging threats 25 years after 9/11",
-      "thumbnail": "https://i.ytimg.com/vi/vzTiNoaZYsY/hqdefault.jpg"
+      "videoId": "fYyU9ZtFpA0",
+      "title": "LIVE: Outside court for D4vd’s preliminary hearing in the killing of Celeste Rivas Hernandez",
+      "thumbnail": "https://i.ytimg.com/vi/fYyU9ZtFpA0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "JpvCDsX_HVQ",
-      "title": "LIVE: Kennedy, Oz discuss efforts to combat health fraud",
-      "thumbnail": "https://i.ytimg.com/vi/JpvCDsX_HVQ/hqdefault.jpg"
+      "videoId": "PIuBbviggig",
+      "title": "LIVE: Map showing high temperatures in Europe",
+      "thumbnail": "https://i.ytimg.com/vi/PIuBbviggig/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -129,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "dOuALoXJfl0",
-      "title": "Watch Live: House committee holds hearing on next generation of 9/11 threats",
-      "thumbnail": "https://i.ytimg.com/vi/dOuALoXJfl0/hqdefault.jpg"
+      "videoId": "WC8jj88DZWM",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/WC8jj88DZWM/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -207,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "79fSy0Fv8c8",
-      "title": "WATCH LIVE: House Democratic leaders hold news conference as U.S toll from Iran war grows",
-      "thumbnail": "https://i.ytimg.com/vi/79fSy0Fv8c8/hqdefault.jpg"
+      "videoId": "1scmRIE29ak",
+      "title": "WATCH LIVE: House Foreign Affairs Committee holds hearing on confronting gangs in Haiti",
+      "thumbnail": "https://i.ytimg.com/vi/1scmRIE29ak/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T15:13:27.601Z",
+      "at": "2026-07-21T16:46:00.941Z",
       "checked": 33,
       "errors": 0
     }
