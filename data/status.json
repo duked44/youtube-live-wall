@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T07:15:56.446Z",
+  "generatedAt": "2026-07-21T09:44:54.661Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "nuhWN1YrdHM",
+      "title": "LIVE: Protests near the parliament in New Delhi, India",
+      "thumbnail": "https://i.ytimg.com/vi/nuhWN1YrdHM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nFun51HI10g",
-      "title": "Burnham to host first cabinet | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/nFun51HI10g/hqdefault.jpg"
+      "videoId": "yQTkwUDixkY",
+      "title": "Widdecombe murder suspect appears in court for first time",
+      "thumbnail": "https://i.ytimg.com/vi/yQTkwUDixkY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T07:15:56.446Z",
+      "at": "2026-07-21T09:44:54.661Z",
       "checked": 33,
       "errors": 0
     }
