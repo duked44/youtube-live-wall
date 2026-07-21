@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T11:31:58.200Z",
+  "generatedAt": "2026-07-21T13:01:26.196Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "OozJbIOKnS0",
-      "title": "LIVE: Andy Burnham's cabinet meet for the first time after he became UK PM",
-      "thumbnail": "https://i.ytimg.com/vi/OozJbIOKnS0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -94,7 +91,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "muj-PVKT3qU",
-      "title": "LIVE: Ministers arrive as UK Prime Minister Andy Burnham chairs first Cabinet meeting",
+      "title": "LIVE: UK Prime Minister Andy Burnham chairs first Cabinet meeting",
       "thumbnail": "https://i.ytimg.com/vi/muj-PVKT3qU/hqdefault.jpg"
     },
     {
@@ -207,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "upK_xGZAMNg",
-      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump’s budget request before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/upK_xGZAMNg/hqdefault.jpg"
+      "videoId": "jxxNjdIwigs",
+      "title": "WATCH LIVE: House holds hearing on Smithsonian’s U.S. history programs pressure from Trump",
+      "thumbnail": "https://i.ytimg.com/vi/jxxNjdIwigs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T11:31:58.200Z",
+      "at": "2026-07-21T13:01:26.196Z",
       "checked": 33,
       "errors": 0
     }
