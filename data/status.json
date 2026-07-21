@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:31:45.013Z",
+  "generatedAt": "2026-07-21T07:15:56.446Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,16 +89,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "muj-PVKT3qU",
+      "title": "LIVE: UK Prime Minister Andy Burnham chairs first Cabinet meeting",
+      "thumbnail": "https://i.ytimg.com/vi/muj-PVKT3qU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "lFoUqLgJa0o",
-      "title": "LIVE: Philippine foreign secretary speaks to media as ASEAN meet opens",
-      "thumbnail": "https://i.ytimg.com/vi/lFoUqLgJa0o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "nFun51HI10g",
+      "title": "Burnham to host first cabinet | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/nFun51HI10g/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T04:31:45.013Z",
+      "at": "2026-07-21T07:15:56.446Z",
       "checked": 33,
       "errors": 0
     }
