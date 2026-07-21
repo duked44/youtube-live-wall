@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T09:44:54.661Z",
+  "generatedAt": "2026-07-21T11:31:58.200Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "OozJbIOKnS0",
+      "title": "LIVE: Andy Burnham's cabinet meet for the first time after he became UK PM",
+      "thumbnail": "https://i.ytimg.com/vi/OozJbIOKnS0/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -91,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "muj-PVKT3qU",
-      "title": "LIVE: UK Prime Minister Andy Burnham chairs first Cabinet meeting",
+      "title": "LIVE: Ministers arrive as UK Prime Minister Andy Burnham chairs first Cabinet meeting",
       "thumbnail": "https://i.ytimg.com/vi/muj-PVKT3qU/hqdefault.jpg"
     },
     {
@@ -99,36 +102,36 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "nuhWN1YrdHM",
-      "title": "LIVE: Protests near the parliament in New Delhi, India",
-      "thumbnail": "https://i.ytimg.com/vi/nuhWN1YrdHM/hqdefault.jpg"
+      "videoId": "K8GR7qj2G3M",
+      "title": "LIVE: UK’s new Prime Minister Andy Burnham hosts first cabinet meeting",
+      "thumbnail": "https://i.ytimg.com/vi/K8GR7qj2G3M/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "84PLdOv4R2Q",
+      "title": "LIVE: ABC News Live - Tuesday, July 21 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/84PLdOv4R2Q/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "u5ogKuX_F_g",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/u5ogKuX_F_g/hqdefault.jpg"
+      "videoId": "cWaWPU7phTM",
+      "title": "LIVE: NBC News NOW - July 21",
+      "thumbnail": "https://i.ytimg.com/vi/cWaWPU7phTM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "a569b9tK9ns",
+      "videoId": "WC8jj88DZWM",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/a569b9tK9ns/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/WC8jj88DZWM/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yQTkwUDixkY",
-      "title": "Widdecombe murder suspect appears in court for first time",
-      "thumbnail": "https://i.ytimg.com/vi/yQTkwUDixkY/hqdefault.jpg"
+      "videoId": "ITwLBwa5f7Y",
+      "title": "Live from Downing Street as Burnham hosts first cabinet meeting",
+      "thumbnail": "https://i.ytimg.com/vi/ITwLBwa5f7Y/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +221,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "63IXWQj4vW8",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/63IXWQj4vW8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T09:44:54.661Z",
+      "at": "2026-07-21T11:31:58.200Z",
       "checked": 33,
       "errors": 0
     }
