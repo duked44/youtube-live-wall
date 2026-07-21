@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T19:47:23.017Z",
+  "generatedAt": "2026-07-21T20:54:09.935Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "MZDycSQhAqM",
-      "title": "LIVE: Pete Hegseth testifies before Senate on Trump's supplemental funding request",
-      "thumbnail": "https://i.ytimg.com/vi/MZDycSQhAqM/hqdefault.jpg"
+      "videoId": "vjEenBS9rNc",
+      "title": "LIVE: Fireworks on Belgium National Day",
+      "thumbnail": "https://i.ytimg.com/vi/vjEenBS9rNc/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -156,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "kTfJduMW0bk",
-      "title": "'We will be a cost of living government,' Burnham tells cabinet | The UK Tonight",
-      "thumbnail": "https://i.ytimg.com/vi/kTfJduMW0bk/hqdefault.jpg"
+      "videoId": "HbXWstzrGo4",
+      "title": "Burnham tells his top team to bring down cost of living | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/HbXWstzrGo4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -267,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T19:47:23.017Z",
+      "at": "2026-07-21T20:54:09.935Z",
       "checked": 33,
       "errors": 0
     }
