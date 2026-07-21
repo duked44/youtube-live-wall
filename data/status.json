@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T20:54:09.935Z",
+  "generatedAt": "2026-07-21T22:02:12.580Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,27 +12,24 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "WBcbbr15c4k",
-      "title": "LIVE: Pete Hegseth Testifies Before The Senate Amidst The Iran War",
-      "thumbnail": "https://i.ytimg.com/vi/WBcbbr15c4k/hqdefault.jpg"
+      "videoId": "OlI1bpbHv5s",
+      "title": "LIVE: Trump Hosts Lebanese President As U.S.-Iran War Escalates, Hegseth Testifies Before Congress",
+      "thumbnail": "https://i.ytimg.com/vi/OlI1bpbHv5s/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "S_1CfAx_MCo",
-      "title": "Defense Secretary, Joint Chiefs Chair & Agriculture Secretary Testify before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/S_1CfAx_MCo/hqdefault.jpg"
+      "videoId": "NNRSNp-pnsI",
+      "title": "White House Correspondents' Association Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/NNRSNp-pnsI/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "rAN63gZPQB8",
-      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump's supplemental funding request",
-      "thumbnail": "https://i.ytimg.com/vi/rAN63gZPQB8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "vjEenBS9rNc",
-      "title": "LIVE: Fireworks on Belgium National Day",
-      "thumbnail": "https://i.ytimg.com/vi/vjEenBS9rNc/hqdefault.jpg"
+      "videoId": "fYyU9ZtFpA0",
+      "title": "LIVE: Outside court for D4vd’s preliminary hearing in the killing of Celeste Rivas Hernandez",
+      "thumbnail": "https://i.ytimg.com/vi/fYyU9ZtFpA0/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,27 +108,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "BOyWQSn2nAg",
-      "title": "Sec. Hegseth, Gen. Caine, Sec. Rollins testify on Trump’s supplemental budget request: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/BOyWQSn2nAg/hqdefault.jpg"
+      "videoId": "Akegw88Du7A",
+      "title": "Northeast braces for flash flooding threat",
+      "thumbnail": "https://i.ytimg.com/vi/Akegw88Du7A/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cWaWPU7phTM",
+      "videoId": "7hR81HPxvdw",
       "title": "LIVE: NBC News NOW - July 21",
-      "thumbnail": "https://i.ytimg.com/vi/cWaWPU7phTM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/7hR81HPxvdw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "RaYNBm8IfTc",
-      "title": "Watch Live: Hegseth, Caine testify before Senate over $67 billion request in escalating Iran war",
-      "thumbnail": "https://i.ytimg.com/vi/RaYNBm8IfTc/hqdefault.jpg"
+      "videoId": "WC8jj88DZWM",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/WC8jj88DZWM/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,10 +143,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "AFaJT0vphgs",
-      "title": "LIVE: Defense Secretary Hegseth TESTIFIES on Capitol Hill amid renewed strikes on Iran",
-      "thumbnail": "https://i.ytimg.com/vi/AFaJT0vphgs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -210,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "upK_xGZAMNg",
-      "title": "WATCH LIVE: Hegseth, Caine testify on Trump's funding request before Senate as Iran war reignites",
-      "thumbnail": "https://i.ytimg.com/vi/upK_xGZAMNg/hqdefault.jpg"
+      "videoId": "AaizWjW5k6E",
+      "title": "PBS News Hour live episode, July 21, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/AaizWjW5k6E/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,10 +227,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "yPpxFxykgkM",
-      "title": "Pete Hegseth, Dan Caine and Brooke Rollins appear in senate committee hearing – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/yPpxFxykgkM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -267,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T20:54:09.935Z",
+      "at": "2026-07-21T22:02:12.580Z",
       "checked": 33,
       "errors": 0
     }
