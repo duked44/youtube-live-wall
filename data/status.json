@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T18:03:12.958Z",
+  "generatedAt": "2026-07-21T19:47:23.017Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "OlI1bpbHv5s",
-      "title": "LIVE: Trump Meets With Lebanon's President As U.S. Strikes Iran",
-      "thumbnail": "https://i.ytimg.com/vi/OlI1bpbHv5s/hqdefault.jpg"
+      "videoId": "WBcbbr15c4k",
+      "title": "LIVE: Pete Hegseth Testifies Before The Senate Amidst The Iran War",
+      "thumbnail": "https://i.ytimg.com/vi/WBcbbr15c4k/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "rAN63gZPQB8",
+      "title": "WATCH LIVE: Hegseth, Caine and Rollins testify on Trump's supplemental funding request",
+      "thumbnail": "https://i.ytimg.com/vi/rAN63gZPQB8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,18 +102,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "PIuBbviggig",
-      "title": "LIVE: Map showing high temperatures in Europe",
-      "thumbnail": "https://i.ytimg.com/vi/PIuBbviggig/hqdefault.jpg"
+      "videoId": "pcu-3rHo_xo",
+      "title": "LIVE: Hegseth, Caine and others testify on supplemental funding request",
+      "thumbnail": "https://i.ytimg.com/vi/pcu-3rHo_xo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "84PLdOv4R2Q",
-      "title": "LIVE: ABC News Live - Tuesday, July 21 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/84PLdOv4R2Q/hqdefault.jpg"
+      "videoId": "BOyWQSn2nAg",
+      "title": "Sec. Hegseth, Gen. Caine, Sec. Rollins testify on Trump’s supplemental budget request: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/BOyWQSn2nAg/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "WC8jj88DZWM",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/WC8jj88DZWM/hqdefault.jpg"
+      "videoId": "RaYNBm8IfTc",
+      "title": "Watch Live: Hegseth, Caine testify before Senate over $67 billion request in escalating Iran war",
+      "thumbnail": "https://i.ytimg.com/vi/RaYNBm8IfTc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "AFaJT0vphgs",
+      "title": "LIVE: Defense Secretary Hegseth TESTIFIES on Capitol Hill amid renewed strikes on Iran",
+      "thumbnail": "https://i.ytimg.com/vi/AFaJT0vphgs/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "sDMYN1MwmVk",
-      "title": "Burnham's first policy 'falling apart' already, Badenoch tells Sky News | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/sDMYN1MwmVk/hqdefault.jpg"
+      "videoId": "kTfJduMW0bk",
+      "title": "'We will be a cost of living government,' Burnham tells cabinet | The UK Tonight",
+      "thumbnail": "https://i.ytimg.com/vi/kTfJduMW0bk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "0DmUekGajoY",
-      "title": "WATCH LIVE: Senate GOP leaders hold news conference as Trump says U.S. 'not finished' in Iran",
-      "thumbnail": "https://i.ytimg.com/vi/0DmUekGajoY/hqdefault.jpg"
+      "videoId": "upK_xGZAMNg",
+      "title": "WATCH LIVE: Hegseth, Caine testify on Trump's funding request before Senate as Iran war reignites",
+      "thumbnail": "https://i.ytimg.com/vi/upK_xGZAMNg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,7 +233,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "yPpxFxykgkM",
+      "title": "Pete Hegseth, Dan Caine and Brooke Rollins appear in senate committee hearing – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/yPpxFxykgkM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T18:03:12.958Z",
+      "at": "2026-07-21T19:47:23.017Z",
       "checked": 33,
       "errors": 0
     }
