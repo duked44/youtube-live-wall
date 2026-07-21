@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T13:01:26.196Z",
+  "generatedAt": "2026-07-21T15:13:27.601Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "QJTOiDvHQZg",
-      "title": "Jim Jordan Leads House Judiciary Committee Hearing On The Permanent Trump Secure Border Act",
-      "thumbnail": "https://i.ytimg.com/vi/QJTOiDvHQZg/hqdefault.jpg"
+      "videoId": "OlI1bpbHv5s",
+      "title": "LIVE: Trump Hosts Lebanese President As U.S.-Iran War Escalates, Hegseth Testifies Before Congress",
+      "thumbnail": "https://i.ytimg.com/vi/OlI1bpbHv5s/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "fsmZdBPcPHE",
+      "title": "WATCH LIVE: Trump hosts Lebanese president at White House amid Iran tensions",
+      "thumbnail": "https://i.ytimg.com/vi/fsmZdBPcPHE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "muj-PVKT3qU",
-      "title": "LIVE: UK Prime Minister Andy Burnham chairs first Cabinet meeting",
-      "thumbnail": "https://i.ytimg.com/vi/muj-PVKT3qU/hqdefault.jpg"
+      "videoId": "vzTiNoaZYsY",
+      "title": "LIVE: House Intelligence Committee holds hearing on emerging threats 25 years after 9/11",
+      "thumbnail": "https://i.ytimg.com/vi/vzTiNoaZYsY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "K8GR7qj2G3M",
-      "title": "LIVE: UK’s new Prime Minister Andy Burnham hosts first cabinet meeting",
-      "thumbnail": "https://i.ytimg.com/vi/K8GR7qj2G3M/hqdefault.jpg"
+      "videoId": "JpvCDsX_HVQ",
+      "title": "LIVE: Kennedy, Oz discuss efforts to combat health fraud",
+      "thumbnail": "https://i.ytimg.com/vi/JpvCDsX_HVQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "WC8jj88DZWM",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/WC8jj88DZWM/hqdefault.jpg"
+      "videoId": "dOuALoXJfl0",
+      "title": "Watch Live: House committee holds hearing on next generation of 9/11 threats",
+      "thumbnail": "https://i.ytimg.com/vi/dOuALoXJfl0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "jxxNjdIwigs",
-      "title": "WATCH LIVE: House holds hearing on Smithsonian’s U.S. history programs pressure from Trump",
-      "thumbnail": "https://i.ytimg.com/vi/jxxNjdIwigs/hqdefault.jpg"
+      "videoId": "79fSy0Fv8c8",
+      "title": "WATCH LIVE: House Democratic leaders hold news conference as U.S toll from Iran war grows",
+      "thumbnail": "https://i.ytimg.com/vi/79fSy0Fv8c8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -239,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "RTou-j4zBpc",
+      "title": "Defence Minister McGuinty to announce development in Canada's air combat capability | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/RTou-j4zBpc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T13:01:26.196Z",
+      "at": "2026-07-21T15:13:27.601Z",
       "checked": 33,
       "errors": 0
     }
