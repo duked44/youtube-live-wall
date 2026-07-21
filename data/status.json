@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T16:46:00.941Z",
+  "generatedAt": "2026-07-21T18:03:12.958Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "fYyU9ZtFpA0",
-      "title": "LIVE: Outside court for D4vd’s preliminary hearing in the killing of Celeste Rivas Hernandez",
-      "thumbnail": "https://i.ytimg.com/vi/fYyU9ZtFpA0/hqdefault.jpg"
+      "videoId": "MZDycSQhAqM",
+      "title": "LIVE: Pete Hegseth testifies before Senate on Trump's supplemental funding request",
+      "thumbnail": "https://i.ytimg.com/vi/MZDycSQhAqM/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ITwLBwa5f7Y",
-      "title": "Live from Downing Street as Burnham hosts first cabinet meeting",
-      "thumbnail": "https://i.ytimg.com/vi/ITwLBwa5f7Y/hqdefault.jpg"
+      "videoId": "sDMYN1MwmVk",
+      "title": "Burnham's first policy 'falling apart' already, Badenoch tells Sky News | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/sDMYN1MwmVk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "1scmRIE29ak",
-      "title": "WATCH LIVE: House Foreign Affairs Committee holds hearing on confronting gangs in Haiti",
-      "thumbnail": "https://i.ytimg.com/vi/1scmRIE29ak/hqdefault.jpg"
+      "videoId": "0DmUekGajoY",
+      "title": "WATCH LIVE: Senate GOP leaders hold news conference as Trump says U.S. 'not finished' in Iran",
+      "thumbnail": "https://i.ytimg.com/vi/0DmUekGajoY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -239,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "RTou-j4zBpc",
-      "title": "Defence Minister McGuinty to announce development in Canada's air combat capability | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/RTou-j4zBpc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T16:46:00.941Z",
+      "at": "2026-07-21T18:03:12.958Z",
       "checked": 33,
       "errors": 0
     }
