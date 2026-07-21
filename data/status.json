@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-21T01:08:40.074Z",
+  "generatedAt": "2026-07-21T04:31:45.013Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "3P_r246bCMQ",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/3P_r246bCMQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -98,16 +95,19 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "lFoUqLgJa0o",
+      "title": "LIVE: Philippine foreign secretary speaks to media as ASEAN meet opens",
+      "thumbnail": "https://i.ytimg.com/vi/lFoUqLgJa0o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "12r-pW_0B3E",
-      "title": "LIVE: ABC News Live - Monday, July 20 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/12r-pW_0B3E/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "u5ogKuX_F_g",
-      "title": "LIVE: NBC News NOW - July 20",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/u5ogKuX_F_g/hqdefault.jpg"
     },
     {
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-21T01:08:40.074Z",
+      "at": "2026-07-21T04:31:45.013Z",
       "checked": 33,
       "errors": 0
     }
