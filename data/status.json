@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-07-22T20:04:21.186Z",
+  "generatedAt": "2026-07-22T22:30:45.760Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "9MZiQ10bdUo",
+      "title": "Iran War - LIVE Breaking News Coverage (New U.S. Strikes, Saudi Tanker Attacked in Red Sea)",
+      "thumbnail": "https://i.ytimg.com/vi/9MZiQ10bdUo/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "CWEcjwAcMQc",
-      "title": "LIVE: President Trump Holds Public Event In Marietta, GA. As U.S. Strikes Iran",
-      "thumbnail": "https://i.ytimg.com/vi/CWEcjwAcMQc/hqdefault.jpg"
+      "videoId": "N1gmz3nuXew",
+      "title": "TOP NEWS: Trump Holds Rally In Georgia, Threatens To Increase Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/N1gmz3nuXew/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +32,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "-my7zkY1qI0",
-      "title": "WATCH LIVE: President Trump delivers remarks about 'Trump Accounts' at Georgia high school",
-      "thumbnail": "https://i.ytimg.com/vi/-my7zkY1qI0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -99,27 +99,27 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "U22jRQrgJhg",
-      "title": "LIVE: Crews battle wildfire in southeastern France",
-      "thumbnail": "https://i.ytimg.com/vi/U22jRQrgJhg/hqdefault.jpg"
+      "videoId": "zL624mCcNkA",
+      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/zL624mCcNkA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sKlW7axqsHI",
-      "title": "President Trump delivers remarks to high school students in Marietta, GA: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/sKlW7axqsHI/hqdefault.jpg"
+      "videoId": "sQPa6ph52zI",
+      "title": "LIVE: ABC News Live - Wednesday, July 22 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/sQPa6ph52zI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "AqCFwdF3kTY",
-      "title": "LIVE: Tropical Storm Bertha tracker | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/AqCFwdF3kTY/hqdefault.jpg"
+      "videoId": "iFzZXUeewbQ",
+      "title": "LIVE: NBC News NOW - July 22",
+      "thumbnail": "https://i.ytimg.com/vi/iFzZXUeewbQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Toeu2komNoU",
-      "title": "India's police clash with 'Cockroach Janta Party' youth protesters | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/Toeu2komNoU/hqdefault.jpg"
+      "videoId": "xnM64WTScwI",
+      "title": "Burnham to 'review' early prisoner releases after criticism from widow of killed PC | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/xnM64WTScwI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +204,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "CKeoT743PnU",
-      "title": "WATCH LIVE: Trump promotes investment accounts for kids at Georgia high school",
-      "thumbnail": "https://i.ytimg.com/vi/CKeoT743PnU/hqdefault.jpg"
+      "videoId": "kYExTJ2B1rA",
+      "title": "PBS News Hour live episode, July 22, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/kYExTJ2B1rA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "_oUFSesJjxY",
-      "title": "Can the Democrats be saved from their antisemitic left wing? Debate with Joel Rubin | Prove it!",
-      "thumbnail": "https://i.ytimg.com/vi/_oUFSesJjxY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -242,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "L5bsvoQ3APA",
-      "title": "Canada's premiers hold press conference after meeting with PM Carney | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/L5bsvoQ3APA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -259,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T20:04:21.186Z",
+      "at": "2026-07-22T22:30:45.760Z",
       "checked": 33,
       "errors": 0
     }
