@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:15:33.540Z",
+  "generatedAt": "2026-07-22T09:03:11.911Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xjTYdi5I4jg",
-      "title": "LIVE: Louvre’s Apollo Gallery reopens after dramatic crown jewels heist",
-      "thumbnail": "https://i.ytimg.com/vi/xjTYdi5I4jg/hqdefault.jpg"
+      "videoId": "o8fnknGXdKQ",
+      "title": "LIVE: India’s youth-led Cockroach movement protest in New Delhi",
+      "thumbnail": "https://i.ytimg.com/vi/o8fnknGXdKQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T06:15:33.540Z",
+      "at": "2026-07-22T09:03:11.911Z",
       "checked": 33,
       "errors": 0
     }
