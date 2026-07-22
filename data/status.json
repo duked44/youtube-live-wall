@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T18:50:01.030Z",
+  "generatedAt": "2026-07-22T20:04:21.186Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,37 +92,34 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "voYnnoNvdgk",
-      "title": "LIVE: Outside court as D4vd's preliminary hearing resumes in the killing of Celeste Rivas Hernandez",
-      "thumbnail": "https://i.ytimg.com/vi/voYnnoNvdgk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "zL624mCcNkA",
-      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/zL624mCcNkA/hqdefault.jpg"
+      "videoId": "U22jRQrgJhg",
+      "title": "LIVE: Crews battle wildfire in southeastern France",
+      "thumbnail": "https://i.ytimg.com/vi/U22jRQrgJhg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sQPa6ph52zI",
-      "title": "LIVE: ABC News Live - Wednesday, July 22 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/sQPa6ph52zI/hqdefault.jpg"
+      "videoId": "sKlW7axqsHI",
+      "title": "President Trump delivers remarks to high school students in Marietta, GA: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/sKlW7axqsHI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "uPRPhsCRVII",
-      "title": "LIVE: NBC News NOW - July 22",
-      "thumbnail": "https://i.ytimg.com/vi/uPRPhsCRVII/hqdefault.jpg"
+      "videoId": "AqCFwdF3kTY",
+      "title": "LIVE: Tropical Storm Bertha tracker | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/AqCFwdF3kTY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -146,19 +143,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "AuWyTglrs1w",
-      "title": "LIVE: New Trump TARIFFS | Iran war escalation |  Arizona primaries in KEY races",
-      "thumbnail": "https://i.ytimg.com/vi/AuWyTglrs1w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "e2BLgQvlguU",
-      "title": "Illegal waste dumps found to contain chemicals with 'risk to health' | The UK Tonight",
-      "thumbnail": "https://i.ytimg.com/vi/e2BLgQvlguU/hqdefault.jpg"
+      "videoId": "Toeu2komNoU",
+      "title": "India's police clash with 'Cockroach Janta Party' youth protesters | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/Toeu2komNoU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "9cug2Pjyih0",
-      "title": "WATCH LIVE: House panel examines Delaney Hall ICE Detention Center conditions and protests",
-      "thumbnail": "https://i.ytimg.com/vi/9cug2Pjyih0/hqdefault.jpg"
+      "videoId": "CKeoT743PnU",
+      "title": "WATCH LIVE: Trump promotes investment accounts for kids at Georgia high school",
+      "thumbnail": "https://i.ytimg.com/vi/CKeoT743PnU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -270,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T18:50:01.030Z",
+      "at": "2026-07-22T20:04:21.186Z",
       "checked": 33,
       "errors": 0
     }
