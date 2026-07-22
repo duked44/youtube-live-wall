@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T16:15:33.731Z",
+  "generatedAt": "2026-07-22T17:45:01.413Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "_74cOvTbhZw",
-      "title": "Watch Live: U.N. ambassadors Mike Waltz, Jeff Bartos testify before House committee",
-      "thumbnail": "https://i.ytimg.com/vi/_74cOvTbhZw/hqdefault.jpg"
+      "videoId": "FVicK-VDuWo",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/FVicK-VDuWo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "CElVdcv2oco",
-      "title": "LIVE: UN Amb. Mike Waltz testifies before House as Iran war escalates",
-      "thumbnail": "https://i.ytimg.com/vi/CElVdcv2oco/hqdefault.jpg"
+      "videoId": "AuWyTglrs1w",
+      "title": "LIVE: New Trump TARIFFS | Iran war escalation |  Arizona primaries in KEY races",
+      "thumbnail": "https://i.ytimg.com/vi/AuWyTglrs1w/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -207,15 +207,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "beBBsONpR3Y",
-      "title": "WATCH LIVE: White House science adviser Michael Kratsios testifies on research agenda before House",
-      "thumbnail": "https://i.ytimg.com/vi/beBBsONpR3Y/hqdefault.jpg"
+      "videoId": "9cug2Pjyih0",
+      "title": "WATCH LIVE: House panel examines Delaney Hall ICE Detention Center conditions and protests",
+      "thumbnail": "https://i.ytimg.com/vi/9cug2Pjyih0/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "_oUFSesJjxY",
+      "title": "Can the Democrats be saved from their antisemitic left wing? Debate with Joel Rubin | Prove it!",
+      "thumbnail": "https://i.ytimg.com/vi/_oUFSesJjxY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -242,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "L5bsvoQ3APA",
+      "title": "Canada's premiers hold press conference after meeting with PM Carney | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/L5bsvoQ3APA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T16:15:33.731Z",
+      "at": "2026-07-22T17:45:01.413Z",
       "checked": 33,
       "errors": 0
     }
