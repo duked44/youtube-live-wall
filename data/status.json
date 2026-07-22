@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T12:50:25.710Z",
+  "generatedAt": "2026-07-22T14:51:50.987Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "OlI1bpbHv5s",
-      "title": "TOP NEWS: Trump Hosts Lebanese President As US-Iran War Escalates, Hegseth Testifies Before Congress",
-      "thumbnail": "https://i.ytimg.com/vi/OlI1bpbHv5s/hqdefault.jpg"
+      "videoId": "N1gmz3nuXew",
+      "title": "LIVE NEWS: Trump Holds Public Event In Georgia, Threatens To Increase Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/N1gmz3nuXew/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -93,15 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "VL8JCmrDtyo",
-      "title": "LIVE: Samsung 'Galaxy Unpacked' 2026 keynote in London",
-      "thumbnail": "https://i.ytimg.com/vi/VL8JCmrDtyo/hqdefault.jpg"
+      "videoId": "J-bKV-NLFVc",
+      "title": "LIVE: Secret Service holds press briefing on current security challenges",
+      "thumbnail": "https://i.ytimg.com/vi/J-bKV-NLFVc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "jR0tb68Oxxw",
+      "title": "LIVE: Maduro due back in court ahead of drug trafficking trial",
+      "thumbnail": "https://i.ytimg.com/vi/jR0tb68Oxxw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "FVicK-VDuWo",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/FVicK-VDuWo/hqdefault.jpg"
+      "videoId": "_74cOvTbhZw",
+      "title": "Watch Live: U.N. ambassadors Mike Waltz, Jeff Bartos testify before House committee",
+      "thumbnail": "https://i.ytimg.com/vi/_74cOvTbhZw/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "AuWyTglrs1w",
-      "title": "LIVE: New Trump TARIFFS | Iran war escalation |  Arizona primaries in KEY races",
-      "thumbnail": "https://i.ytimg.com/vi/AuWyTglrs1w/hqdefault.jpg"
+      "videoId": "CElVdcv2oco",
+      "title": "LIVE: UN Amb. Mike Waltz testifies before House as Iran war escalates",
+      "thumbnail": "https://i.ytimg.com/vi/CElVdcv2oco/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -207,18 +210,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "OlSI8MGoark",
-      "title": "WATCH LIVE: Federal Energy Regulatory Commission testifies at Senate oversight hearing",
-      "thumbnail": "https://i.ytimg.com/vi/OlSI8MGoark/hqdefault.jpg"
+      "videoId": "beBBsONpR3Y",
+      "title": "WATCH LIVE: White House science adviser Michael Kratsios testifies on research agenda before House",
+      "thumbnail": "https://i.ytimg.com/vi/beBBsONpR3Y/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "kZG3kGs5ktM",
-      "title": "Watch live: Ben Crump announces autopsy results in Nolan Wells case",
-      "thumbnail": "https://i.ytimg.com/vi/kZG3kGs5ktM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T12:50:25.710Z",
+      "at": "2026-07-22T14:51:50.987Z",
       "checked": 33,
       "errors": 0
     }
