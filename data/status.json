@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T11:17:08.459Z",
+  "generatedAt": "2026-07-22T12:50:25.710Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "mKHz2SfRD5k",
-      "title": "LIVE: India’s opposition leader Rahul Gandhi speaks on Cockroach movement",
-      "thumbnail": "https://i.ytimg.com/vi/mKHz2SfRD5k/hqdefault.jpg"
+      "videoId": "VL8JCmrDtyo",
+      "title": "LIVE: Samsung 'Galaxy Unpacked' 2026 keynote in London",
+      "thumbnail": "https://i.ytimg.com/vi/VL8JCmrDtyo/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "A_qV7QfNlvg",
-      "title": "LIVE: India’s Leader of Opposition Rahul Gandhi holds news conference",
-      "thumbnail": "https://i.ytimg.com/vi/A_qV7QfNlvg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -209,13 +206,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "OlSI8MGoark",
+      "title": "WATCH LIVE: Federal Energy Regulatory Commission testifies at Senate oversight hearing",
+      "thumbnail": "https://i.ytimg.com/vi/OlSI8MGoark/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "kZG3kGs5ktM",
+      "title": "Watch live: Ben Crump announces autopsy results in Nolan Wells case",
+      "thumbnail": "https://i.ytimg.com/vi/kZG3kGs5ktM/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T11:17:08.459Z",
+      "at": "2026-07-22T12:50:25.710Z",
       "checked": 33,
       "errors": 0
     }
