@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-22T00:05:10.673Z",
+  "generatedAt": "2026-07-22T03:40:05.300Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "DeX0igfhjew",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/DeX0igfhjew/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -105,18 +102,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "84PLdOv4R2Q",
-      "title": "LIVE: ABC News Live - Tuesday, July 21 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/84PLdOv4R2Q/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "lt0rc98QN4M",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Jul 21",
-      "thumbnail": "https://i.ytimg.com/vi/lt0rc98QN4M/hqdefault.jpg"
+      "videoId": "7hR81HPxvdw",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/7hR81HPxvdw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -140,7 +137,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "AuWyTglrs1w",
+      "title": "LIVE: New Trump TARIFFS | Iran war escalation |  Arizona primaries in KEY races",
+      "thumbnail": "https://i.ytimg.com/vi/AuWyTglrs1w/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T00:05:10.673Z",
+      "at": "2026-07-22T03:40:05.300Z",
       "checked": 33,
       "errors": 0
     }
