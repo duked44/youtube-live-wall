@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T17:45:01.413Z",
+  "generatedAt": "2026-07-22T18:50:01.030Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "N1gmz3nuXew",
-      "title": "LIVE NEWS: Trump Holds Public Event In Georgia, Threatens To Increase Strikes Against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/N1gmz3nuXew/hqdefault.jpg"
+      "videoId": "CWEcjwAcMQc",
+      "title": "LIVE: President Trump Holds Public Event In Marietta, GA. As U.S. Strikes Iran",
+      "thumbnail": "https://i.ytimg.com/vi/CWEcjwAcMQc/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "-my7zkY1qI0",
+      "title": "WATCH LIVE: President Trump delivers remarks about 'Trump Accounts' at Georgia high school",
+      "thumbnail": "https://i.ytimg.com/vi/-my7zkY1qI0/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "e2BLgQvlguU",
+      "title": "Illegal waste dumps found to contain chemicals with 'risk to health' | The UK Tonight",
+      "thumbnail": "https://i.ytimg.com/vi/e2BLgQvlguU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -267,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T17:45:01.413Z",
+      "at": "2026-07-22T18:50:01.030Z",
       "checked": 33,
       "errors": 0
     }
