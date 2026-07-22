@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:51:50.987Z",
+  "generatedAt": "2026-07-22T16:15:33.731Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "P7kv1EtfOvg",
-      "title": "WATCH LIVE: Trump's 2026 trade agenda faces Senate scrutiny",
-      "thumbnail": "https://i.ytimg.com/vi/P7kv1EtfOvg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "J-bKV-NLFVc",
-      "title": "LIVE: Secret Service holds press briefing on current security challenges",
-      "thumbnail": "https://i.ytimg.com/vi/J-bKV-NLFVc/hqdefault.jpg"
+      "videoId": "voYnnoNvdgk",
+      "title": "LIVE: Outside court as D4vd's preliminary hearing resumes in the killing of Celeste Rivas Hernandez",
+      "thumbnail": "https://i.ytimg.com/vi/voYnnoNvdgk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "jR0tb68Oxxw",
-      "title": "LIVE: Maduro due back in court ahead of drug trafficking trial",
-      "thumbnail": "https://i.ytimg.com/vi/jR0tb68Oxxw/hqdefault.jpg"
+      "videoId": "zL624mCcNkA",
+      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/zL624mCcNkA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T14:51:50.987Z",
+      "at": "2026-07-22T16:15:33.731Z",
       "checked": 33,
       "errors": 0
     }
