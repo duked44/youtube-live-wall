@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T22:30:45.760Z",
+  "generatedAt": "2026-07-22T23:34:36.279Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "FVicK-VDuWo",
+      "videoId": "I1XV9b6WfgY",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/FVicK-VDuWo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/I1XV9b6WfgY/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xnM64WTScwI",
-      "title": "Burnham to 'review' early prisoner releases after criticism from widow of killed PC | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/xnM64WTScwI/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,10 +203,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "kYExTJ2B1rA",
-      "title": "PBS News Hour live episode, July 22, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/kYExTJ2B1rA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -219,9 +216,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "t8INcxtooLc",
+      "videoId": "8LUmADrXaXQ",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/t8INcxtooLc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8LUmADrXaXQ/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T22:30:45.760Z",
+      "at": "2026-07-22T23:34:36.279Z",
       "checked": 33,
       "errors": 0
     }
