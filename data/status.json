@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T09:03:11.911Z",
+  "generatedAt": "2026-07-22T11:17:08.459Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "P7kv1EtfOvg",
+      "title": "WATCH LIVE: Trump's 2026 trade agenda faces Senate scrutiny",
+      "thumbnail": "https://i.ytimg.com/vi/P7kv1EtfOvg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,42 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "o8fnknGXdKQ",
-      "title": "LIVE: India’s youth-led Cockroach movement protest in New Delhi",
-      "thumbnail": "https://i.ytimg.com/vi/o8fnknGXdKQ/hqdefault.jpg"
+      "videoId": "mKHz2SfRD5k",
+      "title": "LIVE: India’s opposition leader Rahul Gandhi speaks on Cockroach movement",
+      "thumbnail": "https://i.ytimg.com/vi/mKHz2SfRD5k/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "A_qV7QfNlvg",
+      "title": "LIVE: India’s Leader of Opposition Rahul Gandhi holds news conference",
+      "thumbnail": "https://i.ytimg.com/vi/A_qV7QfNlvg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "sQPa6ph52zI",
+      "title": "LIVE: ABC News Live - Wednesday, July 22 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/sQPa6ph52zI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "7hR81HPxvdw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/7hR81HPxvdw/hqdefault.jpg"
+      "videoId": "uPRPhsCRVII",
+      "title": "LIVE: NBC News NOW - July 22",
+      "thumbnail": "https://i.ytimg.com/vi/uPRPhsCRVII/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "6bpydn0SUP0",
+      "videoId": "FVicK-VDuWo",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/6bpydn0SUP0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FVicK-VDuWo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "POgWSvZNJAo",
-      "title": "Andy Burnham brings in £2 single bus fare cap | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/POgWSvZNJAo/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-22T09:03:11.911Z",
+      "at": "2026-07-22T11:17:08.459Z",
       "checked": 33,
       "errors": 0
     }
