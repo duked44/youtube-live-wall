@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-23T19:52:22.598Z",
+  "generatedAt": "2026-07-23T20:53:51.759Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "30oLLDvVfU4",
+      "title": "Iran War - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/30oLLDvVfU4/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -13,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "JriolStMYWY",
-      "title": "LIVE: Trump Signs Saudi Nuclear Deal, Threatens To Increase Strikes Against Iran",
+      "title": "LIVE: President Trump Hosts World Series Champions Los Angeles Dodgers At The White House",
       "thumbnail": "https://i.ytimg.com/vi/JriolStMYWY/hqdefault.jpg"
     },
     {
@@ -102,18 +105,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "KcOaHegRhqA",
-      "title": "LIVE: Canada's Mark Carney speaks to reporters",
-      "thumbnail": "https://i.ytimg.com/vi/KcOaHegRhqA/hqdefault.jpg"
+      "videoId": "I1QtghOjycY",
+      "title": "LIVE: Traffic in the Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/I1QtghOjycY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "XtcbY68TIP4",
-      "title": "LIVE: ABC News Live - Thursday, July 23 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/XtcbY68TIP4/hqdefault.jpg"
+      "videoId": "yJXmY44ljLQ",
+      "title": "LIVE: President Trump hosts World Series champion Los Angeles Dodgers",
+      "thumbnail": "https://i.ytimg.com/vi/yJXmY44ljLQ/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -129,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "yUMemKlcgy0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yUMemKlcgy0/hqdefault.jpg"
+      "videoId": "EmgTRHBevGA",
+      "title": "Watch Live: Trump welcomes the World Series champion Los Angeles Dodgers to the White House",
+      "thumbnail": "https://i.ytimg.com/vi/EmgTRHBevGA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "2h_jxh6jODk",
-      "title": "Indian PM Modi responds to 'Cockroach Janta Party' protests | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/2h_jxh6jODk/hqdefault.jpg"
+      "videoId": "q_JfLJ3QjG4",
+      "title": "Early release prisoners will now stay in jail as Burnham pauses scheme | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/q_JfLJ3QjG4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +210,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "Hat15_exKgY",
-      "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
-      "thumbnail": "https://i.ytimg.com/vi/Hat15_exKgY/hqdefault.jpg"
+      "videoId": "zzs3WEh1KbY",
+      "title": "WATCH LIVE: Trump hosts World Series champion LA Dodgers at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/zzs3WEh1KbY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "4epVx0CTyVY",
-      "title": "Does Trump have a plan for November? Debate with Kurt Schlichter | Prove it! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/4epVx0CTyVY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T19:52:22.598Z",
+      "at": "2026-07-23T20:53:51.759Z",
       "checked": 33,
       "errors": 0
     }
