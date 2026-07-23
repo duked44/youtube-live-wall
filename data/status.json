@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-23T01:08:50.186Z",
+  "generatedAt": "2026-07-23T04:33:23.988Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "9MZiQ10bdUo",
-      "title": "Iran War - LIVE Breaking News Coverage (New U.S. Strikes, Saudi Tanker Attacked in Red Sea)",
-      "thumbnail": "https://i.ytimg.com/vi/9MZiQ10bdUo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -108,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sQPa6ph52zI",
-      "title": "LIVE: ABC News Live - Wednesday, July 22 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/sQPa6ph52zI/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -118,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "iFzZXUeewbQ",
-      "title": "LIVE: NBC News NOW - July 22",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/iFzZXUeewbQ/hqdefault.jpg"
     },
     {
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T01:08:50.186Z",
+      "at": "2026-07-23T04:33:23.988Z",
       "checked": 33,
       "errors": 0
     }
