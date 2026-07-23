@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T20:53:51.759Z",
+  "generatedAt": "2026-07-23T22:02:14.637Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "JriolStMYWY",
-      "title": "LIVE: President Trump Hosts World Series Champions Los Angeles Dodgers At The White House",
-      "thumbnail": "https://i.ytimg.com/vi/JriolStMYWY/hqdefault.jpg"
+      "videoId": "kT5xuodO6BY",
+      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
+      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +32,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "VysO98NFhnc",
-      "title": "WATCH LIVE: President Trump hosts World Series champion LA Dodgers at White House",
-      "thumbnail": "https://i.ytimg.com/vi/VysO98NFhnc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -95,46 +92,43 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "TxOaZSCFbX4",
-      "title": "LIVE: Trump hosts the LA Dodgers at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/TxOaZSCFbX4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "I1QtghOjycY",
-      "title": "LIVE: Traffic in the Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/I1QtghOjycY/hqdefault.jpg"
+      "videoId": "6qCDDDmlThE",
+      "title": "LIVE: UN hosts townhall with secretary-general candidates",
+      "thumbnail": "https://i.ytimg.com/vi/6qCDDDmlThE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "yJXmY44ljLQ",
-      "title": "LIVE: President Trump hosts World Series champion Los Angeles Dodgers",
-      "thumbnail": "https://i.ytimg.com/vi/yJXmY44ljLQ/hqdefault.jpg"
+      "videoId": "XtcbY68TIP4",
+      "title": "LIVE: ABC News Live - Thursday, July 23 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/XtcbY68TIP4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "szV8dODoYx8",
+      "videoId": "gA-DbsA13zA",
       "title": "LIVE: NBC News NOW - July 23",
-      "thumbnail": "https://i.ytimg.com/vi/szV8dODoYx8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/gA-DbsA13zA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "EmgTRHBevGA",
-      "title": "Watch Live: Trump welcomes the World Series champion Los Angeles Dodgers to the White House",
-      "thumbnail": "https://i.ytimg.com/vi/EmgTRHBevGA/hqdefault.jpg"
+      "videoId": "yUMemKlcgy0",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yUMemKlcgy0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -210,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "zzs3WEh1KbY",
-      "title": "WATCH LIVE: Trump hosts World Series champion LA Dodgers at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/zzs3WEh1KbY/hqdefault.jpg"
+      "videoId": "BfXjnpl75OA",
+      "title": "PBS News Hour live episode, July 23, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/BfXjnpl75OA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -259,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T20:53:51.759Z",
+      "at": "2026-07-23T22:02:14.637Z",
       "checked": 33,
       "errors": 0
     }
