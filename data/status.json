@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T09:40:25.722Z",
+  "generatedAt": "2026-07-23T11:33:29.904Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "dTeE54s1ofg",
-      "title": "LIVE: Albania’s ‘Flamingo revolution’ protests continue on 54th consecutive day",
-      "thumbnail": "https://i.ytimg.com/vi/dTeE54s1ofg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -108,27 +105,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "XtcbY68TIP4",
+      "title": "LIVE: ABC News Live - Thursday, July 23 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/XtcbY68TIP4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "iFzZXUeewbQ",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/iFzZXUeewbQ/hqdefault.jpg"
+      "videoId": "szV8dODoYx8",
+      "title": "LIVE: NBC News NOW - July 23",
+      "thumbnail": "https://i.ytimg.com/vi/szV8dODoYx8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "I1XV9b6WfgY",
+      "videoId": "yUMemKlcgy0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/I1XV9b6WfgY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/yUMemKlcgy0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "8GBuV2PW3L0",
-      "title": "Kemi Badenoch reacts to Andy Burnham's first days as PM",
-      "thumbnail": "https://i.ytimg.com/vi/8GBuV2PW3L0/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,10 +221,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "xqqjjXKiYSE",
-      "title": "Kemi Badenoch delivers speech in London – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/xqqjjXKiYSE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T09:40:25.722Z",
+      "at": "2026-07-23T11:33:29.904Z",
       "checked": 33,
       "errors": 0
     }
