@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T07:13:58.822Z",
+  "generatedAt": "2026-07-23T09:40:25.722Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "dTeE54s1ofg",
+      "title": "LIVE: Albania’s ‘Flamingo revolution’ protests continue on 54th consecutive day",
+      "thumbnail": "https://i.ytimg.com/vi/dTeE54s1ofg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nM6x4eOLrfg",
-      "title": "Andy Burnham slashes business rates on pubs and clubs | Mornings with Boleto and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/nM6x4eOLrfg/hqdefault.jpg"
+      "videoId": "8GBuV2PW3L0",
+      "title": "Kemi Badenoch reacts to Andy Burnham's first days as PM",
+      "thumbnail": "https://i.ytimg.com/vi/8GBuV2PW3L0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "xqqjjXKiYSE",
+      "title": "Kemi Badenoch delivers speech in London – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/xqqjjXKiYSE/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T07:13:58.822Z",
+      "at": "2026-07-23T09:40:25.722Z",
       "checked": 33,
       "errors": 0
     }
