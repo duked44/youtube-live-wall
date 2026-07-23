@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T13:10:35.309Z",
+  "generatedAt": "2026-07-23T15:26:00.488Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "N1gmz3nuXew",
-      "title": "TOP NEWS: Trump Holds Rally In Georgia, Threatens To Increase Strikes Against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/N1gmz3nuXew/hqdefault.jpg"
+      "videoId": "2nwIgJC4rZ0",
+      "title": "LIVE: Karoline Leavitt Holds First White House Press Briefing After Trump Signs Saudi Nuclear Accord",
+      "thumbnail": "https://i.ytimg.com/vi/2nwIgJC4rZ0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "cj2HW8hYC_I",
+      "title": "WATCH LIVE: Karoline Leavitt holds White House press briefing",
+      "thumbnail": "https://i.ytimg.com/vi/cj2HW8hYC_I/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,69 +93,72 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "aVH1WgHfEwI",
-      "title": "LIVE: SpaceX Starship Flight 13 launch",
-      "thumbnail": "https://i.ytimg.com/vi/aVH1WgHfEwI/hqdefault.jpg"
+      "videoId": "JBqMgq2o844",
+      "title": "LIVE: White House press briefing with Karoline Leavitt",
+      "thumbnail": "https://i.ytimg.com/vi/JBqMgq2o844/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "zL624mCcNkA",
-      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/zL624mCcNkA/hqdefault.jpg"
+      "videoId": "DaQmAkmWEzQ",
+      "title": "LIVE: Crews battle wildfire in southern France",
+      "thumbnail": "https://i.ytimg.com/vi/DaQmAkmWEzQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "XtcbY68TIP4",
-      "title": "LIVE: ABC News Live - Thursday, July 23 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/XtcbY68TIP4/hqdefault.jpg"
+      "videoId": "8yVJCRU23qc",
+      "title": "SOON: White House Press Briefing | July 23",
+      "thumbnail": "https://i.ytimg.com/vi/8yVJCRU23qc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "szV8dODoYx8",
-      "title": "LIVE: NBC News NOW - July 23",
-      "thumbnail": "https://i.ytimg.com/vi/szV8dODoYx8/hqdefault.jpg"
+      "videoId": "n5XegYxrHAg",
+      "title": "LIVE: White House holds press briefing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/n5XegYxrHAg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "yUMemKlcgy0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yUMemKlcgy0/hqdefault.jpg"
+      "videoId": "l6etbOAtS7U",
+      "title": "Watch Live: White House holds briefing after U.S. and Saudi Arabia sign nuclear deal",
+      "thumbnail": "https://i.ytimg.com/vi/l6etbOAtS7U/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "URrZLnt37k0",
+      "title": "Live: White House press briefing",
+      "thumbnail": "https://i.ytimg.com/vi/URrZLnt37k0/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "O_92gcuTxW8",
+      "title": "LIVE: WH press secretary holds briefing amid Iran war fallout",
+      "thumbnail": "https://i.ytimg.com/vi/O_92gcuTxW8/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "pnkCfAvIJdc",
+      "title": "White House press secretary Karoline Leavitt holds news briefing",
+      "thumbnail": "https://i.ytimg.com/vi/pnkCfAvIJdc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "Hat15_exKgY",
-      "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
-      "thumbnail": "https://i.ytimg.com/vi/Hat15_exKgY/hqdefault.jpg"
+      "videoId": "P58nrPs_f_s",
+      "title": "WATCH LIVE: White House holds briefing as U.S. reaches deal with Saudi Arabia on nuclear program",
+      "thumbnail": "https://i.ytimg.com/vi/P58nrPs_f_s/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T13:10:35.309Z",
+      "at": "2026-07-23T15:26:00.488Z",
       "checked": 33,
       "errors": 0
     }
