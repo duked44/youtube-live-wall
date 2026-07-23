@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T18:19:07.882Z",
+  "generatedAt": "2026-07-23T19:52:22.598Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "RIjktgYGLOI",
-      "title": "LIVE: President Trump Holds Public Event After Signing Saudi Nuclear Accord",
-      "thumbnail": "https://i.ytimg.com/vi/RIjktgYGLOI/hqdefault.jpg"
+      "videoId": "JriolStMYWY",
+      "title": "LIVE: Trump Signs Saudi Nuclear Deal, Threatens To Increase Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/JriolStMYWY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "bjoJ-vHF7mM",
-      "title": "WATCH LIVE: Trump delivers remarks from EPA headquarters",
-      "thumbnail": "https://i.ytimg.com/vi/bjoJ-vHF7mM/hqdefault.jpg"
+      "videoId": "VysO98NFhnc",
+      "title": "WATCH LIVE: President Trump hosts World Series champion LA Dodgers at White House",
+      "thumbnail": "https://i.ytimg.com/vi/VysO98NFhnc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "4YPzTTGaHvc",
-      "title": "LIVE: Crews battle wildfire in southern France",
-      "thumbnail": "https://i.ytimg.com/vi/4YPzTTGaHvc/hqdefault.jpg"
+      "videoId": "KcOaHegRhqA",
+      "title": "LIVE: Canada's Mark Carney speaks to reporters",
+      "thumbnail": "https://i.ytimg.com/vi/KcOaHegRhqA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "zymk27V9kaM",
-      "title": "US President Donald Trump gives speech",
-      "thumbnail": "https://i.ytimg.com/vi/zymk27V9kaM/hqdefault.jpg"
+      "videoId": "2h_jxh6jODk",
+      "title": "Indian PM Modi responds to 'Cockroach Janta Party' protests | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/2h_jxh6jODk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,7 +215,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "4epVx0CTyVY",
+      "title": "Does Trump have a plan for November? Debate with Kurt Schlichter | Prove it! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/4epVx0CTyVY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -242,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "w7gVH5SNIbg",
-      "title": "Carney, Canada's premiers speak amid new Trump tariff threats | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/w7gVH5SNIbg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T18:19:07.882Z",
+      "at": "2026-07-23T19:52:22.598Z",
       "checked": 33,
       "errors": 0
     }
