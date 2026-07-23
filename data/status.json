@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T16:58:49.821Z",
+  "generatedAt": "2026-07-23T18:19:07.882Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "JriolStMYWY",
-      "title": "LIVE: Trump Signs Saudi Nuclear Deal, Threatens To Increase Strikes Against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/JriolStMYWY/hqdefault.jpg"
+      "videoId": "RIjktgYGLOI",
+      "title": "LIVE: President Trump Holds Public Event After Signing Saudi Nuclear Accord",
+      "thumbnail": "https://i.ytimg.com/vi/RIjktgYGLOI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "I1QtghOjycY",
-      "title": "LIVE: Traffic in the Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/I1QtghOjycY/hqdefault.jpg"
+      "videoId": "4YPzTTGaHvc",
+      "title": "LIVE: Crews battle wildfire in southern France",
+      "thumbnail": "https://i.ytimg.com/vi/4YPzTTGaHvc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "zymk27V9kaM",
+      "title": "US President Donald Trump gives speech",
+      "thumbnail": "https://i.ytimg.com/vi/zymk27V9kaM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "w7gVH5SNIbg",
+      "title": "Carney, Canada's premiers speak amid new Trump tariff threats | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/w7gVH5SNIbg/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T16:58:49.821Z",
+      "at": "2026-07-23T18:19:07.882Z",
       "checked": 33,
       "errors": 0
     }
