@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T11:33:29.904Z",
+  "generatedAt": "2026-07-23T13:10:35.309Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "aVH1WgHfEwI",
+      "title": "LIVE: SpaceX Starship Flight 13 launch",
+      "thumbnail": "https://i.ytimg.com/vi/aVH1WgHfEwI/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -200,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "Hat15_exKgY",
+      "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
+      "thumbnail": "https://i.ytimg.com/vi/Hat15_exKgY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T11:33:29.904Z",
+      "at": "2026-07-23T13:10:35.309Z",
       "checked": 33,
       "errors": 0
     }
