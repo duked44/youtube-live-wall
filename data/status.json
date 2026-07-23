@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T04:33:23.988Z",
+  "generatedAt": "2026-07-23T07:13:58.822Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "nM6x4eOLrfg",
+      "title": "Andy Burnham slashes business rates on pubs and clubs | Mornings with Boleto and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/nM6x4eOLrfg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T04:33:23.988Z",
+      "at": "2026-07-23T07:13:58.822Z",
       "checked": 33,
       "errors": 0
     }
