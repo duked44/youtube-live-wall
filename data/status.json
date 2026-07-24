@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T14:14:32.294Z",
+  "generatedAt": "2026-07-24T15:47:49.833Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "I4yc7yR5eL8",
+      "title": "LIVE: Trump Delivers Remarks On Nuclear Innovation After Threatening ‘Massive Attack’ On Iran",
+      "thumbnail": "https://i.ytimg.com/vi/I4yc7yR5eL8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "cydt7NIsHQw",
-      "title": "LIVE: Forest fires spread in France's Cap Ferret",
-      "thumbnail": "https://i.ytimg.com/vi/cydt7NIsHQw/hqdefault.jpg"
+      "videoId": "mmZXafLL3_o",
+      "title": "LIVE: Destruction in Venezuela a month after twin earthquakes",
+      "thumbnail": "https://i.ytimg.com/vi/mmZXafLL3_o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "BVxns88ZQ9g",
+      "title": "Canada marks opening of Gordie Howe bridge without US as trade war escalates | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/BVxns88ZQ9g/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T14:14:32.294Z",
+      "at": "2026-07-24T15:47:49.833Z",
       "checked": 33,
       "errors": 0
     }
