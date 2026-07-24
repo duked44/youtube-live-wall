@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T23:08:25.920Z",
+  "generatedAt": "2026-07-24T00:10:42.763Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "30oLLDvVfU4",
-      "title": "Iran War - LIVE Breaking News Coverage",
+      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/30oLLDvVfU4/hqdefault.jpg"
     },
     {
@@ -117,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gA-DbsA13zA",
-      "title": "LIVE: NBC News NOW - July 23",
-      "thumbnail": "https://i.ytimg.com/vi/gA-DbsA13zA/hqdefault.jpg"
+      "videoId": "P6GKfxmAihE",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Jul 23",
+      "thumbnail": "https://i.ytimg.com/vi/P6GKfxmAihE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -204,18 +204,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "Hat15_exKgY",
-      "title": "WATCH LIVE: FDA advisory panel considers use of peptides",
-      "thumbnail": "https://i.ytimg.com/vi/Hat15_exKgY/hqdefault.jpg"
+      "videoId": "xC_cWVdl8N8",
+      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
+      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "GEYxNDh1Zj8",
-      "title": "Has AI Become Too Powerful to Control? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/GEYxNDh1Zj8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-23T23:08:25.920Z",
+      "at": "2026-07-24T00:10:42.763Z",
       "checked": 33,
       "errors": 0
     }
