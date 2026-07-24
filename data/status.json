@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T10:51:00.732Z",
+  "generatedAt": "2026-07-24T12:11:45.568Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "g4WD0W1zMYE",
-      "title": "LIVE: Traffic in the Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/g4WD0W1zMYE/hqdefault.jpg"
+      "videoId": "mmZXafLL3_o",
+      "title": "LIVE: Destruction in Venezuela a month after twin earthquakes",
+      "thumbnail": "https://i.ytimg.com/vi/mmZXafLL3_o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gA-DbsA13zA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/gA-DbsA13zA/hqdefault.jpg"
+      "videoId": "PMADfN4171A",
+      "title": "LIVE: NBC News NOW - July 24",
+      "thumbnail": "https://i.ytimg.com/vi/PMADfN4171A/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "jTylMVfE7Ew",
+      "videoId": "Nihs496ZrRA",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/jTylMVfE7Ew/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Nihs496ZrRA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "xC_cWVdl8N8",
-      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
-      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
+      "videoId": "ckMZ7z5W_Uw",
+      "title": "WATCH LIVE: Day 2 of FDA advisory panel meeting to consider use of peptides",
+      "thumbnail": "https://i.ytimg.com/vi/ckMZ7z5W_Uw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T10:51:00.732Z",
+      "at": "2026-07-24T12:11:45.568Z",
       "checked": 33,
       "errors": 0
     }
