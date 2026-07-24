@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T15:47:49.833Z",
+  "generatedAt": "2026-07-24T17:16:46.270Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -38,7 +38,10 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "nlZIwrKtFWM",
+      "title": "Watch Live: White House Correspondents' Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/nlZIwrKtFWM/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -102,9 +105,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "mmZXafLL3_o",
-      "title": "LIVE: Destruction in Venezuela a month after twin earthquakes",
-      "thumbnail": "https://i.ytimg.com/vi/mmZXafLL3_o/hqdefault.jpg"
+      "videoId": "_Yjkk4p2Tcg",
+      "title": "LIVE: House forum on ICE's use of force in death of Lorenzo Salgado Araujo",
+      "thumbnail": "https://i.ytimg.com/vi/_Yjkk4p2Tcg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -207,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "AXCb_50dwmQ",
-      "title": "WATCH LIVE: House Education Committee holds field hearing on AI-driven workforce opportunities",
-      "thumbnail": "https://i.ytimg.com/vi/AXCb_50dwmQ/hqdefault.jpg"
+      "videoId": "ckMZ7z5W_Uw",
+      "title": "WATCH LIVE: Day 2 of FDA advisory panel meeting to consider use of peptides",
+      "thumbnail": "https://i.ytimg.com/vi/ckMZ7z5W_Uw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "BVxns88ZQ9g",
-      "title": "Canada marks opening of Gordie Howe bridge without US as trade war escalates | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/BVxns88ZQ9g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T15:47:49.833Z",
+      "at": "2026-07-24T17:16:46.270Z",
       "checked": 33,
       "errors": 0
     }
