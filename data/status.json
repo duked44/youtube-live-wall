@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T18:51:17.962Z",
+  "generatedAt": "2026-07-24T20:10:03.727Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "I4yc7yR5eL8",
-      "title": "LIVE: Trump Delivers Remarks On Nuclear Innovation After Threatening ‘Massive Attack’ On Iran",
-      "thumbnail": "https://i.ytimg.com/vi/I4yc7yR5eL8/hqdefault.jpg"
+      "videoId": "kT5xuodO6BY",
+      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
+      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "lT2xfrD4-uI",
-      "title": "WATCH LIVE: Trump unveils plan to ACCELERATE American nuclear innovation",
-      "thumbnail": "https://i.ytimg.com/vi/lT2xfrD4-uI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,18 +93,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "C32ZkSQ9KIc",
-      "title": "LIVE: Trump makes an announcement on nuclear innovation",
-      "thumbnail": "https://i.ytimg.com/vi/C32ZkSQ9KIc/hqdefault.jpg"
+      "videoId": "xLO6x26okD8",
+      "title": "LIVE: White House Correspondents’ Association dinner",
+      "thumbnail": "https://i.ytimg.com/vi/xLO6x26okD8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "2D-iXZ8aELs",
-      "title": "LIVE: Smoke rises over hills after wildfire in central Spain",
-      "thumbnail": "https://i.ytimg.com/vi/2D-iXZ8aELs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -149,10 +143,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "xXvxUEwrLdc",
-      "title": "LIVE: President Trump makes an announcement on American nuclear innovation",
-      "thumbnail": "https://i.ytimg.com/vi/xXvxUEwrLdc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -213,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ckMZ7z5W_Uw",
-      "title": "WATCH LIVE: Day 2 of FDA advisory panel meeting to consider use of peptides",
-      "thumbnail": "https://i.ytimg.com/vi/ckMZ7z5W_Uw/hqdefault.jpg"
+      "videoId": "xC_cWVdl8N8",
+      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
+      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -267,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T18:51:17.962Z",
+      "at": "2026-07-24T20:10:03.727Z",
       "checked": 33,
       "errors": 0
     }
