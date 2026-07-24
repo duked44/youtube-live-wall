@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:33:23.552Z",
+  "generatedAt": "2026-07-24T23:38:44.594Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -32,7 +32,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "ot2K6rd_mYE",
+      "title": "WATCH: President Trump delivers remarks at the White House Correspondents’ Association Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/ot2K6rd_mYE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -105,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "pmklBQmwfBE",
-      "title": "LIVE: Trump speaks at White House Correspondents' Association dinner",
-      "thumbnail": "https://i.ytimg.com/vi/pmklBQmwfBE/hqdefault.jpg"
+      "videoId": "sJNhZMUAJbw",
+      "title": "LIVE: SpaceX launches Starship's 13th flight test",
+      "thumbnail": "https://i.ytimg.com/vi/sJNhZMUAJbw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -132,9 +135,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Nihs496ZrRA",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Nihs496ZrRA/hqdefault.jpg"
+      "videoId": "1O-0nzBDXSY",
+      "title": "Watch Live: Trump returns to White House Correspondents’ Dinner after April shooting",
+      "thumbnail": "https://i.ytimg.com/vi/1O-0nzBDXSY/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "1PbOtBcmO7s",
-      "title": "'Best day of my life': Burnham opens new 'No 10 North' | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/1PbOtBcmO7s/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,24 +213,24 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "WjWGfSTU4bA",
-      "title": "PBS News Hour live episode, July 24, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/WjWGfSTU4bA/hqdefault.jpg"
+      "videoId": "xC_cWVdl8N8",
+      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
+      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "2w7oHgjww48",
+      "title": "SpaceX Starship launch",
+      "thumbnail": "https://i.ytimg.com/vi/2w7oHgjww48/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "yjyc4eKyZ9Q",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/yjyc4eKyZ9Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -245,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "dFCqCm-2I-E",
+      "title": "White House press gala returns with heightened security after Trump shooting attempt | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/dFCqCm-2I-E/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T22:33:23.552Z",
+      "at": "2026-07-24T23:38:44.594Z",
       "checked": 33,
       "errors": 0
     }
