@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-24T20:10:03.727Z",
+  "generatedAt": "2026-07-24T21:21:26.985Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "Jz61uLMIDEg",
+      "title": "Iran War - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/Jz61uLMIDEg/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -94,14 +97,17 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "xLO6x26okD8",
-      "title": "LIVE: White House Correspondents’ Association dinner",
+      "title": "LIVE: Trump speaks at White House Correspondents’ Association dinner",
       "thumbnail": "https://i.ytimg.com/vi/xLO6x26okD8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "45hE94eDPZw",
+      "title": "LIVE: Venezuelans attend mass in honor of twin earthquake victims",
+      "thumbnail": "https://i.ytimg.com/vi/45hE94eDPZw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "1PbOtBcmO7s",
+      "title": "'Best day of my life': Burnham opens new 'No 10 North' | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/1PbOtBcmO7s/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T20:10:03.727Z",
+      "at": "2026-07-24T21:21:26.985Z",
       "checked": 33,
       "errors": 0
     }
