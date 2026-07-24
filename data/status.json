@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T21:21:26.985Z",
+  "generatedAt": "2026-07-24T22:33:23.552Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xLO6x26okD8",
-      "title": "LIVE: Trump speaks at White House Correspondents’ Association dinner",
-      "thumbnail": "https://i.ytimg.com/vi/xLO6x26okD8/hqdefault.jpg"
+      "videoId": "uI6pKTGyNq4",
+      "title": "LIVE: SpaceX Starship Flight 13 launch",
+      "thumbnail": "https://i.ytimg.com/vi/uI6pKTGyNq4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "45hE94eDPZw",
-      "title": "LIVE: Venezuelans attend mass in honor of twin earthquake victims",
-      "thumbnail": "https://i.ytimg.com/vi/45hE94eDPZw/hqdefault.jpg"
+      "videoId": "pmklBQmwfBE",
+      "title": "LIVE: Trump speaks at White House Correspondents' Association dinner",
+      "thumbnail": "https://i.ytimg.com/vi/pmklBQmwfBE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +123,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "PMADfN4171A",
-      "title": "LIVE: NBC News NOW - July 24",
-      "thumbnail": "https://i.ytimg.com/vi/PMADfN4171A/hqdefault.jpg"
+      "videoId": "uENx7gQ-F_Q",
+      "title": "LIVE: Trump attends White House Correspondents' Dinner | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/uENx7gQ-F_Q/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -210,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "xC_cWVdl8N8",
-      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
-      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
+      "videoId": "WjWGfSTU4bA",
+      "title": "PBS News Hour live episode, July 24, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/WjWGfSTU4bA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T21:21:26.985Z",
+      "at": "2026-07-24T22:33:23.552Z",
       "checked": 33,
       "errors": 0
     }
