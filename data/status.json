@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T06:15:25.343Z",
+  "generatedAt": "2026-07-24T08:46:38.040Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "I1QtghOjycY",
-      "title": "LIVE: Traffic in the Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/I1QtghOjycY/hqdefault.jpg"
+      "videoId": "g4WD0W1zMYE",
+      "title": "LIVE: Traffic in the Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/g4WD0W1zMYE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T06:15:25.343Z",
+      "at": "2026-07-24T08:46:38.040Z",
       "checked": 33,
       "errors": 0
     }
