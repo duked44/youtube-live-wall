@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-24T00:10:42.763Z",
+  "generatedAt": "2026-07-24T03:45:14.788Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "30oLLDvVfU4",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/30oLLDvVfU4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -108,18 +105,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "XtcbY68TIP4",
-      "title": "LIVE: ABC News Live - Thursday, July 23 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/XtcbY68TIP4/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "P6GKfxmAihE",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Jul 23",
-      "thumbnail": "https://i.ytimg.com/vi/P6GKfxmAihE/hqdefault.jpg"
+      "videoId": "gA-DbsA13zA",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/gA-DbsA13zA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T00:10:42.763Z",
+      "at": "2026-07-24T03:45:14.788Z",
       "checked": 33,
       "errors": 0
     }
