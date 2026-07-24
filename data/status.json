@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T17:16:46.270Z",
+  "generatedAt": "2026-07-24T18:51:17.962Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "1PnA06Btybo",
-      "title": "LIVE: Family testify at hearing on ICE’s shooting of Lorenzo Salgado Araujo in Texas",
-      "thumbnail": "https://i.ytimg.com/vi/1PnA06Btybo/hqdefault.jpg"
+      "videoId": "C32ZkSQ9KIc",
+      "title": "LIVE: Trump makes an announcement on nuclear innovation",
+      "thumbnail": "https://i.ytimg.com/vi/C32ZkSQ9KIc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_Yjkk4p2Tcg",
-      "title": "LIVE: House forum on ICE's use of force in death of Lorenzo Salgado Araujo",
-      "thumbnail": "https://i.ytimg.com/vi/_Yjkk4p2Tcg/hqdefault.jpg"
+      "videoId": "2D-iXZ8aELs",
+      "title": "LIVE: Smoke rises over hills after wildfire in central Spain",
+      "thumbnail": "https://i.ytimg.com/vi/2D-iXZ8aELs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -149,7 +149,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "xXvxUEwrLdc",
+      "title": "LIVE: President Trump makes an announcement on American nuclear innovation",
+      "thumbnail": "https://i.ytimg.com/vi/xXvxUEwrLdc/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T17:16:46.270Z",
+      "at": "2026-07-24T18:51:17.962Z",
       "checked": 33,
       "errors": 0
     }
