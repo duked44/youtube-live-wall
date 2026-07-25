@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T10:23:21.155Z",
+  "generatedAt": "2026-07-25T11:42:27.837Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "1Ob75L2dbXw",
+      "title": "200,000 people evacuated across France and Spain | Europe wildfires",
+      "thumbnail": "https://i.ytimg.com/vi/1Ob75L2dbXw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "UMaRnityOeo",
+      "title": "Trump Headlines Press Dinner Redo, Nvidia CEO Jensen Huang | Bloomberg This Weekend: July 25, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/UMaRnityOeo/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T10:23:21.155Z",
+      "at": "2026-07-25T11:42:27.837Z",
       "checked": 33,
       "errors": 0
     }
