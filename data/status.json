@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T22:52:33.697Z",
+  "generatedAt": "2026-07-25T23:54:28.290Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "m-P9gym_Tg8",
-      "title": "BREAKING | One dead and several injured in Berlin after car driven into crowd",
-      "thumbnail": "https://i.ytimg.com/vi/m-P9gym_Tg8/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T22:52:33.697Z",
+      "at": "2026-07-25T23:54:28.290Z",
       "checked": 33,
       "errors": 0
     }
