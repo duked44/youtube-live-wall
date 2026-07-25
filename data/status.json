@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T08:52:48.378Z",
+  "generatedAt": "2026-07-25T10:23:21.155Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Pw__fKoAID0",
-      "title": "200,000 people evacuate southern Europe - as blaze heads towards Bordeaux | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/Pw__fKoAID0/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 15,
+      "channelChecks": 495,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T08:52:48.378Z",
+      "at": "2026-07-25T10:23:21.155Z",
       "checked": 33,
       "errors": 0
     }
