@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T23:38:44.594Z",
+  "generatedAt": "2026-07-25T01:09:43.766Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "l1infKsQLr0",
+      "title": "LIVE: President Trump Attends The White House Correspondents Dinner",
+      "thumbnail": "https://i.ytimg.com/vi/l1infKsQLr0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -99,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "uI6pKTGyNq4",
-      "title": "LIVE: SpaceX Starship Flight 13 launch",
-      "thumbnail": "https://i.ytimg.com/vi/uI6pKTGyNq4/hqdefault.jpg"
+      "videoId": "xLO6x26okD8",
+      "title": "LIVE: Trump speaks at White House Correspondents’ Association dinner",
+      "thumbnail": "https://i.ytimg.com/vi/xLO6x26okD8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "sJNhZMUAJbw",
-      "title": "LIVE: SpaceX launches Starship's 13th flight test",
-      "thumbnail": "https://i.ytimg.com/vi/sJNhZMUAJbw/hqdefault.jpg"
+      "videoId": "lmGOtwqA4c8",
+      "title": "LIVE: Trump speaks at White House Correspondents' Association dinner",
+      "thumbnail": "https://i.ytimg.com/vi/lmGOtwqA4c8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -222,9 +222,9 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "2w7oHgjww48",
-      "title": "SpaceX Starship launch",
-      "thumbnail": "https://i.ytimg.com/vi/2w7oHgjww48/hqdefault.jpg"
+      "videoId": "MTlj1g-Z8WI",
+      "title": "LIVE: President Trump speaks at White House correspondents’ dinner",
+      "thumbnail": "https://i.ytimg.com/vi/MTlj1g-Z8WI/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-24T23:38:44.594Z",
+      "at": "2026-07-25T01:09:43.766Z",
       "checked": 33,
       "errors": 0
     }
