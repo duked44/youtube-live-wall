@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T21:53:59.188Z",
+  "generatedAt": "2026-07-25T22:52:33.697Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,10 +95,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "KEhQ2uwFPHU",
-      "title": "LIVE: Traffic in the Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/KEhQ2uwFPHU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "JfAd-E55dUo",
-      "title": "270,000 forced to flee wildfires in France and Spain | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/JfAd-E55dUo/hqdefault.jpg"
+      "videoId": "m-P9gym_Tg8",
+      "title": "BREAKING | One dead and several injured in Berlin after car driven into crowd",
+      "thumbnail": "https://i.ytimg.com/vi/m-P9gym_Tg8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T21:53:59.188Z",
+      "at": "2026-07-25T22:52:33.697Z",
       "checked": 33,
       "errors": 0
     }
