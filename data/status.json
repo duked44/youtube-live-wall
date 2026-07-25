@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T01:09:43.766Z",
+  "generatedAt": "2026-07-25T04:28:32.294Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "Jz61uLMIDEg",
-      "title": "Iran War - LIVE Breaking News Coverage",
+      "title": "Iran War - LIVE Breaking News Coverage (Houthis Reportedly Attack Saudi Arabia)",
       "thumbnail": "https://i.ytimg.com/vi/Jz61uLMIDEg/hqdefault.jpg"
     },
     {
@@ -15,36 +15,30 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "l1infKsQLr0",
-      "title": "LIVE: President Trump Attends The White House Correspondents Dinner",
-      "thumbnail": "https://i.ytimg.com/vi/l1infKsQLr0/hqdefault.jpg"
+      "videoId": "kT5xuodO6BY",
+      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
+      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "NNRSNp-pnsI",
-      "title": "White House Correspondents' Association Dinner",
-      "thumbnail": "https://i.ytimg.com/vi/NNRSNp-pnsI/hqdefault.jpg"
+      "videoId": "U0Vu_v7rMpg",
+      "title": "Senator Lindsey Graham (R-SC) Arrival & Memorial Service at U.S. Capitol",
+      "thumbnail": "https://i.ytimg.com/vi/U0Vu_v7rMpg/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "ot2K6rd_mYE",
-      "title": "WATCH: President Trump delivers remarks at the White House Correspondents’ Association Dinner",
-      "thumbnail": "https://i.ytimg.com/vi/ot2K6rd_mYE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "nlZIwrKtFWM",
-      "title": "Watch Live: White House Correspondents' Dinner",
-      "thumbnail": "https://i.ytimg.com/vi/nlZIwrKtFWM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -98,46 +92,40 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "xLO6x26okD8",
-      "title": "LIVE: Trump speaks at White House Correspondents’ Association dinner",
-      "thumbnail": "https://i.ytimg.com/vi/xLO6x26okD8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "lmGOtwqA4c8",
-      "title": "LIVE: Trump speaks at White House Correspondents' Association dinner",
-      "thumbnail": "https://i.ytimg.com/vi/lmGOtwqA4c8/hqdefault.jpg"
+      "videoId": "Jn8Y7e0eWRw",
+      "title": "Traffic in the Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/Jn8Y7e0eWRw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "86pCj48-WVQ",
-      "title": "LIVE: ABC News Live - Friday, July 24 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/86pCj48-WVQ/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "uENx7gQ-F_Q",
-      "title": "LIVE: Trump attends White House Correspondents' Dinner | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/uENx7gQ-F_Q/hqdefault.jpg"
+      "videoId": "Rgzd-b50Iwo",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/Rgzd-b50Iwo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "1O-0nzBDXSY",
-      "title": "Watch Live: Trump returns to White House Correspondents’ Dinner after April shooting",
-      "thumbnail": "https://i.ytimg.com/vi/1O-0nzBDXSY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -221,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "MTlj1g-Z8WI",
-      "title": "LIVE: President Trump speaks at White House correspondents’ dinner",
-      "thumbnail": "https://i.ytimg.com/vi/MTlj1g-Z8WI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -248,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "dFCqCm-2I-E",
-      "title": "White House press gala returns with heightened security after Trump shooting attempt | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/dFCqCm-2I-E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -270,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T01:09:43.766Z",
+      "at": "2026-07-25T04:28:32.294Z",
       "checked": 33,
       "errors": 0
     }
