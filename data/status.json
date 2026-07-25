@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T06:41:42.049Z",
+  "generatedAt": "2026-07-25T08:52:48.378Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -145,7 +145,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "Pw__fKoAID0",
-      "title": "Mornings | Saturday 25 July",
+      "title": "200,000 people evacuate southern Europe - as blaze heads towards Bordeaux | Mornings",
       "thumbnail": "https://i.ytimg.com/vi/Pw__fKoAID0/hqdefault.jpg"
     },
     {
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-25T06:41:42.049Z",
+      "at": "2026-07-25T08:52:48.378Z",
       "checked": 33,
       "errors": 0
     }
