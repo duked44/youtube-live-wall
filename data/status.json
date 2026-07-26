@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T19:57:04.247Z",
+  "generatedAt": "2026-07-26T21:03:52.901Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "RnW8j2QrVPE",
-      "title": "LIVE: ABC News Live - Sunday, July 26 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/RnW8j2QrVPE/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-26T19:57:04.247Z",
+      "at": "2026-07-26T21:03:52.901Z",
       "checked": 33,
       "errors": 0
     }
