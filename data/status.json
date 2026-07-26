@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T17:39:46.986Z",
+  "generatedAt": "2026-07-26T18:43:10.714Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "Yo_LOZYD0cA",
+      "title": "LIVE: Hakeem Jeffries Holds Midterm Election Event In Pennsylvania With Gov. Josh Shapiro",
+      "thumbnail": "https://i.ytimg.com/vi/Yo_LOZYD0cA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "QNR94GK-JQI",
-      "title": "BREAKING: Suspect in Berlin attack shot and killed by police, German media reports | Full coverage",
+      "title": "Terror suspect in Berlin Pride attack shot and killed by police | Full Sky News coverage",
       "thumbnail": "https://i.ytimg.com/vi/QNR94GK-JQI/hqdefault.jpg"
     },
     {
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-26T17:39:46.986Z",
+      "at": "2026-07-26T18:43:10.714Z",
       "checked": 33,
       "errors": 0
     }
