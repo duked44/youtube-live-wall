@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-26T02:34:34.640Z",
+  "generatedAt": "2026-07-26T05:47:25.953Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "i76ATm_23J4",
-      "title": "WATCH: ISS hatch closes for Roscosmos Soyuz MS-28 departure",
-      "thumbnail": "https://i.ytimg.com/vi/i76ATm_23J4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-26T02:34:34.640Z",
+      "at": "2026-07-26T05:47:25.953Z",
       "checked": 33,
       "errors": 0
     }
