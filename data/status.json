@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T16:04:38.300Z",
+  "generatedAt": "2026-07-27T17:52:38.193Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "l2qAjTV7s2s",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/l2qAjTV7s2s/hqdefault.jpg"
+      "videoId": "qXRNqagzybo",
+      "title": "LIVE: President Trump Visits General Motors After Pausing Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/qXRNqagzybo/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -47,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "_sr-M1bv07o",
-      "title": "LIVE: Wildfires continue to rage in France and Spain with crisis meetings to take place | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/_sr-M1bv07o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "q_HC5PSGnVY",
-      "title": "LIVE: New bridge opens between Canada and the US",
-      "thumbnail": "https://i.ytimg.com/vi/q_HC5PSGnVY/hqdefault.jpg"
+      "videoId": "ANoy4hf2y0I",
+      "title": "LIVE: Outside Miami court as Andrew and Tristan Tate's case returns",
+      "thumbnail": "https://i.ytimg.com/vi/ANoy4hf2y0I/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "gysjv-jWveQ",
-      "title": "LIVE: Outside Tate brothers’ court hearing",
-      "thumbnail": "https://i.ytimg.com/vi/gysjv-jWveQ/hqdefault.jpg"
+      "videoId": "WEgVfX6ub5c",
+      "title": "LIVE: Traffic in the Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/WEgVfX6ub5c/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -146,16 +143,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "-KKX3kNaGss",
+      "title": "LIVE: President Trump participates in vehicle demonstration, delivers remarks in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/-KKX3kNaGss/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "kuz1VNXsQ28",
-      "title": "UN hold meeting on Ukraine as Russian attack on Kyiv triggers fires",
-      "thumbnail": "https://i.ytimg.com/vi/kuz1VNXsQ28/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,7 +215,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "jgRelTP3M-w",
+      "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
+      "thumbnail": "https://i.ytimg.com/vi/jgRelTP3M-w/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 12,
+      "channelChecks": 396,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T16:04:38.300Z",
+      "at": "2026-07-27T17:52:38.193Z",
       "checked": 33,
       "errors": 0
     }
