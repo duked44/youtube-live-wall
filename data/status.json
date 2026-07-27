@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T13:43:16.775Z",
+  "generatedAt": "2026-07-27T16:04:38.300Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "l2qAjTV7s2s",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/l2qAjTV7s2s/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -93,27 +93,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "jWETnxWhZEc",
-      "title": "LIVE: Opening statements begin in Lindsay Clancy trial",
-      "thumbnail": "https://i.ytimg.com/vi/jWETnxWhZEc/hqdefault.jpg"
+      "videoId": "q_HC5PSGnVY",
+      "title": "LIVE: New bridge opens between Canada and the US",
+      "thumbnail": "https://i.ytimg.com/vi/q_HC5PSGnVY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "A-SeVEY1HZE",
-      "title": "LIVE: Opening arguments begin in murder trial of Lindsay Clancy",
-      "thumbnail": "https://i.ytimg.com/vi/A-SeVEY1HZE/hqdefault.jpg"
+      "videoId": "gysjv-jWveQ",
+      "title": "LIVE: Outside Tate brothers’ court hearing",
+      "thumbnail": "https://i.ytimg.com/vi/gysjv-jWveQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "HZdEcmj8P-g",
+      "title": "LIVE: ABC News Live - Monday, July 27 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/HZdEcmj8P-g/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RncH8HXSz1E",
-      "title": "Wildfires rage in France | Watch live",
-      "thumbnail": "https://i.ytimg.com/vi/RncH8HXSz1E/hqdefault.jpg"
+      "videoId": "kuz1VNXsQ28",
+      "title": "UN hold meeting on Ukraine as Russian attack on Kyiv triggers fires",
+      "thumbnail": "https://i.ytimg.com/vi/kuz1VNXsQ28/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +221,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "_dcW31ddKGI",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/_dcW31ddKGI/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -253,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T13:43:16.775Z",
+      "at": "2026-07-27T16:04:38.300Z",
       "checked": 33,
       "errors": 0
     }
