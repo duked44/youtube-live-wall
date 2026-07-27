@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-26T23:12:27.498Z",
+  "generatedAt": "2026-07-27T00:14:34.160Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "x0ZQoivGW9k",
+      "title": "Iran War, Spain & France Fires, and More - LIVE Updates & Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/x0ZQoivGW9k/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-26T23:12:27.498Z",
+      "at": "2026-07-27T00:14:34.160Z",
       "checked": 33,
       "errors": 0
     }
