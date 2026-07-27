@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T17:52:38.193Z",
+  "generatedAt": "2026-07-27T19:17:16.639Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "4KPsZJlIinU",
+      "title": "WATCH LIVE: Trump delivers remarks at General Motors",
+      "thumbnail": "https://i.ytimg.com/vi/4KPsZJlIinU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "ANoy4hf2y0I",
-      "title": "LIVE: Outside Miami court as Andrew and Tristan Tate's case returns",
-      "thumbnail": "https://i.ytimg.com/vi/ANoy4hf2y0I/hqdefault.jpg"
+      "videoId": "iD4o3yZ9t8o",
+      "title": "LIVE: Outside court as D4vd's preliminary hearing ends in the killing of Celeste Rivas Hernandez",
+      "thumbnail": "https://i.ytimg.com/vi/iD4o3yZ9t8o/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "WEgVfX6ub5c",
-      "title": "LIVE: Traffic in the Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/WEgVfX6ub5c/hqdefault.jpg"
+      "videoId": "ErXz0cDpbcw",
+      "title": "LIVE: Outside LA court hearing in murder case against pop singer D4vd",
+      "thumbnail": "https://i.ytimg.com/vi/ErXz0cDpbcw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "HZdEcmj8P-g",
-      "title": "LIVE: ABC News Live - Monday, July 27 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/HZdEcmj8P-g/hqdefault.jpg"
+      "videoId": "pyYdqkYW86k",
+      "title": "LIVE: President Trump delivers remarks in Milford, Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/pyYdqkYW86k/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "94F_QMU8sCk",
-      "title": "LIVE: NBC News NOW - July 27",
-      "thumbnail": "https://i.ytimg.com/vi/94F_QMU8sCk/hqdefault.jpg"
+      "videoId": "IUGmnXiX650",
+      "title": "LIVE: Trump delivers economic remarks in Michigan | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/IUGmnXiX650/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "7qBorEZL6yU",
-      "title": "Watch Live: Lindsay Clancy's trial for murder of 3 kids begins with opening statements | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/7qBorEZL6yU/hqdefault.jpg"
+      "videoId": "7U8KW1vNsXU",
+      "title": "Watch Live: Colt Gray sentencing hearing resumes for Apalachee High School shooting | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/7U8KW1vNsXU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -145,7 +148,7 @@
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
       "videoId": "-KKX3kNaGss",
-      "title": "LIVE: President Trump participates in vehicle demonstration, delivers remarks in Michigan",
+      "title": "LIVE: Trump speaks on the economy in Michigan",
       "thumbnail": "https://i.ytimg.com/vi/-KKX3kNaGss/hqdefault.jpg"
     },
     {
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "jVoiUISdYdU",
+      "title": "Donald Trump delivers speech in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/jVoiUISdYdU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +210,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "xC_cWVdl8N8",
-      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
-      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
+      "videoId": "m5BpWOjchHY",
+      "title": "WATCH LIVE: Trump expected to tout his economic policies, tariffs in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/m5BpWOjchHY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "jgRelTP3M-w",
-      "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
-      "thumbnail": "https://i.ytimg.com/vi/jgRelTP3M-w/hqdefault.jpg"
+      "videoId": "WL8aZB7Kac8",
+      "title": "Is Trump \"killing\" the American budget? Debate with Jason Rantz | Prove It! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/WL8aZB7Kac8/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T17:52:38.193Z",
+      "at": "2026-07-27T19:17:16.639Z",
       "checked": 33,
       "errors": 0
     }
