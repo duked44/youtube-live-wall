@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T20:48:03.145Z",
+  "generatedAt": "2026-07-27T21:54:00.381Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "7U8KW1vNsXU",
-      "title": "Watch Live: Colt Gray sentencing hearing resumes for Apalachee High School shooting | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/7U8KW1vNsXU/hqdefault.jpg"
+      "videoId": "Pz4W67_002M",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/Pz4W67_002M/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "QOZp8tWgW3I",
-      "title": "Wildfires spread across Europe | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/QOZp8tWgW3I/hqdefault.jpg"
+      "videoId": "TljO8y5dqAE",
+      "title": "France and Spain battle to contain wildfires | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/TljO8y5dqAE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,9 +213,9 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "jgRelTP3M-w",
+      "videoId": "Bi0T_oc-TdI",
       "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
-      "thumbnail": "https://i.ytimg.com/vi/jgRelTP3M-w/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Bi0T_oc-TdI/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T20:48:03.145Z",
+      "at": "2026-07-27T21:54:00.381Z",
       "checked": 33,
       "errors": 0
     }
