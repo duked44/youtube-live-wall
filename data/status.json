@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T10:58:36.295Z",
+  "generatedAt": "2026-07-27T13:43:16.775Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "_sr-M1bv07o",
+      "title": "LIVE: Wildfires continue to rage in France and Spain with crisis meetings to take place | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/_sr-M1bv07o/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -90,15 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "V-ZbV_U5ptc",
-      "title": "LIVE: Wildfires burn in France as 250,000 people evacuated",
-      "thumbnail": "https://i.ytimg.com/vi/V-ZbV_U5ptc/hqdefault.jpg"
+      "videoId": "jWETnxWhZEc",
+      "title": "LIVE: Opening statements begin in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/jWETnxWhZEc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "A-SeVEY1HZE",
+      "title": "LIVE: Opening arguments begin in murder trial of Lindsay Clancy",
+      "thumbnail": "https://i.ytimg.com/vi/A-SeVEY1HZE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Pz4W67_002M",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Pz4W67_002M/hqdefault.jpg"
+      "videoId": "7qBorEZL6yU",
+      "title": "Watch Live: Lindsay Clancy's trial for murder of 3 kids begins with opening statements | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/7qBorEZL6yU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -148,7 +154,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "RncH8HXSz1E",
-      "title": "Watch live from France as emergency services attempt to contain wildfires",
+      "title": "Wildfires rage in France | Watch live",
       "thumbnail": "https://i.ytimg.com/vi/RncH8HXSz1E/hqdefault.jpg"
     },
     {
@@ -247,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 15,
-      "channelChecks": 495,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T10:58:36.295Z",
+      "at": "2026-07-27T13:43:16.775Z",
       "checked": 33,
       "errors": 0
     }
