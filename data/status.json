@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T07:48:12.433Z",
+  "generatedAt": "2026-07-27T10:58:36.295Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -114,15 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Rgzd-b50Iwo",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/Rgzd-b50Iwo/hqdefault.jpg"
+      "videoId": "94F_QMU8sCk",
+      "title": "LIVE: NBC News NOW - July 27",
+      "thumbnail": "https://i.ytimg.com/vi/94F_QMU8sCk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "Pz4W67_002M",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/Pz4W67_002M/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yq2ozBAd4MI",
-      "title": "Huge wildfire in France creeping closer to the city of Bordeaux | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/yq2ozBAd4MI/hqdefault.jpg"
+      "videoId": "RncH8HXSz1E",
+      "title": "Watch live from France as emergency services attempt to contain wildfires",
+      "thumbnail": "https://i.ytimg.com/vi/RncH8HXSz1E/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 16,
-      "channelChecks": 528,
+      "runs": 15,
+      "channelChecks": 495,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T07:48:12.433Z",
+      "at": "2026-07-27T10:58:36.295Z",
       "checked": 33,
       "errors": 0
     }
