@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T00:07:46.914Z",
+  "generatedAt": "2026-07-28T03:33:10.155Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,28 +89,22 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "OFhYqxf6NTk",
-      "title": "LIVE: Tom Holland and Zendaya attend Hollywood premiere of ‘Spider-Man: Brand New Day’",
-      "thumbnail": "https://i.ytimg.com/vi/OFhYqxf6NTk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "GB6YOqfiZwo",
-      "title": "LIVE: Traffic in the Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/GB6YOqfiZwo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "HZdEcmj8P-g",
-      "title": "LIVE: ABC News Live - Monday, July 27 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/HZdEcmj8P-g/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -118,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "aHdh5AaIWDA",
-      "title": "LIVE: NBC News NOW - July 27",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/aHdh5AaIWDA/hqdefault.jpg"
     },
     {
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T00:07:46.914Z",
+      "at": "2026-07-28T03:33:10.155Z",
       "checked": 33,
       "errors": 0
     }
