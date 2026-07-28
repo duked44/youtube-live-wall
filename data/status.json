@@ -1,50 +1,38 @@
 {
-  "generatedAt": "2026-07-28T20:08:43.992Z",
+  "generatedAt": "2026-07-28T21:30:51.161Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "cGMjsaqPTcU",
-      "title": "Lindsey Graham Funeral - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/cGMjsaqPTcU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "aTRn3HiQVEM",
-      "title": "WATCH LIVE: Senator Lindsey Graham Funeral Service At Washington National Cathedral",
-      "thumbnail": "https://i.ytimg.com/vi/aTRn3HiQVEM/hqdefault.jpg"
+      "videoId": "kT5xuodO6BY",
+      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
+      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "hdlW5tillzc",
-      "title": "Senator Lindsey Graham (R-SC) Funeral Service",
-      "thumbnail": "https://i.ytimg.com/vi/hdlW5tillzc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "1EjPR0qVBbY",
-      "title": "WATCH LIVE: Lindsey Graham’s funeral service at Washington National Cathedral",
-      "thumbnail": "https://i.ytimg.com/vi/1EjPR0qVBbY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "A4p5DdeN6uA",
-      "title": "Watch Live: Lindsey Graham's Funeral Service at the Washington National Cathedral",
-      "thumbnail": "https://i.ytimg.com/vi/A4p5DdeN6uA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -98,37 +86,34 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "y9bD-vWspOk",
-      "title": "Lindsey Graham funeral LIVE: Trump speaks at service",
-      "thumbnail": "https://i.ytimg.com/vi/y9bD-vWspOk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "WRtUQ-HiO98",
-      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
-      "thumbnail": "https://i.ytimg.com/vi/WRtUQ-HiO98/hqdefault.jpg"
+      "videoId": "4V5dRBfQiWw",
+      "title": "LIVE: Traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/4V5dRBfQiWw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Yre8PMw4TtE",
-      "title": "Funeral service for Sen. Lindsey Graham at the National Cathedral: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/Yre8PMw4TtE/hqdefault.jpg"
+      "videoId": "HDahZKoC6BA",
+      "title": "LIVE: ABC News Live - Tuesday, July 28 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/HDahZKoC6BA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "hXvFcmMKCf0",
-      "title": "LIVE: Funeral services held for Sen. Lindsey Graham | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/hXvFcmMKCf0/hqdefault.jpg"
+      "videoId": "xrqK4ClgtKI",
+      "title": "LIVE: NBC News NOW - July 28",
+      "thumbnail": "https://i.ytimg.com/vi/xrqK4ClgtKI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -152,19 +137,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "sW6oFfYNNQs",
-      "title": "LIVE: Lindsey Graham's funeral service held in Washington, DC",
-      "thumbnail": "https://i.ytimg.com/vi/sW6oFfYNNQs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "SzTim7pDUhQ",
-      "title": "Dozens trapped and several dead after earthquake strikes Japan | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/SzTim7pDUhQ/hqdefault.jpg"
+      "videoId": "K50EeIZyIQM",
+      "title": "UEFA furious at FIFA plan to sell shares in World Cup | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/K50EeIZyIQM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,18 +198,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "njizFLgXtbY",
-      "title": "WATCH LIVE: Funeral service for Sen. Lindsey Graham at Washington National Cathedral",
-      "thumbnail": "https://i.ytimg.com/vi/njizFLgXtbY/hqdefault.jpg"
+      "videoId": "VO20prOe4n4",
+      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
+      "thumbnail": "https://i.ytimg.com/vi/VO20prOe4n4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "1JTBKiuHPYU",
-      "title": "Does Fauci belong in prison? Debate with Brad Polumbo | Prove it with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/1JTBKiuHPYU/hqdefault.jpg"
+      "videoId": "Bi0T_oc-TdI",
+      "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
+      "thumbnail": "https://i.ytimg.com/vi/Bi0T_oc-TdI/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -273,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T20:08:43.992Z",
+      "at": "2026-07-28T21:30:51.161Z",
       "checked": 33,
       "errors": 0
     }
