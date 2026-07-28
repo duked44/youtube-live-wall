@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T06:12:38.479Z",
+  "generatedAt": "2026-07-28T09:07:40.326Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "AIRGPzf59kw",
+      "title": "LIVE: View from Japan after magnitude 7.1 earthquake prompts tsunami advisory",
+      "thumbnail": "https://i.ytimg.com/vi/AIRGPzf59kw/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "PbAhsJ0mDbs",
-      "title": "France braces for 'significant' temperature rise in wildfire battle | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/PbAhsJ0mDbs/hqdefault.jpg"
+      "videoId": "N-AOFVakJgA",
+      "title": "Tsunami warning in Japan after 7.1 magnitude earthquake",
+      "thumbnail": "https://i.ytimg.com/vi/N-AOFVakJgA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T06:12:38.479Z",
+      "at": "2026-07-28T09:07:40.326Z",
       "checked": 33,
       "errors": 0
     }
