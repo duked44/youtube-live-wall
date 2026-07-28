@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-28T22:37:52.025Z",
+  "generatedAt": "2026-07-28T23:38:40.402Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "OkkrC9HOgOA",
+      "title": "Iran Launches “Surprise Missile Attack” on U.S. Forces - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/OkkrC9HOgOA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -120,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "00sxt5YRf_g",
+      "videoId": "f4xHEMu7atg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/f4xHEMu7atg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "K50EeIZyIQM",
-      "title": "UEFA furious at FIFA plan to sell shares in World Cup | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/K50EeIZyIQM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "cxqflP50ghs",
-      "title": "PBS News Hour live episode, July 28, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/cxqflP50ghs/hqdefault.jpg"
+      "videoId": "VO20prOe4n4",
+      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
+      "thumbnail": "https://i.ytimg.com/vi/VO20prOe4n4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T22:37:52.025Z",
+      "at": "2026-07-28T23:38:40.402Z",
       "checked": 33,
       "errors": 0
     }
