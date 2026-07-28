@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T22:58:08.867Z",
+  "generatedAt": "2026-07-28T00:07:46.914Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Pz4W67_002M",
+      "videoId": "Pct9DPG-Mo8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Pz4W67_002M/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Pct9DPG-Mo8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "oOZj6vs_Kx0",
-      "title": "PBS News Hour live episode, July 27, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/oOZj6vs_Kx0/hqdefault.jpg"
+      "videoId": "xC_cWVdl8N8",
+      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
+      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-27T22:58:08.867Z",
+      "at": "2026-07-28T00:07:46.914Z",
       "checked": 33,
       "errors": 0
     }
