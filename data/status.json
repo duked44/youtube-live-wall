@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T18:44:12.595Z",
+  "generatedAt": "2026-07-28T20:08:43.992Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_V8uqnPq6Ig",
-      "title": "LIVE: Funeral for Senator Lindsey Graham",
-      "thumbnail": "https://i.ytimg.com/vi/_V8uqnPq6Ig/hqdefault.jpg"
+      "videoId": "WRtUQ-HiO98",
+      "title": "LIVE: Traffic in Bab el-Mandeb Strait",
+      "thumbnail": "https://i.ytimg.com/vi/WRtUQ-HiO98/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -135,9 +135,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "b2W2n-MVyOk",
-      "title": "Watch Live: Trump, political leaders honor late Sen. Lindsey Graham at Washington, D.C., funeral",
-      "thumbnail": "https://i.ytimg.com/vi/b2W2n-MVyOk/hqdefault.jpg"
+      "videoId": "00sxt5YRf_g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -162,9 +162,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "HC0khu-hjSU",
-      "title": "Trump gives eulogy at Lindsey Graham funeral service",
-      "thumbnail": "https://i.ytimg.com/vi/HC0khu-hjSU/hqdefault.jpg"
+      "videoId": "SzTim7pDUhQ",
+      "title": "Dozens trapped and several dead after earthquake strikes Japan | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/SzTim7pDUhQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -225,9 +225,9 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "Bi0T_oc-TdI",
-      "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
-      "thumbnail": "https://i.ytimg.com/vi/Bi0T_oc-TdI/hqdefault.jpg"
+      "videoId": "1JTBKiuHPYU",
+      "title": "Does Fauci belong in prison? Debate with Brad Polumbo | Prove it with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/1JTBKiuHPYU/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -242,10 +242,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "d1eaI7StlFA",
-      "title": "Funeral service for Lindsey Graham held at Washington National Cathedral – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/d1eaI7StlFA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -276,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T18:44:12.595Z",
+      "at": "2026-07-28T20:08:43.992Z",
       "checked": 33,
       "errors": 0
     }
