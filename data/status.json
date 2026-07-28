@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-28T11:27:22.033Z",
+  "generatedAt": "2026-07-28T13:12:30.940Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "cGMjsaqPTcU",
+      "title": "Trump Meets with Zelensky & Netanyahu, Lindsey Graham Funeral - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/cGMjsaqPTcU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -29,13 +32,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "0Q7sKvG5cdg",
+      "title": "WATCH LIVE: Sen Lindsey Graham's casket arrives at the Capitol",
+      "thumbnail": "https://i.ytimg.com/vi/0Q7sKvG5cdg/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "psZd0T-0tuw",
+      "title": "Watch Live: Senator Lindsey Graham Memorial Service at US Capitol",
+      "thumbnail": "https://i.ytimg.com/vi/psZd0T-0tuw/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -90,15 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "f5VbQ1uyPgs",
-      "title": "LIVE: Firefighters battle wildfires in France",
-      "thumbnail": "https://i.ytimg.com/vi/f5VbQ1uyPgs/hqdefault.jpg"
+      "videoId": "wfRtlsad3wU",
+      "title": "LIVE: Lindsey Graham lies in state at the US Capitol ahead of funeral service",
+      "thumbnail": "https://i.ytimg.com/vi/wfRtlsad3wU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "lz2OxTNGn-I",
+      "title": "LIVE: Castellon wildfire in eastern Spain",
+      "thumbnail": "https://i.ytimg.com/vi/lz2OxTNGn-I/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +135,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "00sxt5YRf_g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
+      "videoId": "e06f8o5EkLg",
+      "title": "Happening soon: World leaders gather for Sen. Lindsey Graham's funeral | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/e06f8o5EkLg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -140,7 +152,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "nzKla4-UdIs",
+      "title": "LIVE: Lindsey Graham Capitol Hill memorial service",
+      "thumbnail": "https://i.ytimg.com/vi/nzKla4-UdIs/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -148,7 +163,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "EqKtuGvsgmU",
-      "title": "Wildfires rage in France as more evacuations ordered",
+      "title": "Wildfires rage in France as thousands more evacuated",
       "thumbnail": "https://i.ytimg.com/vi/EqKtuGvsgmU/hqdefault.jpg"
     },
     {
@@ -201,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "xC_cWVdl8N8",
-      "title": "WATCH LIVE: Schumer holds news conference on IVF treatments",
-      "thumbnail": "https://i.ytimg.com/vi/xC_cWVdl8N8/hqdefault.jpg"
+      "videoId": "VzEJBiNJZbU",
+      "title": "WATCH LIVE: Sen. Lindsey Graham lies in state at the U.S. Capitol",
+      "thumbnail": "https://i.ytimg.com/vi/VzEJBiNJZbU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -239,7 +254,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "b0KnNtpJmWM",
+      "title": "Trump hosts Netanyahu at the White House in first meeting since Iran war began | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/b0KnNtpJmWM/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -253,12 +271,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 12,
-      "channelChecks": 396,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T11:27:22.033Z",
+      "at": "2026-07-28T13:12:30.940Z",
       "checked": 33,
       "errors": 0
     }
