@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T17:08:00.550Z",
+  "generatedAt": "2026-07-28T18:44:12.595Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -16,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "aTRn3HiQVEM",
-      "title": "TOP NEWS: Sen. Lindsey Graham Funeral Ceremony, U.S. Pauses Strikes On Iran",
+      "title": "WATCH LIVE: Senator Lindsey Graham Funeral Service At Washington National Cathedral",
       "thumbnail": "https://i.ytimg.com/vi/aTRn3HiQVEM/hqdefault.jpg"
     },
     {
@@ -33,15 +33,18 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "0Q7sKvG5cdg",
-      "title": "WATCH LIVE: Sen Lindsey Graham honored in funeral at Washington National Cathedral",
-      "thumbnail": "https://i.ytimg.com/vi/0Q7sKvG5cdg/hqdefault.jpg"
+      "videoId": "1EjPR0qVBbY",
+      "title": "WATCH LIVE: Lindsey Graham’s funeral service at Washington National Cathedral",
+      "thumbnail": "https://i.ytimg.com/vi/1EjPR0qVBbY/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "A4p5DdeN6uA",
+      "title": "Watch Live: Lindsey Graham's Funeral Service at the Washington National Cathedral",
+      "thumbnail": "https://i.ytimg.com/vi/A4p5DdeN6uA/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -97,7 +100,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "y9bD-vWspOk",
-      "title": "Lindsey Graham funeral: LIVE service at Washington National Cathedral",
+      "title": "Lindsey Graham funeral LIVE: Trump speaks at service",
       "thumbnail": "https://i.ytimg.com/vi/y9bD-vWspOk/hqdefault.jpg"
     },
     {
@@ -105,36 +108,36 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "maUogDMhnUs",
-      "title": "LIVE: Peru's Fujimori takes power",
-      "thumbnail": "https://i.ytimg.com/vi/maUogDMhnUs/hqdefault.jpg"
+      "videoId": "_V8uqnPq6Ig",
+      "title": "LIVE: Funeral for Senator Lindsey Graham",
+      "thumbnail": "https://i.ytimg.com/vi/_V8uqnPq6Ig/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "HDahZKoC6BA",
-      "title": "LIVE: ABC News Live - Tuesday, July 28 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/HDahZKoC6BA/hqdefault.jpg"
+      "videoId": "Yre8PMw4TtE",
+      "title": "Funeral service for Sen. Lindsey Graham at the National Cathedral: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Yre8PMw4TtE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "xrqK4ClgtKI",
-      "title": "LIVE: NBC News NOW - July 28",
-      "thumbnail": "https://i.ytimg.com/vi/xrqK4ClgtKI/hqdefault.jpg"
+      "videoId": "hXvFcmMKCf0",
+      "title": "LIVE: Funeral services held for Sen. Lindsey Graham | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/hXvFcmMKCf0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "00sxt5YRf_g",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
+      "videoId": "b2W2n-MVyOk",
+      "title": "Watch Live: Trump, political leaders honor late Sen. Lindsey Graham at Washington, D.C., funeral",
+      "thumbnail": "https://i.ytimg.com/vi/b2W2n-MVyOk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -149,7 +152,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "sW6oFfYNNQs",
+      "title": "LIVE: Lindsey Graham's funeral service held in Washington, DC",
+      "thumbnail": "https://i.ytimg.com/vi/sW6oFfYNNQs/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -157,7 +163,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "HC0khu-hjSU",
-      "title": "Trump attends Lindsey Graham funeral service",
+      "title": "Trump gives eulogy at Lindsey Graham funeral service",
       "thumbnail": "https://i.ytimg.com/vi/HC0khu-hjSU/hqdefault.jpg"
     },
     {
@@ -236,7 +242,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "d1eaI7StlFA",
+      "title": "Funeral service for Lindsey Graham held at Washington National Cathedral – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/d1eaI7StlFA/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -267,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T17:08:00.550Z",
+      "at": "2026-07-28T18:44:12.595Z",
       "checked": 33,
       "errors": 0
     }
