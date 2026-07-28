@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T09:07:40.326Z",
+  "generatedAt": "2026-07-28T11:27:22.033Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "AIRGPzf59kw",
-      "title": "LIVE: View from Japan after magnitude 7.1 earthquake prompts tsunami advisory",
-      "thumbnail": "https://i.ytimg.com/vi/AIRGPzf59kw/hqdefault.jpg"
+      "videoId": "f5VbQ1uyPgs",
+      "title": "LIVE: Firefighters battle wildfires in France",
+      "thumbnail": "https://i.ytimg.com/vi/f5VbQ1uyPgs/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,27 +105,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "HDahZKoC6BA",
+      "title": "LIVE: ABC News Live - Tuesday, July 28 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/HDahZKoC6BA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "aHdh5AaIWDA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/aHdh5AaIWDA/hqdefault.jpg"
+      "videoId": "xrqK4ClgtKI",
+      "title": "LIVE: NBC News NOW - July 28",
+      "thumbnail": "https://i.ytimg.com/vi/xrqK4ClgtKI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Pct9DPG-Mo8",
+      "videoId": "00sxt5YRf_g",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Pct9DPG-Mo8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "N-AOFVakJgA",
-      "title": "Tsunami warning in Japan after 7.1 magnitude earthquake",
-      "thumbnail": "https://i.ytimg.com/vi/N-AOFVakJgA/hqdefault.jpg"
+      "videoId": "EqKtuGvsgmU",
+      "title": "Wildfires rage in France as more evacuations ordered",
+      "thumbnail": "https://i.ytimg.com/vi/EqKtuGvsgmU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "d3qmPoudzdM",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/d3qmPoudzdM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T09:07:40.326Z",
+      "at": "2026-07-28T11:27:22.033Z",
       "checked": 33,
       "errors": 0
     }
