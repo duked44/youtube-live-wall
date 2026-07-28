@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T15:36:23.278Z",
+  "generatedAt": "2026-07-28T17:08:00.550Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "cGMjsaqPTcU",
-      "title": "Trump Meets with Zelensky & Netanyahu, Lindsey Graham Funeral - LIVE Breaking News Coverage",
+      "title": "Lindsey Graham Funeral - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/cGMjsaqPTcU/hqdefault.jpg"
     },
     {
@@ -16,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "aTRn3HiQVEM",
-      "title": "LIVE: Senator Lindsey Graham Lies In State At The U.S. Capitol Rotunda",
+      "title": "TOP NEWS: Sen. Lindsey Graham Funeral Ceremony, U.S. Pauses Strikes On Iran",
       "thumbnail": "https://i.ytimg.com/vi/aTRn3HiQVEM/hqdefault.jpg"
     },
     {
@@ -24,9 +24,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "U0Vu_v7rMpg",
-      "title": "Senator Lindsey Graham (R-SC) Arrival & Memorial Service at U.S. Capitol",
-      "thumbnail": "https://i.ytimg.com/vi/U0Vu_v7rMpg/hqdefault.jpg"
+      "videoId": "hdlW5tillzc",
+      "title": "Senator Lindsey Graham (R-SC) Funeral Service",
+      "thumbnail": "https://i.ytimg.com/vi/hdlW5tillzc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -34,17 +34,14 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "0Q7sKvG5cdg",
-      "title": "WATCH LIVE: Sen Lindsey Graham's casket arrives at the Capitol",
+      "title": "WATCH LIVE: Sen Lindsey Graham honored in funeral at Washington National Cathedral",
       "thumbnail": "https://i.ytimg.com/vi/0Q7sKvG5cdg/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "psZd0T-0tuw",
-      "title": "Watch Live: Senator Lindsey Graham Memorial Service at US Capitol",
-      "thumbnail": "https://i.ytimg.com/vi/psZd0T-0tuw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -99,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "wfRtlsad3wU",
-      "title": "LIVE: Lindsey Graham memorial service at US Capitol",
-      "thumbnail": "https://i.ytimg.com/vi/wfRtlsad3wU/hqdefault.jpg"
+      "videoId": "y9bD-vWspOk",
+      "title": "Lindsey Graham funeral: LIVE service at Washington National Cathedral",
+      "thumbnail": "https://i.ytimg.com/vi/y9bD-vWspOk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "lz2OxTNGn-I",
-      "title": "LIVE: Castellon wildfire in eastern Spain",
-      "thumbnail": "https://i.ytimg.com/vi/lz2OxTNGn-I/hqdefault.jpg"
+      "videoId": "maUogDMhnUs",
+      "title": "LIVE: Peru's Fujimori takes power",
+      "thumbnail": "https://i.ytimg.com/vi/maUogDMhnUs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -160,7 +157,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "HC0khu-hjSU",
-      "title": "Trump expected to attend Lindsey Graham funeral",
+      "title": "Trump attends Lindsey Graham funeral service",
       "thumbnail": "https://i.ytimg.com/vi/HC0khu-hjSU/hqdefault.jpg"
     },
     {
@@ -213,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VzEJBiNJZbU",
-      "title": "WATCH LIVE: Sen. Lindsey Graham lies in state at the U.S. Capitol",
-      "thumbnail": "https://i.ytimg.com/vi/VzEJBiNJZbU/hqdefault.jpg"
+      "videoId": "njizFLgXtbY",
+      "title": "WATCH LIVE: Funeral service for Sen. Lindsey Graham at Washington National Cathedral",
+      "thumbnail": "https://i.ytimg.com/vi/njizFLgXtbY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -270,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T15:36:23.278Z",
+      "at": "2026-07-28T17:08:00.550Z",
       "checked": 33,
       "errors": 0
     }
