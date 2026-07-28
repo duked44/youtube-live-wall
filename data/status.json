@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T21:30:51.161Z",
+  "generatedAt": "2026-07-28T22:37:52.025Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "xrqK4ClgtKI",
+      "videoId": "TQkfLoqeI2M",
       "title": "LIVE: NBC News NOW - July 28",
-      "thumbnail": "https://i.ytimg.com/vi/xrqK4ClgtKI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/TQkfLoqeI2M/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -198,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VO20prOe4n4",
-      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/VO20prOe4n4/hqdefault.jpg"
+      "videoId": "cxqflP50ghs",
+      "title": "PBS News Hour live episode, July 28, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/cxqflP50ghs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -216,9 +216,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "d3qmPoudzdM",
+      "videoId": "JB7TfyQI7Ac",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/d3qmPoudzdM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/JB7TfyQI7Ac/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T21:30:51.161Z",
+      "at": "2026-07-28T22:37:52.025Z",
       "checked": 33,
       "errors": 0
     }
