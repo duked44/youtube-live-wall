@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T13:12:30.940Z",
+  "generatedAt": "2026-07-28T15:36:23.278Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "aTRn3HiQVEM",
+      "title": "LIVE: Senator Lindsey Graham Lies In State At The U.S. Capitol Rotunda",
+      "thumbnail": "https://i.ytimg.com/vi/aTRn3HiQVEM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -100,7 +100,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "wfRtlsad3wU",
-      "title": "LIVE: Lindsey Graham lies in state at the US Capitol ahead of funeral service",
+      "title": "LIVE: Lindsey Graham memorial service at US Capitol",
       "thumbnail": "https://i.ytimg.com/vi/wfRtlsad3wU/hqdefault.jpg"
     },
     {
@@ -135,9 +135,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "e06f8o5EkLg",
-      "title": "Happening soon: World leaders gather for Sen. Lindsey Graham's funeral | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/e06f8o5EkLg/hqdefault.jpg"
+      "videoId": "00sxt5YRf_g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/00sxt5YRf_g/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -152,19 +152,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "nzKla4-UdIs",
-      "title": "LIVE: Lindsey Graham Capitol Hill memorial service",
-      "thumbnail": "https://i.ytimg.com/vi/nzKla4-UdIs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "EqKtuGvsgmU",
-      "title": "Wildfires rage in France as thousands more evacuated",
-      "thumbnail": "https://i.ytimg.com/vi/EqKtuGvsgmU/hqdefault.jpg"
+      "videoId": "HC0khu-hjSU",
+      "title": "Trump expected to attend Lindsey Graham funeral",
+      "thumbnail": "https://i.ytimg.com/vi/HC0khu-hjSU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -254,10 +251,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "b0KnNtpJmWM",
-      "title": "Trump hosts Netanyahu at the White House in first meeting since Iran war began | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/b0KnNtpJmWM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -276,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T13:12:30.940Z",
+      "at": "2026-07-28T15:36:23.278Z",
       "checked": 33,
       "errors": 0
     }
