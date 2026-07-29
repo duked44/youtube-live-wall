@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-29T01:09:05.666Z",
+  "generatedAt": "2026-07-29T04:31:18.082Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "OkkrC9HOgOA",
-      "title": "Iran Launches “Surprise Missile Attack” on U.S. Forces - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/OkkrC9HOgOA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -96,18 +93,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "4V5dRBfQiWw",
-      "title": "LIVE: Traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/4V5dRBfQiWw/hqdefault.jpg"
+      "videoId": "SnkNt6zAzCM",
+      "title": "LIVE: Lava bubbles at Hawaii’s Kilauea volcano",
+      "thumbnail": "https://i.ytimg.com/vi/SnkNt6zAzCM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "HDahZKoC6BA",
-      "title": "LIVE: ABC News Live - Tuesday, July 28 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/HDahZKoC6BA/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "TQkfLoqeI2M",
-      "title": "LIVE: NBC News NOW - July 28",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/TQkfLoqeI2M/hqdefault.jpg"
     },
     {
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T01:09:05.666Z",
+      "at": "2026-07-29T04:31:18.082Z",
       "checked": 33,
       "errors": 0
     }
