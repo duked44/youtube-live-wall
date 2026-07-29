@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T07:24:26.432Z",
+  "generatedAt": "2026-07-29T10:07:49.064Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,24 +87,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "NPRWhpgkvxg",
-      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
-      "thumbnail": "https://i.ytimg.com/vi/NPRWhpgkvxg/hqdefault.jpg"
+      "videoId": "zicmRtsli8Y",
+      "title": "LIVE: Dr. Anthony Fauci testifies in Senate hearing on COVID-19 origins",
+      "thumbnail": "https://i.ytimg.com/vi/zicmRtsli8Y/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "1tOi5CJHdFw",
+      "title": "LIVE: Castellon wildfire in eastern Spain",
+      "thumbnail": "https://i.ytimg.com/vi/1tOi5CJHdFw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "sct0t74s-zk",
+      "title": "LIVE: ABC News Live - Wednesday, July 29 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/sct0t74s-zk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "4v5RUbl6u0I",
-      "title": "European nations discussing World Cup boycott after Infantino floats selling shares | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/4v5RUbl6u0I/hqdefault.jpg"
+      "videoId": "aXsgMz9RbBM",
+      "title": "Burnham says he faces 'difficult decisions' to reform social care",
+      "thumbnail": "https://i.ytimg.com/vi/aXsgMz9RbBM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T07:24:26.432Z",
+      "at": "2026-07-29T10:07:49.064Z",
       "checked": 33,
       "errors": 0
     }
