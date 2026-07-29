@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T17:37:34.419Z",
+  "generatedAt": "2026-07-29T18:40:38.433Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "uLoDZqSacwU",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/uLoDZqSacwU/hqdefault.jpg"
+      "videoId": "SAC_T79NrY0",
+      "title": "LIVE: Fed Chair Kevin Warsh Holds Press Briefing After Fed Votes To Not To Raise Rates",
+      "thumbnail": "https://i.ytimg.com/vi/SAC_T79NrY0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "I-k9pW8JLbU",
-      "title": "WATCH LIVE: Lindsey Graham funeral service held in South Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/I-k9pW8JLbU/hqdefault.jpg"
+      "videoId": "u4Bk_9WtpHs",
+      "title": "WATCH LIVE: Fed Chair Kevin Warsh holds interest rate press conference",
+      "thumbnail": "https://i.ytimg.com/vi/u4Bk_9WtpHs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -102,18 +102,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "QXeca7AXygY",
-      "title": "LIVE: South Carolina funeral service for Senator Lindsey Graham",
-      "thumbnail": "https://i.ytimg.com/vi/QXeca7AXygY/hqdefault.jpg"
+      "videoId": "FyJ7tsojbKc",
+      "title": "LIVE: Fed’s Warsh speaks after leaving rates unchanged",
+      "thumbnail": "https://i.ytimg.com/vi/FyJ7tsojbKc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "OQkaE6xql1U",
-      "title": "Funeral procession for Sen. Lindsey Graham in Columbia, SC: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/OQkaE6xql1U/hqdefault.jpg"
+      "videoId": "sct0t74s-zk",
+      "title": "LIVE: ABC News Live - Wednesday, July 29 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/sct0t74s-zk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "AWfgMlyCNU4",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
+      "videoId": "g6gOHFvNQUQ",
+      "title": "Watch Live: Fed chair Kevin Warsh speaks after announcing interest rates will hold steady",
+      "thumbnail": "https://i.ytimg.com/vi/g6gOHFvNQUQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "21LmnVsIzJg",
-      "title": "Tom Holland and Zendaya in London for Spider-Man: Brand New Day premiere",
-      "thumbnail": "https://i.ytimg.com/vi/21LmnVsIzJg/hqdefault.jpg"
+      "videoId": "7Kz4zw-vvkw",
+      "title": "US Fed chairman makes interest rate decision",
+      "thumbnail": "https://i.ytimg.com/vi/7Kz4zw-vvkw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -190,7 +190,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "0kBKir8bb1w",
-      "title": "The Fed Decides | Bloomberg Surveillance Special",
+      "title": "Fed Chairman Warsh Speaks After Holding Rates Steady",
       "thumbnail": "https://i.ytimg.com/vi/0kBKir8bb1w/hqdefault.jpg"
     },
     {
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "4mudRp3I9cM",
-      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
-      "thumbnail": "https://i.ytimg.com/vi/4mudRp3I9cM/hqdefault.jpg"
+      "videoId": "IWGVLY1OCms",
+      "title": "WATCH LIVE: Fed chair Warsh holds news conference after latest interest rate decision",
+      "thumbnail": "https://i.ytimg.com/vi/IWGVLY1OCms/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -245,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "l7g19mdlxqk",
-      "title": "Carney, Premier Danielle Smith announce new measures to accelerate homebuilding in Alberta | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/l7g19mdlxqk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -262,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T17:37:34.419Z",
+      "at": "2026-07-29T18:40:38.433Z",
       "checked": 33,
       "errors": 0
     }
