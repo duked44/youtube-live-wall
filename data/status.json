@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T12:19:30.453Z",
+  "generatedAt": "2026-07-29T14:36:34.085Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "kT5xuodO6BY",
-      "title": "LIVE: Dr. Anthony Fauci Testifies Before The Senate Homeland Committee Chaired By Rand Paul",
-      "thumbnail": "https://i.ytimg.com/vi/kT5xuodO6BY/hqdefault.jpg"
+      "videoId": "uLoDZqSacwU",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/uLoDZqSacwU/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -31,14 +31,17 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "ctjPl7AGsW4",
-      "title": "WATCH LIVE: Dr. Fauci testifies after Senate subpoena",
+      "title": "WATCH LIVE: Fauci GRILLED by senators, invokes Fifth Amendment",
       "thumbnail": "https://i.ytimg.com/vi/ctjPl7AGsW4/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "Wdww6bKweRQ",
+      "title": "Watch Live: Rand Paul Grills Dr. Fauci on COVID-19 in Senate Hearing",
+      "thumbnail": "https://i.ytimg.com/vi/Wdww6bKweRQ/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -93,45 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "41aq9awMZ3I",
-      "title": "LIVE: Sir Garfield Sobers’ funeral in Barbados",
-      "thumbnail": "https://i.ytimg.com/vi/41aq9awMZ3I/hqdefault.jpg"
+      "videoId": "TlokjAd9XBA",
+      "title": "LIVE: Lindsey Graham funeral procession in South Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/TlokjAd9XBA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "dXbEb21lwTA",
-      "title": "LIVE: Lava bubbles at Hawaii’s Kilauea volcano",
-      "thumbnail": "https://i.ytimg.com/vi/dXbEb21lwTA/hqdefault.jpg"
+      "videoId": "ugEtHNEXGeQ",
+      "title": "LIVE: Castellon wildfire in eastern Spain",
+      "thumbnail": "https://i.ytimg.com/vi/ugEtHNEXGeQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sct0t74s-zk",
-      "title": "LIVE: ABC News Live - Wednesday, July 29 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/sct0t74s-zk/hqdefault.jpg"
+      "videoId": "-d79EoO6WdM",
+      "title": "Trial for Lindsay Clancy, Massachusetts mother accused of killing her three children: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/-d79EoO6WdM/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "KwdhoyICpvw",
-      "title": "LIVE: NBC News NOW - July 29",
-      "thumbnail": "https://i.ytimg.com/vi/KwdhoyICpvw/hqdefault.jpg"
+      "videoId": "DHgA08ep1iQ",
+      "title": "LIVE: Fauci testifies before the Senate on the Covid pandemic",
+      "thumbnail": "https://i.ytimg.com/vi/DHgA08ep1iQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "AWfgMlyCNU4",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
+      "videoId": "Q4rExFc5B14",
+      "title": "Watch Live: Lindsay Clancy trial continues as witnesses testify in her murder trial | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/Q4rExFc5B14/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "ztrx1nuWE74",
+      "title": "Wildfires rage in France as firefighting efforts continue",
+      "thumbnail": "https://i.ytimg.com/vi/ztrx1nuWE74/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,18 +213,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "_XgBX6qvnCY",
-      "title": "WATCH LIVE: Senate panel questions Fauci on ‘diary entries’ about COVID-19 origins",
-      "thumbnail": "https://i.ytimg.com/vi/_XgBX6qvnCY/hqdefault.jpg"
+      "videoId": "4mudRp3I9cM",
+      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
+      "thumbnail": "https://i.ytimg.com/vi/4mudRp3I9cM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "Bi0T_oc-TdI",
-      "title": "LIVE COMMENTARY: Dr. Fauci on Covid origins | Unreported with Meagan Medick",
-      "thumbnail": "https://i.ytimg.com/vi/Bi0T_oc-TdI/hqdefault.jpg"
+      "videoId": "V0mT9jOwW1E",
+      "title": "Watch live: Anthony Fauci testifies on COVID-19 pandemic",
+      "thumbnail": "https://i.ytimg.com/vi/V0mT9jOwW1E/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -251,7 +254,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "l7g19mdlxqk",
+      "title": "Carney, Premier Danielle Smith announce new measures to accelerate homebuilding in Alberta | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/l7g19mdlxqk/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T12:19:30.453Z",
+      "at": "2026-07-29T14:36:34.085Z",
       "checked": 33,
       "errors": 0
     }
