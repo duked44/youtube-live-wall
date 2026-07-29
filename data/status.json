@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-29T22:12:54.865Z",
+  "generatedAt": "2026-07-29T23:16:56.024Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "XFGlqfadFI0",
+      "title": "Iran War - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/XFGlqfadFI0/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -53,7 +56,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "dMZU2BjkEh8",
+      "title": "Fauci's Fabrications, A Socialist Repents & Blowing Up Bike Lanes | Friendly Fire",
+      "thumbnail": "https://i.ytimg.com/vi/dMZU2BjkEh8/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -120,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "AWfgMlyCNU4",
+      "videoId": "LYiSUNYLHP0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/LYiSUNYLHP0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "iFpkXemtcv8",
-      "title": "it's official... more than half of England is in drought | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/iFpkXemtcv8/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "dMn4Oz2WLdo",
-      "title": "PBS News Hour live episode, July 29, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/dMn4Oz2WLdo/hqdefault.jpg"
+      "videoId": "4mudRp3I9cM",
+      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
+      "thumbnail": "https://i.ytimg.com/vi/4mudRp3I9cM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -213,9 +219,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "JB7TfyQI7Ac",
+      "videoId": "oKGIc3oH9X0",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/JB7TfyQI7Ac/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/oKGIc3oH9X0/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -233,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "IUWFeCvE1Z0",
-      "title": "Calgary police announce major update in case of missing 11-year-old Parker | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/IUWFeCvE1Z0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T22:12:54.865Z",
+      "at": "2026-07-29T23:16:56.024Z",
       "checked": 33,
       "errors": 0
     }
