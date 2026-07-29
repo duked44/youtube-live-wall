@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-29T20:02:28.919Z",
+  "generatedAt": "2026-07-29T21:09:27.161Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "F0coJGnibOI",
-      "title": "Drone Hits U.S. Tanker in Egypt - Iran War - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/F0coJGnibOI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -16,14 +13,17 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "uLoDZqSacwU",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "title": "LIVE NEWS: Dr. Anthony Fauci Testifies Before Congress, Joint U.S.-Saudi Strikes In Iraq",
       "thumbnail": "https://i.ytimg.com/vi/uLoDZqSacwU/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "-l0AT3-eZoY",
+      "title": "Former President Biden Audio Recordings with Memoir Ghostwriter",
+      "thumbnail": "https://i.ytimg.com/vi/-l0AT3-eZoY/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -89,19 +89,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "1swqtF0njEM",
-      "title": "LIVE: Lindsay Clancy trial Day 2",
-      "thumbnail": "https://i.ytimg.com/vi/1swqtF0njEM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "ep0XHWOGanw",
-      "title": "LIVE: The murder trial of Lindsay Clancy",
-      "thumbnail": "https://i.ytimg.com/vi/ep0XHWOGanw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -126,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "0MQTASp1dQc",
-      "title": "Watch Live: Ex-husband testifies in trial for Lindsay Clancy over killings of her 3 children",
-      "thumbnail": "https://i.ytimg.com/vi/0MQTASp1dQc/hqdefault.jpg"
+      "videoId": "AWfgMlyCNU4",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "XMFxWsiPiuQ",
-      "title": "A new escalation in the Iran war | The World with Barbara Serra",
-      "thumbnail": "https://i.ytimg.com/vi/XMFxWsiPiuQ/hqdefault.jpg"
+      "videoId": "iFpkXemtcv8",
+      "title": "it's official... more than half of England is in drought | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/iFpkXemtcv8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -186,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "HBoNkyl77Z4",
-      "title": "Washington Commanders President Mark Clouse | Bloomberg Newsmakers",
-      "thumbnail": "https://i.ytimg.com/vi/HBoNkyl77Z4/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -204,18 +198,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "YaW_PgIx64w",
-      "title": "WATCH LIVE: Senate Special Committee on Aging holds hearing on AI-powered senior fraud",
-      "thumbnail": "https://i.ytimg.com/vi/YaW_PgIx64w/hqdefault.jpg"
+      "videoId": "4mudRp3I9cM",
+      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
+      "thumbnail": "https://i.ytimg.com/vi/4mudRp3I9cM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "C0u7gHTIUBs",
-      "title": "Did Fauci admit guilt by pleading the fifth? Debate with Chris Hahn | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/C0u7gHTIUBs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T20:02:28.919Z",
+      "at": "2026-07-29T21:09:27.161Z",
       "checked": 33,
       "errors": 0
     }
