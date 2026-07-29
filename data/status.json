@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T10:07:49.064Z",
+  "generatedAt": "2026-07-29T12:19:30.453Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,13 +20,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "KK_YhOHmQs4",
+      "title": "Dr. Anthony Fauci Testifies on the COVID-19 Pandemic",
+      "thumbnail": "https://i.ytimg.com/vi/KK_YhOHmQs4/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "ctjPl7AGsW4",
+      "title": "WATCH LIVE: Dr. Fauci testifies after Senate subpoena",
+      "thumbnail": "https://i.ytimg.com/vi/ctjPl7AGsW4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "zicmRtsli8Y",
-      "title": "LIVE: Dr. Anthony Fauci testifies in Senate hearing on COVID-19 origins",
-      "thumbnail": "https://i.ytimg.com/vi/zicmRtsli8Y/hqdefault.jpg"
+      "videoId": "41aq9awMZ3I",
+      "title": "LIVE: Sir Garfield Sobers’ funeral in Barbados",
+      "thumbnail": "https://i.ytimg.com/vi/41aq9awMZ3I/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1tOi5CJHdFw",
-      "title": "LIVE: Castellon wildfire in eastern Spain",
-      "thumbnail": "https://i.ytimg.com/vi/1tOi5CJHdFw/hqdefault.jpg"
+      "videoId": "dXbEb21lwTA",
+      "title": "LIVE: Lava bubbles at Hawaii’s Kilauea volcano",
+      "thumbnail": "https://i.ytimg.com/vi/dXbEb21lwTA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "TQkfLoqeI2M",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/TQkfLoqeI2M/hqdefault.jpg"
+      "videoId": "KwdhoyICpvw",
+      "title": "LIVE: NBC News NOW - July 29",
+      "thumbnail": "https://i.ytimg.com/vi/KwdhoyICpvw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "f4xHEMu7atg",
+      "videoId": "AWfgMlyCNU4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/f4xHEMu7atg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -140,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "-kAfl06GIR0",
+      "title": "LIVE: Dr. Anthony Fauci testifies in front of the Senate",
+      "thumbnail": "https://i.ytimg.com/vi/-kAfl06GIR0/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "aXsgMz9RbBM",
-      "title": "Burnham says he faces 'difficult decisions' to reform social care",
-      "thumbnail": "https://i.ytimg.com/vi/aXsgMz9RbBM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -227,7 +236,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "-g73emfl7WU",
+      "title": "Dr. Fauci appears in front of Senate committee - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/-g73emfl7WU/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T10:07:49.064Z",
+      "at": "2026-07-29T12:19:30.453Z",
       "checked": 33,
       "errors": 0
     }
