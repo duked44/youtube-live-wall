@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T14:36:34.085Z",
+  "generatedAt": "2026-07-29T16:08:22.566Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,28 +20,22 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "KK_YhOHmQs4",
-      "title": "Dr. Anthony Fauci Testifies on the COVID-19 Pandemic",
-      "thumbnail": "https://i.ytimg.com/vi/KK_YhOHmQs4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "ctjPl7AGsW4",
-      "title": "WATCH LIVE: Fauci GRILLED by senators, invokes Fifth Amendment",
-      "thumbnail": "https://i.ytimg.com/vi/ctjPl7AGsW4/hqdefault.jpg"
+      "videoId": "I-k9pW8JLbU",
+      "title": "WATCH LIVE: Lindsey Graham funeral service held in South Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/I-k9pW8JLbU/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "Wdww6bKweRQ",
-      "title": "Watch Live: Rand Paul Grills Dr. Fauci on COVID-19 in Senate Hearing",
-      "thumbnail": "https://i.ytimg.com/vi/Wdww6bKweRQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -96,45 +90,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "TlokjAd9XBA",
-      "title": "LIVE: Lindsey Graham funeral procession in South Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/TlokjAd9XBA/hqdefault.jpg"
+      "videoId": "iBpy6cqgmrY",
+      "title": "LIVE: Peru Independence Day parade",
+      "thumbnail": "https://i.ytimg.com/vi/iBpy6cqgmrY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ugEtHNEXGeQ",
-      "title": "LIVE: Castellon wildfire in eastern Spain",
-      "thumbnail": "https://i.ytimg.com/vi/ugEtHNEXGeQ/hqdefault.jpg"
+      "videoId": "QXeca7AXygY",
+      "title": "LIVE: South Carolina funeral service for Senator Lindsey Graham",
+      "thumbnail": "https://i.ytimg.com/vi/QXeca7AXygY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "-d79EoO6WdM",
-      "title": "Trial for Lindsay Clancy, Massachusetts mother accused of killing her three children: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/-d79EoO6WdM/hqdefault.jpg"
+      "videoId": "OQkaE6xql1U",
+      "title": "Funeral procession for Sen. Lindsey Graham in Columbia, SC: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/OQkaE6xql1U/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DHgA08ep1iQ",
-      "title": "LIVE: Fauci testifies before the Senate on the Covid pandemic",
-      "thumbnail": "https://i.ytimg.com/vi/DHgA08ep1iQ/hqdefault.jpg"
+      "videoId": "KwdhoyICpvw",
+      "title": "LIVE: NBC News NOW - July 29",
+      "thumbnail": "https://i.ytimg.com/vi/KwdhoyICpvw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Q4rExFc5B14",
-      "title": "Watch Live: Lindsay Clancy trial continues as witnesses testify in her murder trial | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/Q4rExFc5B14/hqdefault.jpg"
+      "videoId": "AWfgMlyCNU4",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/AWfgMlyCNU4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -149,10 +143,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "-kAfl06GIR0",
-      "title": "LIVE: Dr. Anthony Fauci testifies in front of the Senate",
-      "thumbnail": "https://i.ytimg.com/vi/-kAfl06GIR0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -221,10 +212,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "V0mT9jOwW1E",
-      "title": "Watch live: Anthony Fauci testifies on COVID-19 pandemic",
-      "thumbnail": "https://i.ytimg.com/vi/V0mT9jOwW1E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -276,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T14:36:34.085Z",
+      "at": "2026-07-29T16:08:22.566Z",
       "checked": 33,
       "errors": 0
     }
