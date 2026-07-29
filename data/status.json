@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T23:38:40.402Z",
+  "generatedAt": "2026-07-29T01:09:05.666Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VO20prOe4n4",
-      "title": "WATCH LIVE: Senate expected to vote on Jay Clayton nomination for director of national intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/VO20prOe4n4/hqdefault.jpg"
+      "videoId": "_XgBX6qvnCY",
+      "title": "WATCH LIVE: Senate panel questions Fauci on ‘diary entries’ about COVID-19 origins",
+      "thumbnail": "https://i.ytimg.com/vi/_XgBX6qvnCY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-28T23:38:40.402Z",
+      "at": "2026-07-29T01:09:05.666Z",
       "checked": 33,
       "errors": 0
     }
