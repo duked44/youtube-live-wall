@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-07-29T16:08:22.566Z",
+  "generatedAt": "2026-07-29T17:37:34.419Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "F0coJGnibOI",
+      "title": "Drone Hits US Tanker in Egypt - Iran War & Fed Interest Rates Decision - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/F0coJGnibOI/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -90,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "iBpy6cqgmrY",
-      "title": "LIVE: Peru Independence Day parade",
-      "thumbnail": "https://i.ytimg.com/vi/iBpy6cqgmrY/hqdefault.jpg"
+      "videoId": "kLzUcirVvHE",
+      "title": "LIVE: Fed Chair Kevin Warsh speaks after interest rate decision meeting",
+      "thumbnail": "https://i.ytimg.com/vi/kLzUcirVvHE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ztrx1nuWE74",
-      "title": "Wildfires rage in France as firefighting efforts continue",
-      "thumbnail": "https://i.ytimg.com/vi/ztrx1nuWE74/hqdefault.jpg"
+      "videoId": "21LmnVsIzJg",
+      "title": "Tom Holland and Zendaya in London for Spider-Man: Brand New Day premiere",
+      "thumbnail": "https://i.ytimg.com/vi/21LmnVsIzJg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -186,9 +189,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "0kBKir8bb1w",
+      "title": "The Fed Decides | Bloomberg Surveillance Special",
+      "thumbnail": "https://i.ytimg.com/vi/0kBKir8bb1w/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -212,7 +215,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "C0u7gHTIUBs",
+      "title": "Did Fauci admit guilt by pleading the fifth? Debate with Chris Hahn | Prove It! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/C0u7gHTIUBs/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -227,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "-g73emfl7WU",
-      "title": "Dr. Fauci appears in front of Senate committee - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/-g73emfl7WU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T16:08:22.566Z",
+      "at": "2026-07-29T17:37:34.419Z",
       "checked": 33,
       "errors": 0
     }
