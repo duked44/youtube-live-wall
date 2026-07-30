@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-07-30T00:15:44.759Z",
+  "generatedAt": "2026-07-30T03:36:16.179Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "XFGlqfadFI0",
-      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/XFGlqfadFI0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -105,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sct0t74s-zk",
-      "title": "LIVE: ABC News Live - Wednesday, July 29 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/sct0t74s-zk/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "dbjg2Khkveg",
-      "title": "LIVE: NBC News NOW - July 29",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/dbjg2Khkveg/hqdefault.jpg"
     },
     {
@@ -200,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "4mudRp3I9cM",
-      "title": "WATCH LIVE: Senate expected to consider new war powers resolution amid renewed Iran strikes",
-      "thumbnail": "https://i.ytimg.com/vi/4mudRp3I9cM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T00:15:44.759Z",
+      "at": "2026-07-30T03:36:16.179Z",
       "checked": 33,
       "errors": 0
     }
