@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T21:15:18.769Z",
+  "generatedAt": "2026-07-30T22:30:25.338Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "Bj170nc1ySA",
-      "title": "LIVE NEWS: Todd Blanche AG Nomination Postponed, U.S. Renews Strikes On Iran, Fauci Hearing Fallout",
-      "thumbnail": "https://i.ytimg.com/vi/Bj170nc1ySA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -108,9 +105,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DpN09uGgGlU",
+      "videoId": "iqbGZAmiikg",
       "title": "LIVE: NBC News NOW - July 30",
-      "thumbnail": "https://i.ytimg.com/vi/DpN09uGgGlU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/iqbGZAmiikg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -194,7 +191,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "aYftflJEJx4",
+      "title": "PBS News Hour live episode, July 30, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/aYftflJEJx4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T21:15:18.769Z",
+      "at": "2026-07-30T22:30:25.338Z",
       "checked": 33,
       "errors": 0
     }
