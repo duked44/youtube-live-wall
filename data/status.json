@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T16:54:55.542Z",
+  "generatedAt": "2026-07-30T18:15:09.696Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "RuWyGFB1S9c",
-      "title": "WATCH LIVE: President Trump announces 'Freedom Haulers' initiative for military veterans",
-      "thumbnail": "https://i.ytimg.com/vi/RuWyGFB1S9c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,19 +86,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "qN9omWgeQMY",
-      "title": "LIVE: Ben Crump gives updates on Nolan Wells, Daniel Erving and Tyler Smith cases",
-      "thumbnail": "https://i.ytimg.com/vi/qN9omWgeQMY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "nqi5-k8fScY",
-      "title": "LIVE: Crump discusses Wells case at National Urban League conference",
-      "thumbnail": "https://i.ytimg.com/vi/nqi5-k8fScY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -204,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "xKAWrhi6sm8",
-      "title": "WATCH LIVE: Attorney Crump provides update on Nolan Wells probe, other cases",
-      "thumbnail": "https://i.ytimg.com/vi/xKAWrhi6sm8/hqdefault.jpg"
+      "videoId": "DT8fyKwkK6o",
+      "title": "WATCH LIVE: NASA experts preview planned spacewalks from International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/DT8fyKwkK6o/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T16:54:55.542Z",
+      "at": "2026-07-30T18:15:09.696Z",
       "checked": 33,
       "errors": 0
     }
