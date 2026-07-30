@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T19:56:39.584Z",
+  "generatedAt": "2026-07-30T21:15:18.769Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "LrxcP6TaLTM",
-      "title": "A new surge in West Bank violence | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/LrxcP6TaLTM/hqdefault.jpg"
+      "videoId": "E-n0QrmTo4k",
+      "title": "Europe boycotts the World Cup | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/E-n0QrmTo4k/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T19:56:39.584Z",
+      "at": "2026-07-30T21:15:18.769Z",
       "checked": 33,
       "errors": 0
     }
