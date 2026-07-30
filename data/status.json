@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T23:16:56.024Z",
+  "generatedAt": "2026-07-30T00:15:44.759Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "XFGlqfadFI0",
-      "title": "Iran War - LIVE Breaking News Coverage",
+      "title": "Iran War - New U.S. Strikes - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/XFGlqfadFI0/hqdefault.jpg"
     },
     {
@@ -16,7 +16,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "uLoDZqSacwU",
-      "title": "LIVE NEWS: Dr. Anthony Fauci Testifies Before Congress, Joint U.S.-Saudi Strikes In Iraq",
+      "title": "TOP NEWS: Dr. Anthony Fauci Testifies Before Congress, Joint U.S.-Saudi Strikes In Iraq",
       "thumbnail": "https://i.ytimg.com/vi/uLoDZqSacwU/hqdefault.jpg"
     },
     {
@@ -56,10 +56,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "dMZU2BjkEh8",
-      "title": "Fauci's Fabrications, A Socialist Repents & Blowing Up Bike Lanes | Friendly Fire",
-      "thumbnail": "https://i.ytimg.com/vi/dMZU2BjkEh8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-29T23:16:56.024Z",
+      "at": "2026-07-30T00:15:44.759Z",
       "checked": 33,
       "errors": 0
     }
