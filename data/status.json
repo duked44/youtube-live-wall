@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T06:12:22.260Z",
+  "generatedAt": "2026-07-30T09:04:24.870Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,10 +92,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "eeebz_ixSUA",
-      "title": "LIVE: Kumamoto prefecture after Japan earthquake",
-      "thumbnail": "https://i.ytimg.com/vi/eeebz_ixSUA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DVVxtlGxwNo",
-      "title": "Burnham confirms £8.4 billion for nuclear submarines | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/DVVxtlGxwNo/hqdefault.jpg"
+      "videoId": "_bJZjP47k48",
+      "title": "Wildfires continue to burn in France",
+      "thumbnail": "https://i.ytimg.com/vi/_bJZjP47k48/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +215,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "GmtAn7CYWzg",
+      "title": "Reform UK press conference with Robert Jenrick – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/GmtAn7CYWzg/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T06:12:22.260Z",
+      "at": "2026-07-30T09:04:24.870Z",
       "checked": 33,
       "errors": 0
     }
