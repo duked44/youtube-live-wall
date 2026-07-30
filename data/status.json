@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T12:58:21.902Z",
+  "generatedAt": "2026-07-30T15:18:25.199Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "uLoDZqSacwU",
-      "title": "TOP NEWS: Dr. Anthony Fauci Testifies Before Congress, Joint U.S.-Saudi Strikes In Iraq",
-      "thumbnail": "https://i.ytimg.com/vi/uLoDZqSacwU/hqdefault.jpg"
+      "videoId": "Bj170nc1ySA",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/Bj170nc1ySA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -44,10 +44,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "-U3kelEFBTM",
-      "title": "LIVE: Large wildfire in UK declared major incident",
-      "thumbnail": "https://i.ytimg.com/vi/-U3kelEFBTM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -90,27 +87,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "zlFNcfXmnlo",
+      "videoId": "mQsM8rB_vfQ",
       "title": "LIVE: Colin Gray, father of Apalachee High School shooter, to be sentenced",
-      "thumbnail": "https://i.ytimg.com/vi/zlFNcfXmnlo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/mQsM8rB_vfQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "utDBJcJ-pAE",
-      "title": "LIVE: Lindsay Clancy murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/utDBJcJ-pAE/hqdefault.jpg"
+      "videoId": "GgtbatKz9iU",
+      "title": "LIVE: Wildfire in eastern England's Suffolk",
+      "thumbnail": "https://i.ytimg.com/vi/GgtbatKz9iU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "d-g7HhN5rYI",
-      "title": "LIVE: ABC News Live - Thursday, July 30 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/d-g7HhN5rYI/hqdefault.jpg"
+      "videoId": "ijHi3peUES4",
+      "title": "Trial for Lindsay Clancy, the Massachusetts mother accused of killing her three children: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ijHi3peUES4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "XTV69YRnBQg",
-      "title": "Bank of England holds interest rate at 3.75%",
-      "thumbnail": "https://i.ytimg.com/vi/XTV69YRnBQg/hqdefault.jpg"
+      "videoId": "F69yOXReFmA",
+      "title": "Huge wildfire burns near Suffolk nuclear plant as major incident declared",
+      "thumbnail": "https://i.ytimg.com/vi/F69yOXReFmA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +200,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "O_RBhKmJ5S8",
+      "title": "WATCH LIVE: Senate meets as Blanche confirmation vote is delayed",
+      "thumbnail": "https://i.ytimg.com/vi/O_RBhKmJ5S8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,10 +224,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "Q9O1t3oRI2E",
-      "title": "Bank of England governor Andrew Bailey holds a news conference – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/Q9O1t3oRI2E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T12:58:21.902Z",
+      "at": "2026-07-30T15:18:25.199Z",
       "checked": 33,
       "errors": 0
     }
