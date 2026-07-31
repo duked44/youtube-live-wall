@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T18:06:24.273Z",
+  "generatedAt": "2026-07-31T19:49:45.373Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "8fdnRPPz7rc",
-      "title": "LIVE: View of key border crossing in Spain's Ceuta",
-      "thumbnail": "https://i.ytimg.com/vi/8fdnRPPz7rc/hqdefault.jpg"
+      "videoId": "2RrLfe-i5zk",
+      "title": "LIVE: NYSE closing bell rings to end the week's trading",
+      "thumbnail": "https://i.ytimg.com/vi/2RrLfe-i5zk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-31T18:06:24.273Z",
+      "at": "2026-07-31T19:49:45.373Z",
       "checked": 33,
       "errors": 0
     }
