@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T07:37:20.119Z",
+  "generatedAt": "2026-07-31T10:14:59.123Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,7 +83,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "1iacgY946Zg",
+      "title": "LIVE: Spain reinforces Ceuta border after deadly migrant crossing",
+      "thumbnail": "https://i.ytimg.com/vi/1iacgY946Zg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -99,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "gX8RHKtQXTw",
+      "title": "LIVE: ABC News Live - Friday, July 31 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/gX8RHKtQXTw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "I4w77z-aaes",
-      "title": "FIFA responds after widespread backlash to sell-off plan | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/I4w77z-aaes/hqdefault.jpg"
+      "videoId": "VnnFOeENjsk",
+      "title": "Spanish military deployed as nearly 50,000 migrants enter Ceuta",
+      "thumbnail": "https://i.ytimg.com/vi/VnnFOeENjsk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-31T07:37:20.119Z",
+      "at": "2026-07-31T10:14:59.123Z",
       "checked": 33,
       "errors": 0
     }
