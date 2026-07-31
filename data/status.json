@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T19:49:45.373Z",
+  "generatedAt": "2026-07-31T20:49:04.179Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "2RrLfe-i5zk",
-      "title": "LIVE: NYSE closing bell rings to end the week's trading",
-      "thumbnail": "https://i.ytimg.com/vi/2RrLfe-i5zk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -194,10 +191,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "FrOSk4txiqc",
-      "title": "WATCH LIVE: Trump hosts Cabinet meeting at Camp David",
-      "thumbnail": "https://i.ytimg.com/vi/FrOSk4txiqc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -209,10 +203,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "Oeap1KDxf58",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/Oeap1KDxf58/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -249,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-31T19:49:45.373Z",
+      "at": "2026-07-31T20:49:04.179Z",
       "checked": 33,
       "errors": 0
     }
