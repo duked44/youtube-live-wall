@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T21:53:51.714Z",
+  "generatedAt": "2026-07-31T22:57:06.975Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "WfUxvBr2v9M",
+      "videoId": "MC6SS_D3psM",
       "title": "LIVE: NBC News NOW - July 31",
-      "thumbnail": "https://i.ytimg.com/vi/WfUxvBr2v9M/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MC6SS_D3psM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-31T21:53:51.714Z",
+      "at": "2026-07-31T22:57:06.975Z",
       "checked": 33,
       "errors": 0
     }
