@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T10:14:59.123Z",
+  "generatedAt": "2026-07-31T12:21:17.054Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "1iacgY946Zg",
-      "title": "LIVE: Spain reinforces Ceuta border after deadly migrant crossing",
-      "thumbnail": "https://i.ytimg.com/vi/1iacgY946Zg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -111,9 +108,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "iqbGZAmiikg",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/iqbGZAmiikg/hqdefault.jpg"
+      "videoId": "WfUxvBr2v9M",
+      "title": "LIVE: NBC News NOW - July 31",
+      "thumbnail": "https://i.ytimg.com/vi/WfUxvBr2v9M/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "VnnFOeENjsk",
-      "title": "Spanish military deployed as nearly 50,000 migrants enter Ceuta",
-      "thumbnail": "https://i.ytimg.com/vi/VnnFOeENjsk/hqdefault.jpg"
+      "videoId": "OPGygRuL7jE",
+      "title": "Disgraced funeral director Robert Bush jailed for 20 years",
+      "thumbnail": "https://i.ytimg.com/vi/OPGygRuL7jE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-31T10:14:59.123Z",
+      "at": "2026-07-31T12:21:17.054Z",
       "checked": 33,
       "errors": 0
     }
