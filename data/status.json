@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T23:35:32.794Z",
+  "generatedAt": "2026-07-31T01:11:06.988Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "E-n0QrmTo4k",
-      "title": "Europe boycotts the World Cup | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/E-n0QrmTo4k/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-07-30T23:35:32.794Z",
+      "at": "2026-07-31T01:11:06.988Z",
       "checked": 33,
       "errors": 0
     }
