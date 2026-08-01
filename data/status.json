@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T00:05:20.678Z",
+  "generatedAt": "2026-08-01T03:46:34.654Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "gX8RHKtQXTw",
-      "title": "LIVE: ABC News Live - Friday, July 31 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/gX8RHKtQXTw/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -109,7 +109,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "MC6SS_D3psM",
-      "title": "LIVE: NBC News NOW - July 31",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/MC6SS_D3psM/hqdefault.jpg"
     },
     {
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-01T00:05:20.678Z",
+      "at": "2026-08-01T03:46:34.654Z",
       "checked": 33,
       "errors": 0
     }
