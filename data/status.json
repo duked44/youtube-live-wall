@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T10:22:13.170Z",
+  "generatedAt": "2026-08-01T11:39:09.346Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -171,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "wOyk8BhDPkE",
+      "title": "Fed & Tech Upend Markets,  Mideast Turmoil, Immigration Reform | Bloomberg This Weekend: Aug 1, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wOyk8BhDPkE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -232,12 +232,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-01T10:22:13.170Z",
+      "at": "2026-08-01T11:39:09.346Z",
       "checked": 33,
       "errors": 0
     }
