@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T06:17:56.672Z",
+  "generatedAt": "2026-08-01T08:37:18.568Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lhRPFnn6Oc4",
-      "title": "FIFA scraps World Cup sell-off plans | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/lhRPFnn6Oc4/hqdefault.jpg"
+      "videoId": "4aWZBXvDXpU",
+      "title": "Live from the Spanish enclave of Ceuta as thousands of migrants enter from Morocco",
+      "thumbnail": "https://i.ytimg.com/vi/4aWZBXvDXpU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -237,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-01T06:17:56.672Z",
+      "at": "2026-08-01T08:37:18.568Z",
       "checked": 33,
       "errors": 0
     }
