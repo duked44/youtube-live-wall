@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T22:34:50.950Z",
+  "generatedAt": "2026-08-02T23:37:36.387Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "GF5HmjNtZKs",
-      "title": "The Wrap | Sunday 2 August",
-      "thumbnail": "https://i.ytimg.com/vi/GF5HmjNtZKs/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -237,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T22:34:50.950Z",
+      "at": "2026-08-02T23:37:36.387Z",
       "checked": 33,
       "errors": 0
     }
