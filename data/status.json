@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T19:39:32.100Z",
+  "generatedAt": "2026-08-02T20:36:02.343Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,7 +14,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "fQkUUWm8HX4",
+      "title": "WATCH LIVE: President Donald Trump Departs New Jersey En Route To White House",
+      "thumbnail": "https://i.ytimg.com/vi/fQkUUWm8HX4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T19:39:32.100Z",
+      "at": "2026-08-02T20:36:02.343Z",
       "checked": 33,
       "errors": 0
     }
