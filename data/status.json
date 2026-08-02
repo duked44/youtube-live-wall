@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T13:58:47.463Z",
+  "generatedAt": "2026-08-02T15:10:22.758Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -171,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "0kXPuJndNiU",
-      "title": "SpaceX Reports First Earnings, Mideast Turmoil, FIFA Fallout | Bloomberg This Weekend: Aug 2, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/0kXPuJndNiU/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -218,10 +218,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "PuAEJItCOpY",
-      "title": "WestJet flight attendants union addresses media after launching strike over pay dispute | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/PuAEJItCOpY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -240,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T13:58:47.463Z",
+      "at": "2026-08-02T15:10:22.758Z",
       "checked": 33,
       "errors": 0
     }
