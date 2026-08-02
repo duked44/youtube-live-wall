@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-08-02T04:44:45.358Z",
+  "generatedAt": "2026-08-02T07:22:21.205Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "4KvzbUwSYAg",
-      "title": "Destructive Fire in Spokane, Washington  - LIVE Breaking News Wildfire Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/4KvzbUwSYAg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -240,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T04:44:45.358Z",
+      "at": "2026-08-02T07:22:21.205Z",
       "checked": 33,
       "errors": 0
     }
