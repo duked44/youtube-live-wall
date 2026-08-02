@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T09:30:42.702Z",
+  "generatedAt": "2026-08-02T11:04:40.890Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -171,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "0kXPuJndNiU",
+      "title": "SpaceX Reports First Earnings, Mideast Turmoil, FIFA Fallout | Bloomberg This Weekend: Aug 2, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/0kXPuJndNiU/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -237,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T09:30:42.702Z",
+      "at": "2026-08-02T11:04:40.890Z",
       "checked": 33,
       "errors": 0
     }
