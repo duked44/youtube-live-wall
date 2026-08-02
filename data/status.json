@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-08-02T20:36:02.343Z",
+  "generatedAt": "2026-08-02T21:34:06.101Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "qmSoM32dqkw",
-      "title": "Idaho In-N-Out Shooting Press Conference - LIVE Breaking News Coverage (Twin Falls)",
-      "thumbnail": "https://i.ytimg.com/vi/qmSoM32dqkw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "fQkUUWm8HX4",
-      "title": "WATCH LIVE: President Donald Trump Departs New Jersey En Route To White House",
-      "thumbnail": "https://i.ytimg.com/vi/fQkUUWm8HX4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -141,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "GF5HmjNtZKs",
+      "title": "The Wrap | Sunday 2 August",
+      "thumbnail": "https://i.ytimg.com/vi/GF5HmjNtZKs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +237,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T20:36:02.343Z",
+      "at": "2026-08-02T21:34:06.101Z",
       "checked": 33,
       "errors": 0
     }
