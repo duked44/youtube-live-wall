@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T12:12:31.229Z",
+  "generatedAt": "2026-08-02T13:58:47.463Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -218,7 +218,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "PuAEJItCOpY",
+      "title": "WestJet flight attendants union addresses media after launching strike over pay dispute | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/PuAEJItCOpY/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -237,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-02T12:12:31.229Z",
+      "at": "2026-08-02T13:58:47.463Z",
       "checked": 33,
       "errors": 0
     }
