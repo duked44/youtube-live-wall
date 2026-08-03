@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T18:52:45.758Z",
+  "generatedAt": "2026-08-03T20:22:17.055Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,19 +89,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "XGTNaqSfNYk",
-      "title": "LIVE: NASA's SpaceX Crew-13 briefing on upcoming launch to International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/XGTNaqSfNYk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "dgbhmtscntw",
-      "title": "LIVE: NASA's SpaceX Crew 13 briefing",
-      "thumbnail": "https://i.ytimg.com/vi/dgbhmtscntw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -126,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8XwN0T7hMiA",
-      "title": "Watch Live: Lindsay Clancy trial continues after jurors walked through crime scene",
-      "thumbnail": "https://i.ytimg.com/vi/8XwN0T7hMiA/hqdefault.jpg"
+      "videoId": "8oz8JHaufHk",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/8oz8JHaufHk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -203,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "kywaD5NlilE",
-      "title": "WATCH LIVE: SpaceX Crew-13 astronauts preview upcoming mission to the International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/kywaD5NlilE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -261,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T18:52:45.758Z",
+      "at": "2026-08-03T20:22:17.055Z",
       "checked": 33,
       "errors": 0
     }
