@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T16:56:07.938Z",
+  "generatedAt": "2026-08-03T18:52:45.758Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "aHVXlp5BjPA",
-      "title": "LIVE: President Trump Holds Public Event After Calling Off Strikes Against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/aHVXlp5BjPA/hqdefault.jpg"
+      "videoId": "-Hs42hKh5X0",
+      "title": "LIVE: Todd Blanche's Nomination To Be Attorney General Debated In Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/-Hs42hKh5X0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "sqnzE76PKxo",
-      "title": "WATCH LIVE: Trump signs executive order from the Oval Office",
-      "thumbnail": "https://i.ytimg.com/vi/sqnzE76PKxo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "u6mb1-ISWeA",
-      "title": "LIVE: Lindsay Clancy trial Day 5",
-      "thumbnail": "https://i.ytimg.com/vi/u6mb1-ISWeA/hqdefault.jpg"
+      "videoId": "XGTNaqSfNYk",
+      "title": "LIVE: NASA's SpaceX Crew-13 briefing on upcoming launch to International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/XGTNaqSfNYk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "4dsf4WEt9iM",
-      "title": "LIVE: Aerial firefighters tackle wildfires in Greece",
-      "thumbnail": "https://i.ytimg.com/vi/4dsf4WEt9iM/hqdefault.jpg"
+      "videoId": "dgbhmtscntw",
+      "title": "LIVE: NASA's SpaceX Crew 13 briefing",
+      "thumbnail": "https://i.ytimg.com/vi/dgbhmtscntw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -146,19 +143,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "DWlJ41aJe78",
-      "title": "LIVE: Trump signs an executive order",
-      "thumbnail": "https://i.ytimg.com/vi/DWlJ41aJe78/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "mjQ0OhbO9Mg",
+      "title": "Firefighters tackle wildfires in Athens",
+      "thumbnail": "https://i.ytimg.com/vi/mjQ0OhbO9Mg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,18 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "dY40H9r4qpE",
-      "title": "WATCH LIVE: NASA holds news conference on upcoming crew rotation to International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/dY40H9r4qpE/hqdefault.jpg"
+      "videoId": "kywaD5NlilE",
+      "title": "WATCH LIVE: SpaceX Crew-13 astronauts preview upcoming mission to the International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/kywaD5NlilE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "QETOFucqmyQ",
-      "title": "Watch live: NASA SpaceX Crew-13 discuss upcoming launch",
-      "thumbnail": "https://i.ytimg.com/vi/QETOFucqmyQ/hqdefault.jpg"
+      "videoId": "cUx3Jm-1IP8",
+      "title": "Debate: Will an El-Sayed Win in Michigan Drive Jews from the Democratic Party?",
+      "thumbnail": "https://i.ytimg.com/vi/cUx3Jm-1IP8/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -248,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "sOkfLc8wWZc",
-      "title": "WestJet, union representing flight attendants reach tentative agreement | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/sOkfLc8wWZc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -265,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 12,
+      "channelChecks": 396,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T16:56:07.938Z",
+      "at": "2026-08-03T18:52:45.758Z",
       "checked": 33,
       "errors": 0
     }
