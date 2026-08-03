@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:23:07.715Z",
+  "generatedAt": "2026-08-03T16:56:07.938Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,13 +11,19 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "aHVXlp5BjPA",
+      "title": "LIVE: President Trump Holds Public Event After Calling Off Strikes Against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/aHVXlp5BjPA/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "sdlmqbX7IMg",
+      "title": "Senate Judiciary Committee Vote on Todd Blanche to Serve as Attorney General",
+      "thumbnail": "https://i.ytimg.com/vi/sdlmqbX7IMg/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -96,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "3WoqsAHMpoQ",
-      "title": "LIVE: Protests over SAVE America Act in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/3WoqsAHMpoQ/hqdefault.jpg"
+      "videoId": "4dsf4WEt9iM",
+      "title": "LIVE: Aerial firefighters tackle wildfires in Greece",
+      "thumbnail": "https://i.ytimg.com/vi/4dsf4WEt9iM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -140,7 +146,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "DWlJ41aJe78",
+      "title": "LIVE: Trump signs an executive order",
+      "thumbnail": "https://i.ytimg.com/vi/DWlJ41aJe78/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -209,7 +218,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "QETOFucqmyQ",
+      "title": "Watch live: NASA SpaceX Crew-13 discuss upcoming launch",
+      "thumbnail": "https://i.ytimg.com/vi/QETOFucqmyQ/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -236,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "sOkfLc8wWZc",
+      "title": "WestJet, union representing flight attendants reach tentative agreement | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/sOkfLc8wWZc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -250,12 +265,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T14:23:07.715Z",
+      "at": "2026-08-03T16:56:07.938Z",
       "checked": 33,
       "errors": 0
     }
