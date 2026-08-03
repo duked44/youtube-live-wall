@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T11:52:42.418Z",
+  "generatedAt": "2026-08-03T14:23:07.715Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "sqnzE76PKxo",
+      "title": "WATCH LIVE: Trump signs executive order from the Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/sqnzE76PKxo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -84,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "ckEQsBOGRnU",
-      "title": "LIVE: Firefighters battle wildfire near Athens, Greece",
-      "thumbnail": "https://i.ytimg.com/vi/ckEQsBOGRnU/hqdefault.jpg"
+      "videoId": "u6mb1-ISWeA",
+      "title": "LIVE: Lindsay Clancy trial Day 5",
+      "thumbnail": "https://i.ytimg.com/vi/u6mb1-ISWeA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "zM6k_9GE8So",
-      "title": "LIVE: Wildfire smoke rises in Greece",
-      "thumbnail": "https://i.ytimg.com/vi/zM6k_9GE8So/hqdefault.jpg"
+      "videoId": "3WoqsAHMpoQ",
+      "title": "LIVE: Protests over SAVE America Act in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/3WoqsAHMpoQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8oz8JHaufHk",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/8oz8JHaufHk/hqdefault.jpg"
+      "videoId": "8XwN0T7hMiA",
+      "title": "Watch Live: Lindsay Clancy trial continues after jurors walked through crime scene",
+      "thumbnail": "https://i.ytimg.com/vi/8XwN0T7hMiA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "M02_mA2Pw78",
-      "title": "Firefighters battling major wildfire in Greece",
-      "thumbnail": "https://i.ytimg.com/vi/M02_mA2Pw78/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,7 +200,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "dY40H9r4qpE",
+      "title": "WATCH LIVE: NASA holds news conference on upcoming crew rotation to International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/dY40H9r4qpE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -209,7 +215,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "Txi26w61VvU",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/Txi26w61VvU/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -241,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 15,
-      "channelChecks": 495,
+      "runs": 14,
+      "channelChecks": 462,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T11:52:42.418Z",
+      "at": "2026-08-03T14:23:07.715Z",
       "checked": 33,
       "errors": 0
     }
