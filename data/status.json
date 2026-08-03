@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T22:39:41.113Z",
+  "generatedAt": "2026-08-03T23:48:31.659Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -120,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8oz8JHaufHk",
+      "videoId": "oLKZkvH9q7o",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/8oz8JHaufHk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/oLKZkvH9q7o/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "k5ltKSc8aHQ",
-      "title": "France hits back at Reform's migration pledge | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/k5ltKSc8aHQ/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "OE2z7rZ4ZDo",
-      "title": "PBS News Hour live episode, August 3, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/OE2z7rZ4ZDo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T22:39:41.113Z",
+      "at": "2026-08-03T23:48:31.659Z",
       "checked": 33,
       "errors": 0
     }
