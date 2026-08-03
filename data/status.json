@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T21:37:38.669Z",
+  "generatedAt": "2026-08-03T22:39:41.113Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "qgy9Lqi6nfU",
+      "videoId": "AKaDsZhvtxw",
       "title": "LIVE: NBC News NOW - Aug. 3",
-      "thumbnail": "https://i.ytimg.com/vi/qgy9Lqi6nfU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/AKaDsZhvtxw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -213,9 +213,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "Txi26w61VvU",
+      "videoId": "meOFPHAVnu8",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/Txi26w61VvU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/meOFPHAVnu8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T21:37:38.669Z",
+      "at": "2026-08-03T22:39:41.113Z",
       "checked": 33,
       "errors": 0
     }
