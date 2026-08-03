@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T20:22:17.055Z",
+  "generatedAt": "2026-08-03T21:37:38.669Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "mjQ0OhbO9Mg",
-      "title": "Firefighters tackle wildfires in Athens",
-      "thumbnail": "https://i.ytimg.com/vi/mjQ0OhbO9Mg/hqdefault.jpg"
+      "videoId": "k5ltKSc8aHQ",
+      "title": "France hits back at Reform's migration pledge | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/k5ltKSc8aHQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,16 +197,16 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "OE2z7rZ4ZDo",
+      "title": "PBS News Hour live episode, August 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/OE2z7rZ4ZDo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "cUx3Jm-1IP8",
-      "title": "Debate: Will an El-Sayed Win in Michigan Drive Jews from the Democratic Party?",
-      "thumbnail": "https://i.ytimg.com/vi/cUx3Jm-1IP8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -247,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 12,
-      "channelChecks": 396,
+      "runs": 11,
+      "channelChecks": 363,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-03T20:22:17.055Z",
+      "at": "2026-08-03T21:37:38.669Z",
       "checked": 33,
       "errors": 0
     }
