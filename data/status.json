@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:11:29.157Z",
+  "generatedAt": "2026-08-04T04:32:55.544Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "J91eUyB_Fuc",
-      "title": "LIVE: ABC News Live - Monday, August 3 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/J91eUyB_Fuc/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "AKaDsZhvtxw",
-      "title": "LIVE: NBC News NOW - Aug. 3",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/AKaDsZhvtxw/hqdefault.jpg"
     },
     {
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T01:11:29.157Z",
+      "at": "2026-08-04T04:32:55.544Z",
       "checked": 33,
       "errors": 0
     }
