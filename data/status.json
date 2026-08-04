@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:35:33.726Z",
+  "generatedAt": "2026-08-04T23:40:23.167Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,19 +98,16 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "aVmPLik_wbc",
-      "title": "LIVE: Wildfire damage in Spokane, Washington",
-      "thumbnail": "https://i.ytimg.com/vi/aVmPLik_wbc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "2vaXLbguCrY",
-      "title": "LIVE: ABC News Live - Tuesday, August 4 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/2vaXLbguCrY/hqdefault.jpg"
+      "videoId": "32em9Rn2ISc",
+      "title": "Michigan voters to weigh in on critical Senate and House races in primaries",
+      "thumbnail": "https://i.ytimg.com/vi/32em9Rn2ISc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "5YBd2rZlaJg",
+      "videoId": "MrSk5uQcKyA",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/5YBd2rZlaJg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MrSk5uQcKyA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "iDHth3DQrhU",
-      "title": "Emergency prison overcrowding policy triggered | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/iDHth3DQrhU/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +201,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "8e4c3E4Hs_c",
-      "title": "PBS News Hour live episode, August 4, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/8e4c3E4Hs_c/hqdefault.jpg"
+      "videoId": "0KcQ2bUV_eQ",
+      "title": "WATCH LIVE: Senate meets as lawmakers consider government funding, Russia sanctions",
+      "thumbnail": "https://i.ytimg.com/vi/0KcQ2bUV_eQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "YeJGaF1pt2Y",
-      "title": "Leprosy Is Back and Armadillos May Be to Blame | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/YeJGaF1pt2Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T22:35:33.726Z",
+      "at": "2026-08-04T23:40:23.167Z",
       "checked": 33,
       "errors": 0
     }
