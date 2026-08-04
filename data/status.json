@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T07:20:25.957Z",
+  "generatedAt": "2026-08-04T10:06:03.177Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,28 +89,25 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "Idi_A_gKWAY",
-      "title": "LIVE: 'The Odyssey' stars walk the red carpet at Seoul premiere",
-      "thumbnail": "https://i.ytimg.com/vi/Idi_A_gKWAY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "BDGtOogqpoM",
-      "title": "LIVE: Firefighters battle raging wildfires in Greece",
-      "thumbnail": "https://i.ytimg.com/vi/BDGtOogqpoM/hqdefault.jpg"
+      "videoId": "_dFllAhJT_c",
+      "title": "LIVE: Migrants camp at a beach in Spain's Ceuta",
+      "thumbnail": "https://i.ytimg.com/vi/_dFllAhJT_c/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "2vaXLbguCrY",
+      "title": "LIVE: ABC News Live - Tuesday, August 4 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/2vaXLbguCrY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "jiG9XWv8yEc",
-      "title": "Plans to block early release for rapists and other offenders | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/jiG9XWv8yEc/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T07:20:25.957Z",
+      "at": "2026-08-04T10:06:03.177Z",
       "checked": 33,
       "errors": 0
     }
