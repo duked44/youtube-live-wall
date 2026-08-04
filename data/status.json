@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T14:45:33.305Z",
+  "generatedAt": "2026-08-04T16:34:14.365Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,27 +12,27 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "-Hs42hKh5X0",
-      "title": "LIVE: Todd Blanche's Nomination To Be Attorney General Debated In Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/-Hs42hKh5X0/hqdefault.jpg"
+      "videoId": "2RHV7aEhK34",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/2RHV7aEhK34/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "sdlmqbX7IMg",
-      "title": "Senate Judiciary Committee Vote on Todd Blanche to Serve as Attorney General",
-      "thumbnail": "https://i.ytimg.com/vi/sdlmqbX7IMg/hqdefault.jpg"
+      "videoId": "zP5lmvACsik",
+      "title": "Campaign 2026: Primary Night in Michigan, Kansas, Virginia, Missouri & Washington",
+      "thumbnail": "https://i.ytimg.com/vi/zP5lmvACsik/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "vKjT5ODyRHk",
-      "title": "WATCH LIVE: Todd Blanche faces PIVOTAL Senate committee vote",
-      "thumbnail": "https://i.ytimg.com/vi/vKjT5ODyRHk/hqdefault.jpg"
+      "videoId": "rbjk14VFtIo",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts",
+      "thumbnail": "https://i.ytimg.com/vi/rbjk14VFtIo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "_r9O1Kmkies",
-      "title": "LIVE: Senate discusses Todd Blanche’s nomination for attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/_r9O1Kmkies/hqdefault.jpg"
+      "videoId": "eLGLPrJqeIU",
+      "title": "LIVE: Lindsay Clancy trial Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/eLGLPrJqeIU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Num6-76azjM",
-      "title": "LIVE: Wildfire victims return to Spokane, Washington",
-      "thumbnail": "https://i.ytimg.com/vi/Num6-76azjM/hqdefault.jpg"
+      "videoId": "9mW2PSbHVRU",
+      "title": "LIVE: The murder trial of Lindsay Clancy continues",
+      "thumbnail": "https://i.ytimg.com/vi/9mW2PSbHVRU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -146,10 +146,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "NOoruvpxylM",
-      "title": "LIVE: Senate committee votes on advancing Todd Blanche's nomination to Attorney General",
-      "thumbnail": "https://i.ytimg.com/vi/NOoruvpxylM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "CK7zJpEuHl4",
-      "title": "WATCH LIVE: Senate Budget Committee holds hearing on the effect of Medicaid cuts",
-      "thumbnail": "https://i.ytimg.com/vi/CK7zJpEuHl4/hqdefault.jpg"
+      "videoId": "0KcQ2bUV_eQ",
+      "title": "WATCH LIVE: Senate meets as lawmakers consider government funding, Russia sanctions",
+      "thumbnail": "https://i.ytimg.com/vi/0KcQ2bUV_eQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "Rap-tuMXo9s",
-      "title": "Senate votes on Todd Blanche nomination for attorney general - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/Rap-tuMXo9s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -262,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 12,
-      "channelChecks": 396,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T14:45:33.305Z",
+      "at": "2026-08-04T16:34:14.365Z",
       "checked": 33,
       "errors": 0
     }
