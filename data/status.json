@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T04:32:55.544Z",
+  "generatedAt": "2026-08-04T07:20:25.957Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,13 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "Idi_A_gKWAY",
+      "title": "LIVE: 'The Odyssey' stars walk the red carpet at Seoul premiere",
+      "thumbnail": "https://i.ytimg.com/vi/Idi_A_gKWAY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "BDGtOogqpoM",
+      "title": "LIVE: Firefighters battle raging wildfires in Greece",
+      "thumbnail": "https://i.ytimg.com/vi/BDGtOogqpoM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "jiG9XWv8yEc",
+      "title": "Plans to block early release for rapists and other offenders | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/jiG9XWv8yEc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T04:32:55.544Z",
+      "at": "2026-08-04T07:20:25.957Z",
       "checked": 33,
       "errors": 0
     }
