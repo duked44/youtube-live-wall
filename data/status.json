@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T18:16:42.393Z",
+  "generatedAt": "2026-08-04T20:02:44.333Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "2RHV7aEhK34",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/2RHV7aEhK34/hqdefault.jpg"
+      "videoId": "-Hs42hKh5X0",
+      "title": "LIVE NEWS: Trump Threatens Iran To Make Deal, Blanche AG Nomination Clears Major Senate Hurdle",
+      "thumbnail": "https://i.ytimg.com/vi/-Hs42hKh5X0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -93,18 +93,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "eLGLPrJqeIU",
-      "title": "LIVE: Lindsay Clancy trial Day 6",
-      "thumbnail": "https://i.ytimg.com/vi/eLGLPrJqeIU/hqdefault.jpg"
+      "videoId": "aHGKAlyVN6s",
+      "title": "LIVE: Red carpet premiere of 'Katseye: Wild Hearts' in Los Angeles",
+      "thumbnail": "https://i.ytimg.com/vi/aHGKAlyVN6s/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "9mW2PSbHVRU",
-      "title": "LIVE: The murder trial of Lindsay Clancy continues",
-      "thumbnail": "https://i.ytimg.com/vi/9mW2PSbHVRU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -129,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "6-FRRR-rMno",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with more expert testimony | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/6-FRRR-rMno/hqdefault.jpg"
+      "videoId": "5YBd2rZlaJg",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/5YBd2rZlaJg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -207,15 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "0KcQ2bUV_eQ",
-      "title": "WATCH LIVE: Senate meets as lawmakers consider government funding, Russia sanctions",
-      "thumbnail": "https://i.ytimg.com/vi/0KcQ2bUV_eQ/hqdefault.jpg"
+      "videoId": "PKDPn1yBti0",
+      "title": "WATCH LIVE: Senate panel examines how AI surveillance pricing affects consumers",
+      "thumbnail": "https://i.ytimg.com/vi/PKDPn1yBti0/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "5jCOb20py84",
+      "title": "Is Trump's administration corrupt? Debate with Jim Antle and Batya Ungar-Sargon",
+      "thumbnail": "https://i.ytimg.com/vi/5jCOb20py84/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T18:16:42.393Z",
+      "at": "2026-08-04T20:02:44.333Z",
       "checked": 33,
       "errors": 0
     }
