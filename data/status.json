@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T20:02:44.333Z",
+  "generatedAt": "2026-08-04T21:23:52.670Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "rbjk14VFtIo",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts",
-      "thumbnail": "https://i.ytimg.com/vi/rbjk14VFtIo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -56,7 +53,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "egdmN8lpMMs",
+      "title": "Is Spider-Man: Brand New Day Worth the Hype? | Movie Night Fight",
+      "thumbnail": "https://i.ytimg.com/vi/egdmN8lpMMs/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -101,7 +101,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "aVmPLik_wbc",
+      "title": "LIVE: Wildfire damage in Spokane, Washington",
+      "thumbnail": "https://i.ytimg.com/vi/aVmPLik_wbc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "iDHth3DQrhU",
+      "title": "Emergency prison overcrowding policy triggered | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/iDHth3DQrhU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +207,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "PKDPn1yBti0",
-      "title": "WATCH LIVE: Senate panel examines how AI surveillance pricing affects consumers",
-      "thumbnail": "https://i.ytimg.com/vi/PKDPn1yBti0/hqdefault.jpg"
+      "videoId": "XEWEobneXxc",
+      "title": "WATCH LIVE: Senate Indian Affairs Committee roundtable on prediction markets and tribal sovereignty",
+      "thumbnail": "https://i.ytimg.com/vi/XEWEobneXxc/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "5jCOb20py84",
-      "title": "Is Trump's administration corrupt? Debate with Jim Antle and Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/5jCOb20py84/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T20:02:44.333Z",
+      "at": "2026-08-04T21:23:52.670Z",
       "checked": 33,
       "errors": 0
     }
