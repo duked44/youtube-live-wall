@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T10:06:03.177Z",
+  "generatedAt": "2026-08-04T12:16:47.647Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "jJk1t5YNyHw",
+      "title": "WATCH LIVE: DOJ unveils MAJOR healthcare fraud takedown",
+      "thumbnail": "https://i.ytimg.com/vi/jJk1t5YNyHw/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -89,16 +92,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "eLGLPrJqeIU",
+      "title": "LIVE: Lindsay Clancy trial Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/eLGLPrJqeIU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_dFllAhJT_c",
-      "title": "LIVE: Migrants camp at a beach in Spain's Ceuta",
-      "thumbnail": "https://i.ytimg.com/vi/_dFllAhJT_c/hqdefault.jpg"
+      "videoId": "WTPYOiYy8-o",
+      "title": "LIVE: Voters head to the polls in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/WTPYOiYy8-o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "AKaDsZhvtxw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/AKaDsZhvtxw/hqdefault.jpg"
+      "videoId": "vGsEzPia0cg",
+      "title": "LIVE: NBC News NOW - Aug. 4",
+      "thumbnail": "https://i.ytimg.com/vi/vGsEzPia0cg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "oLKZkvH9q7o",
+      "videoId": "5YBd2rZlaJg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/oLKZkvH9q7o/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/5YBd2rZlaJg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -140,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "NOoruvpxylM",
+      "title": "LIVE: Senate committee votes on advancing Todd Blanche's nomination to become Attorney General",
+      "thumbnail": "https://i.ytimg.com/vi/NOoruvpxylM/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "A_TEBg_BwEE",
+      "title": "Mourners gather at the funeral of Glen Hansard",
+      "thumbnail": "https://i.ytimg.com/vi/A_TEBg_BwEE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T10:06:03.177Z",
+      "at": "2026-08-04T12:16:47.647Z",
       "checked": 33,
       "errors": 0
     }
