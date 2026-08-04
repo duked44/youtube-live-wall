@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T12:16:47.647Z",
+  "generatedAt": "2026-08-04T14:45:33.305Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "jJk1t5YNyHw",
-      "title": "WATCH LIVE: DOJ unveils MAJOR healthcare fraud takedown",
-      "thumbnail": "https://i.ytimg.com/vi/jJk1t5YNyHw/hqdefault.jpg"
+      "videoId": "vKjT5ODyRHk",
+      "title": "WATCH LIVE: Todd Blanche faces PIVOTAL Senate committee vote",
+      "thumbnail": "https://i.ytimg.com/vi/vKjT5ODyRHk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "eLGLPrJqeIU",
-      "title": "LIVE: Lindsay Clancy trial Day 6",
-      "thumbnail": "https://i.ytimg.com/vi/eLGLPrJqeIU/hqdefault.jpg"
+      "videoId": "_r9O1Kmkies",
+      "title": "LIVE: Senate discusses Todd Blanche’s nomination for attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/_r9O1Kmkies/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "WTPYOiYy8-o",
-      "title": "LIVE: Voters head to the polls in Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/WTPYOiYy8-o/hqdefault.jpg"
+      "videoId": "Num6-76azjM",
+      "title": "LIVE: Wildfire victims return to Spokane, Washington",
+      "thumbnail": "https://i.ytimg.com/vi/Num6-76azjM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "5YBd2rZlaJg",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/5YBd2rZlaJg/hqdefault.jpg"
+      "videoId": "6-FRRR-rMno",
+      "title": "Watch Live: Lindsay Clancy murder trial continues with more expert testimony | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/6-FRRR-rMno/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -148,7 +148,7 @@
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
       "videoId": "NOoruvpxylM",
-      "title": "LIVE: Senate committee votes on advancing Todd Blanche's nomination to become Attorney General",
+      "title": "LIVE: Senate committee votes on advancing Todd Blanche's nomination to Attorney General",
       "thumbnail": "https://i.ytimg.com/vi/NOoruvpxylM/hqdefault.jpg"
     },
     {
@@ -156,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "A_TEBg_BwEE",
-      "title": "Mourners gather at the funeral of Glen Hansard",
-      "thumbnail": "https://i.ytimg.com/vi/A_TEBg_BwEE/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +209,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "CK7zJpEuHl4",
+      "title": "WATCH LIVE: Senate Budget Committee holds hearing on the effect of Medicaid cuts",
+      "thumbnail": "https://i.ytimg.com/vi/CK7zJpEuHl4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -230,7 +233,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "Rap-tuMXo9s",
+      "title": "Senate votes on Todd Blanche nomination for attorney general - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/Rap-tuMXo9s/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T12:16:47.647Z",
+      "at": "2026-08-04T14:45:33.305Z",
       "checked": 33,
       "errors": 0
     }
