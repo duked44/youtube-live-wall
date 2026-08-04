@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T21:23:52.670Z",
+  "generatedAt": "2026-08-04T22:35:33.726Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -53,10 +53,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "egdmN8lpMMs",
-      "title": "Is Spider-Man: Brand New Day Worth the Hype? | Movie Night Fight",
-      "thumbnail": "https://i.ytimg.com/vi/egdmN8lpMMs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "vGsEzPia0cg",
+      "videoId": "mitPVtg041k",
       "title": "LIVE: NBC News NOW - Aug. 4",
-      "thumbnail": "https://i.ytimg.com/vi/vGsEzPia0cg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/mitPVtg041k/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -207,24 +204,27 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "XEWEobneXxc",
-      "title": "WATCH LIVE: Senate Indian Affairs Committee roundtable on prediction markets and tribal sovereignty",
-      "thumbnail": "https://i.ytimg.com/vi/XEWEobneXxc/hqdefault.jpg"
+      "videoId": "8e4c3E4Hs_c",
+      "title": "PBS News Hour live episode, August 4, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/8e4c3E4Hs_c/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "YeJGaF1pt2Y",
+      "title": "Leprosy Is Back and Armadillos May Be to Blame | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/YeJGaF1pt2Y/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "meOFPHAVnu8",
+      "videoId": "KPqTyIvntg8",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/meOFPHAVnu8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/KPqTyIvntg8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T21:23:52.670Z",
+      "at": "2026-08-04T22:35:33.726Z",
       "checked": 33,
       "errors": 0
     }
