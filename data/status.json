@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T14:31:52.472Z",
+  "generatedAt": "2026-08-05T16:18:34.536Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -13,7 +13,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "bBWFIfXc5F8",
-      "title": "LIVE NEWS: JD Vance Anti-Fraud Roundtable, Trump Visits Las Vegas, U.S.-Iran Nearing Deal",
+      "title": "LIVE NEWS: JD Vance Anti-Fraud Roundtable, Trump Visits Las Vegas, U.S. And Iran Nearing Deal",
       "thumbnail": "https://i.ytimg.com/vi/bBWFIfXc5F8/hqdefault.jpg"
     },
     {
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "aISfliNKGXw",
-      "title": "WATCH LIVE: Vance speaks before HIGH-STAKES anti-fraud roundtable",
-      "thumbnail": "https://i.ytimg.com/vi/aISfliNKGXw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -90,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "hpHxae2dhOU",
-      "title": "LIVE: Michigan primary winner El-Sayed holds a press conference",
-      "thumbnail": "https://i.ytimg.com/vi/hpHxae2dhOU/hqdefault.jpg"
+      "videoId": "TYSoB2djZIU",
+      "title": "LIVE: Trump delivers remarks in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/TYSoB2djZIU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "DIsIXO2aQVQ",
-      "title": "LIVE: Damage in Washington after wildfires",
-      "thumbnail": "https://i.ytimg.com/vi/DIsIXO2aQVQ/hqdefault.jpg"
+      "videoId": "sS88sWBDlyM",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/sS88sWBDlyM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "0WnnGto4X5Q",
-      "title": "Watch Live: Day 7 of Lindsay Clancy murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/0WnnGto4X5Q/hqdefault.jpg"
+      "videoId": "3APQeDSvJJg",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/3APQeDSvJJg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "_CoZtVmJVZ8",
-      "title": "LIVE: Abdul El-Sayed holds a press conference after winning the Michigan Democratic Senate primary",
-      "thumbnail": "https://i.ytimg.com/vi/_CoZtVmJVZ8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "gLdk56OcXRQ",
-      "title": "Stabbings in Convent Garden- women arrested, multiple injured",
-      "thumbnail": "https://i.ytimg.com/vi/gLdk56OcXRQ/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,10 +200,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "c-HwH22c__s",
-      "title": "WATCH LIVE: Vances hosts roundtable to discuss Trump administration's anti-fraud efforts",
-      "thumbnail": "https://i.ytimg.com/vi/c-HwH22c__s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -261,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T14:31:52.472Z",
+      "at": "2026-08-05T16:18:34.536Z",
       "checked": 33,
       "errors": 0
     }
