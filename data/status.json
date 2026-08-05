@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T10:01:31.291Z",
+  "generatedAt": "2026-08-05T12:08:26.883Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -84,9 +84,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "NUSGJdpYF-k",
-      "title": "LIVE: Wildfires burn around Spokane in Washington state as thousands evacuate",
-      "thumbnail": "https://i.ytimg.com/vi/NUSGJdpYF-k/hqdefault.jpg"
+      "videoId": "QFMgqDhcctY",
+      "title": "LIVE: Lindsay Clancy trial Day 7",
+      "thumbnail": "https://i.ytimg.com/vi/QFMgqDhcctY/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mitPVtg041k",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/mitPVtg041k/hqdefault.jpg"
+      "videoId": "6tVqHBG3jdk",
+      "title": "LIVE: NBC News NOW - Aug. 5",
+      "thumbnail": "https://i.ytimg.com/vi/6tVqHBG3jdk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "MrSk5uQcKyA",
+      "videoId": "3APQeDSvJJg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/MrSk5uQcKyA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/3APQeDSvJJg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "QnygX67NfQo",
-      "title": "Green Party leader Zack Polanski holds news conference",
-      "thumbnail": "https://i.ytimg.com/vi/QnygX67NfQo/hqdefault.jpg"
+      "videoId": "idpN0AWRn2M",
+      "title": "Ukraine war Q&A | Could drone attacks by both sides be war crimes? How far could Putin go?",
+      "thumbnail": "https://i.ytimg.com/vi/idpN0AWRn2M/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T10:01:31.291Z",
+      "at": "2026-08-05T12:08:26.883Z",
       "checked": 33,
       "errors": 0
     }
