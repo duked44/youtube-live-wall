@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T23:40:23.167Z",
+  "generatedAt": "2026-08-05T01:06:12.860Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "-bMPQYDsIz0",
+      "title": "LIVE: Watch party for Democratic Senate candidate El-Sayed",
+      "thumbnail": "https://i.ytimg.com/vi/-bMPQYDsIz0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,27 +117,27 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mitPVtg041k",
-      "title": "LIVE: NBC News NOW - Aug. 4",
-      "thumbnail": "https://i.ytimg.com/vi/mitPVtg041k/hqdefault.jpg"
+      "videoId": "jdFq5Lg3fsE",
+      "title": "LIVE: Steve Kornacki analyzes midterm primary election results | Kornacki Cam | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/jdFq5Lg3fsE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "MrSk5uQcKyA",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/MrSk5uQcKyA/hqdefault.jpg"
+      "videoId": "pKGa33yBb3k",
+      "title": "Watch Live: Primary elections in 5 states, including Michigan and Virginia",
+      "thumbnail": "https://i.ytimg.com/vi/pKGa33yBb3k/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "WgR3qWyQbco",
+      "title": "Live: John King breaks down key primary results at CNN’s Magic Wall",
+      "thumbnail": "https://i.ytimg.com/vi/WgR3qWyQbco/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-04T23:40:23.167Z",
+      "at": "2026-08-05T01:06:12.860Z",
       "checked": 33,
       "errors": 0
     }
