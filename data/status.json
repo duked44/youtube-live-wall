@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:58:35.803Z",
+  "generatedAt": "2026-08-05T19:48:09.042Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,24 +12,24 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "bBWFIfXc5F8",
-      "title": "LIVE NEWS: JD Vance Anti-Fraud Roundtable, Trump Visits Las Vegas, U.S. And Iran Nearing Deal",
-      "thumbnail": "https://i.ytimg.com/vi/bBWFIfXc5F8/hqdefault.jpg"
+      "videoId": "H78nNpmr_Sg",
+      "title": "LIVE: President Trump Delivers Remarks In Las Vegas, Nevada As U.S. And Iran Near Peace Deal",
+      "thumbnail": "https://i.ytimg.com/vi/H78nNpmr_Sg/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "jj1u9I2XRUA",
+      "title": "Senate Committee Votes to Hold Dr. Anthony Fauci in Contempt",
+      "thumbnail": "https://i.ytimg.com/vi/jj1u9I2XRUA/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "VLCosBKRUxk",
-      "title": "WATCH LIVE: Senate examines alleged Muslim Brotherhood network in America",
-      "thumbnail": "https://i.ytimg.com/vi/VLCosBKRUxk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "sS88sWBDlyM",
+      "videoId": "ZbfYv-5t0u0",
       "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/sS88sWBDlyM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ZbfYv-5t0u0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -242,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "mOYGoX_VRI8",
-      "title": "Carney announces affordable housing measures in Toronto with Mayor Olivia Chow | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/mOYGoX_VRI8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T17:58:35.803Z",
+      "at": "2026-08-05T19:48:09.042Z",
       "checked": 33,
       "errors": 0
     }
