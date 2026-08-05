@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-08-05T22:02:29.311Z",
+  "generatedAt": "2026-08-05T23:14:49.905Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "uR_1tXD5tlE",
+      "title": "Iran War, Leipzig Drone, El-Sayed Election - LIVE Updates & Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/uR_1tXD5tlE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "H78nNpmr_Sg",
-      "title": "LIVE: President Trump Delivers Remarks In Las Vegas, Nevada As U.S. And Iran Near Peace Deal",
-      "thumbnail": "https://i.ytimg.com/vi/H78nNpmr_Sg/hqdefault.jpg"
+      "videoId": "bBWFIfXc5F8",
+      "title": "LIVE NEWS: JD Vance Anti-Fraud Roundtable, Trump Visits Las Vegas, U.S. And Iran Nearing Deal",
+      "thumbnail": "https://i.ytimg.com/vi/bBWFIfXc5F8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +32,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "vuLIOTnpaNg",
-      "title": "WATCH LIVE: Trump speaks in Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/vuLIOTnpaNg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "TYSoB2djZIU",
-      "title": "LIVE: Trump delivers remarks in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/TYSoB2djZIU/hqdefault.jpg"
+      "videoId": "nLwNc9OrVBM",
+      "title": "LIVE: Tate McRae, Inde Navarrette attend Variety Power of Young Hollywood event",
+      "thumbnail": "https://i.ytimg.com/vi/nLwNc9OrVBM/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,9 +111,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "hU2qCD2cS1s",
-      "title": "President Trump delivers remarks at Red Rock Casino Resort and Spa in Las Vegas: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/hU2qCD2cS1s/hqdefault.jpg"
+      "videoId": "asoTVYImPQ4",
+      "title": "LIVE: ABC News Live - Wednesday, August 5 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/asoTVYImPQ4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "3APQeDSvJJg",
+      "videoId": "hcSovXdTTSo",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/3APQeDSvJJg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/hcSovXdTTSo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,19 +146,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "YQNb7hFWU6M",
-      "title": "LIVE: Trump delivers remarks in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/YQNb7hFWU6M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "TWUT2-vsnwI",
-      "title": "Convicted antisemite withdraws as Tory candidate | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/TWUT2-vsnwI/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -225,9 +222,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "KPqTyIvntg8",
+      "videoId": "d6KRSvCjL4E",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/KPqTyIvntg8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/d6KRSvCjL4E/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T22:02:29.311Z",
+      "at": "2026-08-05T23:14:49.905Z",
       "checked": 33,
       "errors": 0
     }
