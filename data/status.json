@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T01:06:12.860Z",
+  "generatedAt": "2026-08-05T04:27:07.024Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "-Hs42hKh5X0",
-      "title": "LIVE NEWS: Trump Threatens Iran To Make Deal, Blanche AG Nomination Clears Major Senate Hurdle",
-      "thumbnail": "https://i.ytimg.com/vi/-Hs42hKh5X0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -89,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "aHGKAlyVN6s",
-      "title": "LIVE: Red carpet premiere of 'Katseye: Wild Hearts' in Los Angeles",
-      "thumbnail": "https://i.ytimg.com/vi/aHGKAlyVN6s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -108,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "32em9Rn2ISc",
-      "title": "Michigan voters to weigh in on critical Senate and House races in primaries",
-      "thumbnail": "https://i.ytimg.com/vi/32em9Rn2ISc/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,18 +120,18 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "pKGa33yBb3k",
-      "title": "Watch Live: Primary elections in 5 states, including Michigan and Virginia",
-      "thumbnail": "https://i.ytimg.com/vi/pKGa33yBb3k/hqdefault.jpg"
+      "videoId": "MrSk5uQcKyA",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/MrSk5uQcKyA/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "WgR3qWyQbco",
-      "title": "Live: John King breaks down key primary results at CNN’s Magic Wall",
-      "thumbnail": "https://i.ytimg.com/vi/WgR3qWyQbco/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -203,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "0KcQ2bUV_eQ",
-      "title": "WATCH LIVE: Senate meets as lawmakers consider government funding, Russia sanctions",
-      "thumbnail": "https://i.ytimg.com/vi/0KcQ2bUV_eQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T01:06:12.860Z",
+      "at": "2026-08-05T04:27:07.024Z",
       "checked": 33,
       "errors": 0
     }
