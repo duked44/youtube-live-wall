@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T19:48:09.042Z",
+  "generatedAt": "2026-08-05T20:49:49.345Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "vuLIOTnpaNg",
+      "title": "WATCH LIVE: Trump speaks in Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/vuLIOTnpaNg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -143,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "YQNb7hFWU6M",
+      "title": "LIVE: Trump delivers remarks in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/YQNb7hFWU6M/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "GwqclN0JvtM",
+      "title": "Donald Trump gives speech in Las Vegas as part of push to confront voter concerns",
+      "thumbnail": "https://i.ytimg.com/vi/GwqclN0JvtM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +218,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "dj4VgxXjm2E",
-      "title": "Who really won in Michigan? Debate with Mally Smith and Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/dj4VgxXjm2E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T19:48:09.042Z",
+      "at": "2026-08-05T20:49:49.345Z",
       "checked": 33,
       "errors": 0
     }
