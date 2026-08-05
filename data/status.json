@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T07:17:06.728Z",
+  "generatedAt": "2026-08-05T10:01:31.291Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,25 +83,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "NUSGJdpYF-k",
+      "title": "LIVE: Wildfires burn around Spokane in Washington state as thousands evacuate",
+      "thumbnail": "https://i.ytimg.com/vi/NUSGJdpYF-k/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "etoddbT80Vk",
-      "title": "LIVE: Migrants camp at a beach in Spain's Ceuta",
-      "thumbnail": "https://i.ytimg.com/vi/etoddbT80Vk/hqdefault.jpg"
+      "videoId": "NRx1iA520sw",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/NRx1iA520sw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "asoTVYImPQ4",
+      "title": "LIVE: ABC News Live - Wednesday, August 5 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/asoTVYImPQ4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "CL9XDnTIlCM",
-      "title": "At least 15 killed and dozens injured in Russian strikes on Kyiv region | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/CL9XDnTIlCM/hqdefault.jpg"
+      "videoId": "QnygX67NfQo",
+      "title": "Green Party leader Zack Polanski holds news conference",
+      "thumbnail": "https://i.ytimg.com/vi/QnygX67NfQo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T07:17:06.728Z",
+      "at": "2026-08-05T10:01:31.291Z",
       "checked": 33,
       "errors": 0
     }
