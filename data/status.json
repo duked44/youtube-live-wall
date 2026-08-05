@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T20:49:49.345Z",
+  "generatedAt": "2026-08-05T22:02:29.311Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,18 +111,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "asoTVYImPQ4",
-      "title": "LIVE: ABC News Live - Wednesday, August 5 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/asoTVYImPQ4/hqdefault.jpg"
+      "videoId": "hU2qCD2cS1s",
+      "title": "President Trump delivers remarks at Red Rock Casino Resort and Spa in Las Vegas: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/hU2qCD2cS1s/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "6tVqHBG3jdk",
+      "videoId": "EATaSm7QXvM",
       "title": "LIVE: NBC News NOW - Aug. 5",
-      "thumbnail": "https://i.ytimg.com/vi/6tVqHBG3jdk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/EATaSm7QXvM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -156,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "GwqclN0JvtM",
-      "title": "Donald Trump gives speech in Las Vegas as part of push to confront voter concerns",
-      "thumbnail": "https://i.ytimg.com/vi/GwqclN0JvtM/hqdefault.jpg"
+      "videoId": "TWUT2-vsnwI",
+      "title": "Convicted antisemite withdraws as Tory candidate | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/TWUT2-vsnwI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "JQXhwIVwpBs",
-      "title": "WATCH LIVE: Trump talks about the economy in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/JQXhwIVwpBs/hqdefault.jpg"
+      "videoId": "7oOPTUA9Saw",
+      "title": "PBS News Hour live episode, August 5, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/7oOPTUA9Saw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T20:49:49.345Z",
+      "at": "2026-08-05T22:02:29.311Z",
       "checked": 33,
       "errors": 0
     }
