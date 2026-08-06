@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T11:35:35.656Z",
+  "generatedAt": "2026-08-06T13:16:21.366Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "Mk1Da8QPa64",
+      "title": "LIVE: Senate Homeland Committee Debates On Dr. Anthony Fauci Contempt Of Congress Resolution",
+      "thumbnail": "https://i.ytimg.com/vi/Mk1Da8QPa64/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -47,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "hj8zzIjgdx0",
+      "title": "LIVE: Nasa astronauts conduct spacewalk from International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/hj8zzIjgdx0/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -90,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "9fisn1En9vE",
-      "title": "LIVE: NASA astronauts conduct spacewalk outside International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/9fisn1En9vE/hqdefault.jpg"
+      "videoId": "z6WYnDsQtUU",
+      "title": "LIVE: Senate panel votes on holding Fauci in contempt for refusing to answer questions",
+      "thumbnail": "https://i.ytimg.com/vi/z6WYnDsQtUU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "XvyyYEyjSHQ",
-      "title": "LIVE: NASA conducts U.S. Spacewalk 96 at ISS",
-      "thumbnail": "https://i.ytimg.com/vi/XvyyYEyjSHQ/hqdefault.jpg"
+      "videoId": "pCOdw3TooSk",
+      "title": "LIVE: Senate votes on holding Dr. Fauci in contempt",
+      "thumbnail": "https://i.ytimg.com/vi/pCOdw3TooSk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "lzBuXZSpiUM",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/lzBuXZSpiUM/hqdefault.jpg"
+      "videoId": "XmbHnkIKYVk",
+      "title": "Watch Live: Senate committee holds Fauci contempt of Congress vote after  COVID hearing | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/XmbHnkIKYVk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yfAcGMIh62U",
-      "title": "Why is Ukraine becoming more vulnerable to air attacks? | Sean Bell analysis",
-      "thumbnail": "https://i.ytimg.com/vi/yfAcGMIh62U/hqdefault.jpg"
+      "videoId": "di_Nt8TtpBI",
+      "title": "Senators to vote on holding Anthony Fauci in contempt of Congress",
+      "thumbnail": "https://i.ytimg.com/vi/di_Nt8TtpBI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "OWb_yhE8ST0",
-      "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
-      "thumbnail": "https://i.ytimg.com/vi/OWb_yhE8ST0/hqdefault.jpg"
+      "videoId": "tiWacr2g8iM",
+      "title": "WATCH LIVE: NASA astronauts conduct spacewalk to install hardware for ISS solar array upgrade",
+      "thumbnail": "https://i.ytimg.com/vi/tiWacr2g8iM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "aerp-S7S2ag",
-      "title": "Senate committee votes on on holding Dr. Fauci in contempt of Congress - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/aerp-S7S2ag/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -242,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "AdNl0maD0YU",
+      "title": "Toronto Police provide update on US Consulate Shooting | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/AdNl0maD0YU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-06T11:35:35.656Z",
+      "at": "2026-08-06T13:16:21.366Z",
       "checked": 33,
       "errors": 0
     }
