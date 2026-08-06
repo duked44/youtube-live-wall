@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-08-06T00:13:17.035Z",
+  "generatedAt": "2026-08-06T03:42:49.154Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "uR_1tXD5tlE",
-      "title": "Iran War, Leipzig Drone, El-Sayed Election - LIVE Updates & Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/uR_1tXD5tlE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -89,37 +86,34 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "nLwNc9OrVBM",
-      "title": "LIVE: Tate McRae, Inde Navarrette attend Variety Power of Young Hollywood event",
-      "thumbnail": "https://i.ytimg.com/vi/nLwNc9OrVBM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ZbfYv-5t0u0",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/ZbfYv-5t0u0/hqdefault.jpg"
+      "videoId": "YXwtgldH0xc",
+      "title": "LIVE: Myanmar President Min Aung Hlaing visits Thailand",
+      "thumbnail": "https://i.ytimg.com/vi/YXwtgldH0xc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "asoTVYImPQ4",
-      "title": "LIVE: ABC News Live - Wednesday, August 5 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/asoTVYImPQ4/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "FdQFPmvWYeo",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 05",
-      "thumbnail": "https://i.ytimg.com/vi/FdQFPmvWYeo/hqdefault.jpg"
+      "videoId": "EATaSm7QXvM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/EATaSm7QXvM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-06T00:13:17.035Z",
+      "at": "2026-08-06T03:42:49.154Z",
       "checked": 33,
       "errors": 0
     }
