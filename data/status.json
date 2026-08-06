@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T06:17:01.742Z",
+  "generatedAt": "2026-08-06T09:14:08.235Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "WvgSpFP6XZg",
+      "videoId": "n2vbWOexZ5Q",
       "title": "LIVE: Pope Leo XIV holds Mass in Assisi",
-      "thumbnail": "https://i.ytimg.com/vi/WvgSpFP6XZg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/n2vbWOexZ5Q/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ZbfYv-5t0u0",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/ZbfYv-5t0u0/hqdefault.jpg"
+      "videoId": "R8zFjBe_LNY",
+      "title": "LIVE: Pope Leo returns to Assisi for St. Francis 800th anniversary",
+      "thumbnail": "https://i.ytimg.com/vi/R8zFjBe_LNY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "HZ6cB7Gogzk",
-      "title": "Badenoch faces backlash after former Neo-Nazi appointed Tory adviser | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/HZ6cB7Gogzk/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "UEiZ4PisrWI",
+      "title": "Reform UK holds press conference with Zia Yusuf - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/UEiZ4PisrWI/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-06T06:17:01.742Z",
+      "at": "2026-08-06T09:14:08.235Z",
       "checked": 33,
       "errors": 0
     }
