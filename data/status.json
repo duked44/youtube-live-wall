@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T09:14:08.235Z",
+  "generatedAt": "2026-08-06T11:35:35.656Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "WWSy0SMiULA",
+      "title": "WATCH LIVE: Fauci faces CONTEMPT vote as lawmakers turn up the heat",
+      "thumbnail": "https://i.ytimg.com/vi/WWSy0SMiULA/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,45 +90,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "n2vbWOexZ5Q",
-      "title": "LIVE: Pope Leo XIV holds Mass in Assisi",
-      "thumbnail": "https://i.ytimg.com/vi/n2vbWOexZ5Q/hqdefault.jpg"
+      "videoId": "9fisn1En9vE",
+      "title": "LIVE: NASA astronauts conduct spacewalk outside International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/9fisn1En9vE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "R8zFjBe_LNY",
-      "title": "LIVE: Pope Leo returns to Assisi for St. Francis 800th anniversary",
-      "thumbnail": "https://i.ytimg.com/vi/R8zFjBe_LNY/hqdefault.jpg"
+      "videoId": "XvyyYEyjSHQ",
+      "title": "LIVE: NASA conducts U.S. Spacewalk 96 at ISS",
+      "thumbnail": "https://i.ytimg.com/vi/XvyyYEyjSHQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "reGeHg_d9is",
+      "title": "LIVE: ABC News Live - Thursday, August 6 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/reGeHg_d9is/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "EATaSm7QXvM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/EATaSm7QXvM/hqdefault.jpg"
+      "videoId": "UXbfHflnyyA",
+      "title": "LIVE: NBC News NOW - Aug. 6",
+      "thumbnail": "https://i.ytimg.com/vi/UXbfHflnyyA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "hcSovXdTTSo",
+      "videoId": "lzBuXZSpiUM",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/hcSovXdTTSo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/lzBuXZSpiUM/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "yfAcGMIh62U",
+      "title": "Why is Ukraine becoming more vulnerable to air attacks? | Sean Bell analysis",
+      "thumbnail": "https://i.ytimg.com/vi/yfAcGMIh62U/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -225,9 +228,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "UEiZ4PisrWI",
-      "title": "Reform UK holds press conference with Zia Yusuf - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/UEiZ4PisrWI/hqdefault.jpg"
+      "videoId": "aerp-S7S2ag",
+      "title": "Senate committee votes on on holding Dr. Fauci in contempt of Congress - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/aerp-S7S2ag/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-06T09:14:08.235Z",
+      "at": "2026-08-06T11:35:35.656Z",
       "checked": 33,
       "errors": 0
     }
