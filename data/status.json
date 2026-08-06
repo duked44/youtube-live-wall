@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T23:14:49.905Z",
+  "generatedAt": "2026-08-06T00:13:17.035Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,10 +14,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "bBWFIfXc5F8",
-      "title": "LIVE NEWS: JD Vance Anti-Fraud Roundtable, Trump Visits Las Vegas, U.S. And Iran Nearing Deal",
-      "thumbnail": "https://i.ytimg.com/vi/bBWFIfXc5F8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "EATaSm7QXvM",
-      "title": "LIVE: NBC News NOW - Aug. 5",
-      "thumbnail": "https://i.ytimg.com/vi/EATaSm7QXvM/hqdefault.jpg"
+      "videoId": "FdQFPmvWYeo",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 05",
+      "thumbnail": "https://i.ytimg.com/vi/FdQFPmvWYeo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -207,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "7oOPTUA9Saw",
-      "title": "PBS News Hour live episode, August 5, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/7oOPTUA9Saw/hqdefault.jpg"
+      "videoId": "OWb_yhE8ST0",
+      "title": "WATCH LIVE: Sen. Paul holds contempt vote after Fauci invokes 5th Amendment",
+      "thumbnail": "https://i.ytimg.com/vi/OWb_yhE8ST0/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-05T23:14:49.905Z",
+      "at": "2026-08-06T00:13:17.035Z",
       "checked": 33,
       "errors": 0
     }
