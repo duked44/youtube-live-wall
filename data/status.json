@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T10:12:03.543Z",
+  "generatedAt": "2026-08-07T11:09:11.385Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,27 +102,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "lBdgEDZWCXg",
+      "title": "LIVE: ABC News Live - Friday, August 7 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/lBdgEDZWCXg/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "8qaO9-v6bnM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/8qaO9-v6bnM/hqdefault.jpg"
+      "videoId": "z7pEVoINTJY",
+      "title": "LIVE: NBC News NOW - Aug. 7",
+      "thumbnail": "https://i.ytimg.com/vi/z7pEVoINTJY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "29xjEk7r3bQ",
+      "videoId": "HynEND8LQcU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/29xjEk7r3bQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/HynEND8LQcU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "1pTR2hBvdmM",
-      "title": "Bangkok school shooting scene | At least seven dead, including gunman",
-      "thumbnail": "https://i.ytimg.com/vi/1pTR2hBvdmM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 9,
-      "channelChecks": 297,
+      "runs": 10,
+      "channelChecks": 330,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T10:12:03.543Z",
+      "at": "2026-08-07T11:09:11.385Z",
       "checked": 33,
       "errors": 0
     }
