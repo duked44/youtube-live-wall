@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:17:35.734Z",
+  "generatedAt": "2026-08-07T22:59:30.148Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -209,10 +209,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "qdLAGzcajgw",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/qdLAGzcajgw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -244,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 20,
-      "channelChecks": 660,
+      "runs": 21,
+      "channelChecks": 693,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T22:17:35.734Z",
+      "at": "2026-08-07T22:59:30.148Z",
       "checked": 33,
       "errors": 0
     }
