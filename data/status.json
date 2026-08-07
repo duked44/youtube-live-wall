@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T19:17:32.423Z",
+  "generatedAt": "2026-08-07T20:03:43.040Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,10 +23,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "wpH53C3w1Dc",
-      "title": "WATCH LIVE: Trump participates in an American Mining Industry Roundtable",
-      "thumbnail": "https://i.ytimg.com/vi/wpH53C3w1Dc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -87,9 +84,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "XX72g4snLCs",
-      "title": "LIVE: Trump hosts a mining industry roundtable at the State Department",
-      "thumbnail": "https://i.ytimg.com/vi/XX72g4snLCs/hqdefault.jpg"
+      "videoId": "ggHh06HUQ-s",
+      "title": "LIVE: Lindsay Clancy trial Day 9",
+      "thumbnail": "https://i.ytimg.com/vi/ggHh06HUQ-s/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -201,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "8AdUBw8w8X8",
-      "title": "WATCH LIVE: Trump speaks at a roundtable on U.S. mining",
-      "thumbnail": "https://i.ytimg.com/vi/8AdUBw8w8X8/hqdefault.jpg"
+      "videoId": "2itTs63x9eY",
+      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
+      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -250,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 16,
-      "channelChecks": 528,
+      "runs": 17,
+      "channelChecks": 561,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T19:17:32.423Z",
+      "at": "2026-08-07T20:03:43.040Z",
       "checked": 33,
       "errors": 0
     }
