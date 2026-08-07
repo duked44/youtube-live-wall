@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T15:28:08.731Z",
+  "generatedAt": "2026-08-07T16:26:44.243Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,9 +24,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "x6doKmTDZFk",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/x6doKmTDZFk/hqdefault.jpg"
+      "videoId": "LnRM8JXvRGY",
+      "title": "WATCH LIVE: Senate passes Graham Russia sanctions bill",
+      "thumbnail": "https://i.ytimg.com/vi/LnRM8JXvRGY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "jSMr0z0OBi4",
-      "title": "LIVE: The Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/jSMr0z0OBi4/hqdefault.jpg"
+      "videoId": "AEUKDjPtO1A",
+      "title": "LIVE: Protest in Colombia as Espriella is sworn in",
+      "thumbnail": "https://i.ytimg.com/vi/AEUKDjPtO1A/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -250,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 12,
-      "channelChecks": 396,
+      "runs": 13,
+      "channelChecks": 429,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T15:28:08.731Z",
+      "at": "2026-08-07T16:26:44.243Z",
       "checked": 33,
       "errors": 0
     }
