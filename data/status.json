@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T20:54:39.383Z",
+  "generatedAt": "2026-08-07T21:37:08.763Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -117,9 +117,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "u_ZxXV6bojk",
-      "title": "Watch Live: Senate holds votes on bills; Cassidy says he'll support Blanche for attorney general",
-      "thumbnail": "https://i.ytimg.com/vi/u_ZxXV6bojk/hqdefault.jpg"
+      "videoId": "HynEND8LQcU",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/HynEND8LQcU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 18,
-      "channelChecks": 594,
+      "runs": 19,
+      "channelChecks": 627,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T20:54:39.383Z",
+      "at": "2026-08-07T21:37:08.763Z",
       "checked": 33,
       "errors": 0
     }
