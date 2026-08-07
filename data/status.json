@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T06:40:56.016Z",
+  "generatedAt": "2026-08-07T08:00:53.432Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -41,10 +41,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "a9FtWzlCqTw",
-      "title": "LIVE: Thai school shooting leaves six dead as suspect identified as 14-year-old student | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/a9FtWzlCqTw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nhNtWlExxKM",
-      "title": "Mornings | Friday 7 August 2026",
-      "thumbnail": "https://i.ytimg.com/vi/nhNtWlExxKM/hqdefault.jpg"
+      "videoId": "1pTR2hBvdmM",
+      "title": "Bangkok school shooting scene | At least seven dead, including gunman",
+      "thumbnail": "https://i.ytimg.com/vi/1pTR2hBvdmM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 8,
+      "channelChecks": 264,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T06:40:56.016Z",
+      "at": "2026-08-07T08:00:53.432Z",
       "checked": 33,
       "errors": 0
     }
