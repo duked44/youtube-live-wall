@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T17:25:06.998Z",
+  "generatedAt": "2026-08-07T18:12:09.458Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,9 +24,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "LnRM8JXvRGY",
-      "title": "WATCH LIVE: Senate passes Graham Russia sanctions bill",
-      "thumbnail": "https://i.ytimg.com/vi/LnRM8JXvRGY/hqdefault.jpg"
+      "videoId": "x6doKmTDZFk",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/x6doKmTDZFk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "AEUKDjPtO1A",
-      "title": "LIVE: Protest in Colombia as Espriella is sworn in",
-      "thumbnail": "https://i.ytimg.com/vi/AEUKDjPtO1A/hqdefault.jpg"
+      "videoId": "jSMr0z0OBi4",
+      "title": "LIVE: The Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/jSMr0z0OBi4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -124,7 +124,7 @@
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
       "videoId": "u_ZxXV6bojk",
-      "title": "Watch Live: Senate convenes ahead of votes; Cassidy says he'll support Blanche for attorney general",
+      "title": "Watch Live: Senate holds votes on bills; Cassidy says he'll support Blanche for attorney general",
       "thumbnail": "https://i.ytimg.com/vi/u_ZxXV6bojk/hqdefault.jpg"
     },
     {
@@ -202,7 +202,7 @@
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
       "videoId": "2itTs63x9eY",
-      "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
+      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
       "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
     },
     {
@@ -250,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 14,
-      "channelChecks": 462,
+      "runs": 15,
+      "channelChecks": 495,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T17:25:06.998Z",
+      "at": "2026-08-07T18:12:09.458Z",
       "checked": 33,
       "errors": 0
     }
