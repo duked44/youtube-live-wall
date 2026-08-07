@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:12:09.458Z",
+  "generatedAt": "2026-08-07T19:17:32.423Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,9 +24,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "x6doKmTDZFk",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/x6doKmTDZFk/hqdefault.jpg"
+      "videoId": "wpH53C3w1Dc",
+      "title": "WATCH LIVE: Trump participates in an American Mining Industry Roundtable",
+      "thumbnail": "https://i.ytimg.com/vi/wpH53C3w1Dc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "ggHh06HUQ-s",
-      "title": "LIVE: Lindsay Clancy trial Day 9",
-      "thumbnail": "https://i.ytimg.com/vi/ggHh06HUQ-s/hqdefault.jpg"
+      "videoId": "XX72g4snLCs",
+      "title": "LIVE: Trump hosts a mining industry roundtable at the State Department",
+      "thumbnail": "https://i.ytimg.com/vi/XX72g4snLCs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "jSMr0z0OBi4",
-      "title": "LIVE: The Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/jSMr0z0OBi4/hqdefault.jpg"
+      "videoId": "i1MC-o_47P8",
+      "title": "LIVE: Right-wing De La Espriella sworn in as Colombia's new president",
+      "thumbnail": "https://i.ytimg.com/vi/i1MC-o_47P8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "z7pEVoINTJY",
-      "title": "LIVE: NBC News NOW - Aug. 7",
-      "thumbnail": "https://i.ytimg.com/vi/z7pEVoINTJY/hqdefault.jpg"
+      "videoId": "iHusTxMkVgU",
+      "title": "LIVE: Trump holds roundtable on American mining | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/iHusTxMkVgU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "2itTs63x9eY",
-      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
-      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
+      "videoId": "8AdUBw8w8X8",
+      "title": "WATCH LIVE: Trump speaks at a roundtable on U.S. mining",
+      "thumbnail": "https://i.ytimg.com/vi/8AdUBw8w8X8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -250,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 15,
-      "channelChecks": 495,
+      "runs": 16,
+      "channelChecks": 528,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T18:12:09.458Z",
+      "at": "2026-08-07T19:17:32.423Z",
       "checked": 33,
       "errors": 0
     }
