@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-06T13:16:21.366Z",
+  "generatedAt": "2026-08-07T00:33:38.271Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "Oj05DEHDaHE",
+      "title": "Iran War - LIVE Updates & Breaking News Coverage (Attacks on Saudi Arabia Possible?)",
+      "thumbnail": "https://i.ytimg.com/vi/Oj05DEHDaHE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -13,26 +16,20 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "Mk1Da8QPa64",
-      "title": "LIVE: Senate Homeland Committee Debates On Dr. Anthony Fauci Contempt Of Congress Resolution",
+      "title": "LIVE: Fauci Contempt Resolution Advances In Senate, Deal To Reopen Strait Of Hormuz Nears",
       "thumbnail": "https://i.ytimg.com/vi/Mk1Da8QPa64/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "jj1u9I2XRUA",
-      "title": "Senate Committee Votes to Hold Dr. Anthony Fauci in Contempt",
-      "thumbnail": "https://i.ytimg.com/vi/jj1u9I2XRUA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "WWSy0SMiULA",
-      "title": "WATCH LIVE: Fauci faces CONTEMPT vote as lawmakers turn up the heat",
-      "thumbnail": "https://i.ytimg.com/vi/WWSy0SMiULA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -50,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "hj8zzIjgdx0",
-      "title": "LIVE: Nasa astronauts conduct spacewalk from International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/hj8zzIjgdx0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -95,19 +89,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "z6WYnDsQtUU",
-      "title": "LIVE: Senate panel votes on holding Fauci in contempt for refusing to answer questions",
-      "thumbnail": "https://i.ytimg.com/vi/z6WYnDsQtUU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "pCOdw3TooSk",
-      "title": "LIVE: Senate votes on holding Dr. Fauci in contempt",
-      "thumbnail": "https://i.ytimg.com/vi/pCOdw3TooSk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -123,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "UXbfHflnyyA",
-      "title": "LIVE: NBC News NOW - Aug. 6",
-      "thumbnail": "https://i.ytimg.com/vi/UXbfHflnyyA/hqdefault.jpg"
+      "videoId": "jIfcEkhifgw",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 06",
+      "thumbnail": "https://i.ytimg.com/vi/jIfcEkhifgw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "XmbHnkIKYVk",
-      "title": "Watch Live: Senate committee holds Fauci contempt of Congress vote after  COVID hearing | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/XmbHnkIKYVk/hqdefault.jpg"
+      "videoId": "29xjEk7r3bQ",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/29xjEk7r3bQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "di_Nt8TtpBI",
-      "title": "Senators to vote on holding Anthony Fauci in contempt of Congress",
-      "thumbnail": "https://i.ytimg.com/vi/di_Nt8TtpBI/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "tiWacr2g8iM",
-      "title": "WATCH LIVE: NASA astronauts conduct spacewalk to install hardware for ISS solar array upgrade",
-      "thumbnail": "https://i.ytimg.com/vi/tiWacr2g8iM/hqdefault.jpg"
+      "videoId": "CtKgUMMXG28",
+      "title": "WATCH LIVE: Senate meets to consider legislation as August recess looms",
+      "thumbnail": "https://i.ytimg.com/vi/CtKgUMMXG28/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -225,9 +213,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "d6KRSvCjL4E",
+      "videoId": "qdLAGzcajgw",
       "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/d6KRSvCjL4E/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/qdLAGzcajgw/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -245,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "AdNl0maD0YU",
-      "title": "Toronto Police provide update on US Consulate Shooting | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/AdNl0maD0YU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -262,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 13,
-      "channelChecks": 429,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-06T13:16:21.366Z",
+      "at": "2026-08-07T00:33:38.271Z",
       "checked": 33,
       "errors": 0
     }
