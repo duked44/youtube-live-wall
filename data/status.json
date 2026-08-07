@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T11:57:07.310Z",
+  "generatedAt": "2026-08-07T13:15:08.395Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "fl00Xg6hq6g",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz amid reopening plans",
-      "thumbnail": "https://i.ytimg.com/vi/fl00Xg6hq6g/hqdefault.jpg"
+      "videoId": "Tn6SdgKE1oQ",
+      "title": "LIVE: Typhoon Dolphin moves towards Japan",
+      "thumbnail": "https://i.ytimg.com/vi/Tn6SdgKE1oQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 10,
-      "channelChecks": 330,
+      "runs": 11,
+      "channelChecks": 363,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T11:57:07.310Z",
+      "at": "2026-08-07T13:15:08.395Z",
       "checked": 33,
       "errors": 0
     }
