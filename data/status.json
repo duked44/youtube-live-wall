@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T13:15:08.395Z",
+  "generatedAt": "2026-08-07T14:27:52.453Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "x6doKmTDZFk",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/x6doKmTDZFk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Tn6SdgKE1oQ",
-      "title": "LIVE: Typhoon Dolphin moves towards Japan",
-      "thumbnail": "https://i.ytimg.com/vi/Tn6SdgKE1oQ/hqdefault.jpg"
+      "videoId": "jSMr0z0OBi4",
+      "title": "LIVE: The Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/jSMr0z0OBi4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "HynEND8LQcU",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/HynEND8LQcU/hqdefault.jpg"
+      "videoId": "u_ZxXV6bojk",
+      "title": "Watch Live: Senate convenes ahead of votes amid uncertainty over Todd Blanche's AG confirmation",
+      "thumbnail": "https://i.ytimg.com/vi/u_ZxXV6bojk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -137,7 +140,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "dSH8v5uB4pA",
+      "title": "LIVE: GOP Sen Cassidy reveals the DECIDING VOTE on Trump’s AG pick",
+      "thumbnail": "https://i.ytimg.com/vi/dSH8v5uB4pA/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -197,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "2itTs63x9eY",
+      "title": "WATCH LIVE: Senate expected to vote on Russia sanctions and more",
+      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -230,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "3f8e0VjsgEo",
+      "title": "Toronto Police to provide update on shooting at Salsa on St. Clair | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/3f8e0VjsgEo/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -249,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T13:15:08.395Z",
+      "at": "2026-08-07T14:27:52.453Z",
       "checked": 33,
       "errors": 0
     }
