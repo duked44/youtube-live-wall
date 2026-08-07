@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:59:30.148Z",
+  "generatedAt": "2026-08-07T23:41:34.788Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -195,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ZBMM1IfmKdk",
-      "title": "PBS News Hour live episode, August 7, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/ZBMM1IfmKdk/hqdefault.jpg"
+      "videoId": "2itTs63x9eY",
+      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
+      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 21,
-      "channelChecks": 693,
+      "runs": 22,
+      "channelChecks": 726,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T22:59:30.148Z",
+      "at": "2026-08-07T23:41:34.788Z",
       "checked": 33,
       "errors": 0
     }
