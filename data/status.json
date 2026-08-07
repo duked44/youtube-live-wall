@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:13:22.217Z",
+  "generatedAt": "2026-08-07T10:12:03.543Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,7 +83,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "ggHh06HUQ-s",
+      "title": "LIVE: Lindsay Clancy trial Day 9",
+      "thumbnail": "https://i.ytimg.com/vi/ggHh06HUQ-s/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T09:13:22.217Z",
+      "at": "2026-08-07T10:12:03.543Z",
       "checked": 33,
       "errors": 0
     }
