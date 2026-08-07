@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T21:37:08.763Z",
+  "generatedAt": "2026-08-07T22:17:35.734Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "iHusTxMkVgU",
-      "title": "LIVE: Trump holds roundtable on American mining | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/iHusTxMkVgU/hqdefault.jpg"
+      "videoId": "HmImKU2D1vM",
+      "title": "LIVE: NBC News NOW - Aug. 7",
+      "thumbnail": "https://i.ytimg.com/vi/HmImKU2D1vM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -195,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "2itTs63x9eY",
-      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
-      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
+      "videoId": "ZBMM1IfmKdk",
+      "title": "PBS News Hour live episode, August 7, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/ZBMM1IfmKdk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 19,
-      "channelChecks": 627,
+      "runs": 20,
+      "channelChecks": 660,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T21:37:08.763Z",
+      "at": "2026-08-07T22:17:35.734Z",
       "checked": 33,
       "errors": 0
     }
