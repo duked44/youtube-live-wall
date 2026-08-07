@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T05:21:23.133Z",
+  "generatedAt": "2026-08-07T06:40:56.016Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -41,7 +41,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "a9FtWzlCqTw",
+      "title": "LIVE: Thai school shooting leaves six dead as suspect identified as 14-year-old student | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/a9FtWzlCqTw/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -90,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "YI4GfwhIYC4",
-      "title": "LIVE: Typhoon Dolphin moves towards Japan",
-      "thumbnail": "https://i.ytimg.com/vi/YI4GfwhIYC4/hqdefault.jpg"
+      "videoId": "UIwqiHhiFvI",
+      "title": "LIVE: Scene of a school shooting in Thailand",
+      "thumbnail": "https://i.ytimg.com/vi/UIwqiHhiFvI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T05:21:23.133Z",
+      "at": "2026-08-07T06:40:56.016Z",
       "checked": 33,
       "errors": 0
     }
