@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T08:00:53.432Z",
+  "generatedAt": "2026-08-07T09:13:22.217Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "UIwqiHhiFvI",
-      "title": "LIVE: Scene of a school shooting in Thailand",
-      "thumbnail": "https://i.ytimg.com/vi/UIwqiHhiFvI/hqdefault.jpg"
+      "videoId": "fl00Xg6hq6g",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz amid reopening plans",
+      "thumbnail": "https://i.ytimg.com/vi/fl00Xg6hq6g/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 8,
-      "channelChecks": 264,
+      "runs": 9,
+      "channelChecks": 297,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T08:00:53.432Z",
+      "at": "2026-08-07T09:13:22.217Z",
       "checked": 33,
       "errors": 0
     }
