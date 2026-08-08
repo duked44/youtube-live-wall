@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T14:28:18.193Z",
+  "generatedAt": "2026-08-08T15:00:34.990Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "irOsPJvqBCI",
+      "title": "LIVE: ABC News Live - Saturday, August 8 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/irOsPJvqBCI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -238,12 +238,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 28,
-      "channelChecks": 924,
+      "runs": 29,
+      "channelChecks": 957,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T14:28:18.193Z",
+      "at": "2026-08-08T15:00:34.990Z",
       "checked": 33,
       "errors": 0
     }
