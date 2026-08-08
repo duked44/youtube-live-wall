@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T08:09:00.923Z",
+  "generatedAt": "2026-08-08T08:59:29.551Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "rPHS5c6laeA",
-      "title": "Mornings | Saturday 8 August 2026",
-      "thumbnail": "https://i.ytimg.com/vi/rPHS5c6laeA/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -238,12 +238,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 25,
-      "channelChecks": 825,
+      "runs": 26,
+      "channelChecks": 858,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T08:09:00.923Z",
+      "at": "2026-08-08T08:59:29.551Z",
       "checked": 33,
       "errors": 0
     }
