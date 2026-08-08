@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T10:55:59.794Z",
+  "generatedAt": "2026-08-08T11:30:52.116Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -174,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "RifXo9uvkmM",
+      "title": "Inflation Watch, Berkshire Hathaway Reports, Blanche Confirmed | Bloomberg This Weekend: Aug 8, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/RifXo9uvkmM/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T10:55:59.794Z",
+      "at": "2026-08-08T11:30:52.116Z",
       "checked": 33,
       "errors": 0
     }
