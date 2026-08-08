@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T15:00:34.990Z",
+  "generatedAt": "2026-08-08T15:38:32.274Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -191,10 +191,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "2itTs63x9eY",
-      "title": "WATCH LIVE: Senate passes Russia sanctions bill spearheaded by the late Sen. Graham",
-      "thumbnail": "https://i.ytimg.com/vi/2itTs63x9eY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -243,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T15:00:34.990Z",
+      "at": "2026-08-08T15:38:32.274Z",
       "checked": 33,
       "errors": 0
     }
