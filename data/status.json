@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T23:41:34.788Z",
+  "generatedAt": "2026-08-08T00:31:45.114Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "pIfkjrEr0ek",
+      "title": "WATCH: Senate votes to confirm Todd Blanche as attorney general",
+      "thumbnail": "https://i.ytimg.com/vi/pIfkjrEr0ek/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -108,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "HmImKU2D1vM",
-      "title": "LIVE: NBC News NOW - Aug. 7",
-      "thumbnail": "https://i.ytimg.com/vi/HmImKU2D1vM/hqdefault.jpg"
+      "videoId": "QNaU1C1jp0s",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 07",
+      "thumbnail": "https://i.ytimg.com/vi/QNaU1C1jp0s/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -241,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 22,
-      "channelChecks": 726,
+      "runs": 23,
+      "channelChecks": 759,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-07T23:41:34.788Z",
+      "at": "2026-08-08T00:31:45.114Z",
       "checked": 33,
       "errors": 0
     }
