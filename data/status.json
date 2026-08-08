@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T22:13:56.544Z",
+  "generatedAt": "2026-08-08T22:50:23.761Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -139,7 +139,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "G5VvVHacgyw",
-      "title": "The Wrap with Gillian Joseph | Saturday 8 August 2026",
+      "title": "The Wrap with Matt Barbet | Saturday 8 August 2026",
       "thumbnail": "https://i.ytimg.com/vi/G5VvVHacgyw/hqdefault.jpg"
     },
     {
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T22:13:56.544Z",
+      "at": "2026-08-08T22:50:23.761Z",
       "checked": 33,
       "errors": 0
     }
