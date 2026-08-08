@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T00:31:45.114Z",
+  "generatedAt": "2026-08-08T02:31:35.029Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "i1MC-o_47P8",
-      "title": "LIVE: Right-wing De La Espriella sworn in as Colombia's new president",
-      "thumbnail": "https://i.ytimg.com/vi/i1MC-o_47P8/hqdefault.jpg"
+      "videoId": "xR_xfMeYW3M",
+      "title": "LIVE: Trump attends mining roundtable",
+      "thumbnail": "https://i.ytimg.com/vi/xR_xfMeYW3M/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -111,18 +111,15 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "QNaU1C1jp0s",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 07",
-      "thumbnail": "https://i.ytimg.com/vi/QNaU1C1jp0s/hqdefault.jpg"
+      "videoId": "HmImKU2D1vM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/HmImKU2D1vM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "HynEND8LQcU",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/HynEND8LQcU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-08T00:31:45.114Z",
+      "at": "2026-08-08T02:31:35.029Z",
       "checked": 33,
       "errors": 0
     }
