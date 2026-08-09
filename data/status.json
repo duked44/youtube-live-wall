@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:18:42.380Z",
+  "generatedAt": "2026-08-09T10:57:45.724Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -174,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "6hYKezMaXSs",
+      "title": "Hormuz Deal Close, OpenAI Break Out, Puerto Rico Water Crisis | Bloomberg This Weekend: Aug 9, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/6hYKezMaXSs/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T10:18:42.380Z",
+      "at": "2026-08-09T10:57:45.724Z",
       "checked": 33,
       "errors": 0
     }
