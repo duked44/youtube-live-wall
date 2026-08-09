@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:15:17.551Z",
+  "generatedAt": "2026-08-09T20:56:00.619Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "_IVIMFww-B8",
+      "title": "WATCH LIVE: President Donald Trump Departs New Jersey To Return To Washington, D.C.",
+      "thumbnail": "https://i.ytimg.com/vi/_IVIMFww-B8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T20:15:17.551Z",
+      "at": "2026-08-09T20:56:00.619Z",
       "checked": 33,
       "errors": 0
     }
