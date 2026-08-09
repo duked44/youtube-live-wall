@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T12:01:39.645Z",
+  "generatedAt": "2026-08-09T13:10:52.238Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -228,9 +228,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "aZ6swUaNK3A",
-      "title": "[LIVE] NDP 2026: Singapore celebrates 61st National Day Parade at the National Stadium",
-      "thumbnail": "https://i.ytimg.com/vi/aZ6swUaNK3A/hqdefault.jpg"
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T12:01:39.645Z",
+      "at": "2026-08-09T13:10:52.238Z",
       "checked": 33,
       "errors": 0
     }
