@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T10:57:45.724Z",
+  "generatedAt": "2026-08-09T11:36:40.878Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -229,7 +229,7 @@
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
       "videoId": "aZ6swUaNK3A",
-      "title": "[LIVE] NDP 2026: Singapore celebrates National Day at the National Stadium",
+      "title": "[LIVE] NDP 2026: Singapore celebrates 61st National Day Parade at the National Stadium",
       "thumbnail": "https://i.ytimg.com/vi/aZ6swUaNK3A/hqdefault.jpg"
     }
   ],
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T10:57:45.724Z",
+      "at": "2026-08-09T11:36:40.878Z",
       "checked": 33,
       "errors": 0
     }
