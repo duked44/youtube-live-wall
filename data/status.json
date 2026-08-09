@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T14:44:06.755Z",
+  "generatedAt": "2026-08-09T15:15:27.628Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "uMXy5P7EBC0",
+      "title": "Sky News tracking jet carrying alleged gang boss back to Dublin",
+      "thumbnail": "https://i.ytimg.com/vi/uMXy5P7EBC0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T14:44:06.755Z",
+      "at": "2026-08-09T15:15:27.628Z",
       "checked": 33,
       "errors": 0
     }
