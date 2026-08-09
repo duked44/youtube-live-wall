@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T09:47:50.938Z",
+  "generatedAt": "2026-08-09T10:18:42.380Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -228,19 +228,19 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "XWq5kBlakcQ",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
+      "videoId": "aZ6swUaNK3A",
+      "title": "[LIVE] NDP 2026: Singapore celebrates National Day at the National Stadium",
+      "thumbnail": "https://i.ytimg.com/vi/aZ6swUaNK3A/hqdefault.jpg"
     }
   ],
   "health": {
     "last24h": {
-      "runs": 34,
-      "channelChecks": 1122,
+      "runs": 33,
+      "channelChecks": 1089,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T09:47:50.938Z",
+      "at": "2026-08-09T10:18:42.380Z",
       "checked": 33,
       "errors": 0
     }
