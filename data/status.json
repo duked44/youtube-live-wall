@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-09T20:56:00.619Z",
+  "generatedAt": "2026-08-09T21:34:37.127Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "_IVIMFww-B8",
-      "title": "WATCH LIVE: President Donald Trump Departs New Jersey To Return To Washington, D.C.",
-      "thumbnail": "https://i.ytimg.com/vi/_IVIMFww-B8/hqdefault.jpg"
+      "videoId": "fzN3CYY4L_s",
+      "title": "WATCH LIVE: President Donald Trump Arrives In Washington, D.C. From New Jersey",
+      "thumbnail": "https://i.ytimg.com/vi/fzN3CYY4L_s/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "34jJsvfzqLI",
+      "title": "The Wrap with Gillian Joseph | Sunday 9 August 2026",
+      "thumbnail": "https://i.ytimg.com/vi/34jJsvfzqLI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-09T20:56:00.619Z",
+      "at": "2026-08-09T21:34:37.127Z",
       "checked": 33,
       "errors": 0
     }
