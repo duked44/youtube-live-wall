@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T18:03:16.011Z",
+  "generatedAt": "2026-08-10T19:11:18.875Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "N96kdr-kEyw",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/N96kdr-kEyw/hqdefault.jpg"
+      "videoId": "5q5cpajj8Sw",
+      "title": "LIVE: President Trump Holds Public Event After Netanyahu Rejects U.S.-Backed Gaza Peace Plan",
+      "thumbnail": "https://i.ytimg.com/vi/5q5cpajj8Sw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "koOwjyFZ6Ko",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial enters its third week",
-      "thumbnail": "https://i.ytimg.com/vi/koOwjyFZ6Ko/hqdefault.jpg"
+      "videoId": "CHzR56G_-S4",
+      "title": "WATCH LIVE: Trump signs executive order on childhood vaccines",
+      "thumbnail": "https://i.ytimg.com/vi/CHzR56G_-S4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "f8cM-Np-qyg",
-      "title": "LIVE: Lindsay Clancy trial Day 10",
-      "thumbnail": "https://i.ytimg.com/vi/f8cM-Np-qyg/hqdefault.jpg"
+      "videoId": "2ztXcKmYR0M",
+      "title": "LIVE: Trump signs executive order calling for spacing out childhood vaccines",
+      "thumbnail": "https://i.ytimg.com/vi/2ztXcKmYR0M/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "wDlZMz4Apco",
-      "title": "LIVE: The Lindsay Clancy murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/wDlZMz4Apco/hqdefault.jpg"
+      "videoId": "rWHkv35hLWQ",
+      "title": "LIVE: Trump signs an executive order",
+      "thumbnail": "https://i.ytimg.com/vi/rWHkv35hLWQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "-u-tx6r0fq8",
-      "title": "LIVE: ABC News Live - Monday, August 10 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/-u-tx6r0fq8/hqdefault.jpg"
+      "videoId": "nKQrw-oBYVw",
+      "title": "President Trump signs executive order in the Oval Office: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/nKQrw-oBYVw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "XcFzZKa_kQk",
-      "title": "LIVE: NBC News NOW - Aug. 10",
-      "thumbnail": "https://i.ytimg.com/vi/XcFzZKa_kQk/hqdefault.jpg"
+      "videoId": "lsLFmY24yUo",
+      "title": "LIVE: Trump signs executive order on vaccines | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/lsLFmY24yUo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "wQ-vBr1c97o",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with her psychiatrist's testimony | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/wQ-vBr1c97o/hqdefault.jpg"
+      "videoId": "lv8mG1AwSa4",
+      "title": "Watch Live: Trump to sign executive order on childhood vaccinations",
+      "thumbnail": "https://i.ytimg.com/vi/lv8mG1AwSa4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "n0WPypJl8so",
+      "title": "Trump makes announcement in the Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/n0WPypJl8so/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,16 +206,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "hXkHk-GPvuI",
+      "title": "WATCH LIVE: Trump expected to sign executive order on childhood vaccines",
+      "thumbnail": "https://i.ytimg.com/vi/hXkHk-GPvuI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "ahZFgx4DW_4",
-      "title": "Is the GOP resorting to Islamophobia? Debate with Antjuan Seawright and Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/ahZFgx4DW_4/hqdefault.jpg"
+      "videoId": "224IGt005E4",
+      "title": "Trump, RFK Jr. and vaccine executive order",
+      "thumbnail": "https://i.ytimg.com/vi/224IGt005E4/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 24,
-      "channelChecks": 792,
+      "runs": 23,
+      "channelChecks": 759,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T18:03:16.011Z",
+      "at": "2026-08-10T19:11:18.875Z",
       "checked": 33,
       "errors": 0
     }
