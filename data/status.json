@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T20:57:17.033Z",
+  "generatedAt": "2026-08-10T21:48:45.851Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,7 +92,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "gk1wvmkAiZw",
+      "title": "LIVE: Damage in Cali, Colombia, after earthquake hits",
+      "thumbnail": "https://i.ytimg.com/vi/gk1wvmkAiZw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -194,7 +197,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "lHa8h3jRbXo",
+      "title": "PBS News Hour live episode, August 10, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/lHa8h3jRbXo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -246,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T20:57:17.033Z",
+      "at": "2026-08-10T21:48:45.851Z",
       "checked": 33,
       "errors": 0
     }
