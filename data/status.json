@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T12:31:45.176Z",
+  "generatedAt": "2026-08-10T14:02:54.171Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -25,7 +25,7 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "koOwjyFZ6Ko",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial enters its third week",
       "thumbnail": "https://i.ytimg.com/vi/koOwjyFZ6Ko/hqdefault.jpg"
     },
     {
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "NzeN2h90ZGM",
-      "title": "LIVE: Strait of Hormuz vessel traffic as Iran says Oman deal in 'final stages'",
-      "thumbnail": "https://i.ytimg.com/vi/NzeN2h90ZGM/hqdefault.jpg"
+      "videoId": "0Uxo3vYGgWo",
+      "title": "LIVE: Tupac Shakur’s murder trial begins",
+      "thumbnail": "https://i.ytimg.com/vi/0Uxo3vYGgWo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "iR3Iq5LxcPg",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/iR3Iq5LxcPg/hqdefault.jpg"
+      "videoId": "wQ-vBr1c97o",
+      "title": "Watch Live: Lindsay Clancy murder trial continues with her psychiatrist's testimony | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/wQ-vBr1c97o/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -212,7 +212,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "hsIzzlxDYig",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/hsIzzlxDYig/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -244,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 27,
-      "channelChecks": 891,
+      "runs": 26,
+      "channelChecks": 858,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T12:31:45.176Z",
+      "at": "2026-08-10T14:02:54.171Z",
       "checked": 33,
       "errors": 0
     }
