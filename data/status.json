@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T08:00:55.819Z",
+  "generatedAt": "2026-08-10T09:43:25.924Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,16 +83,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "f8cM-Np-qyg",
+      "title": "LIVE: Lindsay Clancy trial Day 10",
+      "thumbnail": "https://i.ytimg.com/vi/f8cM-Np-qyg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "xR_xfMeYW3M",
-      "title": "LIVE: Trump attends mining roundtable",
-      "thumbnail": "https://i.ytimg.com/vi/xR_xfMeYW3M/hqdefault.jpg"
+      "videoId": "NzeN2h90ZGM",
+      "title": "LIVE: Strait of Hormuz vessel traffic as Iran says Oman deal in 'final stages'",
+      "thumbnail": "https://i.ytimg.com/vi/NzeN2h90ZGM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -138,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "NHv5fwIygWM",
-      "title": "Alleged boss of Irish crime gang charged | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/NHv5fwIygWM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +212,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "5bzrZhTXjuM",
+      "title": "Reform UK holds press conference with Nigel Farage and Zia Yusuf – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/5bzrZhTXjuM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -235,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 30,
-      "channelChecks": 990,
+      "runs": 29,
+      "channelChecks": 957,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T08:00:55.819Z",
+      "at": "2026-08-10T09:43:25.924Z",
       "checked": 33,
       "errors": 0
     }
