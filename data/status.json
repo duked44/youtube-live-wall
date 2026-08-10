@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T14:02:54.171Z",
+  "generatedAt": "2026-08-10T15:11:32.050Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "N96kdr-kEyw",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/N96kdr-kEyw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -24,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "koOwjyFZ6Ko",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial enters its third week",
-      "thumbnail": "https://i.ytimg.com/vi/koOwjyFZ6Ko/hqdefault.jpg"
+      "videoId": "ORi9ZG0Q18k",
+      "title": "WATCH LIVE: RFK Jr touts MAJOR policy actions to advance MAHA agenda",
+      "thumbnail": "https://i.ytimg.com/vi/ORi9ZG0Q18k/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "0Uxo3vYGgWo",
-      "title": "LIVE: Tupac Shakur’s murder trial begins",
-      "thumbnail": "https://i.ytimg.com/vi/0Uxo3vYGgWo/hqdefault.jpg"
+      "videoId": "wDlZMz4Apco",
+      "title": "LIVE: The Lindsay Clancy murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/wDlZMz4Apco/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "aFEuiVDZ9gQ",
+      "title": "Live outside court as Tupac murder trial begins",
+      "thumbnail": "https://i.ytimg.com/vi/aFEuiVDZ9gQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "RiXBI4Gg56I",
+      "title": "WATCH LIVE: RFK Jr. announces new HHS policy on chemical additives in food",
+      "thumbnail": "https://i.ytimg.com/vi/RiXBI4Gg56I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T14:02:54.171Z",
+      "at": "2026-08-10T15:11:32.050Z",
       "checked": 33,
       "errors": 0
     }
