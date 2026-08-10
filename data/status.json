@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T15:11:32.050Z",
+  "generatedAt": "2026-08-10T16:10:01.465Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,7 +20,10 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "wYgFp_bnsYM",
+      "title": "Campaign 2026: Primary Night in SC, WI, MN, AL, CT & VT",
+      "thumbnail": "https://i.ytimg.com/vi/wYgFp_bnsYM/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -90,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "f8cM-Np-qyg",
-      "title": "LIVE: Lindsay Clancy trial Day 10",
-      "thumbnail": "https://i.ytimg.com/vi/f8cM-Np-qyg/hqdefault.jpg"
+      "videoId": "wEZOcwb3nQk",
+      "title": "LIVE: Outside court as Tupac Shakur murder trial begins",
+      "thumbnail": "https://i.ytimg.com/vi/wEZOcwb3nQk/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -151,7 +154,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "aFEuiVDZ9gQ",
-      "title": "Live outside court as Tupac murder trial begins",
+      "title": "Live outside court ahead of Tupac murder trial",
       "thumbnail": "https://i.ytimg.com/vi/aFEuiVDZ9gQ/hqdefault.jpg"
     },
     {
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "RiXBI4Gg56I",
-      "title": "WATCH LIVE: RFK Jr. announces new HHS policy on chemical additives in food",
-      "thumbnail": "https://i.ytimg.com/vi/RiXBI4Gg56I/hqdefault.jpg"
+      "videoId": "G-r1_vOx7v8",
+      "title": "WATCH LIVE: Hegseth speaks at Joint Base Lindsey Graham renaming ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/G-r1_vOx7v8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -253,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 26,
-      "channelChecks": 858,
+      "runs": 25,
+      "channelChecks": 825,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T15:11:32.050Z",
+      "at": "2026-08-10T16:10:01.465Z",
       "checked": 33,
       "errors": 0
     }
