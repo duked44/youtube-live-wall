@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T06:04:43.096Z",
+  "generatedAt": "2026-08-10T08:00:55.819Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ihHVOFqL_ew",
-      "title": "LIVE: Typhoon Dolphin hits China",
-      "thumbnail": "https://i.ytimg.com/vi/ihHVOFqL_ew/hqdefault.jpg"
+      "videoId": "xR_xfMeYW3M",
+      "title": "LIVE: Trump attends mining roundtable",
+      "thumbnail": "https://i.ytimg.com/vi/xR_xfMeYW3M/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -235,12 +235,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 31,
-      "channelChecks": 1023,
+      "runs": 30,
+      "channelChecks": 990,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T06:04:43.096Z",
+      "at": "2026-08-10T08:00:55.819Z",
       "checked": 33,
       "errors": 0
     }
