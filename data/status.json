@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:48:45.851Z",
+  "generatedAt": "2026-08-10T22:22:47.994Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "XcFzZKa_kQk",
+      "videoId": "b28h2vtPU7Y",
       "title": "LIVE: NBC News NOW - Aug. 10",
-      "thumbnail": "https://i.ytimg.com/vi/XcFzZKa_kQk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/b28h2vtPU7Y/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-10T21:48:45.851Z",
+      "at": "2026-08-10T22:22:47.994Z",
       "checked": 33,
       "errors": 0
     }
