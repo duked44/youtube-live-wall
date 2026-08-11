@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T17:06:53.494Z",
+  "generatedAt": "2026-08-11T18:05:44.354Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "fZDYcBhgN78",
-      "title": "LIVE: Mamdani makes an announcement on affordable housing",
-      "thumbnail": "https://i.ytimg.com/vi/fZDYcBhgN78/hqdefault.jpg"
+      "videoId": "W_0EFNZffrI",
+      "title": "LIVE: Lindsay Clancy trial Day 11",
+      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "nfoL5QXeU_s",
-      "title": "LIVE: Lindsay Clancy's murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/nfoL5QXeU_s/hqdefault.jpg"
+      "videoId": "saFPj1wApds",
+      "title": "LIVE: Spain prepares for total eclipse of the sun",
+      "thumbnail": "https://i.ytimg.com/vi/saFPj1wApds/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "dautPTJlfIc",
-      "title": "Aston Villa look ahead to PSG in UEFA Super Cup final",
-      "thumbnail": "https://i.ytimg.com/vi/dautPTJlfIc/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "uEm6_ruWhWQ",
-      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
+      "videoId": "2oju24R-_Ls",
+      "title": "WATCH LIVE: Sen. Ed Markey speaks about return of former Marine Robert Gilman from Russian detention",
+      "thumbnail": "https://i.ytimg.com/vi/2oju24R-_Ls/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "U4jhr-KbFrM",
+      "title": "Emergency officials provide update on BC wildfire and drought conditions | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/U4jhr-KbFrM/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 24,
-      "channelChecks": 792,
+      "runs": 23,
+      "channelChecks": 759,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T17:06:53.494Z",
+      "at": "2026-08-11T18:05:44.354Z",
       "checked": 33,
       "errors": 0
     }
