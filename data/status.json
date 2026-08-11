@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T07:49:55.116Z",
+  "generatedAt": "2026-08-11T08:40:35.851Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "kCtuF3qt9b0",
-      "title": "Mornings | PM orders plans to stop release of PC Harper’s killers",
-      "thumbnail": "https://i.ytimg.com/vi/kCtuF3qt9b0/hqdefault.jpg"
+      "videoId": "W5_Q4KYbdW8",
+      "title": "Storm Chan-hom approaches Japan",
+      "thumbnail": "https://i.ytimg.com/vi/W5_Q4KYbdW8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T07:49:55.116Z",
+      "at": "2026-08-11T08:40:35.851Z",
       "checked": 33,
       "errors": 0
     }
