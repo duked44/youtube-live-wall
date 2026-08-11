@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T15:59:19.157Z",
+  "generatedAt": "2026-08-11T17:06:53.494Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "W_0EFNZffrI",
-      "title": "LIVE: Lindsay Clancy trial Day 11",
-      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
+      "videoId": "fZDYcBhgN78",
+      "title": "LIVE: Mamdani makes an announcement on affordable housing",
+      "thumbnail": "https://i.ytimg.com/vi/fZDYcBhgN78/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "0_6UFX14hYw",
-      "title": "LIVE: SpaceX launches latest batch of Starlink satellites",
-      "thumbnail": "https://i.ytimg.com/vi/0_6UFX14hYw/hqdefault.jpg"
+      "videoId": "nfoL5QXeU_s",
+      "title": "LIVE: Lindsay Clancy's murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/nfoL5QXeU_s/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "dautPTJlfIc",
+      "title": "Aston Villa look ahead to PSG in UEFA Super Cup final",
+      "thumbnail": "https://i.ytimg.com/vi/dautPTJlfIc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "sw_3_SQSWpU",
-      "title": "WATCH LIVE: Jeffries speaks about Trump's immigration detention policies in New Jersey",
-      "thumbnail": "https://i.ytimg.com/vi/sw_3_SQSWpU/hqdefault.jpg"
+      "videoId": "uEm6_ruWhWQ",
+      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T15:59:19.157Z",
+      "at": "2026-08-11T17:06:53.494Z",
       "checked": 33,
       "errors": 0
     }
