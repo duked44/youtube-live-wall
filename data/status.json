@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T09:42:59.129Z",
+  "generatedAt": "2026-08-11T10:36:26.701Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "sesOiib1FJM",
-      "title": "LIVE: Tropical Storm Chan-hom approaches Japan",
-      "thumbnail": "https://i.ytimg.com/vi/sesOiib1FJM/hqdefault.jpg"
+      "videoId": "W_0EFNZffrI",
+      "title": "LIVE: Lindsay Clancy trial Day 11",
+      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,18 +105,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "xpH9wtJuOHk",
+      "title": "LIVE: ABC News Live - Tuesday, August 11 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/xpH9wtJuOHk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "b28h2vtPU7Y",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/b28h2vtPU7Y/hqdefault.jpg"
+      "videoId": "JN4m-XAivpg",
+      "title": "LIVE: NBC News NOW - Aug. 11",
+      "thumbnail": "https://i.ytimg.com/vi/JN4m-XAivpg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "IYtUuR2AYao",
-      "title": "Watch Britain boil as fifth heatwave of summer begins",
-      "thumbnail": "https://i.ytimg.com/vi/IYtUuR2AYao/hqdefault.jpg"
+      "videoId": "DS3vfaqetU8",
+      "title": "Why Russia is plotting to change missile strategy this winter",
+      "thumbnail": "https://i.ytimg.com/vi/DS3vfaqetU8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,7 +212,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "CB15QPb0QUI",
+      "title": "LIVE: Watch Scripps News Live",
+      "thumbnail": "https://i.ytimg.com/vi/CB15QPb0QUI/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T09:42:59.129Z",
+      "at": "2026-08-11T10:36:26.701Z",
       "checked": 33,
       "errors": 0
     }
