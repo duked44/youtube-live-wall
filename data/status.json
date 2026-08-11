@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T10:36:26.701Z",
+  "generatedAt": "2026-08-11T11:28:04.271Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "W_0EFNZffrI",
-      "title": "LIVE: Lindsay Clancy trial Day 11",
-      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
+      "videoId": "5TPfYEdskDA",
+      "title": "LIVE: View from Pereira after earthquake in Colombia kills more than 100",
+      "thumbnail": "https://i.ytimg.com/vi/5TPfYEdskDA/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -123,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "QuHgQ1QLdtM",
+      "videoId": "i6W7beYPuRU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/QuHgQ1QLdtM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/i6W7beYPuRU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DS3vfaqetU8",
-      "title": "Why Russia is plotting to change missile strategy this winter",
-      "thumbnail": "https://i.ytimg.com/vi/DS3vfaqetU8/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T10:36:26.701Z",
+      "at": "2026-08-11T11:28:04.271Z",
       "checked": 33,
       "errors": 0
     }
