@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T22:55:00.637Z",
+  "generatedAt": "2026-08-11T23:39:51.813Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wbwMmsY_vmM",
-      "title": "LIVE: NBC News NOW - Aug. 11",
-      "thumbnail": "https://i.ytimg.com/vi/wbwMmsY_vmM/hqdefault.jpg"
+      "videoId": "FTpXHbN6wt4",
+      "title": "Kornacki Cam: Watch Steve analyze Wisconsin, South Carolina and Minnesota primary results",
+      "thumbnail": "https://i.ytimg.com/vi/FTpXHbN6wt4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "i6W7beYPuRU",
+      "videoId": "IGgIPJhcJhI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/i6W7beYPuRU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/IGgIPJhcJhI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Q7DRaTms5VU",
-      "title": "PC Harper's mother says she'll lose faith in Burnham if son's killers are released early | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/Q7DRaTms5VU/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,18 +198,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "aUo8FuC_YRA",
-      "title": "PBS News Hour live episode, August 11, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/aUo8FuC_YRA/hqdefault.jpg"
+      "videoId": "pKnlpJr9eow",
+      "title": "WATCH LIVE: Trump attends Patriot Games high school athlete competition",
+      "thumbnail": "https://i.ytimg.com/vi/pKnlpJr9eow/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "GVZrzOiPb8A",
-      "title": "The massive Colombia earthquake is just the beginning | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/GVZrzOiPb8A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T22:55:00.637Z",
+      "at": "2026-08-11T23:39:51.813Z",
       "checked": 33,
       "errors": 0
     }
