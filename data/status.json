@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T19:17:33.982Z",
+  "generatedAt": "2026-08-11T20:07:32.145Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "J_ecuk7XLDI",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/J_ecuk7XLDI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "8-umIu6O7d0",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts",
-      "thumbnail": "https://i.ytimg.com/vi/8-umIu6O7d0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,19 +86,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "W_0EFNZffrI",
-      "title": "LIVE: Lindsay Clancy trial Day 11",
-      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "saFPj1wApds",
-      "title": "LIVE: Spain prepares for total eclipse of the sun",
-      "thumbnail": "https://i.ytimg.com/vi/saFPj1wApds/hqdefault.jpg"
+      "videoId": "yVaSOuN0NDM",
+      "title": "LIVE: Colombia rescue efforts continue after earthquake",
+      "thumbnail": "https://i.ytimg.com/vi/yVaSOuN0NDM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -129,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "g1GrjdgsL9Q",
-      "title": "Watch Live: Lindsay Clancy murder trial continues as more details emerge about her health | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/g1GrjdgsL9Q/hqdefault.jpg"
+      "videoId": "i6W7beYPuRU",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/i6W7beYPuRU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -207,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "2oju24R-_Ls",
-      "title": "WATCH LIVE: Sen. Ed Markey speaks about return of former Marine Robert Gilman from Russian detention",
-      "thumbnail": "https://i.ytimg.com/vi/2oju24R-_Ls/hqdefault.jpg"
+      "videoId": "uEm6_ruWhWQ",
+      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T19:17:33.982Z",
+      "at": "2026-08-11T20:07:32.145Z",
       "checked": 33,
       "errors": 0
     }
