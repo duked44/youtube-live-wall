@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T11:28:04.271Z",
+  "generatedAt": "2026-08-11T12:24:52.731Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5TPfYEdskDA",
-      "title": "LIVE: View from Pereira after earthquake in Colombia kills more than 100",
-      "thumbnail": "https://i.ytimg.com/vi/5TPfYEdskDA/hqdefault.jpg"
+      "videoId": "W_0EFNZffrI",
+      "title": "LIVE: Lindsay Clancy trial Day 11",
+      "thumbnail": "https://i.ytimg.com/vi/W_0EFNZffrI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Sl7Pll4pxJA",
-      "title": "LIVE: Typhoon Dolphin floods central China, Beijing on high alert",
-      "thumbnail": "https://i.ytimg.com/vi/Sl7Pll4pxJA/hqdefault.jpg"
+      "videoId": "pMknHypsZ_4",
+      "title": "LIVE: South Carolina votes in primary for U.S. Senate seat",
+      "thumbnail": "https://i.ytimg.com/vi/pMknHypsZ_4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "s5T2YEV-MuI",
+      "title": "Rescuers in Colombia at site of collapsed building",
+      "thumbnail": "https://i.ytimg.com/vi/s5T2YEV-MuI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-11T11:28:04.271Z",
+      "at": "2026-08-11T12:24:52.731Z",
       "checked": 33,
       "errors": 0
     }
