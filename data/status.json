@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T10:33:50.296Z",
+  "generatedAt": "2026-08-12T11:26:53.121Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "hJ5lz7oaouM",
+      "title": "WATCH LVE:  Lindsay Clancy murder trial continues after psychiatrist testimony",
+      "thumbnail": "https://i.ytimg.com/vi/hJ5lz7oaouM/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -41,7 +44,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "XA_1WTuCYVA",
+      "title": "LIVE: Serial sex offender Simon Levy to be sentenced for double murder and rape | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/XA_1WTuCYVA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -120,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "IGgIPJhcJhI",
+      "videoId": "IaXVz6YMOps",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/IGgIPJhcJhI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/IaXVz6YMOps/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "lFiZGZfzvF4",
+      "title": "Colombia earthquake | Will rescue teams find more survivors?",
+      "thumbnail": "https://i.ytimg.com/vi/lFiZGZfzvF4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "ffEEoqTs3gw",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/ffEEoqTs3gw/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -249,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T10:33:50.296Z",
+      "at": "2026-08-12T11:26:53.121Z",
       "checked": 33,
       "errors": 0
     }
