@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T03:13:05.258Z",
+  "generatedAt": "2026-08-12T05:06:12.500Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "MvG_SZV-ZpI",
+      "title": "Mornings | Britain is braced for its best solar eclipse in decades",
+      "thumbnail": "https://i.ytimg.com/vi/MvG_SZV-ZpI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T03:13:05.258Z",
+      "at": "2026-08-12T05:06:12.500Z",
       "checked": 33,
       "errors": 0
     }
