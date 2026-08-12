@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T22:09:29.335Z",
+  "generatedAt": "2026-08-12T23:01:14.654Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -195,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "rG0kvszyANc",
-      "title": "PBS News Hour live episode, August 12, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/rG0kvszyANc/hqdefault.jpg"
+      "videoId": "uEm6_ruWhWQ",
+      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -209,10 +209,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "ffEEoqTs3gw",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/ffEEoqTs3gw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T22:09:29.335Z",
+      "at": "2026-08-12T23:01:14.654Z",
       "checked": 33,
       "errors": 0
     }
