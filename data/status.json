@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:22:23.452Z",
+  "generatedAt": "2026-08-12T10:33:50.296Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -84,9 +84,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "9Kb8h7x_v4Y",
-      "title": "LIVE: Lindsay Clancy trial Day 12",
-      "thumbnail": "https://i.ytimg.com/vi/9Kb8h7x_v4Y/hqdefault.jpg"
+      "videoId": "wtaDK2-OYKs",
+      "title": "LIVE: Search and rescue continues after Colombia earthquake",
+      "thumbnail": "https://i.ytimg.com/vi/wtaDK2-OYKs/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -102,18 +102,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "OXv77_1KOsQ",
+      "title": "LIVE: ABC News Live - Wednesday, August 12 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/OXv77_1KOsQ/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wbwMmsY_vmM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/wbwMmsY_vmM/hqdefault.jpg"
+      "videoId": "K1U3O3MKQvM",
+      "title": "LIVE: NBC News NOW - Aug. 12",
+      "thumbnail": "https://i.ytimg.com/vi/K1U3O3MKQvM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T09:22:23.452Z",
+      "at": "2026-08-12T10:33:50.296Z",
       "checked": 33,
       "errors": 0
     }
