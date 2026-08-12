@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T06:40:26.955Z",
+  "generatedAt": "2026-08-12T08:05:07.366Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Ws3wv-yYehw",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/Ws3wv-yYehw/hqdefault.jpg"
+      "videoId": "RGUbCjOMjW0",
+      "title": "LIVE: Solar eclipse seen from Iceland and Spain",
+      "thumbnail": "https://i.ytimg.com/vi/RGUbCjOMjW0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "MvG_SZV-ZpI",
-      "title": "Mornings | Britain set for best solar eclipse in decades",
+      "title": "Britain set for best solar eclipse in decades | Mornings",
       "thumbnail": "https://i.ytimg.com/vi/MvG_SZV-ZpI/hqdefault.jpg"
     },
     {
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T06:40:26.955Z",
+      "at": "2026-08-12T08:05:07.366Z",
       "checked": 33,
       "errors": 0
     }
