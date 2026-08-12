@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T15:45:37.740Z",
+  "generatedAt": "2026-08-12T16:40:50.247Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -49,7 +49,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "3wu8-RvsZog",
-      "title": "LIVE: Count down to historic solar eclipse | BBC News",
+      "title": "LIVE: Countdown to historic solar eclipse | BBC News",
       "thumbnail": "https://i.ytimg.com/vi/3wu8-RvsZog/hqdefault.jpg"
     },
     {
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "9Kb8h7x_v4Y",
-      "title": "LIVE: Lindsay Clancy trial Day 12",
-      "thumbnail": "https://i.ytimg.com/vi/9Kb8h7x_v4Y/hqdefault.jpg"
+      "videoId": "vxJzNZA7Xso",
+      "title": "LIVE: Total solar eclipse in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/vxJzNZA7Xso/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "8ra6mXBx97o",
-      "title": "LIVE: Total solar eclipse sweeps across northern Spain",
-      "thumbnail": "https://i.ytimg.com/vi/8ra6mXBx97o/hqdefault.jpg"
+      "videoId": "7Db5uSKeHQg",
+      "title": "LIVE: Thousands gather for a total solar eclipse across Europe, parts of North America",
+      "thumbnail": "https://i.ytimg.com/vi/7Db5uSKeHQg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -130,7 +130,7 @@
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
       "videoId": "s154JBtKn6Q",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with social worker testimony | CBS News",
+      "title": "Watch Live: Lindsay Clancy murder trial continues with health counselor testimony | CBS News",
       "thumbnail": "https://i.ytimg.com/vi/s154JBtKn6Q/hqdefault.jpg"
     },
     {
@@ -146,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "IZ4mpKO4Hck",
+      "title": "LIVE: Attorney General Todd Blanche holds press conference",
+      "thumbnail": "https://i.ytimg.com/vi/IZ4mpKO4Hck/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "1WTpVyKAPTU",
+      "title": "Solar Eclipse | Live across the UK",
+      "thumbnail": "https://i.ytimg.com/vi/1WTpVyKAPTU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -231,9 +234,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "tvo2nh6bX84",
-      "title": "View of Spain's Javalambre Astrophysical Observatory ahead of the total solar eclipse - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/tvo2nh6bX84/hqdefault.jpg"
+      "videoId": "MCgAdo6aAvY",
+      "title": "Thousands gather across Europe for a total solar eclipse - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/MCgAdo6aAvY/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -245,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "pEMYNrfXpVw",
+      "title": "Europe experiences rare total solar eclipse | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/pEMYNrfXpVw/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T15:45:37.740Z",
+      "at": "2026-08-12T16:40:50.247Z",
       "checked": 33,
       "errors": 0
     }
