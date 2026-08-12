@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T18:40:04.112Z",
+  "generatedAt": "2026-08-12T19:48:38.107Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "vPxEQJ3oV9k",
-      "title": "WATCH LIVE: Total Solar Eclipse 2026",
-      "thumbnail": "https://i.ytimg.com/vi/vPxEQJ3oV9k/hqdefault.jpg"
+      "videoId": "ekSWJTl4xkM",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/ekSWJTl4xkM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -35,10 +35,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "4x7WkioV9so",
-      "title": "Watch Live: 2026 Total Solar Eclipse",
-      "thumbnail": "https://i.ytimg.com/vi/4x7WkioV9so/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -52,7 +49,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "3wu8-RvsZog",
-      "title": "LIVE: Solar eclipse reaches peak across UK | BBC News",
+      "title": "LIVE: Solar eclipse reaches peak across UK and Europe | BBC News",
       "thumbnail": "https://i.ytimg.com/vi/3wu8-RvsZog/hqdefault.jpg"
     },
     {
@@ -96,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "2_XZL7c5L3c",
-      "title": "LIVE: Partial solar eclipse in the UK",
-      "thumbnail": "https://i.ytimg.com/vi/2_XZL7c5L3c/hqdefault.jpg"
+      "videoId": "9Kb8h7x_v4Y",
+      "title": "LIVE: Lindsay Clancy trial Day 12",
+      "thumbnail": "https://i.ytimg.com/vi/9Kb8h7x_v4Y/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "7MSUChwxga0",
-      "title": "LIVE: US Defense Secretary Pete Hegseth speaks at Panama conference",
-      "thumbnail": "https://i.ytimg.com/vi/7MSUChwxga0/hqdefault.jpg"
+      "videoId": "MjVtJ2mhyMY",
+      "title": "LIVE: Search for Colombia earthquake survivors stretches into third day",
+      "thumbnail": "https://i.ytimg.com/vi/MjVtJ2mhyMY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,27 +120,27 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-9f_NoKu7_0",
-      "title": "WATCH LIVE: 2026 Total Solar Eclipse | NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/-9f_NoKu7_0/hqdefault.jpg"
+      "videoId": "K1U3O3MKQvM",
+      "title": "LIVE: NBC News NOW - Aug. 12",
+      "thumbnail": "https://i.ytimg.com/vi/K1U3O3MKQvM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "8ZqAQJeDDt4",
-      "title": "Watch Live: Only total solar eclipse in 2026 moves across Europe | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/8ZqAQJeDDt4/hqdefault.jpg"
+      "videoId": "s154JBtKn6Q",
+      "title": "Watch Live: Lindsay Clancy murder trial continues with health counselor testimony | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/s154JBtKn6Q/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "tmV4CKj8Nyo",
-      "title": "Live: 2026 Total Solar Eclipse Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/tmV4CKj8Nyo/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -156,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nbP2d5Gpo-s",
-      "title": "Solar Eclipse | Watch live view from NASA jet as it chases eclipse",
-      "thumbnail": "https://i.ytimg.com/vi/nbP2d5Gpo-s/hqdefault.jpg"
+      "videoId": "fcARrAIo56s",
+      "title": "Solar eclipse | Sky News special programme with Mark Austin",
+      "thumbnail": "https://i.ytimg.com/vi/fcARrAIo56s/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -174,9 +171,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "04wti5_dhYM",
-      "title": "LIVE: Watch rare total solar eclipse across Europe | DW News",
-      "thumbnail": "https://i.ytimg.com/vi/04wti5_dhYM/hqdefault.jpg"
+      "videoId": "LuKwFajn37U",
+      "title": "DW News livestream | Headline news from around the world",
+      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "4eyOYVvF4O4",
-      "title": "WATCH LIVE: Total solar eclipse darkens skies over Spain, Iceland",
-      "thumbnail": "https://i.ytimg.com/vi/4eyOYVvF4O4/hqdefault.jpg"
+      "videoId": "uEm6_ruWhWQ",
+      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -236,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "4urjWB8a49Q",
-      "title": "Live shot of the solar eclipse from Newquay in the United Kingdom – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/4urjWB8a49Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -251,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "pEMYNrfXpVw",
-      "title": "Europe experiences rare total solar eclipse | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/pEMYNrfXpVw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -273,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T18:40:04.112Z",
+      "at": "2026-08-12T19:48:38.107Z",
       "checked": 33,
       "errors": 0
     }
