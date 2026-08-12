@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T00:42:48.164Z",
+  "generatedAt": "2026-08-12T03:13:05.258Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,10 +17,7 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "wYgFp_bnsYM",
-      "title": "Campaign 2026: Primary Night in SC, WI, MN, AL, CT & VT",
-      "thumbnail": "https://i.ytimg.com/vi/wYgFp_bnsYM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
@@ -102,18 +99,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "xpH9wtJuOHk",
-      "title": "LIVE: ABC News Live - Tuesday, August 11 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/xpH9wtJuOHk/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "lmYFRbIm57I",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 11",
-      "thumbnail": "https://i.ytimg.com/vi/lmYFRbIm57I/hqdefault.jpg"
+      "videoId": "FTpXHbN6wt4",
+      "title": "Kornacki Cam: Watch Steve analyze Wisconsin primary results in the Democratic gov race",
+      "thumbnail": "https://i.ytimg.com/vi/FTpXHbN6wt4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T00:42:48.164Z",
+      "at": "2026-08-12T03:13:05.258Z",
       "checked": 33,
       "errors": 0
     }
