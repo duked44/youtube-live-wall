@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T20:27:29.838Z",
+  "generatedAt": "2026-08-12T21:22:46.078Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,9 +24,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "SaI-6PHWXiY",
-      "title": "WATCH LIVE: Total solar eclipse 2026 with NASA",
-      "thumbnail": "https://i.ytimg.com/vi/SaI-6PHWXiY/hqdefault.jpg"
+      "videoId": "hJ5lz7oaouM",
+      "title": "WATCH LVE:  Lindsay Clancy murder trial continues after psychiatrist testimony",
+      "thumbnail": "https://i.ytimg.com/vi/hJ5lz7oaouM/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -145,7 +145,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "fWS0dVhAAkU",
-      "title": "Solar eclipse reaches maximum coverage | Full Sky News coverage",
+      "title": "Solar eclipse watched by millions around the world. | The Wrap with Anna Botting",
       "thumbnail": "https://i.ytimg.com/vi/fWS0dVhAAkU/hqdefault.jpg"
     },
     {
@@ -198,18 +198,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "uEm6_ruWhWQ",
-      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
+      "videoId": "rG0kvszyANc",
+      "title": "PBS News Hour live episode, August 12, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/rG0kvszyANc/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "vC9KYEaY88M",
-      "title": "A socialist loses Wisconsin. Now what? Debate with Laurie Watkins & Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/vC9KYEaY88M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T20:27:29.838Z",
+      "at": "2026-08-12T21:22:46.078Z",
       "checked": 33,
       "errors": 0
     }
