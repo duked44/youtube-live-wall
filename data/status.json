@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T19:48:38.107Z",
+  "generatedAt": "2026-08-12T20:27:29.838Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "ekSWJTl4xkM",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/ekSWJTl4xkM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -47,10 +44,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "3wu8-RvsZog",
-      "title": "LIVE: Solar eclipse reaches peak across UK and Europe | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/3wu8-RvsZog/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -92,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "9Kb8h7x_v4Y",
-      "title": "LIVE: Lindsay Clancy trial Day 12",
-      "thumbnail": "https://i.ytimg.com/vi/9Kb8h7x_v4Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -129,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "s154JBtKn6Q",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with health counselor testimony | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/s154JBtKn6Q/hqdefault.jpg"
+      "videoId": "IaXVz6YMOps",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/IaXVz6YMOps/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "fcARrAIo56s",
-      "title": "Solar eclipse | Sky News special programme with Mark Austin",
-      "thumbnail": "https://i.ytimg.com/vi/fcARrAIo56s/hqdefault.jpg"
+      "videoId": "fWS0dVhAAkU",
+      "title": "Solar eclipse reaches maximum coverage | Full Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/fWS0dVhAAkU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T19:48:38.107Z",
+      "at": "2026-08-12T20:27:29.838Z",
       "checked": 33,
       "errors": 0
     }
