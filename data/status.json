@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T21:22:46.078Z",
+  "generatedAt": "2026-08-12T22:09:29.335Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,10 +23,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "hJ5lz7oaouM",
-      "title": "WATCH LVE:  Lindsay Clancy murder trial continues after psychiatrist testimony",
-      "thumbnail": "https://i.ytimg.com/vi/hJ5lz7oaouM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -111,9 +108,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "K1U3O3MKQvM",
+      "videoId": "4muM9anvRTg",
       "title": "LIVE: NBC News NOW - Aug. 12",
-      "thumbnail": "https://i.ytimg.com/vi/K1U3O3MKQvM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/4muM9anvRTg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -233,7 +230,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "Owh3ec96XF8",
+      "title": "BC wildfires: Premier Eby updates Bald Range wildfire growth as possible thunderstorms loom | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Owh3ec96XF8/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T21:22:46.078Z",
+      "at": "2026-08-12T22:09:29.335Z",
       "checked": 33,
       "errors": 0
     }
