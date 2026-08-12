@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T11:26:53.121Z",
+  "generatedAt": "2026-08-12T12:12:49.819Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -44,10 +44,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "XA_1WTuCYVA",
-      "title": "LIVE: Serial sex offender Simon Levy to be sentenced for double murder and rape | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/XA_1WTuCYVA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -99,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "RGUbCjOMjW0",
-      "title": "LIVE: Solar eclipse seen from Iceland and Spain",
-      "thumbnail": "https://i.ytimg.com/vi/RGUbCjOMjW0/hqdefault.jpg"
+      "videoId": "nnmfe9TNhUo",
+      "title": "LIVE: Rescuers work to save Colombia earthquake victims",
+      "thumbnail": "https://i.ytimg.com/vi/nnmfe9TNhUo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -151,7 +148,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "lFiZGZfzvF4",
-      "title": "Colombia earthquake | Will rescue teams find more survivors?",
+      "title": "Will rescue teams find more survivors in Colombia?",
       "thumbnail": "https://i.ytimg.com/vi/lFiZGZfzvF4/hqdefault.jpg"
     },
     {
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T11:26:53.121Z",
+      "at": "2026-08-12T12:12:49.819Z",
       "checked": 33,
       "errors": 0
     }
