@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T14:49:57.391Z",
+  "generatedAt": "2026-08-12T15:45:37.740Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "3wu8-RvsZog",
+      "title": "LIVE: Count down to historic solar eclipse | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/3wu8-RvsZog/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -99,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "kKGyrgcFQcA",
-      "title": "LIVE: WHO press conference on Ebola situation",
-      "thumbnail": "https://i.ytimg.com/vi/kKGyrgcFQcA/hqdefault.jpg"
+      "videoId": "8ra6mXBx97o",
+      "title": "LIVE: Total solar eclipse sweeps across northern Spain",
+      "thumbnail": "https://i.ytimg.com/vi/8ra6mXBx97o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T14:49:57.391Z",
+      "at": "2026-08-12T15:45:37.740Z",
       "checked": 33,
       "errors": 0
     }
