@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T05:06:12.500Z",
+  "generatedAt": "2026-08-12T06:40:26.955Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "FTpXHbN6wt4",
-      "title": "Kornacki Cam: Watch Steve analyze Wisconsin primary results in the Democratic gov race",
-      "thumbnail": "https://i.ytimg.com/vi/FTpXHbN6wt4/hqdefault.jpg"
+      "videoId": "wbwMmsY_vmM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/wbwMmsY_vmM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "MvG_SZV-ZpI",
-      "title": "Mornings | Britain is braced for its best solar eclipse in decades",
+      "title": "Mornings | Britain set for best solar eclipse in decades",
       "thumbnail": "https://i.ytimg.com/vi/MvG_SZV-ZpI/hqdefault.jpg"
     },
     {
@@ -241,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 22,
-      "channelChecks": 726,
+      "runs": 21,
+      "channelChecks": 693,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T05:06:12.500Z",
+      "at": "2026-08-12T06:40:26.955Z",
       "checked": 33,
       "errors": 0
     }
