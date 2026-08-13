@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T20:57:51.916Z",
+  "generatedAt": "2026-08-13T21:54:07.084Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "2GkDxgR59U4",
-      "title": "The Wrap with Anna Botting | Thursday 13 August 2026",
+      "title": "Firefighters tackle major blazes across tinderbox Britain | The Wrap with Anna Botting",
       "thumbnail": "https://i.ytimg.com/vi/2GkDxgR59U4/hqdefault.jpg"
     },
     {
@@ -195,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "uEm6_ruWhWQ",
-      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
+      "videoId": "JdteRbRaLsY",
+      "title": "PBS News Hour live episode, August 13, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/JdteRbRaLsY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T20:57:51.916Z",
+      "at": "2026-08-13T21:54:07.084Z",
       "checked": 33,
       "errors": 0
     }
