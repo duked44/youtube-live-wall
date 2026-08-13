@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T08:40:52.545Z",
+  "generatedAt": "2026-08-13T09:47:39.821Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -41,10 +41,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "lotcNj-TdKw",
-      "title": "LIVE: Exams Results Day | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/lotcNj-TdKw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T08:40:52.545Z",
+      "at": "2026-08-13T09:47:39.821Z",
       "checked": 33,
       "errors": 0
     }
