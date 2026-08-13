@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:47:29.256Z",
+  "generatedAt": "2026-08-13T11:35:36.868Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "t59o45AJT9w",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/t59o45AJT9w/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -84,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "mKJ7ZyIdjeQ",
-      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
-      "thumbnail": "https://i.ytimg.com/vi/mKJ7ZyIdjeQ/hqdefault.jpg"
+      "videoId": "-C75Bs25KSU",
+      "title": "LIVE: Search and rescue continues in Colombia after earthquake",
+      "thumbnail": "https://i.ytimg.com/vi/-C75Bs25KSU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "teHPlikpgDU",
-      "title": "LIVE: Lava flows from Hawaii’s Kilauea volcano",
-      "thumbnail": "https://i.ytimg.com/vi/teHPlikpgDU/hqdefault.jpg"
+      "videoId": "TexX_ZzH-_0",
+      "title": "LIVE: London hit by fifth heatwave",
+      "thumbnail": "https://i.ytimg.com/vi/TexX_ZzH-_0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "S7153lra4t0",
+      "videoId": "w8AKWFzMyy4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/S7153lra4t0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/w8AKWFzMyy4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -212,7 +215,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "73_ig29On_A",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/73_ig29On_A/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -249,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T10:47:29.256Z",
+      "at": "2026-08-13T11:35:36.868Z",
       "checked": 33,
       "errors": 0
     }
