@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T11:35:36.868Z",
+  "generatedAt": "2026-08-13T12:31:02.345Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "-C75Bs25KSU",
-      "title": "LIVE: Search and rescue continues in Colombia after earthquake",
-      "thumbnail": "https://i.ytimg.com/vi/-C75Bs25KSU/hqdefault.jpg"
+      "videoId": "sG-txwieA5c",
+      "title": "LIVE: Lindsay Clancy trial Day 13",
+      "thumbnail": "https://i.ytimg.com/vi/sG-txwieA5c/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "mmOWMxFo-OU",
-      "title": "'Extreme heat' warning extended to more areas across England",
-      "thumbnail": "https://i.ytimg.com/vi/mmOWMxFo-OU/hqdefault.jpg"
+      "videoId": "VpIvay2KuDY",
+      "title": "Colombia earthquake | Will rescue teams find more survivors?",
+      "thumbnail": "https://i.ytimg.com/vi/VpIvay2KuDY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T11:35:36.868Z",
+      "at": "2026-08-13T12:31:02.345Z",
       "checked": 33,
       "errors": 0
     }
