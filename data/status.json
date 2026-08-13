@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T14:03:50.535Z",
+  "generatedAt": "2026-08-13T15:11:00.674Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -143,10 +143,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "Vu0Ed5DWakA",
-      "title": "LIVE: Attorney General Todd Blanche addresses Justice Department employees",
-      "thumbnail": "https://i.ytimg.com/vi/Vu0Ed5DWakA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -242,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "mkJIS7n4tLk",
-      "title": "Toronto police update after officer shot responding to e-bike robbery | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/mkJIS7n4tLk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T14:03:50.535Z",
+      "at": "2026-08-13T15:11:00.674Z",
       "checked": 33,
       "errors": 0
     }
