@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T17:13:15.152Z",
+  "generatedAt": "2026-08-13T18:09:47.355Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "IugB1U35oII",
-      "title": "Houses on fire as wildfires spread in Stourbridge",
-      "thumbnail": "https://i.ytimg.com/vi/IugB1U35oII/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T17:13:15.152Z",
+      "at": "2026-08-13T18:09:47.355Z",
       "checked": 33,
       "errors": 0
     }
