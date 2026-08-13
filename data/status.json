@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T19:20:07.742Z",
+  "generatedAt": "2026-08-13T20:02:58.428Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "K4mVdMd4CRc",
-      "title": "LIVE: Search for survivors in Pereira after Colombia's earthquake",
-      "thumbnail": "https://i.ytimg.com/vi/K4mVdMd4CRc/hqdefault.jpg"
+      "videoId": "TexX_ZzH-_0",
+      "title": "LIVE: London hit by fifth heatwave",
+      "thumbnail": "https://i.ytimg.com/vi/TexX_ZzH-_0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -205,7 +205,7 @@
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
       "videoId": "DImCeSDOZPM",
-      "title": "Is Trump's economy good for America? Debate with Jason Rantz and Batya Ungar-Sargon",
+      "title": "Is Trump's economy going to sink the GOP in the midterms? Debate with Jason Rantz",
       "thumbnail": "https://i.ytimg.com/vi/DImCeSDOZPM/hqdefault.jpg"
     },
     {
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T19:20:07.742Z",
+      "at": "2026-08-13T20:02:58.428Z",
       "checked": 33,
       "errors": 0
     }
