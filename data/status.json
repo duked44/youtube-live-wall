@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T21:54:07.084Z",
+  "generatedAt": "2026-08-13T22:38:24.732Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,7 +47,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "p8z16Tf3DAY",
+      "title": "AOC's 2028 Dating Game & WNBA's What is a Woman Debate | Friendly Fire",
+      "thumbnail": "https://i.ytimg.com/vi/p8z16Tf3DAY/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -83,16 +86,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "AhgE2eUTK_o",
+      "title": "LIVE: Declaration in UK special election between Nigel Farage and Count Binface",
+      "thumbnail": "https://i.ytimg.com/vi/AhgE2eUTK_o/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "TexX_ZzH-_0",
-      "title": "LIVE: London hit by fifth heatwave",
-      "thumbnail": "https://i.ytimg.com/vi/TexX_ZzH-_0/hqdefault.jpg"
+      "videoId": "sCY7TuErTbo",
+      "title": "LIVE: Vote count in Clacton as Reform UK's Farage faces off against Count Binface",
+      "thumbnail": "https://i.ytimg.com/vi/sCY7TuErTbo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -108,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "v8YGX0mgyT4",
+      "videoId": "-oevukmErHM",
       "title": "LIVE: NBC News NOW - Aug. 13",
-      "thumbnail": "https://i.ytimg.com/vi/v8YGX0mgyT4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/-oevukmErHM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -203,16 +209,19 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "sVObbXPY760",
+      "title": "GLP-1 Wellness Retreats: The New Luxury Weight Loss Trend? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/sVObbXPY760/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "73_ig29On_A",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/73_ig29On_A/hqdefault.jpg"
+      "videoId": "mPRrD2UasCY",
+      "title": "LIVE: Aug. 14 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/mPRrD2UasCY/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -249,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T21:54:07.084Z",
+      "at": "2026-08-13T22:38:24.732Z",
       "checked": 33,
       "errors": 0
     }
