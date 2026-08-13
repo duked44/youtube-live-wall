@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:38:24.732Z",
+  "generatedAt": "2026-08-13T23:24:26.545Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -123,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "w8AKWFzMyy4",
+      "videoId": "91RXW6cWfeA",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/w8AKWFzMyy4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/91RXW6cWfeA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "2GkDxgR59U4",
-      "title": "Firefighters tackle major blazes across tinderbox Britain | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/2GkDxgR59U4/hqdefault.jpg"
+      "videoId": "ghlIwIpwxpw",
+      "title": "Clacton by-election result and analysis | Full Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/ghlIwIpwxpw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "JdteRbRaLsY",
-      "title": "PBS News Hour live episode, August 13, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/JdteRbRaLsY/hqdefault.jpg"
+      "videoId": "uEm6_ruWhWQ",
+      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T22:38:24.732Z",
+      "at": "2026-08-13T23:24:26.545Z",
       "checked": 33,
       "errors": 0
     }
