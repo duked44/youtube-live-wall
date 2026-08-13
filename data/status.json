@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T23:53:44.081Z",
+  "generatedAt": "2026-08-13T01:39:13.057Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "MjVtJ2mhyMY",
-      "title": "LIVE: Search for Colombia earthquake survivors stretches into third day",
-      "thumbnail": "https://i.ytimg.com/vi/MjVtJ2mhyMY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -108,9 +105,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gJr60Ibqw_0",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 12",
-      "thumbnail": "https://i.ytimg.com/vi/gJr60Ibqw_0/hqdefault.jpg"
+      "videoId": "4muM9anvRTg",
+      "title": "LIVE: NBC News NOW - Aug. 12",
+      "thumbnail": "https://i.ytimg.com/vi/4muM9anvRTg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-12T23:53:44.081Z",
+      "at": "2026-08-13T01:39:13.057Z",
       "checked": 33,
       "errors": 0
     }
