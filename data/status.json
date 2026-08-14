@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T04:30:48.956Z",
+  "generatedAt": "2026-08-14T06:03:06.928Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,19 +83,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "AhgE2eUTK_o",
-      "title": "LIVE: Declaration in UK special election between Nigel Farage and Count Binface",
-      "thumbnail": "https://i.ytimg.com/vi/AhgE2eUTK_o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Mm2cvzFRLyE",
-      "title": "LIVE: Vote count in Clacton as Reform UK's Farage faces off against Count Binface",
-      "thumbnail": "https://i.ytimg.com/vi/Mm2cvzFRLyE/hqdefault.jpg"
+      "videoId": "TexX_ZzH-_0",
+      "title": "LIVE: London hit by fifth heatwave",
+      "thumbnail": "https://i.ytimg.com/vi/TexX_ZzH-_0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ghlIwIpwxpw",
-      "title": "Clacton by-election coverage | Farage says he won't attend count | Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/ghlIwIpwxpw/hqdefault.jpg"
+      "videoId": "SD1LtkYB7fw",
+      "title": "Mornings | Farage wins Clacton by-election - after a boycott by all the other major parties",
+      "thumbnail": "https://i.ytimg.com/vi/SD1LtkYB7fw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T04:30:48.956Z",
+      "at": "2026-08-14T06:03:06.928Z",
       "checked": 33,
       "errors": 0
     }
