@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:07:33.025Z",
+  "generatedAt": "2026-08-14T20:44:03.184Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "OZUmxTAHEOg",
-      "title": "LIVE: President Trump Speaks At Nassau County Police Academy Center for Training and Intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/OZUmxTAHEOg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -26,10 +23,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "50vgMPupMVc",
-      "title": "WATCH LIVE: Trump delivers remarks at the Nassau County Police Academy Center",
-      "thumbnail": "https://i.ytimg.com/vi/50vgMPupMVc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,27 +90,27 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "lH0Y2wEOYpo",
-      "title": "LIVE: Heatmap shows England and Europe as wildfires in Britain hit record levels",
-      "thumbnail": "https://i.ytimg.com/vi/lH0Y2wEOYpo/hqdefault.jpg"
+      "videoId": "r12loNytSos",
+      "title": "LIVE: Peru holds national earthquake drill",
+      "thumbnail": "https://i.ytimg.com/vi/r12loNytSos/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "bMkDxy_Q6Bo",
-      "title": "President Trump delivers remarks in Garden City, NY at police training center: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/bMkDxy_Q6Bo/hqdefault.jpg"
+      "videoId": "U43vfWtx-vU",
+      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "KGQFI1u0X2o",
-      "title": "LIVE: Trump delivers speech on Long Island to law enforcement | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/KGQFI1u0X2o/hqdefault.jpg"
+      "videoId": "7bwu7DuTgrI",
+      "title": "LIVE: NBC News NOW - Aug. 14",
+      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -140,10 +134,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "t18c3s4lFVU",
-      "title": "LIVE: President Trump holds a press conference on the FBI’s 2025 Crime Statistics Report",
-      "thumbnail": "https://i.ytimg.com/vi/t18c3s4lFVU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -203,10 +194,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "thz-6ofMXDA",
-      "title": "WATCH LIVE: Trump to highlight violent crime reduction during visit to New York police academy",
-      "thumbnail": "https://i.ytimg.com/vi/thz-6ofMXDA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -253,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 22,
-      "channelChecks": 726,
+      "runs": 23,
+      "channelChecks": 759,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T20:07:33.025Z",
+      "at": "2026-08-14T20:44:03.184Z",
       "checked": 33,
       "errors": 0
     }
