@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T15:44:37.009Z",
+  "generatedAt": "2026-08-14T16:36:22.653Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,18 +99,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Jo0ITVenySY",
-      "title": "LIVE: Rescuers sift through rubble in Pereira after Colombian earthquake",
-      "thumbnail": "https://i.ytimg.com/vi/Jo0ITVenySY/hqdefault.jpg"
+      "videoId": "BOuL551SlT4",
+      "title": "LIVE: Outside courthouse after Luigi Mangione pleads guilty to killing insurance executive",
+      "thumbnail": "https://i.ytimg.com/vi/BOuL551SlT4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "U43vfWtx-vU",
-      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
+      "videoId": "9cP35jLITTI",
+      "title": "Luigi Mangione admits to shooting UnitedHealthcare CEO as he pleads guilty in federal case",
+      "thumbnail": "https://i.ytimg.com/vi/9cP35jLITTI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T15:44:37.009Z",
+      "at": "2026-08-14T16:36:22.653Z",
       "checked": 33,
       "errors": 0
     }
