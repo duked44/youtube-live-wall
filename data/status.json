@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T11:34:01.740Z",
+  "generatedAt": "2026-08-14T12:26:58.145Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "LxIlEGtK9AA",
+      "title": "WATCH LIVE: Alex Murdaugh returns to court for pretrial conference",
+      "thumbnail": "https://i.ytimg.com/vi/LxIlEGtK9AA/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -84,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "lqn20E3RFEg",
-      "title": "LIVE: Search and rescue operations continue in Colombia",
-      "thumbnail": "https://i.ytimg.com/vi/lqn20E3RFEg/hqdefault.jpg"
+      "videoId": "-1wP2zgW6Yg",
+      "title": "LIVE: Outside court as Luigi Mangione faces expected guilty plea in UnitedHealthcare CEO killing",
+      "thumbnail": "https://i.ytimg.com/vi/-1wP2zgW6Yg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "4LGAZ4sk9Pw",
-      "title": "LIVE: London hit by fifth heatwave",
-      "thumbnail": "https://i.ytimg.com/vi/4LGAZ4sk9Pw/hqdefault.jpg"
+      "videoId": "aOrnDppeGYY",
+      "title": "LIVE: Search for Colombia earthquake survivors continues",
+      "thumbnail": "https://i.ytimg.com/vi/aOrnDppeGYY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T11:34:01.740Z",
+      "at": "2026-08-14T12:26:58.145Z",
       "checked": 33,
       "errors": 0
     }
