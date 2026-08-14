@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T12:26:58.145Z",
+  "generatedAt": "2026-08-14T13:55:33.369Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "-1wP2zgW6Yg",
-      "title": "LIVE: Outside court as Luigi Mangione faces expected guilty plea in UnitedHealthcare CEO killing",
-      "thumbnail": "https://i.ytimg.com/vi/-1wP2zgW6Yg/hqdefault.jpg"
+      "videoId": "iY8Ul7zGycU",
+      "title": "LIVE: Alex Murdaugh faces retrial over killings of wife and son",
+      "thumbnail": "https://i.ytimg.com/vi/iY8Ul7zGycU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "aOrnDppeGYY",
-      "title": "LIVE: Search for Colombia earthquake survivors continues",
-      "thumbnail": "https://i.ytimg.com/vi/aOrnDppeGYY/hqdefault.jpg"
+      "videoId": "eRy1-KM_Igw",
+      "title": "LIVE: Heatmap shows England and Europe as wildfires in Britain hit record levels",
+      "thumbnail": "https://i.ytimg.com/vi/eRy1-KM_Igw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -209,7 +209,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "zfcn4lo11fo",
+      "title": "Watch live: Alex Murdaugh returns to court ahead of 2027 retrial",
+      "thumbnail": "https://i.ytimg.com/vi/zfcn4lo11fo/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T12:26:58.145Z",
+      "at": "2026-08-14T13:55:33.369Z",
       "checked": 33,
       "errors": 0
     }
