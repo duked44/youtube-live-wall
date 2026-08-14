@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:05:59.449Z",
+  "generatedAt": "2026-08-14T21:37:38.445Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "r12loNytSos",
-      "title": "LIVE: Peru holds national earthquake drill",
-      "thumbnail": "https://i.ytimg.com/vi/r12loNytSos/hqdefault.jpg"
+      "videoId": "l0AQfLKBTtM",
+      "title": "LIVE: Vessel traffic in Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/l0AQfLKBTtM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 23,
-      "channelChecks": 759,
+      "runs": 24,
+      "channelChecks": 792,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T21:05:59.449Z",
+      "at": "2026-08-14T21:37:38.445Z",
       "checked": 33,
       "errors": 0
     }
