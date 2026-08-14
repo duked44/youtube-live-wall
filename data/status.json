@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T16:36:22.653Z",
+  "generatedAt": "2026-08-14T17:36:25.691Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "xkfvmPm19Eo",
-      "title": "LIVE: Pre-Trial Hearing Held For Retrial Of Alex Murdaugh",
-      "thumbnail": "https://i.ytimg.com/vi/xkfvmPm19Eo/hqdefault.jpg"
+      "videoId": "OZUmxTAHEOg",
+      "title": "LIVE: President Trump Speaks At Nassau County Police Academy Center for Training and Intelligence",
+      "thumbnail": "https://i.ytimg.com/vi/OZUmxTAHEOg/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "LxIlEGtK9AA",
-      "title": "WATCH LIVE: Alex Murdaugh returns to court for pretrial conference",
-      "thumbnail": "https://i.ytimg.com/vi/LxIlEGtK9AA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,46 +86,43 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "iY8Ul7zGycU",
-      "title": "LIVE: Alex Murdaugh faces retrial over killings of wife and son",
-      "thumbnail": "https://i.ytimg.com/vi/iY8Ul7zGycU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "BOuL551SlT4",
-      "title": "LIVE: Outside courthouse after Luigi Mangione pleads guilty to killing insurance executive",
-      "thumbnail": "https://i.ytimg.com/vi/BOuL551SlT4/hqdefault.jpg"
+      "videoId": "lH0Y2wEOYpo",
+      "title": "LIVE: Heatmap shows England and Europe as wildfires in Britain hit record levels",
+      "thumbnail": "https://i.ytimg.com/vi/lH0Y2wEOYpo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "9cP35jLITTI",
-      "title": "Luigi Mangione admits to shooting UnitedHealthcare CEO as he pleads guilty in federal case",
-      "thumbnail": "https://i.ytimg.com/vi/9cP35jLITTI/hqdefault.jpg"
+      "videoId": "U43vfWtx-vU",
+      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "6hL7n0qgIJg",
-      "title": "LIVE: Luigi Mangione expected to plead guilty during federal court hearing | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/6hL7n0qgIJg/hqdefault.jpg"
+      "videoId": "7bwu7DuTgrI",
+      "title": "LIVE: NBC News NOW - Aug. 14",
+      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "2fOjq9A-n10",
-      "title": "Breaking News: Luigi Mangione’s lawyers tell judge he plans to plead guilty in case on CEO's killing",
-      "thumbnail": "https://i.ytimg.com/vi/2fOjq9A-n10/hqdefault.jpg"
+      "videoId": "839xsj8A638",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/839xsj8A638/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +137,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "t18c3s4lFVU",
+      "title": "LIVE: President Trump holds a press conference on the FBI’s 2025 Crime Statistics Report",
+      "thumbnail": "https://i.ytimg.com/vi/t18c3s4lFVU/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nH02_cBqzRY",
-      "title": "Live outside of Luigi Mangione court hearing",
-      "thumbnail": "https://i.ytimg.com/vi/nH02_cBqzRY/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "zfcn4lo11fo",
-      "title": "Watch live: Alex Murdaugh returns to court ahead of 2027 retrial",
-      "thumbnail": "https://i.ytimg.com/vi/zfcn4lo11fo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T16:36:22.653Z",
+      "at": "2026-08-14T17:36:25.691Z",
       "checked": 33,
       "errors": 0
     }
