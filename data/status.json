@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T18:31:28.407Z",
+  "generatedAt": "2026-08-14T19:33:33.298Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "50vgMPupMVc",
+      "title": "WATCH LIVE: Trump delivers remarks at the Nassau County Police Academy Center",
+      "thumbnail": "https://i.ytimg.com/vi/50vgMPupMVc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -102,18 +105,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "U43vfWtx-vU",
-      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
+      "videoId": "bMkDxy_Q6Bo",
+      "title": "President Trump delivers remarks in Garden City, NY at police training center: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/bMkDxy_Q6Bo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "7bwu7DuTgrI",
-      "title": "LIVE: NBC News NOW - Aug. 14",
-      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
+      "videoId": "KGQFI1u0X2o",
+      "title": "LIVE: Trump delivers speech on Long Island to law enforcement | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/KGQFI1u0X2o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -201,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "uEm6_ruWhWQ",
-      "title": "WATCH LIVE: Isaacman holds briefing to preview America 250 event at NASA Kennedy Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/uEm6_ruWhWQ/hqdefault.jpg"
+      "videoId": "thz-6ofMXDA",
+      "title": "WATCH LIVE: Trump to highlight violent crime reduction during visit to New York police academy",
+      "thumbnail": "https://i.ytimg.com/vi/thz-6ofMXDA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T18:31:28.407Z",
+      "at": "2026-08-14T19:33:33.298Z",
       "checked": 33,
       "errors": 0
     }
