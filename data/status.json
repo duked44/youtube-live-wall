@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-13T23:24:26.545Z",
+  "generatedAt": "2026-08-14T00:07:39.567Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "rzOt4Zolco0",
+      "title": "Iran War LIVE Updates, Plus Other Top Stories - Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/rzOt4Zolco0/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -47,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "p8z16Tf3DAY",
-      "title": "AOC's 2028 Dating Game & WNBA's What is a Woman Debate | Friendly Fire",
-      "thumbnail": "https://i.ytimg.com/vi/p8z16Tf3DAY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -114,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-oevukmErHM",
-      "title": "LIVE: NBC News NOW - Aug. 13",
-      "thumbnail": "https://i.ytimg.com/vi/-oevukmErHM/hqdefault.jpg"
+      "videoId": "mdsJaGKVsWk",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 13",
+      "thumbnail": "https://i.ytimg.com/vi/mdsJaGKVsWk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -209,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "sVObbXPY760",
-      "title": "GLP-1 Wellness Retreats: The New Luxury Weight Loss Trend? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/sVObbXPY760/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-13T23:24:26.545Z",
+      "at": "2026-08-14T00:07:39.567Z",
       "checked": 33,
       "errors": 0
     }
