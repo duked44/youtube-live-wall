@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T08:51:28.482Z",
+  "generatedAt": "2026-08-14T09:51:23.631Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "BW_WUIDX8sY",
-      "title": "LIVE: Wildfire closes up on a residential area in Germany",
-      "thumbnail": "https://i.ytimg.com/vi/BW_WUIDX8sY/hqdefault.jpg"
+      "videoId": "6hRidot8fF0",
+      "title": "LIVE: Group of activists approach Palestinian homes under siege",
+      "thumbnail": "https://i.ytimg.com/vi/6hRidot8fF0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "TQIvGhiZ6SM",
-      "title": "Extreme heat warnings in place for millions as UK heatwave continues",
+      "title": "Stourbridge homes destroyed by devastating wildfires | UK heatwave",
       "thumbnail": "https://i.ytimg.com/vi/TQIvGhiZ6SM/hqdefault.jpg"
     },
     {
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T08:51:28.482Z",
+      "at": "2026-08-14T09:51:23.631Z",
       "checked": 33,
       "errors": 0
     }
