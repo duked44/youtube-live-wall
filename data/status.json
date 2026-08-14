@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T00:07:39.567Z",
+  "generatedAt": "2026-08-14T02:44:07.224Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "sCY7TuErTbo",
+      "videoId": "Mm2cvzFRLyE",
       "title": "LIVE: Vote count in Clacton as Reform UK's Farage faces off against Count Binface",
-      "thumbnail": "https://i.ytimg.com/vi/sCY7TuErTbo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Mm2cvzFRLyE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mdsJaGKVsWk",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 13",
-      "thumbnail": "https://i.ytimg.com/vi/mdsJaGKVsWk/hqdefault.jpg"
+      "videoId": "-oevukmErHM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/-oevukmErHM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -148,7 +148,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "ghlIwIpwxpw",
-      "title": "Clacton by-election result and analysis | Full Sky News coverage",
+      "title": "Clacton by-election coverage | Farage says he won't attend count | Sky News coverage",
       "thumbnail": "https://i.ytimg.com/vi/ghlIwIpwxpw/hqdefault.jpg"
     },
     {
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T00:07:39.567Z",
+      "at": "2026-08-14T02:44:07.224Z",
       "checked": 33,
       "errors": 0
     }
