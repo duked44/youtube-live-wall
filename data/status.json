@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T20:44:03.184Z",
+  "generatedAt": "2026-08-14T21:05:59.449Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "t2QZK2CByuk",
+      "title": "Former Cambridge professor Jason Arday found dead following plagiarism row | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/t2QZK2CByuk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -194,7 +194,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "rCiqOhwOkkY",
+      "title": "PBS News Hour full episode, August 14, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/rCiqOhwOkkY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T20:44:03.184Z",
+      "at": "2026-08-14T21:05:59.449Z",
       "checked": 33,
       "errors": 0
     }
