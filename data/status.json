@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:48:32.353Z",
+  "generatedAt": "2026-08-14T11:34:01.740Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -120,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "91RXW6cWfeA",
+      "videoId": "839xsj8A638",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/91RXW6cWfeA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/839xsj8A638/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -247,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 21,
-      "channelChecks": 693,
+      "runs": 22,
+      "channelChecks": 726,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T10:48:32.353Z",
+      "at": "2026-08-14T11:34:01.740Z",
       "checked": 33,
       "errors": 0
     }
