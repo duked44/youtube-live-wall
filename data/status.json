@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T21:58:08.325Z",
+  "generatedAt": "2026-08-14T22:32:18.466Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,7 +83,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "AzDMkgzDP2Y",
+      "title": "India Independence Day 2026 LIVE: Modi addresses the nation",
+      "thumbnail": "https://i.ytimg.com/vi/AzDMkgzDP2Y/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "7bwu7DuTgrI",
+      "videoId": "Ut2hFB5RGtg",
       "title": "LIVE: NBC News NOW - Aug. 14",
-      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Ut2hFB5RGtg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -209,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "mPRrD2UasCY",
-      "title": "LIVE: Aug. 14 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/mPRrD2UasCY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 24,
-      "channelChecks": 792,
+      "runs": 25,
+      "channelChecks": 825,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T21:58:08.325Z",
+      "at": "2026-08-14T22:32:18.466Z",
       "checked": 33,
       "errors": 0
     }
