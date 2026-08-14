@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T14:52:43.092Z",
+  "generatedAt": "2026-08-14T15:44:37.009Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "7bwu7DuTgrI",
-      "title": "LIVE: NBC News NOW - Aug. 14",
-      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
+      "videoId": "6hL7n0qgIJg",
+      "title": "LIVE: Luigi Mangione expected to plead guilty during federal court hearing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/6hL7n0qgIJg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "839xsj8A638",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/839xsj8A638/hqdefault.jpg"
+      "videoId": "2fOjq9A-n10",
+      "title": "Breaking News: Luigi Mangione’s lawyers tell judge he plans to plead guilty in case on CEO's killing",
+      "thumbnail": "https://i.ytimg.com/vi/2fOjq9A-n10/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T14:52:43.092Z",
+      "at": "2026-08-14T15:44:37.009Z",
       "checked": 33,
       "errors": 0
     }
