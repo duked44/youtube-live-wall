@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T22:55:26.749Z",
+  "generatedAt": "2026-08-14T23:22:13.421Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "t2QZK2CByuk",
-      "title": "Former Cambridge professor Jason Arday found dead following plagiarism row | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/t2QZK2CByuk/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "rCiqOhwOkkY",
-      "title": "PBS News Hour full episode, August 14, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/rCiqOhwOkkY/hqdefault.jpg"
+      "videoId": "i-J-eyPH8ec",
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 25,
-      "channelChecks": 825,
+      "runs": 26,
+      "channelChecks": 858,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T22:55:26.749Z",
+      "at": "2026-08-14T23:22:13.421Z",
       "checked": 33,
       "errors": 0
     }
