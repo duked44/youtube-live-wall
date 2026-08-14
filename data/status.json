@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T06:03:06.928Z",
+  "generatedAt": "2026-08-14T07:46:39.264Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "TexX_ZzH-_0",
-      "title": "LIVE: London hit by fifth heatwave",
-      "thumbnail": "https://i.ytimg.com/vi/TexX_ZzH-_0/hqdefault.jpg"
+      "videoId": "6hRidot8fF0",
+      "title": "LIVE: Group of activists approach Palestinian homes under siege",
+      "thumbnail": "https://i.ytimg.com/vi/6hRidot8fF0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "SD1LtkYB7fw",
-      "title": "Mornings | Farage wins Clacton by-election - after a boycott by all the other major parties",
+      "title": "Mornings | Nigel Farage wins Clacton by-election",
       "thumbnail": "https://i.ytimg.com/vi/SD1LtkYB7fw/hqdefault.jpg"
     },
     {
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T06:03:06.928Z",
+      "at": "2026-08-14T07:46:39.264Z",
       "checked": 33,
       "errors": 0
     }
