@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:46:39.264Z",
+  "generatedAt": "2026-08-14T08:51:28.482Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "6hRidot8fF0",
-      "title": "LIVE: Group of activists approach Palestinian homes under siege",
-      "thumbnail": "https://i.ytimg.com/vi/6hRidot8fF0/hqdefault.jpg"
+      "videoId": "BW_WUIDX8sY",
+      "title": "LIVE: Wildfire closes up on a residential area in Germany",
+      "thumbnail": "https://i.ytimg.com/vi/BW_WUIDX8sY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "SD1LtkYB7fw",
-      "title": "Mornings | Nigel Farage wins Clacton by-election",
-      "thumbnail": "https://i.ytimg.com/vi/SD1LtkYB7fw/hqdefault.jpg"
+      "videoId": "TQIvGhiZ6SM",
+      "title": "Extreme heat warnings in place for millions as UK heatwave continues",
+      "thumbnail": "https://i.ytimg.com/vi/TQIvGhiZ6SM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T07:46:39.264Z",
+      "at": "2026-08-14T08:51:28.482Z",
       "checked": 33,
       "errors": 0
     }
