@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T09:51:23.631Z",
+  "generatedAt": "2026-08-14T10:48:32.353Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,34 +83,37 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "lqn20E3RFEg",
+      "title": "LIVE: Search and rescue operations continue in Colombia",
+      "thumbnail": "https://i.ytimg.com/vi/lqn20E3RFEg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "6hRidot8fF0",
-      "title": "LIVE: Group of activists approach Palestinian homes under siege",
-      "thumbnail": "https://i.ytimg.com/vi/6hRidot8fF0/hqdefault.jpg"
+      "videoId": "4LGAZ4sk9Pw",
+      "title": "LIVE: London hit by fifth heatwave",
+      "thumbnail": "https://i.ytimg.com/vi/4LGAZ4sk9Pw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "U43vfWtx-vU",
+      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-oevukmErHM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/-oevukmErHM/hqdefault.jpg"
+      "videoId": "7bwu7DuTgrI",
+      "title": "LIVE: NBC News NOW - Aug. 14",
+      "thumbnail": "https://i.ytimg.com/vi/7bwu7DuTgrI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "TQIvGhiZ6SM",
-      "title": "Stourbridge homes destroyed by devastating wildfires | UK heatwave",
-      "thumbnail": "https://i.ytimg.com/vi/TQIvGhiZ6SM/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-14T09:51:23.631Z",
+      "at": "2026-08-14T10:48:32.353Z",
       "checked": 33,
       "errors": 0
     }
