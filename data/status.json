@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:57:47.737Z",
+  "generatedAt": "2026-08-15T12:51:36.911Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "fb7eZN1r80E",
+      "title": "LIVE: ABC News Live - Saturday, August 15 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/fb7eZN1r80E/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "O854wKMstzw",
-      "title": "Homes destroyed following West Midlands wildfire",
-      "thumbnail": "https://i.ytimg.com/vi/O854wKMstzw/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T11:57:47.737Z",
+      "at": "2026-08-15T12:51:36.911Z",
       "checked": 33,
       "errors": 0
     }
