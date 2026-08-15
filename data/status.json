@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T13:50:32.484Z",
+  "generatedAt": "2026-08-15T14:10:36.329Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "2sZaYvegnNk",
+      "title": "Bonnie Tyler fans pay their respects ahead of funeral",
+      "thumbnail": "https://i.ytimg.com/vi/2sZaYvegnNk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -171,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "q-z7gcXul_w",
-      "title": "Nvidia’s $500B Plan, US Readies ‘Economic Isolation’ Plan | Bloomberg This Weekend: Aug 14, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/q-z7gcXul_w/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T13:50:32.484Z",
+      "at": "2026-08-15T14:10:36.329Z",
       "checked": 33,
       "errors": 0
     }
