@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T11:21:10.386Z",
+  "generatedAt": "2026-08-15T11:41:14.491Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "O854wKMstzw",
+      "title": "Homes destroyed following West Midlands wildfire",
+      "thumbnail": "https://i.ytimg.com/vi/O854wKMstzw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T11:21:10.386Z",
+      "at": "2026-08-15T11:41:14.491Z",
       "checked": 33,
       "errors": 0
     }
