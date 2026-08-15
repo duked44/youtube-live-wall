@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T08:49:24.951Z",
+  "generatedAt": "2026-08-15T09:13:01.557Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "l0AQfLKBTtM",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/l0AQfLKBTtM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -138,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "w8V-nA9wSZo",
-      "title": "Former Cambridge professor Jason Arday found dead after plagiarism row | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/w8V-nA9wSZo/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T08:49:24.951Z",
+      "at": "2026-08-15T09:13:01.557Z",
       "checked": 33,
       "errors": 0
     }
