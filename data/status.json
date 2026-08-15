@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T06:52:36.298Z",
+  "generatedAt": "2026-08-15T07:24:32.011Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -139,7 +139,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "w8V-nA9wSZo",
-      "title": "Mornings | Saturday 15 August",
+      "title": "Former Cambridge professor Jason Arday found dead after plagiarism row | Mornings",
       "thumbnail": "https://i.ytimg.com/vi/w8V-nA9wSZo/hqdefault.jpg"
     },
     {
@@ -238,12 +238,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 32,
-      "channelChecks": 1056,
+      "runs": 33,
+      "channelChecks": 1089,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T06:52:36.298Z",
+      "at": "2026-08-15T07:24:32.011Z",
       "checked": 33,
       "errors": 0
     }
