@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T03:23:44.759Z",
+  "generatedAt": "2026-08-15T04:03:41.771Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "AzDMkgzDP2Y",
-      "title": "India Independence Day 2026 LIVE: Modi addresses the nation",
-      "thumbnail": "https://i.ytimg.com/vi/AzDMkgzDP2Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -244,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 28,
-      "channelChecks": 924,
+      "runs": 29,
+      "channelChecks": 957,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T03:23:44.759Z",
+      "at": "2026-08-15T04:03:41.771Z",
       "checked": 33,
       "errors": 0
     }
