@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T04:03:41.771Z",
+  "generatedAt": "2026-08-15T04:43:23.762Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -116,10 +116,7 @@
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "839xsj8A638",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/839xsj8A638/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T04:03:41.771Z",
+      "at": "2026-08-15T04:43:23.762Z",
       "checked": 33,
       "errors": 0
     }
