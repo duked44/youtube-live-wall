@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T02:40:24.551Z",
+  "generatedAt": "2026-08-15T03:23:44.759Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "U43vfWtx-vU",
-      "title": "LIVE: ABC News Live - Friday, August 14 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/U43vfWtx-vU/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-15T02:40:24.551Z",
+      "at": "2026-08-15T03:23:44.759Z",
       "checked": 33,
       "errors": 0
     }
