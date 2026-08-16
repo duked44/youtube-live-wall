@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T13:53:12.180Z",
+  "generatedAt": "2026-08-16T14:17:00.553Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -171,9 +171,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "hwd80p9KEYI",
-      "title": "Florida's Wild GOP Primary,  Hormuz Ship Attacks Mount | Bloomberg This Weekend: Aug 16, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/hwd80p9KEYI/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-16T13:53:12.180Z",
+      "at": "2026-08-16T14:17:00.553Z",
       "checked": 33,
       "errors": 0
     }
