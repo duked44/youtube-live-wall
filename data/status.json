@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T15:32:19.279Z",
+  "generatedAt": "2026-08-16T15:53:28.874Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-16T15:32:19.279Z",
+      "at": "2026-08-16T15:53:28.874Z",
       "checked": 33,
       "errors": 0
     }
