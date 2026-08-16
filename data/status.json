@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T08:01:38.014Z",
+  "generatedAt": "2026-08-16T08:41:47.225Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -135,9 +135,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "LEudXKt7d5w",
-      "title": "'Serious concerns' early prisoner releases will go wrong | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/LEudXKt7d5w/hqdefault.jpg"
+      "videoId": "lrY7huGNGU0",
+      "title": "Hurricane Lala approaches Hawaiian island",
+      "thumbnail": "https://i.ytimg.com/vi/lrY7huGNGU0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-16T08:01:38.014Z",
+      "at": "2026-08-16T08:41:47.225Z",
       "checked": 33,
       "errors": 0
     }
