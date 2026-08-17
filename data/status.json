@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T12:47:00.308Z",
+  "generatedAt": "2026-08-17T13:29:02.431Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "O0dG5icDgtI",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/O0dG5icDgtI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -95,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "VKPWc0LGcos",
+      "title": "LIVE: Palestinian-American arrives at airport to visit besieged family in Qusra",
+      "thumbnail": "https://i.ytimg.com/vi/VKPWc0LGcos/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "UdnWlLZKySc",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/UdnWlLZKySc/hqdefault.jpg"
+      "videoId": "abroIKVfve4",
+      "title": "Watch Live: Lindsay Clancy murder trial enters fourth week after emotional testimony",
+      "thumbnail": "https://i.ytimg.com/vi/abroIKVfve4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -212,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "KkYnCHk55BA",
+      "title": "LIVE: Aug. 17 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/KkYnCHk55BA/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -244,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 45,
-      "channelChecks": 1485,
+      "runs": 44,
+      "channelChecks": 1452,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T12:47:00.308Z",
+      "at": "2026-08-17T13:29:02.431Z",
       "checked": 33,
       "errors": 0
     }
