@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:11:05.930Z",
+  "generatedAt": "2026-08-17T21:42:32.779Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "i-J-eyPH8ec",
-      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
-      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
+      "videoId": "qlfANC8Q5PE",
+      "title": "PBS News Hour live episode, August 17, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/qlfANC8Q5PE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T21:11:05.930Z",
+      "at": "2026-08-17T21:42:32.779Z",
       "checked": 33,
       "errors": 0
     }
