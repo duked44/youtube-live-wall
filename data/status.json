@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:03:57.760Z",
+  "generatedAt": "2026-08-17T14:39:41.766Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "9BLUvXbuXSQ",
+      "title": "Irish minister hold news conference after five teens killed in car collision in County Kildare",
+      "thumbnail": "https://i.ytimg.com/vi/9BLUvXbuXSQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "eqSP0OwISJQ",
+      "title": "Carney announces new deal for Churchill Falls alongside Quebec, Newfoundland premiers | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/eqSP0OwISJQ/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T14:03:57.760Z",
+      "at": "2026-08-17T14:39:41.766Z",
       "checked": 33,
       "errors": 0
     }
