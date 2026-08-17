@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:45:36.676Z",
+  "generatedAt": "2026-08-17T21:11:05.930Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "8GVroq_szY4",
-      "title": "Tupac murder trial | Day One live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/8GVroq_szY4/hqdefault.jpg"
+      "videoId": "e4ZrGS0XBME",
+      "title": "The Wrap | Trump threatens to bomb Oman over Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/e4ZrGS0XBME/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T20:45:36.676Z",
+      "at": "2026-08-17T21:11:05.930Z",
       "checked": 33,
       "errors": 0
     }
