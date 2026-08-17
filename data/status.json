@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T11:55:58.154Z",
+  "generatedAt": "2026-08-17T12:47:00.308Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "gs2yTDjROsQ",
+      "title": "WATCH LIVE: Lindsay Clancy trial enters week fourth week",
+      "thumbnail": "https://i.ytimg.com/vi/gs2yTDjROsQ/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -84,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "3ClMtFhl3PI",
-      "title": "LIVE: Bonnie Tyler funeral in Wales",
-      "thumbnail": "https://i.ytimg.com/vi/3ClMtFhl3PI/hqdefault.jpg"
+      "videoId": "DCBWoWhsTpA",
+      "title": "LIVE: Lindsay Clancy trial Day 14",
+      "thumbnail": "https://i.ytimg.com/vi/DCBWoWhsTpA/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DAwuO-NunpA",
-      "title": "Fans gather with friends and family for Bonnie Tyler's funeral",
-      "thumbnail": "https://i.ytimg.com/vi/DAwuO-NunpA/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T11:55:58.154Z",
+      "at": "2026-08-17T12:47:00.308Z",
       "checked": 33,
       "errors": 0
     }
