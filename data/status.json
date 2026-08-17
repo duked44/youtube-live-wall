@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T19:22:56.563Z",
+  "generatedAt": "2026-08-17T19:50:18.063Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "abroIKVfve4",
-      "title": "Watch Live: Lindsay Clancy murder trial enters fourth week and as prosecution rests",
-      "thumbnail": "https://i.ytimg.com/vi/abroIKVfve4/hqdefault.jpg"
+      "videoId": "UdnWlLZKySc",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/UdnWlLZKySc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T19:22:56.563Z",
+      "at": "2026-08-17T19:50:18.063Z",
       "checked": 33,
       "errors": 0
     }
