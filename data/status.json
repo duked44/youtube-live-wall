@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T22:58:26.280Z",
+  "generatedAt": "2026-08-17T23:30:01.302Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "UdnWlLZKySc",
+      "videoId": "NO3PwFaNijk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/UdnWlLZKySc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/NO3PwFaNijk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "e4ZrGS0XBME",
-      "title": "The Wrap | Trump threatens to bomb Oman over Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/e4ZrGS0XBME/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "i-J-eyPH8ec",
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T22:58:26.280Z",
+      "at": "2026-08-17T23:30:01.302Z",
       "checked": 33,
       "errors": 0
     }
