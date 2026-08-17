@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:31:53.478Z",
+  "generatedAt": "2026-08-17T04:22:28.921Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "yolhmXllR-c",
-      "title": "LIVE: Indonesia celebrates 81st Independence Day",
-      "thumbnail": "https://i.ytimg.com/vi/yolhmXllR-c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T03:31:53.478Z",
+      "at": "2026-08-17T04:22:28.921Z",
       "checked": 33,
       "errors": 0
     }
