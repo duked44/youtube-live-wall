@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T20:12:01.770Z",
+  "generatedAt": "2026-08-17T20:45:36.676Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -213,9 +213,9 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "LfRBPmE6nLY",
-      "title": "Can the Democrats unite to win the Midterms?? Debate with Neera Tanden",
-      "thumbnail": "https://i.ytimg.com/vi/LfRBPmE6nLY/hqdefault.jpg"
+      "videoId": "s5d9pEUcgRM",
+      "title": "Watch live: Tupac Shakur murder trial begins",
+      "thumbnail": "https://i.ytimg.com/vi/s5d9pEUcgRM/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T20:12:01.770Z",
+      "at": "2026-08-17T20:45:36.676Z",
       "checked": 33,
       "errors": 0
     }
