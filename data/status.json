@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T18:00:58.821Z",
+  "generatedAt": "2026-08-17T18:53:05.703Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "eqqVQPn3Lws",
-      "title": "LIVE: President Trump Hosts Lifeguard Ryder Williams In The Oval Office",
-      "thumbnail": "https://i.ytimg.com/vi/eqqVQPn3Lws/hqdefault.jpg"
+      "videoId": "iyJCZmhGypo",
+      "title": "LIVE: Opening Statements Begin For Tupac Shakur Murder Suspect, Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/iyJCZmhGypo/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "8KKV9OdIIJ0",
-      "title": "WATCH LIVE: Trump greets lifeguard Ryder Williams after viral rescue",
-      "thumbnail": "https://i.ytimg.com/vi/8KKV9OdIIJ0/hqdefault.jpg"
+      "videoId": "FOVmiQQLa-E",
+      "title": "WATCH LIVE: Tupac Shakur murder trial underway",
+      "thumbnail": "https://i.ytimg.com/vi/FOVmiQQLa-E/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,18 +99,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "IPcaznfJDG8",
-      "title": "LIVE: President Trump welcomes teenage lifeguard hero Ryder Williams",
-      "thumbnail": "https://i.ytimg.com/vi/IPcaznfJDG8/hqdefault.jpg"
+      "videoId": "clsaS9qe2qI",
+      "title": "LIVE: Trial for alleged killer of Tupac Shakur",
+      "thumbnail": "https://i.ytimg.com/vi/clsaS9qe2qI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Y0f_XLdExNI",
-      "title": "President Trump meets with 16-year-old lifeguard who saved drowning child",
-      "thumbnail": "https://i.ytimg.com/vi/Y0f_XLdExNI/hqdefault.jpg"
+      "videoId": "p7PCakRGtKc",
+      "title": "LIVE: ABC News Live - Monday, August 17 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/p7PCakRGtKc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "aBXVk_VwgN0",
-      "title": "Trump speaks in Oval Office after threatening to 'bomb the s***' out of Oman",
-      "thumbnail": "https://i.ytimg.com/vi/aBXVk_VwgN0/hqdefault.jpg"
+      "videoId": "8GVroq_szY4",
+      "title": "Tupac murder trial | Day One live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/8GVroq_szY4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "aOrmI773lbQ",
-      "title": "WATCH LIVE: Trump meets teen lifeguard who rescued child in California",
-      "thumbnail": "https://i.ytimg.com/vi/aOrmI773lbQ/hqdefault.jpg"
+      "videoId": "i-J-eyPH8ec",
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -256,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 42,
-      "channelChecks": 1386,
+      "runs": 41,
+      "channelChecks": 1353,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T18:00:58.821Z",
+      "at": "2026-08-17T18:53:05.703Z",
       "checked": 33,
       "errors": 0
     }
