@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:59:34.863Z",
+  "generatedAt": "2026-08-17T17:35:39.254Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "iyJCZmhGypo",
-      "title": "LIVE: Opening Statements Begin For Tupac Shakur Murder Suspect, Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/iyJCZmhGypo/hqdefault.jpg"
+      "videoId": "eqqVQPn3Lws",
+      "title": "LIVE: President Trump Hosts Lifeguard Ryder Williams At The White House",
+      "thumbnail": "https://i.ytimg.com/vi/eqqVQPn3Lws/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -143,10 +143,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "sDZwDOm7E_M",
-      "title": "LIVE: House Democrats examine deadly ICE shooting",
-      "thumbnail": "https://i.ytimg.com/vi/sDZwDOm7E_M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -207,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "i-J-eyPH8ec",
-      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
-      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
+      "videoId": "aOrmI773lbQ",
+      "title": "WATCH LIVE: Trump meets teen lifeguard who rescued child in California",
+      "thumbnail": "https://i.ytimg.com/vi/aOrmI773lbQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -245,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "eqSP0OwISJQ",
-      "title": "Carney announces new deal for Churchill Falls alongside Quebec, Newfoundland premiers | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/eqSP0OwISJQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -262,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 43,
-      "channelChecks": 1419,
+      "runs": 42,
+      "channelChecks": 1386,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T16:59:34.863Z",
+      "at": "2026-08-17T17:35:39.254Z",
       "checked": 33,
       "errors": 0
     }
