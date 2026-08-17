@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T15:01:45.194Z",
+  "generatedAt": "2026-08-17T15:35:26.858Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -127,7 +127,7 @@
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
       "videoId": "abroIKVfve4",
-      "title": "Watch Live: Lindsay Clancy murder trial enters fourth week after emotional testimony",
+      "title": "Watch Live: Lindsay Clancy murder trial enters fourth week and as prosecution rests",
       "thumbnail": "https://i.ytimg.com/vi/abroIKVfve4/hqdefault.jpg"
     },
     {
@@ -259,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 44,
-      "channelChecks": 1452,
+      "runs": 43,
+      "channelChecks": 1419,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T15:01:45.194Z",
+      "at": "2026-08-17T15:35:26.858Z",
       "checked": 33,
       "errors": 0
     }
