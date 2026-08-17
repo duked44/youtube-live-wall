@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T23:55:23.843Z",
+  "generatedAt": "2026-08-17T01:16:51.654Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,13 +83,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "yolhmXllR-c",
+      "title": "LIVE: Indonesia celebrates 81st Independence Day",
+      "thumbnail": "https://i.ytimg.com/vi/yolhmXllR-c/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Il54tZ43tDI",
+      "title": "LIVE: Hurricane Lala hits Hawaii's Big Island",
+      "thumbnail": "https://i.ytimg.com/vi/Il54tZ43tDI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -240,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-16T23:55:23.843Z",
+      "at": "2026-08-17T01:16:51.654Z",
       "checked": 33,
       "errors": 0
     }
