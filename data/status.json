@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T09:01:52.630Z",
+  "generatedAt": "2026-08-17T09:53:40.775Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "LeLOjO0oidI",
-      "title": "New planning changes come into effect today as govt tries to turbocharge housebuilding | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/LeLOjO0oidI/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -238,12 +238,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 47,
-      "channelChecks": 1551,
+      "runs": 46,
+      "channelChecks": 1518,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T09:01:52.630Z",
+      "at": "2026-08-17T09:53:40.775Z",
       "checked": 33,
       "errors": 0
     }
