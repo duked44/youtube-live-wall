@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T14:39:41.766Z",
+  "generatedAt": "2026-08-17T15:01:45.194Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "DCBWoWhsTpA",
-      "title": "LIVE: Lindsay Clancy trial Day 14",
-      "thumbnail": "https://i.ytimg.com/vi/DCBWoWhsTpA/hqdefault.jpg"
+      "videoId": "_qv6Uw7g2RA",
+      "title": "LIVE: Opening statements begin in trial over Tupac Shakur killing",
+      "thumbnail": "https://i.ytimg.com/vi/_qv6Uw7g2RA/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "9BLUvXbuXSQ",
-      "title": "Irish minister hold news conference after five teens killed in car collision in County Kildare",
-      "thumbnail": "https://i.ytimg.com/vi/9BLUvXbuXSQ/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T14:39:41.766Z",
+      "at": "2026-08-17T15:01:45.194Z",
       "checked": 33,
       "errors": 0
     }
