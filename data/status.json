@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T18:16:08.844Z",
+  "generatedAt": "2026-08-18T19:01:54.700Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -91,7 +91,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "MD_HYRrD7S4",
-      "title": "LIVE: Tupac Shakur murder trial enters second day",
+      "title": "LIVE: Tupac Shakur murder trial Day 2",
       "thumbnail": "https://i.ytimg.com/vi/MD_HYRrD7S4/hqdefault.jpg"
     },
     {
@@ -212,7 +212,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "V82f7qJybk4",
+      "title": "Did Ossoff go too far in his attacks against Trump? Debate with Chris Hahn and Batya Ungar-Sargon",
+      "thumbnail": "https://i.ytimg.com/vi/V82f7qJybk4/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -243,9 +246,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "eq5971iOflU",
-      "title": "BC provincial health officer holds news conference amid wildfire smoke warnings | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/eq5971iOflU/hqdefault.jpg"
+      "videoId": "4R6ZBRyR1_I",
+      "title": "Officials share update on what’s next for Canada’s 2026 wildfire season | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/4R6ZBRyR1_I/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T18:16:08.844Z",
+      "at": "2026-08-18T19:01:54.700Z",
       "checked": 33,
       "errors": 0
     }
