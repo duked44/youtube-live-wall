@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T22:55:16.909Z",
+  "generatedAt": "2026-08-18T23:21:43.034Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "WVMN4hoZC-0",
+      "videoId": "Q-h2KkagtiA",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/WVMN4hoZC-0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Q-h2KkagtiA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RfrV8C8fRPI",
-      "title": "Three family members dead after incident in Shoreham | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/RfrV8C8fRPI/hqdefault.jpg"
+      "videoId": "hT2uznDztg0",
+      "title": "Tupac murder trial | Day two live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/hT2uznDztg0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +207,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "-iQpR9H0WAQ",
-      "title": "PBS News Hour live episode, August 18, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/-iQpR9H0WAQ/hqdefault.jpg"
+      "videoId": "i-J-eyPH8ec",
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "YMGEF2glV7o",
-      "title": "The Mystery of France's Deepest Shipwreck | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/YMGEF2glV7o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T22:55:16.909Z",
+      "at": "2026-08-18T23:21:43.034Z",
       "checked": 33,
       "errors": 0
     }
