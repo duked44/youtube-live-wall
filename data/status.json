@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:23:13.418Z",
+  "generatedAt": "2026-08-18T20:48:13.148Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "MxH7E2ZAm6g",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with more testimony after mom, sister take stand",
-      "thumbnail": "https://i.ytimg.com/vi/MxH7E2ZAm6g/hqdefault.jpg"
+      "videoId": "WVMN4hoZC-0",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/WVMN4hoZC-0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -212,10 +212,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "V82f7qJybk4",
-      "title": "Did Ossoff go too far in his attacks against Trump? Debate with Chris Hahn and Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/V82f7qJybk4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T20:23:13.418Z",
+      "at": "2026-08-18T20:48:13.148Z",
       "checked": 33,
       "errors": 0
     }
