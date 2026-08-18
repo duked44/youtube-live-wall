@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-18T21:57:39.438Z",
+  "generatedAt": "2026-08-18T22:31:10.093Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "N_5fL6WjXhU",
+      "title": "Iran War LIVE Updates, Plus Other Top Stories - Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/N_5fL6WjXhU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -27,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "SpYL8gj1mhg",
-      "title": "WATCH LIVE: State AG’s hold press conference following day 1 of Meta trial",
-      "thumbnail": "https://i.ytimg.com/vi/SpYL8gj1mhg/hqdefault.jpg"
+      "videoId": "mgW9g-dWlB4",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/mgW9g-dWlB4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "fTL7nZm36gs",
-      "title": "LIVE: Outside court for Meta child-addiction trial",
-      "thumbnail": "https://i.ytimg.com/vi/fTL7nZm36gs/hqdefault.jpg"
+      "videoId": "FevgAXdM3x0",
+      "title": "LIVE: Tupac Shakur murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/FevgAXdM3x0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "EGnpkdwzWIs",
+      "videoId": "uLZtgjk4sPE",
       "title": "LIVE: NBC News NOW - Aug. 18",
-      "thumbnail": "https://i.ytimg.com/vi/EGnpkdwzWIs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/uLZtgjk4sPE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -214,7 +217,7 @@
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
       "videoId": "YMGEF2glV7o",
-      "title": "France's Deepest Shipwreck Has Just Been Discovered | Hot Take with Jesse Weber",
+      "title": "The Mystery of France's Deepest Shipwreck | Hot Take with Jesse Weber",
       "thumbnail": "https://i.ytimg.com/vi/YMGEF2glV7o/hqdefault.jpg"
     },
     {
@@ -222,9 +225,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "5xyk2-9GuUo",
-      "title": "LIVE: Aug. 18 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/5xyk2-9GuUo/hqdefault.jpg"
+      "videoId": "T1JP00HFLnE",
+      "title": "Headline: Mangione's state case is postponed, and Big Bend construction paused amid protests",
+      "thumbnail": "https://i.ytimg.com/vi/T1JP00HFLnE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T21:57:39.438Z",
+      "at": "2026-08-18T22:31:10.093Z",
       "checked": 33,
       "errors": 0
     }
