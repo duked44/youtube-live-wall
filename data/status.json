@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:10:34.756Z",
+  "generatedAt": "2026-08-18T21:38:30.331Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "mgW9g-dWlB4",
-      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/mgW9g-dWlB4/hqdefault.jpg"
+      "videoId": "SpYL8gj1mhg",
+      "title": "WATCH LIVE: State AG’s hold press conference following day 1 of Meta trial",
+      "thumbnail": "https://i.ytimg.com/vi/SpYL8gj1mhg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "i-J-eyPH8ec",
-      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
-      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
+      "videoId": "-iQpR9H0WAQ",
+      "title": "PBS News Hour live episode, August 18, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/-iQpR9H0WAQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T21:10:34.756Z",
+      "at": "2026-08-18T21:38:30.331Z",
       "checked": 33,
       "errors": 0
     }
