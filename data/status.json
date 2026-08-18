@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:04:56.728Z",
+  "generatedAt": "2026-08-18T15:43:52.617Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -13,7 +13,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "F4jqV9z7oSM",
-      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "title": "WATCH LIVE: Lindsay Clancy Murder Trial Day 15",
       "thumbnail": "https://i.ytimg.com/vi/F4jqV9z7oSM/hqdefault.jpg"
     },
     {
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "1tyKO8mTdOM",
-      "title": "LIVE: Lindsay Clancy trial Day 15",
-      "thumbnail": "https://i.ytimg.com/vi/1tyKO8mTdOM/hqdefault.jpg"
+      "videoId": "MD_HYRrD7S4",
+      "title": "LIVE: Tupac Shakur murder trial enters second day",
+      "thumbnail": "https://i.ytimg.com/vi/MD_HYRrD7S4/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T15:04:56.728Z",
+      "at": "2026-08-18T15:43:52.617Z",
       "checked": 33,
       "errors": 0
     }
