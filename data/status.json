@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T04:37:21.652Z",
+  "generatedAt": "2026-08-18T05:07:15.474Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "szJvkpYt4vg",
+      "title": "Russia threatens UK over Kyiv's alleged use of 'British drones' to strike its territory | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/szJvkpYt4vg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T04:37:21.652Z",
+      "at": "2026-08-18T05:07:15.474Z",
       "checked": 33,
       "errors": 0
     }
