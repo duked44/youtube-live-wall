@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T13:04:46.621Z",
+  "generatedAt": "2026-08-18T13:54:13.895Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "F4jqV9z7oSM",
+      "title": "WATCH LIVE: Public Court Hearing Held For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/F4jqV9z7oSM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -25,7 +28,7 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "yWkVVorS0Vs",
-      "title": "WATCH LIVE: Lindsay Clancy trial continues in Massachusetts",
+      "title": "WATCH LIVE: Lindsay Clancy trial continues, witnesses called",
       "thumbnail": "https://i.ytimg.com/vi/yWkVVorS0Vs/hqdefault.jpg"
     },
     {
@@ -123,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "WVMN4hoZC-0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/WVMN4hoZC-0/hqdefault.jpg"
+      "videoId": "MxH7E2ZAm6g",
+      "title": "Watch Live: Lindsay Clancy murder trial continues with more testimony after mom, sister take stand",
+      "thumbnail": "https://i.ytimg.com/vi/MxH7E2ZAm6g/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T13:04:46.621Z",
+      "at": "2026-08-18T13:54:13.895Z",
       "checked": 33,
       "errors": 0
     }
