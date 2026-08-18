@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T07:09:52.270Z",
+  "generatedAt": "2026-08-18T07:54:15.601Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,7 +83,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "yxQGNu7S5PE",
+      "title": "LIVE: NATO military exercise in Romania",
+      "thumbnail": "https://i.ytimg.com/vi/yxQGNu7S5PE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T07:09:52.270Z",
+      "at": "2026-08-18T07:54:15.601Z",
       "checked": 33,
       "errors": 0
     }
