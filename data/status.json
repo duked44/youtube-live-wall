@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:43:52.617Z",
+  "generatedAt": "2026-08-18T16:11:55.216Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "F4jqV9z7oSM",
-      "title": "WATCH LIVE: Lindsay Clancy Murder Trial Day 15",
-      "thumbnail": "https://i.ytimg.com/vi/F4jqV9z7oSM/hqdefault.jpg"
+      "videoId": "fSYJC8YFL38",
+      "title": "LIVE: Day 2 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/fSYJC8YFL38/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "yWkVVorS0Vs",
-      "title": "WATCH LIVE: Lindsay Clancy trial continues, witnesses called",
-      "thumbnail": "https://i.ytimg.com/vi/yWkVVorS0Vs/hqdefault.jpg"
+      "videoId": "mgW9g-dWlB4",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/mgW9g-dWlB4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "puVhoPFf_d0",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/puVhoPFf_d0/hqdefault.jpg"
+      "videoId": "FevgAXdM3x0",
+      "title": "LIVE: Tupac Shakur murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/FevgAXdM3x0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "hT2uznDztg0",
+      "title": "Tupac murder trial | Day two live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/hT2uznDztg0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T15:43:52.617Z",
+      "at": "2026-08-18T16:11:55.216Z",
       "checked": 33,
       "errors": 0
     }
