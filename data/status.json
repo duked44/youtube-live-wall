@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T09:47:29.281Z",
+  "generatedAt": "2026-08-18T10:14:03.347Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "9T32bC7MTBs",
+      "title": "LIVE: ABC News Live - Tuesday, August 18 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/9T32bC7MTBs/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T09:47:29.281Z",
+      "at": "2026-08-18T10:14:03.347Z",
       "checked": 33,
       "errors": 0
     }
