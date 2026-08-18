@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T10:49:46.020Z",
+  "generatedAt": "2026-08-18T11:13:22.228Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "yWkVVorS0Vs",
+      "title": "WATCH LIVE: Lindsay Clancy trial continues in Massachusetts",
+      "thumbnail": "https://i.ytimg.com/vi/yWkVVorS0Vs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -117,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "NO3PwFaNijk",
+      "videoId": "WVMN4hoZC-0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/NO3PwFaNijk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/WVMN4hoZC-0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T10:49:46.020Z",
+      "at": "2026-08-18T11:13:22.228Z",
       "checked": 33,
       "errors": 0
     }
