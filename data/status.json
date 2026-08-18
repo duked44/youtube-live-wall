@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:38:30.331Z",
+  "generatedAt": "2026-08-18T21:57:39.438Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -212,7 +212,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "YMGEF2glV7o",
+      "title": "France's Deepest Shipwreck Has Just Been Discovered | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/YMGEF2glV7o/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T21:38:30.331Z",
+      "at": "2026-08-18T21:57:39.438Z",
       "checked": 33,
       "errors": 0
     }
