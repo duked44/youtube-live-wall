@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T23:51:51.510Z",
+  "generatedAt": "2026-08-18T00:40:20.640Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "iyJCZmhGypo",
-      "title": "LIVE: Opening Statements Begin For Tupac Shakur Murder Suspect, Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/iyJCZmhGypo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -26,10 +23,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "FOVmiQQLa-E",
-      "title": "WATCH LIVE: Tupac Shakur murder trial underway",
-      "thumbnail": "https://i.ytimg.com/vi/FOVmiQQLa-E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,19 +83,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "_qv6Uw7g2RA",
-      "title": "LIVE: Opening statements begin in trial over Tupac Shakur killing",
-      "thumbnail": "https://i.ytimg.com/vi/_qv6Uw7g2RA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "clsaS9qe2qI",
-      "title": "LIVE: Trial for alleged killer of Tupac Shakur",
-      "thumbnail": "https://i.ytimg.com/vi/clsaS9qe2qI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -258,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-17T23:51:51.510Z",
+      "at": "2026-08-18T00:40:20.640Z",
       "checked": 33,
       "errors": 0
     }
