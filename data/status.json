@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T05:07:15.474Z",
+  "generatedAt": "2026-08-18T05:43:51.250Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -206,7 +206,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "5xyk2-9GuUo",
+      "title": "LIVE: Aug. 18 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/5xyk2-9GuUo/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -238,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 39,
-      "channelChecks": 1287,
+      "runs": 40,
+      "channelChecks": 1320,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T05:07:15.474Z",
+      "at": "2026-08-18T05:43:51.250Z",
       "checked": 33,
       "errors": 0
     }
