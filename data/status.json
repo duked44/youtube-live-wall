@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T00:40:20.640Z",
+  "generatedAt": "2026-08-18T02:05:45.884Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "78A64fQu5sU",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 17",
-      "thumbnail": "https://i.ytimg.com/vi/78A64fQu5sU/hqdefault.jpg"
+      "videoId": "9zkIVA4uTow",
+      "title": "LIVE: NBC News NOW - Aug. 17",
+      "thumbnail": "https://i.ytimg.com/vi/9zkIVA4uTow/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -200,10 +200,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "s5d9pEUcgRM",
-      "title": "Watch live: Tupac Shakur murder trial begins",
-      "thumbnail": "https://i.ytimg.com/vi/s5d9pEUcgRM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T00:40:20.640Z",
+      "at": "2026-08-18T02:05:45.884Z",
       "checked": 33,
       "errors": 0
     }
