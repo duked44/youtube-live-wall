@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:11:51.440Z",
+  "generatedAt": "2026-08-19T10:47:51.456Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -211,17 +211,14 @@
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
       "videoId": "T1JP00HFLnE",
-      "title": "Headline: Mangione's state case is postponed, and Big Bend construction paused amid protests",
+      "title": "LIVE - Scripps News coverage of news and politics",
       "thumbnail": "https://i.ytimg.com/vi/T1JP00HFLnE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "BZwPTjhkaAY",
-      "title": "Shadow energy secretary to hold press conference on net zero plans - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/BZwPTjhkaAY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T10:11:51.440Z",
+      "at": "2026-08-19T10:47:51.456Z",
       "checked": 33,
       "errors": 0
     }
