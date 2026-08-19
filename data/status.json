@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T12:02:31.405Z",
+  "generatedAt": "2026-08-19T13:05:04.633Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "z4pwgridHdI",
+      "title": "LIVE: Day 16 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/z4pwgridHdI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RjhWFqUFdDQ",
-      "title": "Would UK be ready for Russian attacks? Is Zelenskyy really in danger? | Michael Clarke live Q&A",
-      "thumbnail": "https://i.ytimg.com/vi/RjhWFqUFdDQ/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -214,7 +217,7 @@
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
       "videoId": "T1JP00HFLnE",
-      "title": "LIVE - Scripps News coverage of news and politics",
+      "title": "LIVE: Aug. 19 — Breaking News & Top Headlines",
       "thumbnail": "https://i.ytimg.com/vi/T1JP00HFLnE/hqdefault.jpg"
     },
     {
@@ -247,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 41,
-      "channelChecks": 1353,
+      "runs": 40,
+      "channelChecks": 1320,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T12:02:31.405Z",
+      "at": "2026-08-19T13:05:04.633Z",
       "checked": 33,
       "errors": 0
     }
