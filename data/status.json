@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T11:11:47.326Z",
+  "generatedAt": "2026-08-19T11:42:28.950Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "dGQJLGtSkM4",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts",
+      "thumbnail": "https://i.ytimg.com/vi/dGQJLGtSkM4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T11:11:47.326Z",
+      "at": "2026-08-19T11:42:28.950Z",
       "checked": 33,
       "errors": 0
     }
