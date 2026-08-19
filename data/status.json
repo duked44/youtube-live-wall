@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:19:21.275Z",
+  "generatedAt": "2026-08-19T09:04:14.959Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,16 +83,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "D5L_c9Mla1U",
+      "title": "LIVE: Lindsay Clancy trial Day 16",
+      "thumbnail": "https://i.ytimg.com/vi/D5L_c9Mla1U/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "1x1yXOh9z7k",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/1x1yXOh9z7k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T08:19:21.275Z",
+      "at": "2026-08-19T09:04:14.959Z",
       "checked": 33,
       "errors": 0
     }
