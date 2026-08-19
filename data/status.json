@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:50:08.214Z",
+  "generatedAt": "2026-08-19T19:16:15.195Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -13,7 +13,7 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "Yo109FMCVdM",
-      "title": "LIVE: President Trump Delivers Remarks To Technology Leaders At The White House",
+      "title": "LIVE: President Trump Delivers Remarks With Technology Leaders At The White House",
       "thumbnail": "https://i.ytimg.com/vi/Yo109FMCVdM/hqdefault.jpg"
     },
     {
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "tUtEMywCA6E",
-      "title": "WATCH LIVE: Mario Fernandez Saldana stands trial in Microsoft exec murder case",
-      "thumbnail": "https://i.ytimg.com/vi/tUtEMywCA6E/hqdefault.jpg"
+      "videoId": "AT_zUuK4Pfc",
+      "title": "WATCH LIVE: Trump meets with tech leaders at White House",
+      "thumbnail": "https://i.ytimg.com/vi/AT_zUuK4Pfc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "FpMzhVQkKd0",
-      "title": "LIVE: Trump speaks at a meeting with tech leaders",
-      "thumbnail": "https://i.ytimg.com/vi/FpMzhVQkKd0/hqdefault.jpg"
+      "videoId": "vPsFper_wV4",
+      "title": "LIVE: Tupac Shakur murder trial Day 3",
+      "thumbnail": "https://i.ytimg.com/vi/vPsFper_wV4/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "n2azbZ1VZmU",
-      "title": "Trial for Lindsay Clancy, the Massachusetts mother accused of killing her three children: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/n2azbZ1VZmU/hqdefault.jpg"
+      "videoId": "ct-tv3D9aQc",
+      "title": "President Trump delivers remarks with technology leaders at the White House: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ct-tv3D9aQc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T18:50:08.214Z",
+      "at": "2026-08-19T19:16:15.195Z",
       "checked": 33,
       "errors": 0
     }
