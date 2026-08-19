@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T23:43:53.247Z",
+  "generatedAt": "2026-08-19T00:01:27.101Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "mgW9g-dWlB4",
-      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/mgW9g-dWlB4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "FevgAXdM3x0",
-      "title": "LIVE: Tupac Shakur murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/FevgAXdM3x0/hqdefault.jpg"
+      "videoId": "1x1yXOh9z7k",
+      "title": "LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/1x1yXOh9z7k/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mVFyEKkQUkU",
-      "title": "LIVE: Steve Kornacki analyzes primary election results in Florida, key updates from WY, AK",
-      "thumbnail": "https://i.ytimg.com/vi/mVFyEKkQUkU/hqdefault.jpg"
+      "videoId": "QS_pZbsvfvg",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 18",
+      "thumbnail": "https://i.ytimg.com/vi/QS_pZbsvfvg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "hT2uznDztg0",
-      "title": "Tupac murder trial | Day two live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/hT2uznDztg0/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-18T23:43:53.247Z",
+      "at": "2026-08-19T00:01:27.101Z",
       "checked": 33,
       "errors": 0
     }
