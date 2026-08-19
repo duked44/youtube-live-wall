@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T00:01:27.101Z",
+  "generatedAt": "2026-08-19T01:48:35.957Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,7 +86,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "2I2nvY_ZKRY",
+      "title": "SpaceX launch LIVE: Falcon 9 rocket launches Starlink satellites",
+      "thumbnail": "https://i.ytimg.com/vi/2I2nvY_ZKRY/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "QS_pZbsvfvg",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 18",
-      "thumbnail": "https://i.ytimg.com/vi/QS_pZbsvfvg/hqdefault.jpg"
+      "videoId": "uLZtgjk4sPE",
+      "title": "LIVE: NBC News NOW - Aug. 18",
+      "thumbnail": "https://i.ytimg.com/vi/uLZtgjk4sPE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T00:01:27.101Z",
+      "at": "2026-08-19T01:48:35.957Z",
       "checked": 33,
       "errors": 0
     }
