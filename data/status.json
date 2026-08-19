@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T09:04:14.959Z",
+  "generatedAt": "2026-08-19T09:43:36.074Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "7tOgLc_7AdI",
-      "title": "Burnham vows to give rough sleepers immediate route off the streets this Christmas | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/7tOgLc_7AdI/hqdefault.jpg"
+      "videoId": "yERpLs3iMj0",
+      "title": "Shadow energy secretary outlines alternative to net zero",
+      "thumbnail": "https://i.ytimg.com/vi/yERpLs3iMj0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +218,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "BZwPTjhkaAY",
+      "title": "Shadow energy secretary to hold press conference on net zero plans - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/BZwPTjhkaAY/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T09:04:14.959Z",
+      "at": "2026-08-19T09:43:36.074Z",
       "checked": 33,
       "errors": 0
     }
