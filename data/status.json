@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T18:02:45.130Z",
+  "generatedAt": "2026-08-19T18:50:08.214Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "z4pwgridHdI",
-      "title": "LIVE: Day 16 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/z4pwgridHdI/hqdefault.jpg"
+      "videoId": "Yo109FMCVdM",
+      "title": "LIVE: President Trump Delivers Remarks To Technology Leaders At The White House",
+      "thumbnail": "https://i.ytimg.com/vi/Yo109FMCVdM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -90,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "D5L_c9Mla1U",
-      "title": "LIVE: Lindsay Clancy trial Day 16",
-      "thumbnail": "https://i.ytimg.com/vi/D5L_c9Mla1U/hqdefault.jpg"
+      "videoId": "FpMzhVQkKd0",
+      "title": "LIVE: Trump speaks at a meeting with tech leaders",
+      "thumbnail": "https://i.ytimg.com/vi/FpMzhVQkKd0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Y3eHiWRehT0",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/Y3eHiWRehT0/hqdefault.jpg"
+      "videoId": "K3_mcCs8Z8I",
+      "title": "LIVE: President Trump speaks alongside crypto executives at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/K3_mcCs8Z8I/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "RqyyUErrj74",
-      "title": "LIVE: NBC News NOW - Aug. 19",
-      "thumbnail": "https://i.ytimg.com/vi/RqyyUErrj74/hqdefault.jpg"
+      "videoId": "BKHJNeNxzm4",
+      "title": "LIVE: Trump meets with technology leaders at the White House | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/BKHJNeNxzm4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "dl53xT0RWC0",
-      "title": "Watch Live: Lindsay Clancy trial continues after psychologist testifies she heard voices | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/dl53xT0RWC0/hqdefault.jpg"
+      "videoId": "kI4_wfy4jdA",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/kI4_wfy4jdA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "bPlHSBFJMys",
+      "title": "Trump hosts tech leaders at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/bPlHSBFJMys/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,7 +215,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "YHhZAn4X8wY",
+      "title": "Are Republicans or Democrats doing a better job policing the party extremes? Prove it! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/YHhZAn4X8wY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T18:02:45.130Z",
+      "at": "2026-08-19T18:50:08.214Z",
       "checked": 33,
       "errors": 0
     }
