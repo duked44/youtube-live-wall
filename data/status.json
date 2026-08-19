@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:33:50.610Z",
+  "generatedAt": "2026-08-19T22:57:01.729Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "5tjfEJPFrPE",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/5tjfEJPFrPE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -201,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "fGKDFSbFJ50",
-      "title": "PBS News Hour live episode, August 19, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/fGKDFSbFJ50/hqdefault.jpg"
+      "videoId": "i-J-eyPH8ec",
+      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
+      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T22:33:50.610Z",
+      "at": "2026-08-19T22:57:01.729Z",
       "checked": 33,
       "errors": 0
     }
