@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T22:57:01.729Z",
+  "generatedAt": "2026-08-19T23:27:09.205Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "kI4_wfy4jdA",
+      "videoId": "9-cEkFFV7iU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/kI4_wfy4jdA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/9-cEkFFV7iU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "I0VGgqUjCIE",
-      "title": "Harry and Meghan set to move back to UK | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/I0VGgqUjCIE/hqdefault.jpg"
+      "videoId": "qhK6RdiUNnE",
+      "title": "Day three | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/qhK6RdiUNnE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T22:57:01.729Z",
+      "at": "2026-08-19T23:27:09.205Z",
       "checked": 33,
       "errors": 0
     }
