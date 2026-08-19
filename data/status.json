@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:33:48.984Z",
+  "generatedAt": "2026-08-19T04:19:27.460Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "2I2nvY_ZKRY",
-      "title": "SpaceX launch LIVE: Falcon 9 rocket launches Starlink satellites",
-      "thumbnail": "https://i.ytimg.com/vi/2I2nvY_ZKRY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T03:33:48.984Z",
+      "at": "2026-08-19T04:19:27.460Z",
       "checked": 33,
       "errors": 0
     }
