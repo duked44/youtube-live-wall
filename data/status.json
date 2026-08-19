@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T13:54:37.936Z",
+  "generatedAt": "2026-08-19T14:31:54.273Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "kI4_wfy4jdA",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/kI4_wfy4jdA/hqdefault.jpg"
+      "videoId": "dl53xT0RWC0",
+      "title": "Watch Live: Lindsay Clancy trial continues after psychologist testifies she heard voices | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/dl53xT0RWC0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "i-J-eyPH8ec",
-      "title": "WATCH LIVE: Tipping Point — The Colorado River Reimagined | A PBS News Special",
-      "thumbnail": "https://i.ytimg.com/vi/i-J-eyPH8ec/hqdefault.jpg"
+      "videoId": "t44g0NkIieE",
+      "title": "WATCH LIVE: Trump speaks after hosting cryptocurrency leaders at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/t44g0NkIieE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T13:54:37.936Z",
+      "at": "2026-08-19T14:31:54.273Z",
       "checked": 33,
       "errors": 0
     }
