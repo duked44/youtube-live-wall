@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T20:02:45.539Z",
+  "generatedAt": "2026-08-19T20:40:08.785Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "XTYcUilttHk",
+      "title": "LIVE: Tupac Shakur murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/XTYcUilttHk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -209,10 +212,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "YHhZAn4X8wY",
-      "title": "Are Republicans or Democrats doing a better job policing the party extremes? Prove it! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/YHhZAn4X8wY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T20:02:45.539Z",
+      "at": "2026-08-19T20:40:08.785Z",
       "checked": 33,
       "errors": 0
     }
