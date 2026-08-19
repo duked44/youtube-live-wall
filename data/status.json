@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T13:05:04.633Z",
+  "generatedAt": "2026-08-19T13:54:37.936Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "dGQJLGtSkM4",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues in Massachusetts",
-      "thumbnail": "https://i.ytimg.com/vi/dGQJLGtSkM4/hqdefault.jpg"
+      "videoId": "tUtEMywCA6E",
+      "title": "WATCH LIVE: Mario Fernandez Saldana stands trial in Microsoft exec murder case",
+      "thumbnail": "https://i.ytimg.com/vi/tUtEMywCA6E/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -98,16 +98,19 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Y3eHiWRehT0",
+      "title": "LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/Y3eHiWRehT0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "C9ej8KXShJs",
-      "title": "LIVE: ABC News Live - Wednesday, August 19 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/C9ej8KXShJs/hqdefault.jpg"
+      "videoId": "n2azbZ1VZmU",
+      "title": "Trial for Lindsay Clancy, the Massachusetts mother accused of killing her three children: LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/n2azbZ1VZmU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T13:05:04.633Z",
+      "at": "2026-08-19T13:54:37.936Z",
       "checked": 33,
       "errors": 0
     }
