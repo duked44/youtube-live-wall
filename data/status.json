@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:23:28.480Z",
+  "generatedAt": "2026-08-20T07:22:37.493Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "2anAlqQ-XFE",
-      "title": "LIVE: Humanoid robots at 2026 World Robot Conference in China",
-      "thumbnail": "https://i.ytimg.com/vi/2anAlqQ-XFE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T06:23:28.480Z",
+      "at": "2026-08-20T07:22:37.493Z",
       "checked": 33,
       "errors": 0
     }
