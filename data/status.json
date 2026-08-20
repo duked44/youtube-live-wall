@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:02:55.130Z",
+  "generatedAt": "2026-08-20T10:42:25.194Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -41,10 +41,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "Z0vYfTsqqbs",
-      "title": "LIVE: GCSE Exams Results Day | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/Z0vYfTsqqbs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -95,7 +92,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "0wp_3HHKXUs",
+      "title": "LIVE: Migrants moved from Ceuta beach to reception centres",
+      "thumbnail": "https://i.ytimg.com/vi/0wp_3HHKXUs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "rIcI9r-YMnE",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/rIcI9r-YMnE/hqdefault.jpg"
+      "videoId": "XF3Ppmzl5oc",
+      "title": "LIVE: NBC News NOW - Aug. 20",
+      "thumbnail": "https://i.ytimg.com/vi/XF3Ppmzl5oc/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T10:02:55.130Z",
+      "at": "2026-08-20T10:42:25.194Z",
       "checked": 33,
       "errors": 0
     }
