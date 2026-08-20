@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T15:53:31.127Z",
+  "generatedAt": "2026-08-20T16:28:58.894Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,27 +90,24 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "VQQb9BbgwHg",
-      "title": "LIVE: Lindsay Clancy trial Day 17",
-      "thumbnail": "https://i.ytimg.com/vi/VQQb9BbgwHg/hqdefault.jpg"
+      "videoId": "zNg99lbBa3k",
+      "title": "LIVE: Donald and Melania Trump make an announcement on ‘Fostering the Future’ program",
+      "thumbnail": "https://i.ytimg.com/vi/zNg99lbBa3k/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "Poqm26GuOmU",
-      "title": "LIVE: Lindsay Clancy murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/Poqm26GuOmU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "9TNyScb4MJc",
-      "title": "Trial for Lindsay Clancy, the Massachusetts mother accused of killing her three children: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/9TNyScb4MJc/hqdefault.jpg"
+      "videoId": "qetUoyA1aIY",
+      "title": "LIVE: ABC News Live - Thursday, August 20 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/qetUoyA1aIY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -204,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yfczSza3FY4",
-      "title": "WATCH LIVE: 'Balance of Power: Redistricting, Courts, and the Right to Vote' - 2026 Hutchins Forum",
-      "thumbnail": "https://i.ytimg.com/vi/yfczSza3FY4/hqdefault.jpg"
+      "videoId": "8K1SQ8qZGu8",
+      "title": "WATCH LIVE: INDYCAR hosts Freedom 250 Grand Prix news conference ahead of Washington race",
+      "thumbnail": "https://i.ytimg.com/vi/8K1SQ8qZGu8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T15:53:31.127Z",
+      "at": "2026-08-20T16:28:58.894Z",
       "checked": 33,
       "errors": 0
     }
