@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:03:42.283Z",
+  "generatedAt": "2026-08-20T21:38:50.315Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "7ol4JElsFic",
-      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/7ol4JElsFic/hqdefault.jpg"
+      "videoId": "lTXCrTflnMc",
+      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan",
+      "thumbnail": "https://i.ytimg.com/vi/lTXCrTflnMc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -259,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 38,
-      "channelChecks": 1254,
+      "runs": 37,
+      "channelChecks": 1221,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T21:03:42.283Z",
+      "at": "2026-08-20T21:38:50.315Z",
       "checked": 33,
       "errors": 0
     }
