@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:49:29.616Z",
+  "generatedAt": "2026-08-20T00:25:07.827Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "XTYcUilttHk",
-      "title": "LIVE: Tupac Shakur murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/XTYcUilttHk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-19T23:49:29.616Z",
+      "at": "2026-08-20T00:25:07.827Z",
       "checked": 33,
       "errors": 0
     }
