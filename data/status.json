@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T12:01:37.570Z",
+  "generatedAt": "2026-08-20T13:06:35.389Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "5DKlf0XJk6w",
+      "title": "LIVE: Day 17 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/5DKlf0XJk6w/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -96,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "0wp_3HHKXUs",
-      "title": "LIVE: Migrants moved from Ceuta beach to reception centres",
-      "thumbnail": "https://i.ytimg.com/vi/0wp_3HHKXUs/hqdefault.jpg"
+      "videoId": "Rpi6LHlXUnE",
+      "title": "LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/Rpi6LHlXUnE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -250,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 40,
-      "channelChecks": 1320,
+      "runs": 39,
+      "channelChecks": 1287,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T12:01:37.570Z",
+      "at": "2026-08-20T13:06:35.389Z",
       "checked": 33,
       "errors": 0
     }
