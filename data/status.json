@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T11:05:55.267Z",
+  "generatedAt": "2026-08-20T11:38:52.459Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "lTXCrTflnMc",
+      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan",
+      "thumbnail": "https://i.ytimg.com/vi/lTXCrTflnMc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -120,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "9-cEkFFV7iU",
+      "videoId": "SOHxICmHqv8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/9-cEkFFV7iU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/SOHxICmHqv8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T11:05:55.267Z",
+      "at": "2026-08-20T11:38:52.459Z",
       "checked": 33,
       "errors": 0
     }
