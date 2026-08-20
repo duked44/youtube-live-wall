@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T16:28:58.894Z",
+  "generatedAt": "2026-08-20T17:03:42.298Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -123,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "BssJdzbqDhQ",
-      "title": "Watch Live: Lindsay Clancy trial continues after shocking psychologist's testimony | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/BssJdzbqDhQ/hqdefault.jpg"
+      "videoId": "SOHxICmHqv8",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/SOHxICmHqv8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T16:28:58.894Z",
+      "at": "2026-08-20T17:03:42.298Z",
       "checked": 33,
       "errors": 0
     }
