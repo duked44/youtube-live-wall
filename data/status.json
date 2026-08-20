@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T08:53:08.385Z",
+  "generatedAt": "2026-08-20T09:27:50.716Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,7 +86,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "VQQb9BbgwHg",
+      "title": "LIVE: Lindsay Clancy trial Day 17",
+      "thumbnail": "https://i.ytimg.com/vi/VQQb9BbgwHg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nNICMnR0qUU",
-      "title": "Harry and Meghan moving back to UK this month | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/nNICMnR0qUU/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T08:53:08.385Z",
+      "at": "2026-08-20T09:27:50.716Z",
       "checked": 33,
       "errors": 0
     }
