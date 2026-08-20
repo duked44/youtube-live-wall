@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T01:59:17.973Z",
+  "generatedAt": "2026-08-20T03:05:49.546Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,13 +83,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "X60h9BTlkkg",
+      "title": "LIVE: China hosts 2026 World Robot Conference",
+      "thumbnail": "https://i.ytimg.com/vi/X60h9BTlkkg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "r39i7_LTPOA",
+      "title": "LIVE: World Robot Conference in Beijing",
+      "thumbnail": "https://i.ytimg.com/vi/r39i7_LTPOA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -243,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T01:59:17.973Z",
+      "at": "2026-08-20T03:05:49.546Z",
       "checked": 33,
       "errors": 0
     }
