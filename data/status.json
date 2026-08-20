@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T14:42:08.732Z",
+  "generatedAt": "2026-08-20T15:18:04.860Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,10 +98,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "Rpi6LHlXUnE",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/Rpi6LHlXUnE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T14:42:08.732Z",
+      "at": "2026-08-20T15:18:04.860Z",
       "checked": 33,
       "errors": 0
     }
