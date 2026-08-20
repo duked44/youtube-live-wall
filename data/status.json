@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:40:45.149Z",
+  "generatedAt": "2026-08-20T18:03:18.238Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "0WL5iCMfb_c",
-      "title": "LIVE: Crowds march to Argentina's Economy Ministry",
-      "thumbnail": "https://i.ytimg.com/vi/0WL5iCMfb_c/hqdefault.jpg"
+      "videoId": "XJaGFdD7UjE",
+      "title": "LIVE: Rally against Tunisian president",
+      "thumbnail": "https://i.ytimg.com/vi/XJaGFdD7UjE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -212,7 +212,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "HABQCLqgWZY",
+      "title": "Why are women rallying behind Lindsay Clancy? Debate with Madeline Summerville and Batya",
+      "thumbnail": "https://i.ytimg.com/vi/HABQCLqgWZY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -253,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 39,
-      "channelChecks": 1287,
+      "runs": 38,
+      "channelChecks": 1254,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T17:40:45.149Z",
+      "at": "2026-08-20T18:03:18.238Z",
       "checked": 33,
       "errors": 0
     }
