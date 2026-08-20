@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T17:03:42.298Z",
+  "generatedAt": "2026-08-20T17:40:45.149Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "0WL5iCMfb_c",
+      "title": "LIVE: Crowds march to Argentina's Economy Ministry",
+      "thumbnail": "https://i.ytimg.com/vi/0WL5iCMfb_c/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -201,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "8K1SQ8qZGu8",
-      "title": "WATCH LIVE: INDYCAR hosts Freedom 250 Grand Prix news conference ahead of Washington race",
-      "thumbnail": "https://i.ytimg.com/vi/8K1SQ8qZGu8/hqdefault.jpg"
+      "videoId": "gYuZEo4rZz8",
+      "title": "WATCH LIVE: President Trump and first lady make announcement on Fostering the Future initiative",
+      "thumbnail": "https://i.ytimg.com/vi/gYuZEo4rZz8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T17:03:42.298Z",
+      "at": "2026-08-20T17:40:45.149Z",
       "checked": 33,
       "errors": 0
     }
