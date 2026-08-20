@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T05:15:51.683Z",
+  "generatedAt": "2026-08-20T05:50:48.503Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,10 +92,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "XLawncfQPjU",
-      "title": "LIVE: South Korea conducts nationwide civil defense drill",
-      "thumbnail": "https://i.ytimg.com/vi/XLawncfQPjU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -145,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "nNICMnR0qUU",
-      "title": "Harry and Meghan to move back to UK this month | Mornings",
+      "title": "Harry and Meghan moving back to UK this month | Mornings",
       "thumbnail": "https://i.ytimg.com/vi/nNICMnR0qUU/hqdefault.jpg"
     },
     {
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T05:15:51.683Z",
+      "at": "2026-08-20T05:50:48.503Z",
       "checked": 33,
       "errors": 0
     }
