@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:03:18.238Z",
+  "generatedAt": "2026-08-20T18:55:58.553Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,10 +98,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "XJaGFdD7UjE",
-      "title": "LIVE: Rally against Tunisian president",
-      "thumbnail": "https://i.ytimg.com/vi/XJaGFdD7UjE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T18:03:18.238Z",
+      "at": "2026-08-20T18:55:58.553Z",
       "checked": 33,
       "errors": 0
     }
