@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:06:35.389Z",
+  "generatedAt": "2026-08-20T13:57:28.970Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "lTXCrTflnMc",
-      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan",
-      "thumbnail": "https://i.ytimg.com/vi/lTXCrTflnMc/hqdefault.jpg"
+      "videoId": "jcEB3YKSD64",
+      "title": "WATCH LIVE: Lindsay Clancy trial restarts after SUDDEN jury dismissal",
+      "thumbnail": "https://i.ytimg.com/vi/jcEB3YKSD64/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "SOHxICmHqv8",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/SOHxICmHqv8/hqdefault.jpg"
+      "videoId": "BssJdzbqDhQ",
+      "title": "Watch Live: Lindsay Clancy trial continues after shocking psychologist's testimony | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/BssJdzbqDhQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T13:06:35.389Z",
+      "at": "2026-08-20T13:57:28.970Z",
       "checked": 33,
       "errors": 0
     }
