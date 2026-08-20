@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T09:27:50.716Z",
+  "generatedAt": "2026-08-20T10:02:55.130Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "qetUoyA1aIY",
+      "title": "LIVE: ABC News Live - Thursday, August 20 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/qetUoyA1aIY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "q8sR8FWVAc4",
+      "title": "Reform UK to launch 'British Skills Revolution', while attacking 'Mickey Mouse' degrees",
+      "thumbnail": "https://i.ytimg.com/vi/q8sR8FWVAc4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T09:27:50.716Z",
+      "at": "2026-08-20T10:02:55.130Z",
       "checked": 33,
       "errors": 0
     }
