@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T23:35:44.339Z",
+  "generatedAt": "2026-08-20T23:57:28.016Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,19 +92,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "t0L9YWNrnLE",
-      "title": "LIVE: Tupac Shakur murder trial Day 4",
-      "thumbnail": "https://i.ytimg.com/vi/t0L9YWNrnLE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "-i9me4_JMwY",
-      "title": "LIVE: Trial for alleged killer of Tupac Shakur",
-      "thumbnail": "https://i.ytimg.com/vi/-i9me4_JMwY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "VosbJKLK_RE",
-      "title": "LIVE: NBC News NOW - Aug. 20",
-      "thumbnail": "https://i.ytimg.com/vi/VosbJKLK_RE/hqdefault.jpg"
+      "videoId": "oesVbIiqsgM",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 20",
+      "thumbnail": "https://i.ytimg.com/vi/oesVbIiqsgM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3_-1N2uxVpg",
-      "title": "Day four | Tupac murder trial live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/3_-1N2uxVpg/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T23:35:44.339Z",
+      "at": "2026-08-20T23:57:28.016Z",
       "checked": 33,
       "errors": 0
     }
