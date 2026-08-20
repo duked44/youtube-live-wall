@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T10:42:25.194Z",
+  "generatedAt": "2026-08-20T11:05:55.267Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "q8sR8FWVAc4",
-      "title": "Reform UK to launch 'British Skills Revolution', while attacking 'Mickey Mouse' degrees",
-      "thumbnail": "https://i.ytimg.com/vi/q8sR8FWVAc4/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T10:42:25.194Z",
+      "at": "2026-08-20T11:05:55.267Z",
       "checked": 33,
       "errors": 0
     }
