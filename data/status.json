@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:33:31.351Z",
+  "generatedAt": "2026-08-20T19:59:44.120Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,16 +20,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "MvAIZN8elEc",
+      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
+      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "lTXCrTflnMc",
-      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan",
-      "thumbnail": "https://i.ytimg.com/vi/lTXCrTflnMc/hqdefault.jpg"
+      "videoId": "hvyBAXo-vy4",
+      "title": "WATCH LIVE: Trump, first lady participate in a ‘Fostering the Future’ announcement",
+      "thumbnail": "https://i.ytimg.com/vi/hvyBAXo-vy4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "zNg99lbBa3k",
-      "title": "LIVE: Donald and Melania Trump make an announcement on ‘Fostering the Future’ program",
-      "thumbnail": "https://i.ytimg.com/vi/zNg99lbBa3k/hqdefault.jpg"
+      "videoId": "t0L9YWNrnLE",
+      "title": "LIVE: Tupac Shakur murder trial Day 4",
+      "thumbnail": "https://i.ytimg.com/vi/t0L9YWNrnLE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -114,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "XF3Ppmzl5oc",
-      "title": "LIVE: NBC News NOW - Aug. 20",
-      "thumbnail": "https://i.ytimg.com/vi/XF3Ppmzl5oc/hqdefault.jpg"
+      "videoId": "yza4uoLt750",
+      "title": "LIVE: Trumps announce IndyCar partnership for 'Fostering the Future' initiative | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/yza4uoLt750/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -140,16 +143,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "SmvydFxbWPE",
+      "title": "LIVE: Trump and Melania Trump make an announcement in the Rose Garden",
+      "thumbnail": "https://i.ytimg.com/vi/SmvydFxbWPE/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Zs1YuxNBrQg",
-      "title": "Donald Trump and Melania speak at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/Zs1YuxNBrQg/hqdefault.jpg"
+      "videoId": "3_-1N2uxVpg",
+      "title": "Day four | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/3_-1N2uxVpg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T19:33:31.351Z",
+      "at": "2026-08-20T19:59:44.120Z",
       "checked": 33,
       "errors": 0
     }
