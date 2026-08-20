@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T19:59:44.120Z",
+  "generatedAt": "2026-08-20T20:39:00.208Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "hvyBAXo-vy4",
-      "title": "WATCH LIVE: Trump, first lady participate in a ‘Fostering the Future’ announcement",
-      "thumbnail": "https://i.ytimg.com/vi/hvyBAXo-vy4/hqdefault.jpg"
+      "videoId": "7ol4JElsFic",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/7ol4JElsFic/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -101,7 +101,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "-i9me4_JMwY",
+      "title": "LIVE: Trial for alleged killer of Tupac Shakur",
+      "thumbnail": "https://i.ytimg.com/vi/-i9me4_JMwY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "yza4uoLt750",
-      "title": "LIVE: Trumps announce IndyCar partnership for 'Fostering the Future' initiative | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/yza4uoLt750/hqdefault.jpg"
+      "videoId": "XF3Ppmzl5oc",
+      "title": "LIVE: NBC News NOW - Aug. 20",
+      "thumbnail": "https://i.ytimg.com/vi/XF3Ppmzl5oc/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -143,19 +146,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "SmvydFxbWPE",
-      "title": "LIVE: Trump and Melania Trump make an announcement in the Rose Garden",
-      "thumbnail": "https://i.ytimg.com/vi/SmvydFxbWPE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3_-1N2uxVpg",
-      "title": "Day four | Tupac murder trial live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/3_-1N2uxVpg/hqdefault.jpg"
+      "videoId": "jXM-0ecWTnM",
+      "title": "Former Pakistan PM Imran Khan on way to hospital from prison - local media reports",
+      "thumbnail": "https://i.ytimg.com/vi/jXM-0ecWTnM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +207,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "gYuZEo4rZz8",
-      "title": "WATCH LIVE: President Trump and first lady make announcement on Fostering the Future initiative",
-      "thumbnail": "https://i.ytimg.com/vi/gYuZEo4rZz8/hqdefault.jpg"
+      "videoId": "yfczSza3FY4",
+      "title": "WATCH LIVE: 'Balance of Power: Redistricting, Courts, and the Right to Vote' - 2026 Hutchins Forum",
+      "thumbnail": "https://i.ytimg.com/vi/yfczSza3FY4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "HABQCLqgWZY",
-      "title": "Why are women rallying behind Lindsay Clancy? Debate with Madeline Summerville and Batya",
-      "thumbnail": "https://i.ytimg.com/vi/HABQCLqgWZY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -233,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "8Bf-jQEZV7Y",
-      "title": "Donald Trump and Melania Trump announcement at Rose Garden – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/8Bf-jQEZV7Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -267,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-20T19:59:44.120Z",
+      "at": "2026-08-20T20:39:00.208Z",
       "checked": 33,
       "errors": 0
     }
