@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:14:36.757Z",
+  "generatedAt": "2026-08-21T15:51:32.213Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "O4n7dElz4B0",
-      "title": "LIVE: Lindsay Clancy trial Day 18",
-      "thumbnail": "https://i.ytimg.com/vi/O4n7dElz4B0/hqdefault.jpg"
+      "videoId": "VaXyjmXx6_o",
+      "title": "LIVE: Tupac Shakur murder trial Day 5",
+      "thumbnail": "https://i.ytimg.com/vi/VaXyjmXx6_o/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "239e0Ns2rMY",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/239e0Ns2rMY/hqdefault.jpg"
+      "videoId": "GzYrCStSNJc",
+      "title": "LIVE: Sword-armed man injures several people at Swedish high school",
+      "thumbnail": "https://i.ytimg.com/vi/GzYrCStSNJc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T15:14:36.757Z",
+      "at": "2026-08-21T15:51:32.213Z",
       "checked": 33,
       "errors": 0
     }
