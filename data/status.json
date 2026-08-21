@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T19:44:13.939Z",
+  "generatedAt": "2026-08-21T20:01:11.119Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3MiDjcWZ4Zs",
-      "title": "WATCH LIVE: Lindsay Clancy's defense rests after testimony on postpartum psychosis",
-      "thumbnail": "https://i.ytimg.com/vi/3MiDjcWZ4Zs/hqdefault.jpg"
+      "videoId": "oWVFEfWHD6M",
+      "title": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
+      "thumbnail": "https://i.ytimg.com/vi/oWVFEfWHD6M/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T19:44:13.939Z",
+      "at": "2026-08-21T20:01:11.119Z",
       "checked": 33,
       "errors": 0
     }
