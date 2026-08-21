@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T05:03:40.483Z",
+  "generatedAt": "2026-08-21T05:44:57.250Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "WJpfv5GHyEU",
-      "title": "Mornings | Friday 21 August 2026",
+      "title": "Sky News reports from Israel on the West Bank settlement economy | Mornings with Melbourne",
       "thumbnail": "https://i.ytimg.com/vi/WJpfv5GHyEU/hqdefault.jpg"
     },
     {
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T05:03:40.483Z",
+      "at": "2026-08-21T05:44:57.250Z",
       "checked": 33,
       "errors": 0
     }
