@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T23:14:08.104Z",
+  "generatedAt": "2026-08-21T23:42:29.024Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "13aGd3rPODE",
-      "title": "Prince Harry dealt costly blow after Mail privacy case defeat | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/13aGd3rPODE/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T23:14:08.104Z",
+      "at": "2026-08-21T23:42:29.024Z",
       "checked": 33,
       "errors": 0
     }
