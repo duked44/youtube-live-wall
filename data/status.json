@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T04:23:11.892Z",
+  "generatedAt": "2026-08-21T05:03:40.483Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "WJpfv5GHyEU",
+      "title": "Mornings | Friday 21 August 2026",
+      "thumbnail": "https://i.ytimg.com/vi/WJpfv5GHyEU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T04:23:11.892Z",
+      "at": "2026-08-21T05:03:40.483Z",
       "checked": 33,
       "errors": 0
     }
