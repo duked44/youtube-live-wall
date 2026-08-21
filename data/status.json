@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T08:00:55.072Z",
+  "generatedAt": "2026-08-21T08:53:05.714Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,7 +92,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "ojeoyD-GH44",
+      "title": "LIVE: Strait of Hormuz vessel traffic as US threatens 'toughest sanctions'",
+      "thumbnail": "https://i.ytimg.com/vi/ojeoyD-GH44/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T08:00:55.072Z",
+      "at": "2026-08-21T08:53:05.714Z",
       "checked": 33,
       "errors": 0
     }
