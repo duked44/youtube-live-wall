@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T17:36:53.162Z",
+  "generatedAt": "2026-08-21T18:02:06.586Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "raPvS1N5xAs",
-      "title": "WATCH LIVE: JD Vance delivers remarks in his hometown",
-      "thumbnail": "https://i.ytimg.com/vi/raPvS1N5xAs/hqdefault.jpg"
+      "videoId": "fWxqgH2paLc",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/fWxqgH2paLc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "QocozfYaYMs",
-      "title": "JD Vance gives economy speech in hometown as Trump team looks ahead to midterms",
-      "thumbnail": "https://i.ytimg.com/vi/QocozfYaYMs/hqdefault.jpg"
+      "videoId": "5dU55KXWghE",
+      "title": "Day five | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/5dU55KXWghE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "NJEsPgQwyAY",
-      "title": "WATCH LIVE: Vance delivers remarks on economic agenda at Ohio manufacturing plant",
-      "thumbnail": "https://i.ytimg.com/vi/NJEsPgQwyAY/hqdefault.jpg"
+      "videoId": "3MiDjcWZ4Zs",
+      "title": "WATCH LIVE: Testimony in Lindsay Clancy trial expected to wrap up",
+      "thumbnail": "https://i.ytimg.com/vi/3MiDjcWZ4Zs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T17:36:53.162Z",
+      "at": "2026-08-21T18:02:06.586Z",
       "checked": 33,
       "errors": 0
     }
