@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T15:51:32.213Z",
+  "generatedAt": "2026-08-21T16:20:50.384Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "zWAIBlVlHUs",
-      "title": "LIVE: Day 18 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/zWAIBlVlHUs/hqdefault.jpg"
+      "videoId": "0I96e-nzSRQ",
+      "title": "LIVE: Day 5 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/0I96e-nzSRQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "kn38L4MSOyY",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues on day 18",
-      "thumbnail": "https://i.ytimg.com/vi/kn38L4MSOyY/hqdefault.jpg"
+      "videoId": "fWxqgH2paLc",
+      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/fWxqgH2paLc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "GzYrCStSNJc",
-      "title": "LIVE: Sword-armed man injures several people at Swedish high school",
-      "thumbnail": "https://i.ytimg.com/vi/GzYrCStSNJc/hqdefault.jpg"
+      "videoId": "hOiGbbdgKEQ",
+      "title": "LIVE: US, Canadian trade negotiators meet",
+      "thumbnail": "https://i.ytimg.com/vi/hOiGbbdgKEQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "5dU55KXWghE",
+      "title": "Day five | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/5dU55KXWghE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3MiDjcWZ4Zs",
-      "title": "WATCH LIVE: Testimony in Lindsay Clancy trial expected to wrap up",
-      "thumbnail": "https://i.ytimg.com/vi/3MiDjcWZ4Zs/hqdefault.jpg"
+      "videoId": "NJEsPgQwyAY",
+      "title": "WATCH LIVE: Vance delivers remarks on economic agenda at Ohio manufacturing plant",
+      "thumbnail": "https://i.ytimg.com/vi/NJEsPgQwyAY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -244,7 +244,7 @@
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
       "videoId": "FetccJYPl7Y",
-      "title": "\"Thunderhead\" monument acknowledging persecution of 2SLGBTQ+ people in Canada is unveiled",
+      "title": "\"Thunderhead\" monument acknowledging the persecution of 2SLGBTQ+ people in Canada is unveiled | LIVE",
       "thumbnail": "https://i.ytimg.com/vi/FetccJYPl7Y/hqdefault.jpg"
     },
     {
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T15:51:32.213Z",
+      "at": "2026-08-21T16:20:50.384Z",
       "checked": 33,
       "errors": 0
     }
