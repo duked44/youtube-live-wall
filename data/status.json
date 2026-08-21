@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:51:25.477Z",
+  "generatedAt": "2026-08-21T23:14:08.104Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -98,10 +98,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "wDfAQOsPbDo",
-      "title": "LIVE: Tupac Shakur murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/wDfAQOsPbDo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -204,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "r3LN4TFKLRI",
-      "title": "PBS News Hour live episode, August 21, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/r3LN4TFKLRI/hqdefault.jpg"
+      "videoId": "oWVFEfWHD6M",
+      "title": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
+      "thumbnail": "https://i.ytimg.com/vi/oWVFEfWHD6M/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T22:51:25.477Z",
+      "at": "2026-08-21T23:14:08.104Z",
       "checked": 33,
       "errors": 0
     }
