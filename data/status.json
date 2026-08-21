@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:56:23.323Z",
+  "generatedAt": "2026-08-21T14:38:17.749Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "-MZNhCR_Zzs",
-      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan continues",
-      "thumbnail": "https://i.ytimg.com/vi/-MZNhCR_Zzs/hqdefault.jpg"
+      "videoId": "kn38L4MSOyY",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues on day 18",
+      "thumbnail": "https://i.ytimg.com/vi/kn38L4MSOyY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T13:56:23.323Z",
+      "at": "2026-08-21T14:38:17.749Z",
       "checked": 33,
       "errors": 0
     }
