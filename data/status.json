@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-21T20:58:04.686Z",
+  "generatedAt": "2026-08-21T21:31:44.968Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "bSWRnsSJIzs",
+      "title": "Trump Holds Rally in South Carolina for Darline Graham - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/bSWRnsSJIzs/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "U8zJzjevM9I",
-      "title": "US President Donald Trump delivers remarks",
-      "thumbnail": "https://i.ytimg.com/vi/U8zJzjevM9I/hqdefault.jpg"
+      "videoId": "13aGd3rPODE",
+      "title": "Prince Harry dealt costly blow after Mail privacy case defeat | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/13aGd3rPODE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "oWVFEfWHD6M",
-      "title": "WATCH LIVE: Trump stumps for S.C. Sen. Darline Graham ahead of GOP runoff",
-      "thumbnail": "https://i.ytimg.com/vi/oWVFEfWHD6M/hqdefault.jpg"
+      "videoId": "r3LN4TFKLRI",
+      "title": "PBS News Hour live episode, August 21, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/r3LN4TFKLRI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T20:58:04.686Z",
+      "at": "2026-08-21T21:31:44.968Z",
       "checked": 33,
       "errors": 0
     }
