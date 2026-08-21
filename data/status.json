@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T11:07:59.794Z",
+  "generatedAt": "2026-08-21T11:39:50.434Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "zWAIBlVlHUs",
+      "title": "LIVE: Day 18 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/zWAIBlVlHUs/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T11:07:59.794Z",
+      "at": "2026-08-21T11:39:50.434Z",
       "checked": 33,
       "errors": 0
     }
