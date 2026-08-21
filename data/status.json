@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:58:10.526Z",
+  "generatedAt": "2026-08-21T17:36:53.162Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "fWxqgH2paLc",
-      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/fWxqgH2paLc/hqdefault.jpg"
+      "videoId": "raPvS1N5xAs",
+      "title": "WATCH LIVE: JD Vance delivers remarks in his hometown",
+      "thumbnail": "https://i.ytimg.com/vi/raPvS1N5xAs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -102,18 +102,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "xxWYO08bbY8",
-      "title": "LIVE: Drivers hold briefing ahead of 'Freedom 250 Grand Prix’",
-      "thumbnail": "https://i.ytimg.com/vi/xxWYO08bbY8/hqdefault.jpg"
+      "videoId": "wDfAQOsPbDo",
+      "title": "LIVE: Tupac Shakur murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/wDfAQOsPbDo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "LA1uNaNREqg",
-      "title": "Trial for Lindsay Clancy, the Massachusetts mother accused of killing her three children: LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/LA1uNaNREqg/hqdefault.jpg"
+      "videoId": "Zeysa6gyDdE",
+      "title": "LIVE: ABC News Live - Friday, August 21 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/Zeysa6gyDdE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T16:58:10.526Z",
+      "at": "2026-08-21T17:36:53.162Z",
       "checked": 33,
       "errors": 0
     }
