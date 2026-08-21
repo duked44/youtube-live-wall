@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T16:20:50.384Z",
+  "generatedAt": "2026-08-21T16:58:10.526Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "hOiGbbdgKEQ",
-      "title": "LIVE: US, Canadian trade negotiators meet",
-      "thumbnail": "https://i.ytimg.com/vi/hOiGbbdgKEQ/hqdefault.jpg"
+      "videoId": "xxWYO08bbY8",
+      "title": "LIVE: Drivers hold briefing ahead of 'Freedom 250 Grand Prix’",
+      "thumbnail": "https://i.ytimg.com/vi/xxWYO08bbY8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "5dU55KXWghE",
-      "title": "Day five | Tupac murder trial live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/5dU55KXWghE/hqdefault.jpg"
+      "videoId": "QocozfYaYMs",
+      "title": "JD Vance gives economy speech in hometown as Trump team looks ahead to midterms",
+      "thumbnail": "https://i.ytimg.com/vi/QocozfYaYMs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -242,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "FetccJYPl7Y",
-      "title": "\"Thunderhead\" monument acknowledging the persecution of 2SLGBTQ+ people in Canada is unveiled | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/FetccJYPl7Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T16:20:50.384Z",
+      "at": "2026-08-21T16:58:10.526Z",
       "checked": 33,
       "errors": 0
     }
