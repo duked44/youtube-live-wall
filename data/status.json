@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:24:56.114Z",
+  "generatedAt": "2026-08-21T22:51:25.477Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,10 +14,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "0I96e-nzSRQ",
-      "title": "LIVE: Day 5 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/0I96e-nzSRQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -33,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "fWxqgH2paLc",
-      "title": "WATCH LIVE: Tupac Shakur murder trial continues in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/fWxqgH2paLc/hqdefault.jpg"
+      "videoId": "RA8mrW22B8M",
+      "title": "WATCH: President Trump holds rally in support of Sen Darline Graham",
+      "thumbnail": "https://i.ytimg.com/vi/RA8mrW22B8M/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -95,10 +92,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "VaXyjmXx6_o",
-      "title": "LIVE: Tupac Shakur murder trial Day 5",
-      "thumbnail": "https://i.ytimg.com/vi/VaXyjmXx6_o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -224,10 +218,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "xVWQuKbZFFE",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/xVWQuKbZFFE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T22:24:56.114Z",
+      "at": "2026-08-21T22:51:25.477Z",
       "checked": 33,
       "errors": 0
     }
