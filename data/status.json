@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T12:02:47.477Z",
+  "generatedAt": "2026-08-21T13:06:19.556Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "-MZNhCR_Zzs",
+      "title": "WATCH LIVE: Murder trial in death of former Microsoft exec Jared Bridegan continues",
+      "thumbnail": "https://i.ytimg.com/vi/-MZNhCR_Zzs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "czClHwylQkU",
-      "title": "LIVE: Hot air balloons fill Quito’s skies for annual festival",
-      "thumbnail": "https://i.ytimg.com/vi/czClHwylQkU/hqdefault.jpg"
+      "videoId": "O4n7dElz4B0",
+      "title": "LIVE: Lindsay Clancy trial Day 18",
+      "thumbnail": "https://i.ytimg.com/vi/O4n7dElz4B0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ojeoyD-GH44",
-      "title": "LIVE: Strait of Hormuz vessel traffic as US threatens 'toughest sanctions'",
-      "thumbnail": "https://i.ytimg.com/vi/ojeoyD-GH44/hqdefault.jpg"
+      "videoId": "239e0Ns2rMY",
+      "title": "LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/239e0Ns2rMY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -250,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 36,
-      "channelChecks": 1188,
+      "runs": 37,
+      "channelChecks": 1221,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T12:02:47.477Z",
+      "at": "2026-08-21T13:06:19.556Z",
       "checked": 33,
       "errors": 0
     }
