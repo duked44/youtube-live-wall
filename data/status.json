@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T13:06:19.556Z",
+  "generatedAt": "2026-08-21T13:56:23.323Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "239e0Ns2rMY",
-      "title": "LIVE: Lindsay Clancy murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/239e0Ns2rMY/hqdefault.jpg"
+      "videoId": "NM2sAEvlaOc",
+      "title": "LIVE: UK’s Andy Burnham speaks at event for victims and survivors of terrorism",
+      "thumbnail": "https://i.ytimg.com/vi/NM2sAEvlaOc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "nFn9F6bO14U",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/nFn9F6bO14U/hqdefault.jpg"
+      "videoId": "gEv1zzjLzyE",
+      "title": "Watch: Lindsay Clancy trial resumes with defense testimony as it nears closings | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/gEv1zzjLzyE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "oVVWCZ1lXnQ",
+      "title": "Burnham addresses first national day for survivors of terrorism",
+      "thumbnail": "https://i.ytimg.com/vi/oVVWCZ1lXnQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "3MiDjcWZ4Zs",
+      "title": "WATCH LIVE: Testimony in Lindsay Clancy trial expected to wrap up",
+      "thumbnail": "https://i.ytimg.com/vi/3MiDjcWZ4Zs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T13:06:19.556Z",
+      "at": "2026-08-21T13:56:23.323Z",
       "checked": 33,
       "errors": 0
     }
