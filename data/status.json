@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T23:42:29.024Z",
+  "generatedAt": "2026-08-22T00:01:27.698Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -114,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "TWEdZ80Z6fk",
-      "title": "LIVE: NBC News NOW - Aug. 21",
-      "thumbnail": "https://i.ytimg.com/vi/TWEdZ80Z6fk/hqdefault.jpg"
+      "videoId": "QgMO-B7B2Qw",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 21",
+      "thumbnail": "https://i.ytimg.com/vi/QgMO-B7B2Qw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-21T23:42:29.024Z",
+      "at": "2026-08-22T00:01:27.698Z",
       "checked": 33,
       "errors": 0
     }
