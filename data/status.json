@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T14:22:59.670Z",
+  "generatedAt": "2026-08-22T14:46:10.920Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -221,7 +221,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "ziHdEHhBYIs",
+      "title": "Carney speaks after Canada rejects US trade deal, vows retaliation to Trump's tariffs | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ziHdEHhBYIs/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-22T14:22:59.670Z",
+      "at": "2026-08-22T14:46:10.920Z",
       "checked": 33,
       "errors": 0
     }
