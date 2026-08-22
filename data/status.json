@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T15:02:07.202Z",
+  "generatedAt": "2026-08-22T15:31:32.462Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "FVWUoLN8_Po",
+      "title": "Canadian PM Mark Carney speaks about tariff negotiations with the US",
+      "thumbnail": "https://i.ytimg.com/vi/FVWUoLN8_Po/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-22T15:02:07.202Z",
+      "at": "2026-08-22T15:31:32.462Z",
       "checked": 33,
       "errors": 0
     }
