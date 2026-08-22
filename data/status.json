@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T13:55:47.147Z",
+  "generatedAt": "2026-08-22T14:22:59.670Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -174,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "2WyA89kLkYw",
-      "title": "US-Canada Tariffs, Bessent's Bond Plan, China's AI Push | Bloomberg This Weekend: Aug 22, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/2WyA89kLkYw/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-22T13:55:47.147Z",
+      "at": "2026-08-22T14:22:59.670Z",
       "checked": 33,
       "errors": 0
     }
