@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-22T22:59:20.279Z",
+  "generatedAt": "2026-08-22T23:29:21.891Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "o2x3jUbM6SU",
+      "title": "U.S.-Canada Trade War - LIVE Updates and Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/o2x3jUbM6SU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-22T22:59:20.279Z",
+      "at": "2026-08-22T23:29:21.891Z",
       "checked": 33,
       "errors": 0
     }
