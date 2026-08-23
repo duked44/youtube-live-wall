@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T22:00:36.604Z",
+  "generatedAt": "2026-08-23T22:33:01.509Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "Gu77vfaQOYQ",
-      "title": "The Wrap | Sunday 23 August 2026",
+      "title": "The Wrap | More than £200k raised as families pay tribute to officers killed 'in line of duty'",
       "thumbnail": "https://i.ytimg.com/vi/Gu77vfaQOYQ/hqdefault.jpg"
     },
     {
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T22:00:36.604Z",
+      "at": "2026-08-23T22:33:01.509Z",
       "checked": 33,
       "errors": 0
     }
