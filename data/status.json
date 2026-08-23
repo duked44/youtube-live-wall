@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T14:35:38.757Z",
+  "generatedAt": "2026-08-23T14:58:23.951Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "ry40uw5sX9g",
+      "title": "WATCH LIVE: President Trump, Melania attend the Freedom 250 Grand Prix",
+      "thumbnail": "https://i.ytimg.com/vi/ry40uw5sX9g/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T14:35:38.757Z",
+      "at": "2026-08-23T14:58:23.951Z",
       "checked": 33,
       "errors": 0
     }
