@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T13:05:46.927Z",
+  "generatedAt": "2026-08-23T13:43:24.594Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -228,9 +228,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "wluee30Ly0w",
-      "title": "[LIVE] National Day Rally 2026: PM Lawrence Wong’s speech in English",
-      "thumbnail": "https://i.ytimg.com/vi/wluee30Ly0w/hqdefault.jpg"
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T13:05:46.927Z",
+      "at": "2026-08-23T13:43:24.594Z",
       "checked": 33,
       "errors": 0
     }
