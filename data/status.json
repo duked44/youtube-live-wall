@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T10:39:30.868Z",
+  "generatedAt": "2026-08-23T10:59:48.055Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "dlNkIfQH3sA",
+      "title": "US-Canada Tensions, Bessent's Bond Troubles, Iceland Vote | Bloomberg This Weekend: Aug 23, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/dlNkIfQH3sA/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T10:39:30.868Z",
+      "at": "2026-08-23T10:59:48.055Z",
       "checked": 33,
       "errors": 0
     }
