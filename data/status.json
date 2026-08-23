@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T06:19:43.780Z",
+  "generatedAt": "2026-08-23T07:08:06.080Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -88,7 +88,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "dd0ARynnBLs",
-      "title": "LIVE: World humanoid robot games in China",
+      "title": "LIVE: World Humanoid Robot Games in China",
       "thumbnail": "https://i.ytimg.com/vi/dd0ARynnBLs/hqdefault.jpg"
     },
     {
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T06:19:43.780Z",
+      "at": "2026-08-23T07:08:06.080Z",
       "checked": 33,
       "errors": 0
     }
