@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T16:15:18.858Z",
+  "generatedAt": "2026-08-23T16:46:17.937Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "P-lj2xNP0IQ",
+      "videoId": "MHIfXnn2XKg",
       "title": "WATCH LIVE: President Donald Trump, First Lady Melania Trump Attend IndyCar Freedom 250 Grand Prix",
-      "thumbnail": "https://i.ytimg.com/vi/P-lj2xNP0IQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MHIfXnn2XKg/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T16:15:18.858Z",
+      "at": "2026-08-23T16:46:17.937Z",
       "checked": 33,
       "errors": 0
     }
