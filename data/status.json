@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T04:06:00.329Z",
+  "generatedAt": "2026-08-23T04:50:03.459Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -235,12 +235,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 48,
-      "channelChecks": 1584,
+      "runs": 47,
+      "channelChecks": 1551,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T04:06:00.329Z",
+      "at": "2026-08-23T04:50:03.459Z",
       "checked": 33,
       "errors": 0
     }
