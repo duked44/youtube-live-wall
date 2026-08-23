@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T12:14:34.038Z",
+  "generatedAt": "2026-08-23T13:05:46.927Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "24cOwIdWU5k",
-      "title": "LIVE: World Humanoid Robot Games in China",
-      "thumbnail": "https://i.ytimg.com/vi/24cOwIdWU5k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -243,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T12:14:34.038Z",
+      "at": "2026-08-23T13:05:46.927Z",
       "checked": 33,
       "errors": 0
     }
