@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-23T20:00:17.519Z",
+  "generatedAt": "2026-08-23T20:34:21.174Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "MHIfXnn2XKg",
-      "title": "WATCH LIVE: President Donald Trump, First Lady Melania Trump Attend IndyCar Freedom 250 Grand Prix",
-      "thumbnail": "https://i.ytimg.com/vi/MHIfXnn2XKg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -30,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "ry40uw5sX9g",
+      "videoId": "4vgIczIhuqk",
       "title": "WATCH LIVE: President Trump, Melania attend the Freedom 250 Grand Prix",
-      "thumbnail": "https://i.ytimg.com/vi/ry40uw5sX9g/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/4vgIczIhuqk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-23T20:00:17.519Z",
+      "at": "2026-08-23T20:34:21.174Z",
       "checked": 33,
       "errors": 0
     }
