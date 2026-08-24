@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T23:08:11.666Z",
+  "generatedAt": "2026-08-24T23:34:09.161Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "pCTv18RKOXA",
-      "title": "LIVE: Day 6 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/pCTv18RKOXA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T23:08:11.666Z",
+      "at": "2026-08-24T23:34:09.161Z",
       "checked": 33,
       "errors": 0
     }
