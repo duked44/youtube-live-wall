@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:14:41.089Z",
+  "generatedAt": "2026-08-24T11:47:19.397Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -151,7 +151,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "OtVxhJz_nhM",
-      "title": "Zelenskyy hosts Burnham at Kyiv event to mark Ukraine's independence",
+      "title": "Zelenskyy hosts Burnham in Kyiv to mark Ukraine's independence",
       "thumbnail": "https://i.ytimg.com/vi/OtVxhJz_nhM/hqdefault.jpg"
     },
     {
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T11:14:41.089Z",
+      "at": "2026-08-24T11:47:19.397Z",
       "checked": 33,
       "errors": 0
     }
