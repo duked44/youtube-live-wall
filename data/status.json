@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T05:22:44.469Z",
+  "generatedAt": "2026-08-24T06:02:01.837Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,7 +95,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "d1q5iu29wZk",
+      "title": "LIVE: Robots compete at World Humanoid Robot Games in Beijing",
+      "thumbnail": "https://i.ytimg.com/vi/d1q5iu29wZk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T05:22:44.469Z",
+      "at": "2026-08-24T06:02:01.837Z",
       "checked": 33,
       "errors": 0
     }
