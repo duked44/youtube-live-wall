@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:51:35.007Z",
+  "generatedAt": "2026-08-24T16:24:04.965Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "W89VIzV6pRA",
-      "title": "LIVE: Vice President JD Vance Delivers Remarks On Economy At Brewer, ME",
-      "thumbnail": "https://i.ytimg.com/vi/W89VIzV6pRA/hqdefault.jpg"
+      "videoId": "pCTv18RKOXA",
+      "title": "LIVE: Day 6 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/pCTv18RKOXA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "bX6R254KJ2A",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial nears its end after defense rests",
-      "thumbnail": "https://i.ytimg.com/vi/bX6R254KJ2A/hqdefault.jpg"
+      "videoId": "9yo8f6Totgs",
+      "title": "WATCH LIVE: Vance delivers remarks at manufacturing facility",
+      "thumbnail": "https://i.ytimg.com/vi/9yo8f6Totgs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "dwiyDLiFv4g",
-      "title": "LIVE: Canadian PM Mark Carney delivers remarks following Trump’s tariff threats",
-      "thumbnail": "https://i.ytimg.com/vi/dwiyDLiFv4g/hqdefault.jpg"
+      "videoId": "xx_-x2s70n8",
+      "title": "LIVE: Tupac Shakur murder trial Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/xx_-x2s70n8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "aOmi3UdcSQk",
-      "title": "LIVE: Lindsay Clancy’s murder trial continues",
-      "thumbnail": "https://i.ytimg.com/vi/aOmi3UdcSQk/hqdefault.jpg"
+      "videoId": "VKEA1v9Uql8",
+      "title": "LIVE: Mark Carney announces measures to defend Canada’s waters and trade routes",
+      "thumbnail": "https://i.ytimg.com/vi/VKEA1v9Uql8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "BnZfDlDXGUw",
-      "title": "WATCH LIVE: Lindsay Clancy trial resumes, with closing arguments expected this week",
-      "thumbnail": "https://i.ytimg.com/vi/BnZfDlDXGUw/hqdefault.jpg"
+      "videoId": "wk-_bTP5rWg",
+      "title": "WATCH LIVE: U.S. health and agriculture leaders hold a back-to-school rally at USDA headquarters",
+      "thumbnail": "https://i.ytimg.com/vi/wk-_bTP5rWg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -259,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 39,
-      "channelChecks": 1287,
+      "runs": 38,
+      "channelChecks": 1254,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T15:51:35.007Z",
+      "at": "2026-08-24T16:24:04.965Z",
       "checked": 33,
       "errors": 0
     }
