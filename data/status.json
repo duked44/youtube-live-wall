@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:42:40.530Z",
+  "generatedAt": "2026-08-24T18:14:38.871Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -22,7 +22,7 @@
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
       "videoId": "3ldoVCA8ZRQ",
-      "title": "President Trump on Economy",
+      "title": "President Trump Delivers Remarks on Education Policy",
       "thumbnail": "https://i.ytimg.com/vi/3ldoVCA8ZRQ/hqdefault.jpg"
     },
     {
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xx_-x2s70n8",
-      "title": "LIVE: Tupac Shakur murder trial Day 6",
-      "thumbnail": "https://i.ytimg.com/vi/xx_-x2s70n8/hqdefault.jpg"
+      "videoId": "kh-IIOUhPkc",
+      "title": "LIVE: Lindsay Clancy trial Day 19",
+      "thumbnail": "https://i.ytimg.com/vi/kh-IIOUhPkc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1D2Z1m09Q5s",
-      "title": "LIVE: Trial continues for Tupac Shakur’s alleged killer",
-      "thumbnail": "https://i.ytimg.com/vi/1D2Z1m09Q5s/hqdefault.jpg"
+      "videoId": "bsGY6gaWr5Y",
+      "title": "LIVE: Ontario Premier Ford speaks following collapsed trade talks",
+      "thumbnail": "https://i.ytimg.com/vi/bsGY6gaWr5Y/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T17:42:40.530Z",
+      "at": "2026-08-24T18:14:38.871Z",
       "checked": 33,
       "errors": 0
     }
