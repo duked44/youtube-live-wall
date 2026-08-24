@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T20:43:47.256Z",
+  "generatedAt": "2026-08-24T21:13:34.618Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -151,7 +151,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "mOKQb-lzBXg",
-      "title": "The Wrap with Anna Botting | Monday 24 August 2026",
+      "title": "The Wrap with Gillian Joseph | Monday 24 August 2026",
       "thumbnail": "https://i.ytimg.com/vi/mOKQb-lzBXg/hqdefault.jpg"
     },
     {
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T20:43:47.256Z",
+      "at": "2026-08-24T21:13:34.618Z",
       "checked": 33,
       "errors": 0
     }
