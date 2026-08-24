@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T18:14:38.871Z",
+  "generatedAt": "2026-08-24T19:03:54.924Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,27 +12,24 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "pCTv18RKOXA",
-      "title": "LIVE: Day 6 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/pCTv18RKOXA/hqdefault.jpg"
+      "videoId": "njyciY5h5pA",
+      "title": "LIVE: President Trump Holds Public Event As U.S. Imposes ‘Economic D-Day’ Sanctions On Iran",
+      "thumbnail": "https://i.ytimg.com/vi/njyciY5h5pA/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "3ldoVCA8ZRQ",
-      "title": "President Trump Delivers Remarks on Education Policy",
-      "thumbnail": "https://i.ytimg.com/vi/3ldoVCA8ZRQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "bX6R254KJ2A",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial nears its end after defense rests",
-      "thumbnail": "https://i.ytimg.com/vi/bX6R254KJ2A/hqdefault.jpg"
+      "videoId": "sU1NXvItR34",
+      "title": "WATCH LIVE: Trump speaks on expanding school choice at White House",
+      "thumbnail": "https://i.ytimg.com/vi/sU1NXvItR34/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "kh-IIOUhPkc",
-      "title": "LIVE: Lindsay Clancy trial Day 19",
-      "thumbnail": "https://i.ytimg.com/vi/kh-IIOUhPkc/hqdefault.jpg"
+      "videoId": "1TbupqawZd0",
+      "title": "LIVE: Tupac Shakur murder trial Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/1TbupqawZd0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "bsGY6gaWr5Y",
-      "title": "LIVE: Ontario Premier Ford speaks following collapsed trade talks",
-      "thumbnail": "https://i.ytimg.com/vi/bsGY6gaWr5Y/hqdefault.jpg"
+      "videoId": "1D2Z1m09Q5s",
+      "title": "LIVE: Trial continues for Tupac Shakur’s alleged killer",
+      "thumbnail": "https://i.ytimg.com/vi/1D2Z1m09Q5s/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "PD1qGCtHu6M",
-      "title": "LIVE: Lindsay Clancy trial resumes after defense rests its case | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/PD1qGCtHu6M/hqdefault.jpg"
+      "videoId": "iTELU-sXOc4",
+      "title": "LIVE: Trump holds back-to-school event at the White House | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/iTELU-sXOc4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -242,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "sz2S5qLJ2dQ",
-      "title": "Doug Ford responds after US-Canada trade talks fall apart, Trump imposes sweeping new tariffs | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/sz2S5qLJ2dQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -259,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 37,
-      "channelChecks": 1221,
+      "runs": 36,
+      "channelChecks": 1188,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T18:14:38.871Z",
+      "at": "2026-08-24T19:03:54.924Z",
       "checked": 33,
       "errors": 0
     }
