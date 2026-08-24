@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T11:47:19.397Z",
+  "generatedAt": "2026-08-24T12:17:59.435Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "4vgIczIhuqk",
-      "title": "WATCH LIVE: President Trump, Melania attend the Freedom 250 Grand Prix",
-      "thumbnail": "https://i.ytimg.com/vi/4vgIczIhuqk/hqdefault.jpg"
+      "videoId": "bX6R254KJ2A",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial nears its end after defense rests",
+      "thumbnail": "https://i.ytimg.com/vi/bX6R254KJ2A/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -247,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 42,
-      "channelChecks": 1386,
+      "runs": 41,
+      "channelChecks": 1353,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T11:47:19.397Z",
+      "at": "2026-08-24T12:17:59.435Z",
       "checked": 33,
       "errors": 0
     }
