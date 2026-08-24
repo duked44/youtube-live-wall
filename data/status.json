@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T21:46:53.700Z",
+  "generatedAt": "2026-08-24T22:10:39.736Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -117,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "8_SQMQ7t7D4",
+      "videoId": "E1lPF2GldfU",
       "title": "LIVE: NBC News NOW - Aug. 24",
-      "thumbnail": "https://i.ytimg.com/vi/8_SQMQ7t7D4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/E1lPF2GldfU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "cqrE6pfNbzw",
-      "title": "WATCH LIVE: Energy Secretary Wright visits coal mine and manufacturing facility in Pennsylvania",
-      "thumbnail": "https://i.ytimg.com/vi/cqrE6pfNbzw/hqdefault.jpg"
+      "videoId": "IIS1SUaD1Vk",
+      "title": "PBS News Hour live episode, August 24, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/IIS1SUaD1Vk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T21:46:53.700Z",
+      "at": "2026-08-24T22:10:39.736Z",
       "checked": 33,
       "errors": 0
     }
