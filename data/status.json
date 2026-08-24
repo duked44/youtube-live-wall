@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T19:39:27.150Z",
+  "generatedAt": "2026-08-24T20:02:41.877Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "bX6R254KJ2A",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial nears its end after defense rests",
-      "thumbnail": "https://i.ytimg.com/vi/bX6R254KJ2A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "PD1qGCtHu6M",
-      "title": "LIVE: Lindsay Clancy trial resumes after defense rests its case | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/PD1qGCtHu6M/hqdefault.jpg"
+      "videoId": "8_SQMQ7t7D4",
+      "title": "LIVE: NBC News NOW - Aug. 24",
+      "thumbnail": "https://i.ytimg.com/vi/8_SQMQ7t7D4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 36,
-      "channelChecks": 1188,
+      "runs": 35,
+      "channelChecks": 1155,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T19:39:27.150Z",
+      "at": "2026-08-24T20:02:41.877Z",
       "checked": 33,
       "errors": 0
     }
