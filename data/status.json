@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:59:25.482Z",
+  "generatedAt": "2026-08-24T10:46:21.464Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "vBrG6RI2VyI",
+      "title": "LIVE: ABC News Live - Monday, August 24 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/vBrG6RI2VyI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "OtVxhJz_nhM",
+      "title": "Zelenskyy hosts Burnham at Kyiv event to mark Independence Day",
+      "thumbnail": "https://i.ytimg.com/vi/OtVxhJz_nhM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 43,
-      "channelChecks": 1419,
+      "runs": 42,
+      "channelChecks": 1386,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T09:59:25.482Z",
+      "at": "2026-08-24T10:46:21.464Z",
       "checked": 33,
       "errors": 0
     }
