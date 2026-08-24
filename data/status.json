@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T12:17:59.435Z",
+  "generatedAt": "2026-08-24T13:26:10.816Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "zmxJ0rEUT50",
+      "title": "LIVE: Day 19 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/zmxJ0rEUT50/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "RZHz0PrxIf0",
-      "title": "LIVE: World Humanoid Robot Games 2026 in China",
-      "thumbnail": "https://i.ytimg.com/vi/RZHz0PrxIf0/hqdefault.jpg"
+      "videoId": "kh-IIOUhPkc",
+      "title": "LIVE: Lindsay Clancy trial Day 19",
+      "thumbnail": "https://i.ytimg.com/vi/kh-IIOUhPkc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "30I5Y9Mlc_4",
-      "title": "LIVE: Robots compete at World Humanoid Robot Games in Beijing",
-      "thumbnail": "https://i.ytimg.com/vi/30I5Y9Mlc_4/hqdefault.jpg"
+      "videoId": "aOmi3UdcSQk",
+      "title": "LIVE: Lindsay Clancy’s murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/aOmi3UdcSQk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "8_SQMQ7t7D4",
-      "title": "LIVE: NBC News NOW - Aug. 24",
-      "thumbnail": "https://i.ytimg.com/vi/8_SQMQ7t7D4/hqdefault.jpg"
+      "videoId": "PD1qGCtHu6M",
+      "title": "LIVE: Lindsay Clancy trial resumes after defense rests its case | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/PD1qGCtHu6M/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "j_ADjAwWyv8",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/j_ADjAwWyv8/hqdefault.jpg"
+      "videoId": "sotBbuB1vEI",
+      "title": "Watch Live: Lindsay Clancy murder trial continues as closing arguments near | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/sotBbuB1vEI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -203,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "BnZfDlDXGUw",
+      "title": "WATCH LIVE: Lindsay Clancy trial resumes, with closing arguments expected this week",
+      "thumbnail": "https://i.ytimg.com/vi/BnZfDlDXGUw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T12:17:59.435Z",
+      "at": "2026-08-24T13:26:10.816Z",
       "checked": 33,
       "errors": 0
     }
