@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T17:04:57.382Z",
+  "generatedAt": "2026-08-24T17:42:40.530Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,27 +12,27 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "ww5URBIP2_I",
-      "title": "LIVE: Treasury Secretary Scott Bessent Holds Press Conference To Announce Economic Sanctions On Iran",
-      "thumbnail": "https://i.ytimg.com/vi/ww5URBIP2_I/hqdefault.jpg"
+      "videoId": "pCTv18RKOXA",
+      "title": "LIVE: Day 6 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/pCTv18RKOXA/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "ed63yMFRly8",
-      "title": "Treasury Secretary News Conference on Iran Sanctions",
-      "thumbnail": "https://i.ytimg.com/vi/ed63yMFRly8/hqdefault.jpg"
+      "videoId": "3ldoVCA8ZRQ",
+      "title": "President Trump on Economy",
+      "thumbnail": "https://i.ytimg.com/vi/3ldoVCA8ZRQ/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "grkt0UWUwg0",
-      "title": "WATCH LIVE: Bessent announces new sanctions TARGETING Iran",
-      "thumbnail": "https://i.ytimg.com/vi/grkt0UWUwg0/hqdefault.jpg"
+      "videoId": "bX6R254KJ2A",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial nears its end after defense rests",
+      "thumbnail": "https://i.ytimg.com/vi/bX6R254KJ2A/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5WNd8lv7q90",
-      "title": "LIVE: Treasury Secretary Scott Bessent holds press conference on planned Iran sanctions",
-      "thumbnail": "https://i.ytimg.com/vi/5WNd8lv7q90/hqdefault.jpg"
+      "videoId": "xx_-x2s70n8",
+      "title": "LIVE: Tupac Shakur murder trial Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/xx_-x2s70n8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "nEWZMFpa22w",
-      "title": "LIVE: Treasury Secretary Bessent speaks about further sanctions against Iran",
-      "thumbnail": "https://i.ytimg.com/vi/nEWZMFpa22w/hqdefault.jpg"
+      "videoId": "1D2Z1m09Q5s",
+      "title": "LIVE: Trial continues for Tupac Shakur’s alleged killer",
+      "thumbnail": "https://i.ytimg.com/vi/1D2Z1m09Q5s/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,45 +120,42 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ccqsSVDqnng",
-      "title": "LIVE: Treasury Secretary Bessent details economic sanctions against Iran | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/ccqsSVDqnng/hqdefault.jpg"
+      "videoId": "PD1qGCtHu6M",
+      "title": "LIVE: Lindsay Clancy trial resumes after defense rests its case | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/PD1qGCtHu6M/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "tX1ZR9AJ7ZM",
-      "title": "Watch Live: Bessent announces new sanctions against Iran | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/tX1ZR9AJ7ZM/hqdefault.jpg"
+      "videoId": "sotBbuB1vEI",
+      "title": "Watch Live: Lindsay Clancy murder trial continues as closing arguments near | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/sotBbuB1vEI/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "d-bRUhHovZM",
-      "title": "Live: Treasury Sec. Bessent rolls out new US sanctions targeting Iran",
-      "thumbnail": "https://i.ytimg.com/vi/d-bRUhHovZM/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "XAgaxIzsM8I",
-      "title": "LIVE: Treasury Secretary holds press conference after threatening \"economic D-Day\" for Iran",
-      "thumbnail": "https://i.ytimg.com/vi/XAgaxIzsM8I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "7GzjFVKHPF8",
-      "title": "US prepares to reveal 'economic D-Day' for Iran",
-      "thumbnail": "https://i.ytimg.com/vi/7GzjFVKHPF8/hqdefault.jpg"
+      "videoId": "EAgko-FBDWQ",
+      "title": "Day six | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/EAgko-FBDWQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "wk-_bTP5rWg",
-      "title": "WATCH LIVE: U.S. health and agriculture leaders hold a back-to-school rally at USDA headquarters",
-      "thumbnail": "https://i.ytimg.com/vi/wk-_bTP5rWg/hqdefault.jpg"
+      "videoId": "BnZfDlDXGUw",
+      "title": "WATCH LIVE: Lindsay Clancy trial resumes, with closing arguments expected this week",
+      "thumbnail": "https://i.ytimg.com/vi/BnZfDlDXGUw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -246,9 +243,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "sfjUVLgSEvU",
-      "title": "Carney announces plan to defend Canada's waters, protect trade routes amid new US trade war | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/sfjUVLgSEvU/hqdefault.jpg"
+      "videoId": "sz2S5qLJ2dQ",
+      "title": "Doug Ford responds after US-Canada trade talks fall apart, Trump imposes sweeping new tariffs | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/sz2S5qLJ2dQ/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -262,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 38,
-      "channelChecks": 1254,
+      "runs": 37,
+      "channelChecks": 1221,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T17:04:57.382Z",
+      "at": "2026-08-24T17:42:40.530Z",
       "checked": 33,
       "errors": 0
     }
