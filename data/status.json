@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T15:02:24.486Z",
+  "generatedAt": "2026-08-24T15:51:35.007Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,18 +12,18 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "zmxJ0rEUT50",
-      "title": "LIVE: Day 19 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/zmxJ0rEUT50/hqdefault.jpg"
+      "videoId": "W89VIzV6pRA",
+      "title": "LIVE: Vice President JD Vance Delivers Remarks On Economy At Brewer, ME",
+      "thumbnail": "https://i.ytimg.com/vi/W89VIzV6pRA/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "MvAIZN8elEc",
-      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
-      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
+      "videoId": "ed63yMFRly8",
+      "title": "Treasury Secretary News Conference on Iran Sanctions",
+      "thumbnail": "https://i.ytimg.com/vi/ed63yMFRly8/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -93,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "kh-IIOUhPkc",
-      "title": "LIVE: Lindsay Clancy trial Day 19",
-      "thumbnail": "https://i.ytimg.com/vi/kh-IIOUhPkc/hqdefault.jpg"
+      "videoId": "dwiyDLiFv4g",
+      "title": "LIVE: Canadian PM Mark Carney delivers remarks following Trump’s tariff threats",
+      "thumbnail": "https://i.ytimg.com/vi/dwiyDLiFv4g/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "sfjUVLgSEvU",
+      "title": "Carney announces plan to defend Canada's waters, protect trade routes amid new US trade war | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/sfjUVLgSEvU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T15:02:24.486Z",
+      "at": "2026-08-24T15:51:35.007Z",
       "checked": 33,
       "errors": 0
     }
