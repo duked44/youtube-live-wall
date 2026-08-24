@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T16:24:04.965Z",
+  "generatedAt": "2026-08-24T17:04:57.382Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "pCTv18RKOXA",
-      "title": "LIVE: Day 6 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/pCTv18RKOXA/hqdefault.jpg"
+      "videoId": "ww5URBIP2_I",
+      "title": "LIVE: Treasury Secretary Scott Bessent Holds Press Conference To Announce Economic Sanctions On Iran",
+      "thumbnail": "https://i.ytimg.com/vi/ww5URBIP2_I/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "9yo8f6Totgs",
-      "title": "WATCH LIVE: Vance delivers remarks at manufacturing facility",
-      "thumbnail": "https://i.ytimg.com/vi/9yo8f6Totgs/hqdefault.jpg"
+      "videoId": "grkt0UWUwg0",
+      "title": "WATCH LIVE: Bessent announces new sanctions TARGETING Iran",
+      "thumbnail": "https://i.ytimg.com/vi/grkt0UWUwg0/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xx_-x2s70n8",
-      "title": "LIVE: Tupac Shakur murder trial Day 6",
-      "thumbnail": "https://i.ytimg.com/vi/xx_-x2s70n8/hqdefault.jpg"
+      "videoId": "5WNd8lv7q90",
+      "title": "LIVE: Treasury Secretary Scott Bessent holds press conference on planned Iran sanctions",
+      "thumbnail": "https://i.ytimg.com/vi/5WNd8lv7q90/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "VKEA1v9Uql8",
-      "title": "LIVE: Mark Carney announces measures to defend Canada’s waters and trade routes",
-      "thumbnail": "https://i.ytimg.com/vi/VKEA1v9Uql8/hqdefault.jpg"
+      "videoId": "nEWZMFpa22w",
+      "title": "LIVE: Treasury Secretary Bessent speaks about further sanctions against Iran",
+      "thumbnail": "https://i.ytimg.com/vi/nEWZMFpa22w/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,42 +120,45 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "PD1qGCtHu6M",
-      "title": "LIVE: Lindsay Clancy trial resumes after defense rests its case | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/PD1qGCtHu6M/hqdefault.jpg"
+      "videoId": "ccqsSVDqnng",
+      "title": "LIVE: Treasury Secretary Bessent details economic sanctions against Iran | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/ccqsSVDqnng/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "sotBbuB1vEI",
-      "title": "Watch Live: Lindsay Clancy murder trial continues as closing arguments near | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/sotBbuB1vEI/hqdefault.jpg"
+      "videoId": "tX1ZR9AJ7ZM",
+      "title": "Watch Live: Bessent announces new sanctions against Iran | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/tX1ZR9AJ7ZM/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "d-bRUhHovZM",
+      "title": "Live: Treasury Sec. Bessent rolls out new US sanctions targeting Iran",
+      "thumbnail": "https://i.ytimg.com/vi/d-bRUhHovZM/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "XAgaxIzsM8I",
+      "title": "LIVE: Treasury Secretary holds press conference after threatening \"economic D-Day\" for Iran",
+      "thumbnail": "https://i.ytimg.com/vi/XAgaxIzsM8I/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "OtVxhJz_nhM",
-      "title": "Zelenskyy hosts Burnham in Kyiv to mark Ukraine's independence",
-      "thumbnail": "https://i.ytimg.com/vi/OtVxhJz_nhM/hqdefault.jpg"
+      "videoId": "7GzjFVKHPF8",
+      "title": "US prepares to reveal 'economic D-Day' for Iran",
+      "thumbnail": "https://i.ytimg.com/vi/7GzjFVKHPF8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T16:24:04.965Z",
+      "at": "2026-08-24T17:04:57.382Z",
       "checked": 33,
       "errors": 0
     }
