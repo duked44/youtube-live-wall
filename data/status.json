@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T10:46:21.464Z",
+  "generatedAt": "2026-08-24T11:14:41.089Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "bJYneOLBngk",
-      "title": "LIVE: Vessel traffic in Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/bJYneOLBngk/hqdefault.jpg"
+      "videoId": "30I5Y9Mlc_4",
+      "title": "LIVE: Robots compete at World Humanoid Robot Games in Beijing",
+      "thumbnail": "https://i.ytimg.com/vi/30I5Y9Mlc_4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,15 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "TWEdZ80Z6fk",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/TWEdZ80Z6fk/hqdefault.jpg"
+      "videoId": "8_SQMQ7t7D4",
+      "title": "LIVE: NBC News NOW - Aug. 24",
+      "thumbnail": "https://i.ytimg.com/vi/8_SQMQ7t7D4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "j_ADjAwWyv8",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/j_ADjAwWyv8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -148,7 +151,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "OtVxhJz_nhM",
-      "title": "Zelenskyy hosts Burnham at Kyiv event to mark Independence Day",
+      "title": "Zelenskyy hosts Burnham at Kyiv event to mark Ukraine's independence",
       "thumbnail": "https://i.ytimg.com/vi/OtVxhJz_nhM/hqdefault.jpg"
     },
     {
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-24T10:46:21.464Z",
+      "at": "2026-08-24T11:14:41.089Z",
       "checked": 33,
       "errors": 0
     }
