@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T04:54:48.729Z",
+  "generatedAt": "2026-08-25T05:30:24.720Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,7 +86,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "FkiwNYysWSw",
+      "title": "LIVE: World Humanoid Robot Games 2026 in China | Day 4",
+      "thumbnail": "https://i.ytimg.com/vi/FkiwNYysWSw/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "Hq4G7gOhXXo",
+      "title": "Police say they have arrested 12 people over the deadly crash on the A66 | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/Hq4G7gOhXXo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T04:54:48.729Z",
+      "at": "2026-08-25T05:30:24.720Z",
       "checked": 33,
       "errors": 0
     }
