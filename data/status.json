@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:41:47.690Z",
+  "generatedAt": "2026-08-25T20:03:11.862Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "V_CtdOmfOQM",
-      "title": "CIA Director Visits Moscow & Dolly Patron Dies at 80 - LIVE Breaking News Coverage",
+      "title": "CIA Director Visits Moscow & Dolly Parton Dies at 80 - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/V_CtdOmfOQM/hqdefault.jpg"
     },
     {
@@ -123,9 +123,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "iCvmTgi1CRk",
-      "title": "LIVE: Day 20 of Lindsay Clancy murder trial | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/iCvmTgi1CRk/hqdefault.jpg"
+      "videoId": "4bjVbN9bXH0",
+      "title": "LIVE: NBC News NOW - Aug 24",
+      "thumbnail": "https://i.ytimg.com/vi/4bjVbN9bXH0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -210,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "qY850uMZ0Ow",
-      "title": "WATCH LIVE: Lindsay Clancy trial resumes for last testimony after prosecutors' forensic psychologist",
-      "thumbnail": "https://i.ytimg.com/vi/qY850uMZ0Ow/hqdefault.jpg"
+      "videoId": "gwgwmg7hQE8",
+      "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/gwgwmg7hQE8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T19:41:47.690Z",
+      "at": "2026-08-25T20:03:11.862Z",
       "checked": 33,
       "errors": 0
     }
