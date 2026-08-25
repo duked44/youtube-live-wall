@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T01:09:11.760Z",
+  "generatedAt": "2026-08-25T02:31:45.984Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -109,7 +109,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "E1lPF2GldfU",
-      "title": "LIVE: NBC News NOW - Aug. 24",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/E1lPF2GldfU/hqdefault.jpg"
     },
     {
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T01:09:11.760Z",
+      "at": "2026-08-25T02:31:45.984Z",
       "checked": 33,
       "errors": 0
     }
