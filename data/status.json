@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T13:07:21.294Z",
+  "generatedAt": "2026-08-25T14:02:20.427Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "_h0J1dUg5JI",
+      "title": "LIVE: Day 20 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/_h0J1dUg5JI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "GGfJ7KsAbNk",
-      "title": "WATCH LIVE: Trial continues in the murder of Microsoft executive Jared Bridegan",
-      "thumbnail": "https://i.ytimg.com/vi/GGfJ7KsAbNk/hqdefault.jpg"
+      "videoId": "ZHAXLJ5xe2g",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues after mistrial motion",
+      "thumbnail": "https://i.ytimg.com/vi/ZHAXLJ5xe2g/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -126,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "dlppitm3sn4",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/dlppitm3sn4/hqdefault.jpg"
+      "videoId": "HIKDwnVCG4k",
+      "title": "Watch Live: Lindsay Clancy trial continues with final witness expected | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/HIKDwnVCG4k/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "gwgwmg7hQE8",
-      "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/gwgwmg7hQE8/hqdefault.jpg"
+      "videoId": "l52woEd_tOc",
+      "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/l52woEd_tOc/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -239,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "H9vccVkR3L0",
+      "title": "Canada announces official response to latest Trump tariffs amid renewed US trade war | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/H9vccVkR3L0/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T13:07:21.294Z",
+      "at": "2026-08-25T14:02:20.427Z",
       "checked": 33,
       "errors": 0
     }
