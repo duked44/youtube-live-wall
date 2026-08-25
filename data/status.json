@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-25T21:40:02.338Z",
+  "generatedAt": "2026-08-25T22:00:41.253Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "5ForaJb4-jE",
+      "title": "South Carolina Senate Primary Election Results - LIVE Breaking News Coverage (Republican Runoff)",
+      "thumbnail": "https://i.ytimg.com/vi/5ForaJb4-jE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "3MIlQidL5B8",
-      "title": "WATCH LIVE: Tupac Shakur murder trial enters day 6 in Las Vegas",
-      "thumbnail": "https://i.ytimg.com/vi/3MIlQidL5B8/hqdefault.jpg"
+      "videoId": "--NahEk_bYo",
+      "title": "WATCH LIVE: White House flags lowered to half-staff following death of Dolly Parton",
+      "thumbnail": "https://i.ytimg.com/vi/--NahEk_bYo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -123,9 +126,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "4bjVbN9bXH0",
-      "title": "LIVE: NBC News NOW - Aug 24",
-      "thumbnail": "https://i.ytimg.com/vi/4bjVbN9bXH0/hqdefault.jpg"
+      "videoId": "atM5JjH4Thw",
+      "title": "LIVE: NBC News NOW - Aug. 24",
+      "thumbnail": "https://i.ytimg.com/vi/atM5JjH4Thw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -213,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "gwgwmg7hQE8",
-      "title": "WATCH LIVE: Astronauts replace critical antenna outside International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/gwgwmg7hQE8/hqdefault.jpg"
+      "videoId": "Af5j_fYGCHw",
+      "title": "PBS News Hour live episode, Aug. 25, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/Af5j_fYGCHw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -267,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T21:40:02.338Z",
+      "at": "2026-08-25T22:00:41.253Z",
       "checked": 33,
       "errors": 0
     }
