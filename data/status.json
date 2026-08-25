@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T09:57:08.389Z",
+  "generatedAt": "2026-08-25T10:38:14.121Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,19 +95,16 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "pUWa-9t9eoI",
-      "title": "LIVE: SpaceX launches Starlink satellites",
-      "thumbnail": "https://i.ytimg.com/vi/pUWa-9t9eoI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "Zvg044ooBHA",
+      "title": "LIVE: ABC News Live - Tuesday, August 25 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/Zvg044ooBHA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T09:57:08.389Z",
+      "at": "2026-08-25T10:38:14.121Z",
       "checked": 33,
       "errors": 0
     }
