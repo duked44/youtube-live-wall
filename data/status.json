@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T10:38:14.121Z",
+  "generatedAt": "2026-08-25T11:04:29.063Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "ZHAXLJ5xe2g",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "thumbnail": "https://i.ytimg.com/vi/ZHAXLJ5xe2g/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -111,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "E1lPF2GldfU",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/E1lPF2GldfU/hqdefault.jpg"
+      "videoId": "4bjVbN9bXH0",
+      "title": "LIVE: NBC News NOW - Aug. 25",
+      "thumbnail": "https://i.ytimg.com/vi/4bjVbN9bXH0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "3q_-hfCaPlQ",
+      "videoId": "dlppitm3sn4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/3q_-hfCaPlQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/dlppitm3sn4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "qymOFjc8tjQ",
+      "title": "England cricket speaks after Brydon Carse dropped for Pakistan Test, following nightclub incident",
+      "thumbnail": "https://i.ytimg.com/vi/qymOFjc8tjQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T10:38:14.121Z",
+      "at": "2026-08-25T11:04:29.063Z",
       "checked": 33,
       "errors": 0
     }
