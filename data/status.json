@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-25T22:38:03.585Z",
+  "generatedAt": "2026-08-25T23:02:32.187Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "5ForaJb4-jE",
+      "title": "South Carolina Senate Primary Election Results - LIVE Breaking News Coverage (Republican Runoff)",
+      "thumbnail": "https://i.ytimg.com/vi/5ForaJb4-jE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -111,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "atM5JjH4Thw",
-      "title": "LIVE: NBC News NOW - Aug. 25",
-      "thumbnail": "https://i.ytimg.com/vi/atM5JjH4Thw/hqdefault.jpg"
+      "videoId": "qVQVFKqt08c",
+      "title": "Steve Kornacki analyzes results from South Carolina's GOP Senate runoff | Kornacki Cam | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/qVQVFKqt08c/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "dlppitm3sn4",
+      "videoId": "HLeOtBhhHfg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/dlppitm3sn4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/HLeOtBhhHfg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -137,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "hXbJE_lJ1eo",
-      "title": "LIVE: Fans pay tribute to the late Dolly Parton at her Hollywood Walk of Fame star",
-      "thumbnail": "https://i.ytimg.com/vi/hXbJE_lJ1eo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "kLIB4chy7_Y",
-      "title": "Country music legend Dolly Parton dies | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/kLIB4chy7_Y/hqdefault.jpg"
+      "videoId": "XyX7k1pIoZs",
+      "title": "Day seven | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/XyX7k1pIoZs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "Af5j_fYGCHw",
-      "title": "PBS News Hour live episode, Aug. 25, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/Af5j_fYGCHw/hqdefault.jpg"
+      "videoId": "cqrE6pfNbzw",
+      "title": "WATCH LIVE: Energy Secretary Wright visits coal mine and manufacturing facility in Pennsylvania",
+      "thumbnail": "https://i.ytimg.com/vi/cqrE6pfNbzw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T22:38:03.585Z",
+      "at": "2026-08-25T23:02:32.187Z",
       "checked": 33,
       "errors": 0
     }
