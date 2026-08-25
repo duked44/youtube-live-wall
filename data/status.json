@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-25T19:03:40.629Z",
+  "generatedAt": "2026-08-25T19:41:47.690Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "V_CtdOmfOQM",
+      "title": "CIA Director Visits Moscow & Dolly Patron Dies at 80 - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/V_CtdOmfOQM/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ljivEp8KNjM",
-      "title": "Dolly Parton has died aged 80",
-      "thumbnail": "https://i.ytimg.com/vi/ljivEp8KNjM/hqdefault.jpg"
+      "videoId": "h8YHf0boi5I",
+      "title": "Dolly Parton fans pay tribute at Country Music Hall of Fame and Museum in Nashville",
+      "thumbnail": "https://i.ytimg.com/vi/h8YHf0boi5I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 36,
-      "channelChecks": 1188,
+      "runs": 35,
+      "channelChecks": 1155,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T19:03:40.629Z",
+      "at": "2026-08-25T19:41:47.690Z",
       "checked": 33,
       "errors": 0
     }
