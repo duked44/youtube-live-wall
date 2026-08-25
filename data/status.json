@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:41:14.959Z",
+  "generatedAt": "2026-08-25T21:05:11.391Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -50,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "gQqvAofLAio",
+      "title": "LIVE: Tributes to Dolly Parton after her death aged 80 | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/gQqvAofLAio/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -93,9 +96,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "tOZzURqQp2Y",
-      "title": "LIVE: Tributes for Dolly Parton after her death",
-      "thumbnail": "https://i.ytimg.com/vi/tOZzURqQp2Y/hqdefault.jpg"
+      "videoId": "k4fTf_XpYuU",
+      "title": "LIVE: Tupac Shakur murder trial Day 7",
+      "thumbnail": "https://i.ytimg.com/vi/k4fTf_XpYuU/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -146,16 +149,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "hXbJE_lJ1eo",
+      "title": "LIVE: Fans pay tribute to the late Dolly Parton at her Hollywood Walk of Fame star",
+      "thumbnail": "https://i.ytimg.com/vi/hXbJE_lJ1eo/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "h8YHf0boi5I",
-      "title": "Fans pay tribute to Dolly Parton after her death aged 80",
-      "thumbnail": "https://i.ytimg.com/vi/h8YHf0boi5I/hqdefault.jpg"
+      "videoId": "kLIB4chy7_Y",
+      "title": "Country music legend Dolly Parton dies | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/kLIB4chy7_Y/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -264,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T20:41:14.959Z",
+      "at": "2026-08-25T21:05:11.391Z",
       "checked": 33,
       "errors": 0
     }
