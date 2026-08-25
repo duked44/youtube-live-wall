@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:00:54.244Z",
+  "generatedAt": "2026-08-25T07:03:02.100Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,7 +95,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "7bhjpLogcLE",
+      "title": "LIVE: Typhoon Saudel approaches Okinawa",
+      "thumbnail": "https://i.ytimg.com/vi/7bhjpLogcLE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Hq4G7gOhXXo",
-      "title": "Police say they have arrested 12 people over the deadly crash on the A66 | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/Hq4G7gOhXXo/hqdefault.jpg"
+      "videoId": "i14hIX9aCKI",
+      "title": "World Humanoid Robot Games | Day four",
+      "thumbnail": "https://i.ytimg.com/vi/i14hIX9aCKI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T06:00:54.244Z",
+      "at": "2026-08-25T07:03:02.100Z",
       "checked": 33,
       "errors": 0
     }
