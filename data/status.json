@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T15:52:02.896Z",
+  "generatedAt": "2026-08-25T16:25:57.798Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "_h0J1dUg5JI",
-      "title": "LIVE: Day 20 Of Court Trial For Lindsay Clancy, Accused Of Murdering Her Three Children",
-      "thumbnail": "https://i.ytimg.com/vi/_h0J1dUg5JI/hqdefault.jpg"
+      "videoId": "Q957UfwXs24",
+      "title": "LIVE: Day 7 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/Q957UfwXs24/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -93,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "BCYTvls0UkM",
-      "title": "LIVE: Canada officials announce retaliatory tariffs against the US",
-      "thumbnail": "https://i.ytimg.com/vi/BCYTvls0UkM/hqdefault.jpg"
+      "videoId": "QISmdzzLRAk",
+      "title": "LIVE: Louisiana Gov. Jeff Landry addresses reports of new SpaceX rocket facility",
+      "thumbnail": "https://i.ytimg.com/vi/QISmdzzLRAk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "mU13qhuN8T4",
-      "title": "LIVE: Canada announces retaliatory tariffs against US",
-      "thumbnail": "https://i.ytimg.com/vi/mU13qhuN8T4/hqdefault.jpg"
+      "videoId": "SWdkswubMYw",
+      "title": "LIVE: Tupac Shakur murder trial in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/SWdkswubMYw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "h6Z8aIW92Vg",
-      "title": "Canada announces retaliatory tariffs against the US",
-      "thumbnail": "https://i.ytimg.com/vi/h6Z8aIW92Vg/hqdefault.jpg"
+      "videoId": "XyX7k1pIoZs",
+      "title": "Day seven | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/XyX7k1pIoZs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "b-NWm5Zcaq4",
-      "title": "WATCH LIVE: Canada announces retaliatory tariffs against the U.S.",
-      "thumbnail": "https://i.ytimg.com/vi/b-NWm5Zcaq4/hqdefault.jpg"
+      "videoId": "l52woEd_tOc",
+      "title": "WATCH LIVE: Final witnesses expected to testify in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/l52woEd_tOc/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -230,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "mjvf4GuAX5M",
-      "title": "Canadian government responds to US tariffs - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/mjvf4GuAX5M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -245,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "H9vccVkR3L0",
-      "title": "Canada announces official response to latest Trump tariffs amid renewed US trade war | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/H9vccVkR3L0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -267,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T15:52:02.896Z",
+      "at": "2026-08-25T16:25:57.798Z",
       "checked": 33,
       "errors": 0
     }
