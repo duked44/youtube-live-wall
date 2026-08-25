@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T17:43:50.255Z",
+  "generatedAt": "2026-08-25T18:16:19.038Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -129,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "HIKDwnVCG4k",
-      "title": "Watch Live: Lindsay Clancy trial continues with final witness expected | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/HIKDwnVCG4k/hqdefault.jpg"
+      "videoId": "-5A6SrgSi20",
+      "title": "Breaking News: Dolly Parton dead at 80",
+      "thumbnail": "https://i.ytimg.com/vi/-5A6SrgSi20/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "XyX7k1pIoZs",
-      "title": "Day seven | Tupac murder trial live from Las Vegas court",
-      "thumbnail": "https://i.ytimg.com/vi/XyX7k1pIoZs/hqdefault.jpg"
+      "videoId": "ljivEp8KNjM",
+      "title": "Dolly Parton has died aged 80",
+      "thumbnail": "https://i.ytimg.com/vi/ljivEp8KNjM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -189,9 +189,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "eG5KKxNdQa0",
+      "title": "Northrup Grumman Chair, CEO and President Kathy Warden | Bloomberg Newsmakers",
+      "thumbnail": "https://i.ytimg.com/vi/eG5KKxNdQa0/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T17:43:50.255Z",
+      "at": "2026-08-25T18:16:19.038Z",
       "checked": 33,
       "errors": 0
     }
