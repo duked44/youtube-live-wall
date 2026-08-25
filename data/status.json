@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-08-25T20:03:11.862Z",
+  "generatedAt": "2026-08-25T20:41:14.959Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "V_CtdOmfOQM",
-      "title": "CIA Director Visits Moscow & Dolly Parton Dies at 80 - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/V_CtdOmfOQM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -97,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "tOZzURqQp2Y",
-      "title": "LIVE: Scene at Country Music Hall of Fame and Museum after Dolly Parton's death",
+      "title": "LIVE: Tributes for Dolly Parton after her death",
       "thumbnail": "https://i.ytimg.com/vi/tOZzURqQp2Y/hqdefault.jpg"
     },
     {
@@ -132,9 +129,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "-5A6SrgSi20",
-      "title": "Breaking News: Dolly Parton dead at 80",
-      "thumbnail": "https://i.ytimg.com/vi/-5A6SrgSi20/hqdefault.jpg"
+      "videoId": "dlppitm3sn4",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/dlppitm3sn4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -157,7 +154,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "h8YHf0boi5I",
-      "title": "Dolly Parton fans pay tribute at Country Music Hall of Fame and Museum in Nashville",
+      "title": "Fans pay tribute to Dolly Parton after her death aged 80",
       "thumbnail": "https://i.ytimg.com/vi/h8YHf0boi5I/hqdefault.jpg"
     },
     {
@@ -245,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "YTAtDBCW5SI",
+      "title": "David Eby responds to Canada’s measures to support businesses amid US tariffs | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/YTAtDBCW5SI/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -259,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 35,
-      "channelChecks": 1155,
+      "runs": 36,
+      "channelChecks": 1188,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T20:03:11.862Z",
+      "at": "2026-08-25T20:41:14.959Z",
       "checked": 33,
       "errors": 0
     }
