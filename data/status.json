@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T23:34:15.450Z",
+  "generatedAt": "2026-08-25T23:56:32.960Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -114,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "qVQVFKqt08c",
-      "title": "Steve Kornacki analyzes results from South Carolina's GOP Senate runoff | Kornacki Cam | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/qVQVFKqt08c/hqdefault.jpg"
+      "videoId": "7gwqNzJlc0U",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Aug 25",
+      "thumbnail": "https://i.ytimg.com/vi/7gwqNzJlc0U/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T23:34:15.450Z",
+      "at": "2026-08-25T23:56:32.960Z",
       "checked": 33,
       "errors": 0
     }
