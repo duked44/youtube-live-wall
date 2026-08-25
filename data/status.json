@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:04:29.063Z",
+  "generatedAt": "2026-08-25T11:38:57.133Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -28,7 +28,7 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "ZHAXLJ5xe2g",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial continues after mistrial motion",
       "thumbnail": "https://i.ytimg.com/vi/ZHAXLJ5xe2g/hqdefault.jpg"
     },
     {
@@ -90,15 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5akBjYzPs1g",
-      "title": "LIVE: NASA and ESA astronauts conduct spacewalk outside International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/5akBjYzPs1g/hqdefault.jpg"
+      "videoId": "up15K0TFIB4",
+      "title": "LIVE: World Humanoid Robot Games 2026 in China | Day 4",
+      "thumbnail": "https://i.ytimg.com/vi/up15K0TFIB4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Dbn2M7JAGTE",
+      "title": "LIVE: Astronauts spacewalk at ISS",
+      "thumbnail": "https://i.ytimg.com/vi/Dbn2M7JAGTE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T11:04:29.063Z",
+      "at": "2026-08-25T11:38:57.133Z",
       "checked": 33,
       "errors": 0
     }
