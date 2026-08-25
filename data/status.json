@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T11:38:57.133Z",
+  "generatedAt": "2026-08-25T12:03:07.018Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "up15K0TFIB4",
-      "title": "LIVE: World Humanoid Robot Games 2026 in China | Day 4",
-      "thumbnail": "https://i.ytimg.com/vi/up15K0TFIB4/hqdefault.jpg"
+      "videoId": "ox_mjjNIBeg",
+      "title": "LIVE: Lindsay Clancy trial Day 20",
+      "thumbnail": "https://i.ytimg.com/vi/ox_mjjNIBeg/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T11:38:57.133Z",
+      "at": "2026-08-25T12:03:07.018Z",
       "checked": 33,
       "errors": 0
     }
