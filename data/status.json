@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T16:25:57.798Z",
+  "generatedAt": "2026-08-25T17:06:21.502Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "ZHAXLJ5xe2g",
-      "title": "WATCH LIVE: Lindsay Clancy murder trial continues after mistrial motion",
-      "thumbnail": "https://i.ytimg.com/vi/ZHAXLJ5xe2g/hqdefault.jpg"
+      "videoId": "3MIlQidL5B8",
+      "title": "WATCH LIVE: Tupac Shakur murder trial enters day 6 in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/3MIlQidL5B8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "QISmdzzLRAk",
-      "title": "LIVE: Louisiana Gov. Jeff Landry addresses reports of new SpaceX rocket facility",
-      "thumbnail": "https://i.ytimg.com/vi/QISmdzzLRAk/hqdefault.jpg"
+      "videoId": "k4fTf_XpYuU",
+      "title": "LIVE: Tupac Shakur murder trial Day 7",
+      "thumbnail": "https://i.ytimg.com/vi/k4fTf_XpYuU/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-25T16:25:57.798Z",
+      "at": "2026-08-25T17:06:21.502Z",
       "checked": 33,
       "errors": 0
     }
