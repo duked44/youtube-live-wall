@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T02:51:05.696Z",
+  "generatedAt": "2026-08-26T03:44:01.683Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,19 +92,16 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "QwCAS1xSKeQ",
-      "title": "LIVE: Fans in Tennessee mourn Dolly Parton's death",
-      "thumbnail": "https://i.ytimg.com/vi/QwCAS1xSKeQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Zvg044ooBHA",
-      "title": "LIVE: ABC News Live - Tuesday, August 25 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/Zvg044ooBHA/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T02:51:05.696Z",
+      "at": "2026-08-26T03:44:01.683Z",
       "checked": 33,
       "errors": 0
     }
