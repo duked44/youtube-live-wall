@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T14:06:26.908Z",
+  "generatedAt": "2026-08-26T15:00:43.992Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "jJrmim2MRgo",
-      "title": "LIVE: Lindsay Clancy trial Day 21",
-      "thumbnail": "https://i.ytimg.com/vi/jJrmim2MRgo/hqdefault.jpg"
+      "videoId": "uURhFmmHhOg",
+      "title": "LIVE: Ontario Premier Doug Ford speaks after Canada issues retaliatory tariffs against US",
+      "thumbnail": "https://i.ytimg.com/vi/uURhFmmHhOg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "dT9r3dEUwYY",
-      "title": "LIVE: Lindsay Clancy murder trial nears closing arguments",
-      "thumbnail": "https://i.ytimg.com/vi/dT9r3dEUwYY/hqdefault.jpg"
+      "videoId": "75VfyRdtUN4",
+      "title": "LIVE: WHO's Africa Regional Committee hold briefing on Ebola outbreak",
+      "thumbnail": "https://i.ytimg.com/vi/75VfyRdtUN4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -245,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "dbPabf-arqk",
+      "title": "Ontario Premier Ford to address media amid tension with Trump as trade war escalates | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/dbPabf-arqk/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T14:06:26.908Z",
+      "at": "2026-08-26T15:00:43.992Z",
       "checked": 33,
       "errors": 0
     }
