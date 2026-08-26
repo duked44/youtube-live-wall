@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:04:26.383Z",
+  "generatedAt": "2026-08-26T11:40:44.332Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "EuLWsgbVkUM",
-      "title": "LIVE: La Tomatina festival | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/EuLWsgbVkUM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "C8hm-H9rmVE",
-      "title": "LIVE: World Humanoid Robot Games 2026 in China | Final Day",
-      "thumbnail": "https://i.ytimg.com/vi/C8hm-H9rmVE/hqdefault.jpg"
+      "videoId": "bTIFyurlpFU",
+      "title": "LIVE: Fans honor Dolly Parton in her hometown Sevierville",
+      "thumbnail": "https://i.ytimg.com/vi/bTIFyurlpFU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "kUSO0FIR0-8",
-      "title": "LIVE: Dollywood theme park after Dolly Parton's death",
-      "thumbnail": "https://i.ytimg.com/vi/kUSO0FIR0-8/hqdefault.jpg"
+      "videoId": "4lS9jqO_b3k",
+      "title": "LIVE: Robots compete in the World Humanoid Robot Games",
+      "thumbnail": "https://i.ytimg.com/vi/4lS9jqO_b3k/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "41ivoaZ9Pqo",
-      "title": "Tomato-throwing festival taking place in Spain",
-      "thumbnail": "https://i.ytimg.com/vi/41ivoaZ9Pqo/hqdefault.jpg"
+      "videoId": "YDvsBbKfLPA",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "ghtTXhZJhAE",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/ghtTXhZJhAE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -253,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 35,
-      "channelChecks": 1155,
+      "runs": 34,
+      "channelChecks": 1122,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T11:04:26.383Z",
+      "at": "2026-08-26T11:40:44.332Z",
       "checked": 33,
       "errors": 0
     }
