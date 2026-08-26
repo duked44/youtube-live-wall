@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T18:16:09.664Z",
+  "generatedAt": "2026-08-26T20:12:10.297Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "na_-Nvl_18c",
-      "title": "LIVE: Dolly Parton Memorial At Her Hollywood Star On Walk of Fame",
-      "thumbnail": "https://i.ytimg.com/vi/na_-Nvl_18c/hqdefault.jpg"
+      "videoId": "f5bLmz8THsk",
+      "title": "LIVE: Day 8 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/f5bLmz8THsk/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Duh7DXSesQg",
-      "title": "WATCH LIVE: Day 21 of Lindsay Clancy murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/Duh7DXSesQg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "jJrmim2MRgo",
-      "title": "LIVE: Lindsay Clancy trial Day 21",
-      "thumbnail": "https://i.ytimg.com/vi/jJrmim2MRgo/hqdefault.jpg"
+      "videoId": "CIkaoADzkxE",
+      "title": "LIVE: Tupac Shakur murder trial Day 8",
+      "thumbnail": "https://i.ytimg.com/vi/CIkaoADzkxE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "dT9r3dEUwYY",
-      "title": "LIVE: Lindsay Clancy murder trial nears closing arguments",
-      "thumbnail": "https://i.ytimg.com/vi/dT9r3dEUwYY/hqdefault.jpg"
+      "videoId": "caU68fLkHdY",
+      "title": "LIVE: Tupac Shakur murder trial in Las Vegas",
+      "thumbnail": "https://i.ytimg.com/vi/caU68fLkHdY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "HPyZV9JkK_0",
-      "title": "LIVE: Day 21 of Lindsay Clancy murder trial | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/HPyZV9JkK_0/hqdefault.jpg"
+      "videoId": "uEw1vJMU8UI",
+      "title": "LIVE: NBC News NOW - Aug 26",
+      "thumbnail": "https://i.ytimg.com/vi/uEw1vJMU8UI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "D5e_OEquwAk",
-      "title": "Watch Live: Lindsay Clancy murder trial continues with final rebuttal witness | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/D5e_OEquwAk/hqdefault.jpg"
+      "videoId": "UGyH4-iNQ2E",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/UGyH4-iNQ2E/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YDvsBbKfLPA",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/YDvsBbKfLPA/hqdefault.jpg"
+      "videoId": "rPM5lIbnJpk",
+      "title": "Day eight | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/rPM5lIbnJpk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,10 +203,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "dO97m7q3MLc",
-      "title": "WATCH LIVE: Presentation of evidence expected to conclude in Lindsay Clancy trial",
-      "thumbnail": "https://i.ytimg.com/vi/dO97m7q3MLc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -242,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "-1EMSpe7umA",
-      "title": "Canada-US trade war: Saskatchewan Premier Moe, cabinet speak amid escalating tensions | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/-1EMSpe7umA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -259,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 32,
-      "channelChecks": 1056,
+      "runs": 29,
+      "channelChecks": 957,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T18:16:09.664Z",
+      "at": "2026-08-26T20:12:10.297Z",
       "checked": 33,
       "errors": 0
     }
