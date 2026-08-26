@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:06:28.107Z",
+  "generatedAt": "2026-08-26T05:48:12.434Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -142,7 +142,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "OnndcW1c0Q8",
-      "title": "Dolly Parton had cancer when she died, her publicist reveals | Mornings",
+      "title": "Tributes pour in for beloved music icon Dolly Parton | Mornings",
       "thumbnail": "https://i.ytimg.com/vi/OnndcW1c0Q8/hqdefault.jpg"
     },
     {
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T05:06:28.107Z",
+      "at": "2026-08-26T05:48:12.434Z",
       "checked": 33,
       "errors": 0
     }
