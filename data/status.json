@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T10:29:24.960Z",
+  "generatedAt": "2026-08-26T11:04:26.383Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Duh7DXSesQg",
+      "title": "WATCH LIVE: Lindsay Clancy murder trial nears end after final witness testified",
+      "thumbnail": "https://i.ytimg.com/vi/Duh7DXSesQg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "ImcFS_nPcfM",
-      "title": "La Tomatina 2026 LIVE: Watch Spain's tomato street fight",
-      "thumbnail": "https://i.ytimg.com/vi/ImcFS_nPcfM/hqdefault.jpg"
+      "videoId": "C8hm-H9rmVE",
+      "title": "LIVE: World Humanoid Robot Games 2026 in China | Final Day",
+      "thumbnail": "https://i.ytimg.com/vi/C8hm-H9rmVE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -117,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "atM5JjH4Thw",
-      "title": "LIVE: NBC News NOW - Aug. 25",
-      "thumbnail": "https://i.ytimg.com/vi/atM5JjH4Thw/hqdefault.jpg"
+      "videoId": "uEw1vJMU8UI",
+      "title": "LIVE: NBC News NOW - Aug 26",
+      "thumbnail": "https://i.ytimg.com/vi/uEw1vJMU8UI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "HLeOtBhhHfg",
+      "videoId": "UGyH4-iNQ2E",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/HLeOtBhhHfg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/UGyH4-iNQ2E/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "dhZ6vtN_bcA",
-      "title": "Reform UK's Robert Jenrick announces plan to 'save' small businesses",
-      "thumbnail": "https://i.ytimg.com/vi/dhZ6vtN_bcA/hqdefault.jpg"
+      "videoId": "41ivoaZ9Pqo",
+      "title": "Tomato-throwing festival taking place in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/41ivoaZ9Pqo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T10:29:24.960Z",
+      "at": "2026-08-26T11:04:26.383Z",
       "checked": 33,
       "errors": 0
     }
