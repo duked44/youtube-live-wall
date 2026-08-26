@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-08-26T01:29:30.248Z",
+  "generatedAt": "2026-08-26T02:51:05.696Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "5ForaJb4-jE",
-      "title": "South Carolina Senate Primary Election Results - LIVE Breaking News Coverage (Republican Runoff)",
-      "thumbnail": "https://i.ytimg.com/vi/5ForaJb4-jE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -96,9 +93,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Ai-AhMSykwA",
-      "title": "LIVE: Fans lay flowers at late Dolly Parton's Hollywood Walk of Fame star",
-      "thumbnail": "https://i.ytimg.com/vi/Ai-AhMSykwA/hqdefault.jpg"
+      "videoId": "QwCAS1xSKeQ",
+      "title": "LIVE: Fans in Tennessee mourn Dolly Parton's death",
+      "thumbnail": "https://i.ytimg.com/vi/QwCAS1xSKeQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "qVQVFKqt08c",
-      "title": "Steve Kornacki analyzes results from South Carolina's GOP Senate runoff | Kornacki Cam | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/qVQVFKqt08c/hqdefault.jpg"
+      "videoId": "atM5JjH4Thw",
+      "title": "LIVE: NBC News NOW - Aug. 25",
+      "thumbnail": "https://i.ytimg.com/vi/atM5JjH4Thw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T01:29:30.248Z",
+      "at": "2026-08-26T02:51:05.696Z",
       "checked": 33,
       "errors": 0
     }
