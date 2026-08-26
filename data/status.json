@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T09:01:23.083Z",
+  "generatedAt": "2026-08-26T09:53:06.527Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,7 +95,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "_b7c6rcS0yM",
+      "title": "LIVE: Spain’s 'La Tomatina' festival",
+      "thumbnail": "https://i.ytimg.com/vi/_b7c6rcS0yM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "OnndcW1c0Q8",
-      "title": "Tributes pour in for beloved music icon Dolly Parton | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/OnndcW1c0Q8/hqdefault.jpg"
+      "videoId": "41ivoaZ9Pqo",
+      "title": "Tomato-throwing festival taking place in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/41ivoaZ9Pqo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T09:01:23.083Z",
+      "at": "2026-08-26T09:53:06.527Z",
       "checked": 33,
       "errors": 0
     }
