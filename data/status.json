@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T05:48:12.434Z",
+  "generatedAt": "2026-08-26T06:22:39.557Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,13 +86,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "Iq7v54MvjzY",
+      "title": "LIVE: Final day of World Humanoid Robot Games 2026 in China",
+      "thumbnail": "https://i.ytimg.com/vi/Iq7v54MvjzY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "x3CXa25_wSU",
+      "title": "LIVE: Robots compete in the World Humanoid Robot Games",
+      "thumbnail": "https://i.ytimg.com/vi/x3CXa25_wSU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -246,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T05:48:12.434Z",
+      "at": "2026-08-26T06:22:39.557Z",
       "checked": 33,
       "errors": 0
     }
