@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T11:40:44.332Z",
+  "generatedAt": "2026-08-26T12:04:31.554Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "bTIFyurlpFU",
-      "title": "LIVE: Fans honor Dolly Parton in her hometown Sevierville",
-      "thumbnail": "https://i.ytimg.com/vi/bTIFyurlpFU/hqdefault.jpg"
+      "videoId": "jJrmim2MRgo",
+      "title": "LIVE: Lindsay Clancy trial Day 21",
+      "thumbnail": "https://i.ytimg.com/vi/jJrmim2MRgo/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T11:40:44.332Z",
+      "at": "2026-08-26T12:04:31.554Z",
       "checked": 33,
       "errors": 0
     }
