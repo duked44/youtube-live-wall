@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:07:52.932Z",
+  "generatedAt": "2026-08-26T09:01:23.083Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,18 +87,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Iq7v54MvjzY",
-      "title": "LIVE: Final day of World Humanoid Robot Games 2026 in China",
-      "thumbnail": "https://i.ytimg.com/vi/Iq7v54MvjzY/hqdefault.jpg"
+      "videoId": "ImcFS_nPcfM",
+      "title": "La Tomatina 2026 LIVE: Watch tomato street fight in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/ImcFS_nPcfM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "x3CXa25_wSU",
-      "title": "LIVE: Robots compete in the World Humanoid Robot Games",
-      "thumbnail": "https://i.ytimg.com/vi/x3CXa25_wSU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T08:07:52.932Z",
+      "at": "2026-08-26T09:01:23.083Z",
       "checked": 33,
       "errors": 0
     }
