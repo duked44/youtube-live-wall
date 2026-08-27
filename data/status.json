@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T23:36:47.795Z",
+  "generatedAt": "2026-08-27T05:01:51.957Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,19 +92,16 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "btYPQrZj2W8",
-      "title": "LIVE: Fans in Tennessee mourn Dolly Parton's death",
-      "thumbnail": "https://i.ytimg.com/vi/btYPQrZj2W8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Er_pD1sBW2g",
-      "title": "LIVE: ABC News Live - Wednesday, August 26 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/Er_pD1sBW2g/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "J72SFXr3XW0",
-      "title": "'At least 33 Britons' missing in Nepal flash floods | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/J72SFXr3XW0/hqdefault.jpg"
+      "videoId": "qaX8Uc_tR5U",
+      "title": "More than 160 dead and dozens of Britons missing in 'movie-like' disaster in Nepal | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/qaX8Uc_tR5U/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -241,12 +238,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 23,
-      "channelChecks": 759,
+      "runs": 19,
+      "channelChecks": 627,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-26T23:36:47.795Z",
+      "at": "2026-08-27T05:01:51.957Z",
       "checked": 33,
       "errors": 0
     }
