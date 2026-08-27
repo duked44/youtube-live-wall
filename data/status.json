@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T05:01:51.957Z",
+  "generatedAt": "2026-08-27T16:25:04.828Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "DElbrbLMGU8",
+      "title": "LIVE: Closing Arguments Begin For Lindsay Clancy Trial, Accused Of Murdering Her Three Children",
+      "thumbnail": "https://i.ytimg.com/vi/DElbrbLMGU8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "J0bXssrJiJk",
+      "title": "WATCH LIVE: Closing arguments in day 22 of Lindsay Clancy murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/J0bXssrJiJk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -44,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "rXI-qPYckOw",
+      "title": "LIVE: Nepal flash flood rescue operation underway after glacial collapse at Tibet border | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/rXI-qPYckOw/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -86,40 +95,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "0df9TJdy1rM",
+      "title": "LIVE: Lindsay Clancy trial Day 22 — Closing arguments begin",
+      "thumbnail": "https://i.ytimg.com/vi/0df9TJdy1rM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "pPcNWmmd6eo",
+      "title": "LIVE: UN briefing on Nepal floods",
+      "thumbnail": "https://i.ytimg.com/vi/pPcNWmmd6eo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "l98xl39y4Rs",
+      "title": "LIVE: ABC News Live - Thursday, August 27 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/l98xl39y4Rs/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "d5JktT4L02c",
-      "title": "LIVE: NBC News NOW - Aug. 26",
-      "thumbnail": "https://i.ytimg.com/vi/d5JktT4L02c/hqdefault.jpg"
+      "videoId": "N92eTlcQOVw",
+      "title": "LIVE: Day 22 of Lindsay Clancy murder trial: Closing arguments | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/N92eTlcQOVw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "tC7NPTEENo0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/tC7NPTEENo0/hqdefault.jpg"
+      "videoId": "pYOYCi0Kj8Q",
+      "title": "Watch Live: Lindsay Clancy murder trial closing arguments begin | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/pYOYCi0Kj8Q/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -141,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "qaX8Uc_tR5U",
-      "title": "More than 160 dead and dozens of Britons missing in 'movie-like' disaster in Nepal | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/qaX8Uc_tR5U/hqdefault.jpg"
+      "videoId": "gQokE9zQM2E",
+      "title": "Tate brothers face custody hearing in Florida",
+      "thumbnail": "https://i.ytimg.com/vi/gQokE9zQM2E/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -194,19 +209,28 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "OqcFzcF-ots",
+      "title": "WATCH LIVE: Attorneys make closing arguments in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/OqcFzcF-ots/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "KXMm6ljpfpM",
+      "title": "Watch live: Lindsay Clancy trial heads to closing arguments",
+      "thumbnail": "https://i.ytimg.com/vi/KXMm6ljpfpM/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "k3WOE85aV3s",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/k3WOE85aV3s/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -238,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 19,
-      "channelChecks": 627,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-27T05:01:51.957Z",
+      "at": "2026-08-27T16:25:04.828Z",
       "checked": 33,
       "errors": 0
     }
