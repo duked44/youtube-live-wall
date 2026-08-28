@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T01:03:28.157Z",
+  "generatedAt": "2026-08-28T12:43:06.029Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "-_Y6KNdQRf8",
+      "title": "LIVE: Day 10 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
+      "thumbnail": "https://i.ytimg.com/vi/-_Y6KNdQRf8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "LH2JqnVQlNI",
+      "title": "WATCH LIVE: Trump honors Artemis II crew at NASA’s Johnson Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/LH2JqnVQlNI/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,42 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "-_cvGiAmpT4",
-      "title": "Lunar eclipse 2026: LIVE view from across the world",
-      "thumbnail": "https://i.ytimg.com/vi/-_cvGiAmpT4/hqdefault.jpg"
+      "videoId": "7DYnyiYwgiQ",
+      "title": "LIVE: Lindsay Clancy trial Day 23 — jury deliberations resume",
+      "thumbnail": "https://i.ytimg.com/vi/7DYnyiYwgiQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Wh6ncoVpbSk",
+      "title": "LIVE: Iran war diplomacy turns toward reopening Strait of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/Wh6ncoVpbSk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "l98xl39y4Rs",
-      "title": "LIVE: ABC News Live - Thursday, August 27 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/l98xl39y4Rs/hqdefault.jpg"
+      "videoId": "VKdhuhn_VaY",
+      "title": "LIVE: ABC News Live - Friday, August 28 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/VKdhuhn_VaY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "tCjtxeeiGQ8",
-      "title": "LIVE: NBC News NOW - Aug. 27",
-      "thumbnail": "https://i.ytimg.com/vi/tCjtxeeiGQ8/hqdefault.jpg"
+      "videoId": "6hVP7ajknt8",
+      "title": "LIVE: NBC News NOW - Aug 28",
+      "thumbnail": "https://i.ytimg.com/vi/6hVP7ajknt8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "KJivp5x8jqU",
+      "videoId": "PqJ5P1LeiZw",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/KJivp5x8jqU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/PqJ5P1LeiZw/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -137,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "4zPF6F1h1Qg",
+      "title": "LIVE: See MLK III, AOC and more 'March on Washington' to defend voting rights",
+      "thumbnail": "https://i.ytimg.com/vi/4zPF6F1h1Qg/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "lNWagm1IVKc",
+      "title": "Norway's King has died aged 89",
+      "thumbnail": "https://i.ytimg.com/vi/lNWagm1IVKc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +221,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "4Mq2otUVoAw",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/4Mq2otUVoAw/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -246,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-28T01:03:28.157Z",
+      "at": "2026-08-28T12:43:06.029Z",
       "checked": 33,
       "errors": 0
     }
