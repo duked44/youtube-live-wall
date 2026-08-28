@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T12:43:06.029Z",
+  "generatedAt": "2026-08-28T22:43:05.720Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "-_Y6KNdQRf8",
-      "title": "LIVE: Day 10 Of Court Trial For Tupac Shakur's Accused Murderer Duane Davis",
-      "thumbnail": "https://i.ytimg.com/vi/-_Y6KNdQRf8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "LH2JqnVQlNI",
-      "title": "WATCH LIVE: Trump honors Artemis II crew at NASA’s Johnson Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/LH2JqnVQlNI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,19 +86,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "7DYnyiYwgiQ",
-      "title": "LIVE: Lindsay Clancy trial Day 23 — jury deliberations resume",
-      "thumbnail": "https://i.ytimg.com/vi/7DYnyiYwgiQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "Wh6ncoVpbSk",
-      "title": "LIVE: Iran war diplomacy turns toward reopening Strait of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/Wh6ncoVpbSk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,9 +108,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "6hVP7ajknt8",
-      "title": "LIVE: NBC News NOW - Aug 28",
-      "thumbnail": "https://i.ytimg.com/vi/6hVP7ajknt8/hqdefault.jpg"
+      "videoId": "mtfScgprugU",
+      "title": "LIVE: NBC News NOW - Aug. 28",
+      "thumbnail": "https://i.ytimg.com/vi/mtfScgprugU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -146,19 +134,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "4zPF6F1h1Qg",
-      "title": "LIVE: See MLK III, AOC and more 'March on Washington' to defend voting rights",
-      "thumbnail": "https://i.ytimg.com/vi/4zPF6F1h1Qg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lNWagm1IVKc",
-      "title": "Norway's King has died aged 89",
-      "thumbnail": "https://i.ytimg.com/vi/lNWagm1IVKc/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +194,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "JAUMIECAFBY",
+      "title": "PBS News Hour live episode, Aug. 28, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/JAUMIECAFBY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -221,10 +209,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "4Mq2otUVoAw",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/4Mq2otUVoAw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -261,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-28T12:43:06.029Z",
+      "at": "2026-08-28T22:43:05.720Z",
       "checked": 33,
       "errors": 0
     }
