@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:54:31.934Z",
+  "generatedAt": "2026-08-29T10:47:07.659Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -116,10 +116,7 @@
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "PqJ5P1LeiZw",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/PqJ5P1LeiZw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -141,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "9sSOEKQ_Xns",
+      "title": "Nepal floods | Rescuers work to find hundreds of people still missing",
+      "thumbnail": "https://i.ytimg.com/vi/9sSOEKQ_Xns/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -238,12 +235,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 3,
-      "channelChecks": 99,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-29T03:54:31.934Z",
+      "at": "2026-08-29T10:47:07.659Z",
       "checked": 33,
       "errors": 0
     }
