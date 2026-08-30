@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T07:19:36.408Z",
+  "generatedAt": "2026-08-30T13:01:35.802Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -18,15 +18,18 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "U1uW0mfHjHo",
-      "title": "NASA Roman Space Telescope Launch",
-      "thumbnail": "https://i.ytimg.com/vi/U1uW0mfHjHo/hqdefault.jpg"
+      "videoId": "MvAIZN8elEc",
+      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
+      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Hzwz_hbJFZM",
+      "title": "WATCH LIVE: NASA holds press briefing after launching Nancy Grace Roman Telescope",
+      "thumbnail": "https://i.ytimg.com/vi/Hzwz_hbJFZM/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -86,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "Og9KKnbZKTM",
-      "title": "LIVE: Launch of NASA’s Nancy Grace Roman Space Telescope on SpaceX Falcon Heavy rocket",
-      "thumbnail": "https://i.ytimg.com/vi/Og9KKnbZKTM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "uUELoBTBuFw",
+      "title": "LIVE: ABC News Live - Sunday, August 30 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/uUELoBTBuFw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "wEpMzbXi1CM",
-      "title": "Mornings | Sunday 30 August 2026",
-      "thumbnail": "https://i.ytimg.com/vi/wEpMzbXi1CM/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "che5X3BPw1M",
+      "title": "Nepal Warns of More Floods, Nancy Grace Telescope Launch | Bloomberg This Weekend: Aug 30, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/che5X3BPw1M/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -224,7 +224,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "S_00LWQfpNo",
+      "title": "NASA concludes Roman Space Telescope launch with news conference | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/S_00LWQfpNo/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-30T07:19:36.408Z",
+      "at": "2026-08-30T13:01:35.802Z",
       "checked": 33,
       "errors": 0
     }
