@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T13:01:35.802Z",
+  "generatedAt": "2026-08-30T17:22:45.116Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Hzwz_hbJFZM",
-      "title": "WATCH LIVE: NASA holds press briefing after launching Nancy Grace Roman Telescope",
-      "thumbnail": "https://i.ytimg.com/vi/Hzwz_hbJFZM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -177,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "che5X3BPw1M",
-      "title": "Nepal Warns of More Floods, Nancy Grace Telescope Launch | Bloomberg This Weekend: Aug 30, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/che5X3BPw1M/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -224,10 +221,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "S_00LWQfpNo",
-      "title": "NASA concludes Roman Space Telescope launch with news conference | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/S_00LWQfpNo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -246,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-30T13:01:35.802Z",
+      "at": "2026-08-30T17:22:45.116Z",
       "checked": 33,
       "errors": 0
     }
