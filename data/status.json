@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-08-30T19:56:20.394Z",
+  "generatedAt": "2026-08-30T22:30:41.808Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "9mbxT-MjHsA",
+      "title": "New U.S. Strikes on Iran - LIVE Breaking News Coverage (Iran War)",
+      "thumbnail": "https://i.ytimg.com/vi/9mbxT-MjHsA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -138,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "nVgthF4IkHE",
+      "title": "Eight dead and 18 missing after ferry capsizes north of Cyprus | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/nVgthF4IkHE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-30T19:56:20.394Z",
+      "at": "2026-08-30T22:30:41.808Z",
       "checked": 33,
       "errors": 0
     }
