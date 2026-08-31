@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T14:08:11.957Z",
+  "generatedAt": "2026-08-31T20:03:03.814Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "5S6Wc-YYIps",
-      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/5S6Wc-YYIps/hqdefault.jpg"
+      "videoId": "vqfSxkP7P7g",
+      "title": "LIVE: House Rules Committee Debates On Resolution To Condemn Socialism",
+      "thumbnail": "https://i.ytimg.com/vi/vqfSxkP7P7g/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "T6Kyn5IO-4M",
-      "title": "VERDICT WATCH: Lindsay Clancy jurors deliberate for 3rd day",
-      "thumbnail": "https://i.ytimg.com/vi/T6Kyn5IO-4M/hqdefault.jpg"
+      "videoId": "hi9h4VdTYPU",
+      "title": "WATCH LIVE: Trump makes MAJOR announcement on health care affordability",
+      "thumbnail": "https://i.ytimg.com/vi/hi9h4VdTYPU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "WznETfwrbK8",
-      "title": "LIVE: Lindsay Clancy trial Day 24 — Jury resumes deliberations | Verdict Watch",
-      "thumbnail": "https://i.ytimg.com/vi/WznETfwrbK8/hqdefault.jpg"
+      "videoId": "rG0kcjTTZKg",
+      "title": "LIVE: Tupac Shakur murder trial Day 11 — Closing arguments",
+      "thumbnail": "https://i.ytimg.com/vi/rG0kcjTTZKg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ygi6bhm__fU",
-      "title": "LIVE: Strait of Hormuz traffic as US, Iran resume attacks",
-      "thumbnail": "https://i.ytimg.com/vi/ygi6bhm__fU/hqdefault.jpg"
+      "videoId": "bLf3T0QN0Aw",
+      "title": "LIVE: Trump expected to announce drug-pricing agreements",
+      "thumbnail": "https://i.ytimg.com/vi/bLf3T0QN0Aw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "CnnXTrd_hUA",
-      "title": "LIVE: ABC News Live - Monday, August 31 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/CnnXTrd_hUA/hqdefault.jpg"
+      "videoId": "fTUQKj_iAa4",
+      "title": "President Trump makes healthcare affordability announcement",
+      "thumbnail": "https://i.ytimg.com/vi/fTUQKj_iAa4/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Y2k5rJGPNJM",
-      "title": "LIVE: NBC News NOW - Aug. 31",
-      "thumbnail": "https://i.ytimg.com/vi/Y2k5rJGPNJM/hqdefault.jpg"
+      "videoId": "y7xdoUEE-fA",
+      "title": "LIVE: Trump makes announcement on healthcare affordability | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/y7xdoUEE-fA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "7YGHAbvxA6M",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/7YGHAbvxA6M/hqdefault.jpg"
+      "videoId": "0CC8gNHCKLQ",
+      "title": "Watch Live: Trump announces pharmaceutical deal, takes questions on Iran",
+      "thumbnail": "https://i.ytimg.com/vi/0CC8gNHCKLQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "RiVzWzbLLFE",
+      "title": "LIVE: Trump makes announcement in Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/RiVzWzbLLFE/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "MMH1J4JCbdc",
+      "title": "Service for Manchester synagogue attack victims",
+      "thumbnail": "https://i.ytimg.com/vi/MMH1J4JCbdc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,15 +210,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "R0F4o9AvLi4",
-      "title": "WATCH LIVE: House returns after August recess to tackle stopgap spending bill and more",
-      "thumbnail": "https://i.ytimg.com/vi/R0F4o9AvLi4/hqdefault.jpg"
+      "videoId": "aO8dgJ7vBbU",
+      "title": "WATCH LIVE: Trump expected to make an announcement on healthcare affordability",
+      "thumbnail": "https://i.ytimg.com/vi/aO8dgJ7vBbU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "1DswttBQrTQ",
+      "title": "Are data centers helping or hurting America? Debate with Madeline Summerville | Prove It!",
+      "thumbnail": "https://i.ytimg.com/vi/1DswttBQrTQ/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -230,10 +236,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "RR_BL_EJLO4",
-      "title": "U.S. Treasury Secretary Scott Bessent hosts finance ministers from G20 - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/RR_BL_EJLO4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -259,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-31T14:08:11.957Z",
+      "at": "2026-08-31T20:03:03.814Z",
       "checked": 33,
       "errors": 0
     }
