@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T20:03:03.814Z",
+  "generatedAt": "2026-08-31T23:47:30.494Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "vqfSxkP7P7g",
-      "title": "LIVE: House Rules Committee Debates On Resolution To Condemn Socialism",
-      "thumbnail": "https://i.ytimg.com/vi/vqfSxkP7P7g/hqdefault.jpg"
+      "videoId": "F9xhl8imqlg",
+      "title": "LIVE: Sanctuary Policies Are Probed By House Judiciary Committee Led By Jim Jordan",
+      "thumbnail": "https://i.ytimg.com/vi/F9xhl8imqlg/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "hi9h4VdTYPU",
-      "title": "WATCH LIVE: Trump makes MAJOR announcement on health care affordability",
-      "thumbnail": "https://i.ytimg.com/vi/hi9h4VdTYPU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -94,44 +91,41 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "rG0kcjTTZKg",
-      "title": "LIVE: Tupac Shakur murder trial Day 11 — Closing arguments",
+      "title": "LIVE: Tupac Shakur murder trial Day 11 (closing arguments)",
       "thumbnail": "https://i.ytimg.com/vi/rG0kcjTTZKg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "bLf3T0QN0Aw",
-      "title": "LIVE: Trump expected to announce drug-pricing agreements",
-      "thumbnail": "https://i.ytimg.com/vi/bLf3T0QN0Aw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "fTUQKj_iAa4",
-      "title": "President Trump makes healthcare affordability announcement",
-      "thumbnail": "https://i.ytimg.com/vi/fTUQKj_iAa4/hqdefault.jpg"
+      "videoId": "CnnXTrd_hUA",
+      "title": "LIVE: ABC News Live - Monday, August 31 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/CnnXTrd_hUA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "y7xdoUEE-fA",
-      "title": "LIVE: Trump makes announcement on healthcare affordability | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/y7xdoUEE-fA/hqdefault.jpg"
+      "videoId": "WDeZ-tT5c2Q",
+      "title": "LIVE: NBC News NOW - Aug. 31",
+      "thumbnail": "https://i.ytimg.com/vi/WDeZ-tT5c2Q/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "0CC8gNHCKLQ",
-      "title": "Watch Live: Trump announces pharmaceutical deal, takes questions on Iran",
-      "thumbnail": "https://i.ytimg.com/vi/0CC8gNHCKLQ/hqdefault.jpg"
+      "videoId": "H9ZjT6-HhGI",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/H9ZjT6-HhGI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "RiVzWzbLLFE",
-      "title": "LIVE: Trump makes announcement in Oval Office",
-      "thumbnail": "https://i.ytimg.com/vi/RiVzWzbLLFE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "MMH1J4JCbdc",
-      "title": "Service for Manchester synagogue attack victims",
-      "thumbnail": "https://i.ytimg.com/vi/MMH1J4JCbdc/hqdefault.jpg"
+      "videoId": "jE5UgVwTSQc",
+      "title": "Closing arguments | Tupac murder trial live from Las Vegas court",
+      "thumbnail": "https://i.ytimg.com/vi/jE5UgVwTSQc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,27 +201,21 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "aO8dgJ7vBbU",
-      "title": "WATCH LIVE: Trump expected to make an announcement on healthcare affordability",
-      "thumbnail": "https://i.ytimg.com/vi/aO8dgJ7vBbU/hqdefault.jpg"
+      "videoId": "R0F4o9AvLi4",
+      "title": "WATCH LIVE: House returns after August recess to tackle stopgap spending bill and more",
+      "thumbnail": "https://i.ytimg.com/vi/R0F4o9AvLi4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "1DswttBQrTQ",
-      "title": "Are data centers helping or hurting America? Debate with Madeline Summerville | Prove It!",
-      "thumbnail": "https://i.ytimg.com/vi/1DswttBQrTQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "AgZ5Wt7d8T8",
-      "title": "LIVE: Aug. 31 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/AgZ5Wt7d8T8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -267,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-31T20:03:03.814Z",
+      "at": "2026-08-31T23:47:30.494Z",
       "checked": 33,
       "errors": 0
     }
