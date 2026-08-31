@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T06:18:24.416Z",
+  "generatedAt": "2026-08-31T14:08:11.957Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "5S6Wc-YYIps",
+      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
+      "thumbnail": "https://i.ytimg.com/vi/5S6Wc-YYIps/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "T6Kyn5IO-4M",
+      "title": "VERDICT WATCH: Lindsay Clancy jurors deliberate for 3rd day",
+      "thumbnail": "https://i.ytimg.com/vi/T6Kyn5IO-4M/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -86,37 +92,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "WznETfwrbK8",
+      "title": "LIVE: Lindsay Clancy trial Day 24 — Jury resumes deliberations | Verdict Watch",
+      "thumbnail": "https://i.ytimg.com/vi/WznETfwrbK8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "ygi6bhm__fU",
+      "title": "LIVE: Strait of Hormuz traffic as US, Iran resume attacks",
+      "thumbnail": "https://i.ytimg.com/vi/ygi6bhm__fU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "CnnXTrd_hUA",
+      "title": "LIVE: ABC News Live - Monday, August 31 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/CnnXTrd_hUA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mtfScgprugU",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/mtfScgprugU/hqdefault.jpg"
+      "videoId": "Y2k5rJGPNJM",
+      "title": "LIVE: NBC News NOW - Aug. 31",
+      "thumbnail": "https://i.ytimg.com/vi/Y2k5rJGPNJM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "7YGHAbvxA6M",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/7YGHAbvxA6M/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -138,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "NNDxoyvcCHs",
-      "title": "Mornings | Monday 31 August 2026",
-      "thumbnail": "https://i.ytimg.com/vi/NNDxoyvcCHs/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -191,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "R0F4o9AvLi4",
+      "title": "WATCH LIVE: House returns after August recess to tackle stopgap spending bill and more",
+      "thumbnail": "https://i.ytimg.com/vi/R0F4o9AvLi4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -203,13 +221,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "AgZ5Wt7d8T8",
+      "title": "LIVE: Aug. 31 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/AgZ5Wt7d8T8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "RR_BL_EJLO4",
+      "title": "U.S. Treasury Secretary Scott Bessent hosts finance ministers from G20 - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/RR_BL_EJLO4/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -235,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-08-31T06:18:24.416Z",
+      "at": "2026-08-31T14:08:11.957Z",
       "checked": 33,
       "errors": 0
     }
