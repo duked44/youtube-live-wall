@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-01T19:52:28.712Z",
+  "generatedAt": "2026-09-01T22:14:41.279Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "fgzoTE6wUBE",
-      "title": "New U.S. Strikes on Iran - LIVE Breaking News Coverage (Iran War)",
-      "thumbnail": "https://i.ytimg.com/vi/fgzoTE6wUBE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -102,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "HlkeXJdmRR0",
-      "title": "LIVE: Oral arguments in Charlie Kirk case",
-      "thumbnail": "https://i.ytimg.com/vi/HlkeXJdmRR0/hqdefault.jpg"
+      "videoId": "QWHyX716hOk",
+      "title": "LIVE: US Treasury Secretary Bessent speaks as G20 finance meeting ends",
+      "thumbnail": "https://i.ytimg.com/vi/QWHyX716hOk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "zaz4-_u_OHY",
+      "videoId": "P0QYSR86Dl4",
       "title": "LIVE: NBC News NOW - Sept. 1",
-      "thumbnail": "https://i.ytimg.com/vi/zaz4-_u_OHY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/P0QYSR86Dl4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "J3GY2eDS1ds",
-      "title": "Were early warning signs missed prior to Nepal flash floods? | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/J3GY2eDS1ds/hqdefault.jpg"
+      "videoId": "VJ1H8p4XZOw",
+      "title": "Burnham promises 'politics done differently' | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/VJ1H8p4XZOw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "huRDp3psjTI",
-      "title": "WATCH LIVE: House passes short-term spending bill, staving off another fund fight during midterms",
-      "thumbnail": "https://i.ytimg.com/vi/huRDp3psjTI/hqdefault.jpg"
+      "videoId": "vtkHH7Xsztg",
+      "title": "PBS News Hour live episode, Sept. 1, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/vtkHH7Xsztg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "BnERuifcB0U",
-      "title": "Will Trump’s beef plan lower prices or just hurt US ranchers? Prove it! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/BnERuifcB0U/hqdefault.jpg"
+      "videoId": "I9QxzcI0USM",
+      "title": "Fermi's Paradox Explained: Where Are The Aliens? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/I9QxzcI0USM/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -233,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "EO_faiQi7QA",
-      "title": "UK PM Andy Burnham delivers first statement in House of Commons - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/EO_faiQi7QA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -267,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-01T19:52:28.712Z",
+      "at": "2026-09-01T22:14:41.279Z",
       "checked": 33,
       "errors": 0
     }
