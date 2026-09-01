@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T17:00:21.681Z",
+  "generatedAt": "2026-09-01T19:52:28.712Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,18 +24,15 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "FD-p5dJkftM",
-      "title": "U.S. House Debate on Censuring Rep. Chuck Edwards (R-NC)",
-      "thumbnail": "https://i.ytimg.com/vi/FD-p5dJkftM/hqdefault.jpg"
+      "videoId": "MvAIZN8elEc",
+      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
+      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "C2oLdaONPmE",
-      "title": "VERDICT WATCH: Lindsay Clancy jurors deadlocked, deliberations continue",
-      "thumbnail": "https://i.ytimg.com/vi/C2oLdaONPmE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -98,19 +95,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "s_tInPfCu5w",
-      "title": "LIVE: Lindsay Clancy trial Day 25 — Jury continues deliberations | Verdict Watch",
-      "thumbnail": "https://i.ytimg.com/vi/s_tInPfCu5w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "aiCnLxXNEPQ",
-      "title": "LIVE: UK Prime Minister Burnham’s first speech in Parliament",
-      "thumbnail": "https://i.ytimg.com/vi/aiCnLxXNEPQ/hqdefault.jpg"
+      "videoId": "HlkeXJdmRR0",
+      "title": "LIVE: Oral arguments in Charlie Kirk case",
+      "thumbnail": "https://i.ytimg.com/vi/HlkeXJdmRR0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -159,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "UvYt1j1XUoA",
-      "title": "Deadlocked jury told to keep deliberating in Lindsay Clancy trial",
-      "thumbnail": "https://i.ytimg.com/vi/UvYt1j1XUoA/hqdefault.jpg"
+      "videoId": "J3GY2eDS1ds",
+      "title": "Were early warning signs missed prior to Nepal flash floods? | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/J3GY2eDS1ds/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -214,14 +208,17 @@
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
       "videoId": "huRDp3psjTI",
-      "title": "WATCH LIVE: House considers censure of Rep. Chuck Edwards, stopgap spending bill",
+      "title": "WATCH LIVE: House passes short-term spending bill, staving off another fund fight during midterms",
       "thumbnail": "https://i.ytimg.com/vi/huRDp3psjTI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "BnERuifcB0U",
+      "title": "Will Trump’s beef plan lower prices or just hurt US ranchers? Prove it! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/BnERuifcB0U/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -265,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-01T17:00:21.681Z",
+      "at": "2026-09-01T19:52:28.712Z",
       "checked": 33,
       "errors": 0
     }
