@@ -1,41 +1,50 @@
 {
-  "generatedAt": "2026-09-01T12:48:39.974Z",
+  "generatedAt": "2026-09-01T17:00:21.681Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "fgzoTE6wUBE",
+      "title": "New U.S. Strikes on Iran - LIVE Breaking News Coverage (Iran War)",
+      "thumbnail": "https://i.ytimg.com/vi/fgzoTE6wUBE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "5Hzbo-lmPvY",
-      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/5Hzbo-lmPvY/hqdefault.jpg"
+      "videoId": "JCWTQyy0QfE",
+      "title": "LIVE: Final Day Of Preliminary Hearing For Tyler Robinson Accused Of Killing Charlie Kirk",
+      "thumbnail": "https://i.ytimg.com/vi/JCWTQyy0QfE/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "MvAIZN8elEc",
-      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
-      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
+      "videoId": "FD-p5dJkftM",
+      "title": "U.S. House Debate on Censuring Rep. Chuck Edwards (R-NC)",
+      "thumbnail": "https://i.ytimg.com/vi/FD-p5dJkftM/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "C2oLdaONPmE",
+      "title": "VERDICT WATCH: Lindsay Clancy jurors deadlocked, deliberations continue",
+      "thumbnail": "https://i.ytimg.com/vi/C2oLdaONPmE/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "k0mr6K284Ng",
+      "title": "Live: Oral Arguments on Whether Alleged Charlie Kirk Killer Tyler Robinson Will Stand Trial",
+      "thumbnail": "https://i.ytimg.com/vi/k0mr6K284Ng/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -99,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "OSTGlHvuksA",
-      "title": "LIVE: Astronauts spacewalk at ISS",
-      "thumbnail": "https://i.ytimg.com/vi/OSTGlHvuksA/hqdefault.jpg"
+      "videoId": "aiCnLxXNEPQ",
+      "title": "LIVE: UK Prime Minister Burnham’s first speech in Parliament",
+      "thumbnail": "https://i.ytimg.com/vi/aiCnLxXNEPQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "UvYt1j1XUoA",
+      "title": "Deadlocked jury told to keep deliberating in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/UvYt1j1XUoA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +212,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "huRDp3psjTI",
+      "title": "WATCH LIVE: House considers censure of Rep. Chuck Edwards, stopgap spending bill",
+      "thumbnail": "https://i.ytimg.com/vi/huRDp3psjTI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -217,14 +229,17 @@
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
       "videoId": "w8A3meU5_HM",
-      "title": "LIVE: Top Headlines You Need to Know Today",
+      "title": "LIVE: Sept. 1 — Breaking News & Top Headlines",
       "thumbnail": "https://i.ytimg.com/vi/w8A3meU5_HM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "EO_faiQi7QA",
+      "title": "UK PM Andy Burnham delivers first statement in House of Commons - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/EO_faiQi7QA/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-01T12:48:39.974Z",
+      "at": "2026-09-01T17:00:21.681Z",
       "checked": 33,
       "errors": 0
     }
