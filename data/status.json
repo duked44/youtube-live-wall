@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T07:46:14.168Z",
+  "generatedAt": "2026-09-01T12:48:39.974Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "F9xhl8imqlg",
-      "title": "LIVE: Sanctuary Policies Are Probed By House Judiciary Committee Led By Jim Jordan",
-      "thumbnail": "https://i.ytimg.com/vi/F9xhl8imqlg/hqdefault.jpg"
+      "videoId": "5Hzbo-lmPvY",
+      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
+      "thumbnail": "https://i.ytimg.com/vi/5Hzbo-lmPvY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -90,45 +90,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "S3oTUDL2c24",
-      "title": "LIVE: View from Nepal after deadly floods",
-      "thumbnail": "https://i.ytimg.com/vi/S3oTUDL2c24/hqdefault.jpg"
+      "videoId": "s_tInPfCu5w",
+      "title": "LIVE: Lindsay Clancy trial Day 25 — Jury continues deliberations | Verdict Watch",
+      "thumbnail": "https://i.ytimg.com/vi/s_tInPfCu5w/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "PjyqROnhkVc",
-      "title": "LIVE: Kyrgyzstan holds Shanghai Cooperation Organisation summit",
-      "thumbnail": "https://i.ytimg.com/vi/PjyqROnhkVc/hqdefault.jpg"
+      "videoId": "OSTGlHvuksA",
+      "title": "LIVE: Astronauts spacewalk at ISS",
+      "thumbnail": "https://i.ytimg.com/vi/OSTGlHvuksA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "AjMG1OrgcQA",
+      "title": "LIVE: ABC News Live - Tuesday, September 1 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/AjMG1OrgcQA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "WDeZ-tT5c2Q",
-      "title": "LIVE: NBC News NOW - Aug. 31",
-      "thumbnail": "https://i.ytimg.com/vi/WDeZ-tT5c2Q/hqdefault.jpg"
+      "videoId": "zaz4-_u_OHY",
+      "title": "LIVE: NBC News NOW - Sept. 1",
+      "thumbnail": "https://i.ytimg.com/vi/zaz4-_u_OHY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "H9ZjT6-HhGI",
+      "videoId": "Y4WnJg78JIk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/H9ZjT6-HhGI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Y4WnJg78JIk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "pzk-FpCb6lU",
-      "title": "Parliament returns after summer recess",
-      "thumbnail": "https://i.ytimg.com/vi/pzk-FpCb6lU/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,7 +215,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "w8A3meU5_HM",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/w8A3meU5_HM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -247,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-01T07:46:14.168Z",
+      "at": "2026-09-01T12:48:39.974Z",
       "checked": 33,
       "errors": 0
     }
