@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T19:56:59.190Z",
+  "generatedAt": "2026-09-02T22:28:35.070Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "vmosow_DbA4",
-      "title": "LIVE: Birthright Citizenship And Fourteenth Amendment Debated In House Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/vmosow_DbA4/hqdefault.jpg"
+      "videoId": "ueYK0zU2AlE",
+      "title": "WATCH LIVE: Members Of Congress Debate Legislation On House Floor Following Socialism Condemnation",
+      "thumbnail": "https://i.ytimg.com/vi/ueYK0zU2AlE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "xDA-ue7rgsc",
-      "title": "VERDICT WATCH: Lindsay Clancy judge opens day 5 with STERN warning",
-      "thumbnail": "https://i.ytimg.com/vi/xDA-ue7rgsc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "sOC30j898_c",
-      "title": "LIVE: Ceuta Day protest in Madrid",
-      "thumbnail": "https://i.ytimg.com/vi/sOC30j898_c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -120,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "M4rwsuafIps",
+      "videoId": "01BTjBaCRSY",
       "title": "LIVE: NBC News NOW - Sept. 2",
-      "thumbnail": "https://i.ytimg.com/vi/M4rwsuafIps/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/01BTjBaCRSY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "GldWAtZCNBQ",
-      "title": "Watch Live: House hearing on birthright citizenship",
-      "thumbnail": "https://i.ytimg.com/vi/GldWAtZCNBQ/hqdefault.jpg"
+      "videoId": "N1t9Kjsgbyk",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/N1t9Kjsgbyk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Pa1J-jPliuc",
-      "title": "Student debt disaster: Thousands 'trapped' by loans they can't pay | The UK Tonight",
-      "thumbnail": "https://i.ytimg.com/vi/Pa1J-jPliuc/hqdefault.jpg"
+      "videoId": "HZIcjWWQvhE",
+      "title": "Burnham questioned on tax, borrowing and defence at first PMQs | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/HZIcjWWQvhE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "TjFbGKpcA20",
-      "title": "WATCH LIVE: Kansas AG Kobach testifies in House Judiciary hearing on birthright citizenship",
-      "thumbnail": "https://i.ytimg.com/vi/TjFbGKpcA20/hqdefault.jpg"
+      "videoId": "CBRr-WsaVuk",
+      "title": "PBS News Hour live episode, Sept. 2, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/CBRr-WsaVuk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-02T19:56:59.190Z",
+      "at": "2026-09-02T22:28:35.070Z",
       "checked": 33,
       "errors": 0
     }
