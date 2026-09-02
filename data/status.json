@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T22:14:41.279Z",
+  "generatedAt": "2026-09-02T00:19:28.331Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "QWHyX716hOk",
-      "title": "LIVE: US Treasury Secretary Bessent speaks as G20 finance meeting ends",
-      "thumbnail": "https://i.ytimg.com/vi/QWHyX716hOk/hqdefault.jpg"
+      "videoId": "HlkeXJdmRR0",
+      "title": "LIVE: Oral arguments in Charlie Kirk case",
+      "thumbnail": "https://i.ytimg.com/vi/HlkeXJdmRR0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "P0QYSR86Dl4",
-      "title": "LIVE: NBC News NOW - Sept. 1",
-      "thumbnail": "https://i.ytimg.com/vi/P0QYSR86Dl4/hqdefault.jpg"
+      "videoId": "oce0TjOl15o",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 01",
+      "thumbnail": "https://i.ytimg.com/vi/oce0TjOl15o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Y4WnJg78JIk",
+      "videoId": "UoLW5_qONu8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Y4WnJg78JIk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/UoLW5_qONu8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "VJ1H8p4XZOw",
-      "title": "Burnham promises 'politics done differently' | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/VJ1H8p4XZOw/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,27 +204,21 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vtkHH7Xsztg",
-      "title": "PBS News Hour live episode, Sept. 1, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/vtkHH7Xsztg/hqdefault.jpg"
+      "videoId": "huRDp3psjTI",
+      "title": "WATCH LIVE: House passes short-term spending bill, staving off another fund fight during midterms",
+      "thumbnail": "https://i.ytimg.com/vi/huRDp3psjTI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "I9QxzcI0USM",
-      "title": "Fermi's Paradox Explained: Where Are The Aliens? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/I9QxzcI0USM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "w8A3meU5_HM",
-      "title": "LIVE: Sept. 1 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/w8A3meU5_HM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-01T22:14:41.279Z",
+      "at": "2026-09-02T00:19:28.331Z",
       "checked": 33,
       "errors": 0
     }
