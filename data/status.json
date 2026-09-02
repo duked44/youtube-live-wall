@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T09:07:57.115Z",
+  "generatedAt": "2026-09-02T13:38:28.245Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "vmosow_DbA4",
-      "title": "LIVE: Birthright Citizenship And Fourteenth Amendment Debated In House Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/vmosow_DbA4/hqdefault.jpg"
+      "videoId": "G7P7TYqQN-A",
+      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
+      "thumbnail": "https://i.ytimg.com/vi/G7P7TYqQN-A/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "xDA-ue7rgsc",
+      "title": "VERDICT WATCH: Jury resumes deliberations in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/xDA-ue7rgsc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,42 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "XnbGqvQrXBg",
-      "title": "LIVE: View from Nepal after deadly floods",
-      "thumbnail": "https://i.ytimg.com/vi/XnbGqvQrXBg/hqdefault.jpg"
+      "videoId": "w9W_ti2TgfU",
+      "title": "LIVE: Lindsay Clancy trial Day 26 — Deadlocked jury resumes deliberations | Verdict Watch",
+      "thumbnail": "https://i.ytimg.com/vi/w9W_ti2TgfU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "kDEy12XF3sE",
+      "title": "LIVE: Billionaires and financial leaders meet at G20 in North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/kDEy12XF3sE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "wUW8dU1lp8s",
+      "title": "LIVE: ABC News Live - Wednesday, September 2 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/wUW8dU1lp8s/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "P0QYSR86Dl4",
-      "title": "LIVE: NBC News NOW - Sept. 1",
-      "thumbnail": "https://i.ytimg.com/vi/P0QYSR86Dl4/hqdefault.jpg"
+      "videoId": "M4rwsuafIps",
+      "title": "LIVE: NBC News NOW - Sept. 2",
+      "thumbnail": "https://i.ytimg.com/vi/M4rwsuafIps/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "UoLW5_qONu8",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/UoLW5_qONu8/hqdefault.jpg"
+      "videoId": "FztxwEYijeE",
+      "title": "Watch Live: DA speaks after Tiger Woods pleads guilty to lesser charge in Florida DUI case",
+      "thumbnail": "https://i.ytimg.com/vi/FztxwEYijeE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cnwiewPqsFU",
-      "title": "Outside No 10 before Burnham faces first PMQs",
-      "thumbnail": "https://i.ytimg.com/vi/cnwiewPqsFU/hqdefault.jpg"
+      "videoId": "U9k-tQQMPd4",
+      "title": "Trial of Lindsay Clancy continues",
+      "thumbnail": "https://i.ytimg.com/vi/U9k-tQQMPd4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "XYXt0ZZ9_zo",
+      "title": "WATCH LIVE: House Energy subcommittee hearing on advanced nuclear reactor research in the U.S.",
+      "thumbnail": "https://i.ytimg.com/vi/XYXt0ZZ9_zo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -212,16 +221,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "dbEay9s_BFk",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/dbEay9s_BFk/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "Aacpl4uPYog",
-      "title": "Mark Rutte and Ursula von der Leyen hold a press conference - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/Aacpl4uPYog/hqdefault.jpg"
+      "videoId": "ysi4945aAPU",
+      "title": "EU defence ministers hold news conference in Ireland - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/ysi4945aAPU/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -252,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-02T09:07:57.115Z",
+      "at": "2026-09-02T13:38:28.245Z",
       "checked": 33,
       "errors": 0
     }
