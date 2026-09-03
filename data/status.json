@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-09-03T13:53:04.262Z",
+  "generatedAt": "2026-09-03T17:26:42.388Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "yZExiX7Cwxg",
+      "title": "JD Vance Hosts White House Press Briefing - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/yZExiX7Cwxg/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "TpjvxkzhOA0",
-      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/TpjvxkzhOA0/hqdefault.jpg"
+      "videoId": "4j9hZvnsZFY",
+      "title": "LIVE: Vice President JD Vance Holds White House Press Briefing",
+      "thumbnail": "https://i.ytimg.com/vi/4j9hZvnsZFY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "AZXiuNYZ8OE",
-      "title": "VERDICT WATCH: Lindsay Clancy jurors deliberate for 6th day",
-      "thumbnail": "https://i.ytimg.com/vi/AZXiuNYZ8OE/hqdefault.jpg"
+      "videoId": "xMsDuyWAt2Y",
+      "title": "WATCH LIVE: JD Vance holds White House press briefing",
+      "thumbnail": "https://i.ytimg.com/vi/xMsDuyWAt2Y/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,36 +96,36 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "uLrimqjHSHw",
-      "title": "LIVE: Lindsay Clancy trial Day 27 — Deadlocked jury resumes deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/uLrimqjHSHw/hqdefault.jpg"
+      "videoId": "QHQVzvKt6tU",
+      "title": "LIVE: White House press briefing with Vice President JD Vance",
+      "thumbnail": "https://i.ytimg.com/vi/QHQVzvKt6tU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "V787JMG4qPI",
-      "title": "LIVE: Lindsay Clancy trial jury remains deadlocked, deliberations to continue",
-      "thumbnail": "https://i.ytimg.com/vi/V787JMG4qPI/hqdefault.jpg"
+      "videoId": "cShWs70_LxQ",
+      "title": "LIVE: Buzzy 'Wild Horse Nine' gets Venice premiere",
+      "thumbnail": "https://i.ytimg.com/vi/cShWs70_LxQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "I5cwapgz2kU",
+      "title": "LIVE: ABC News Live - Thursday, September 3 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/I5cwapgz2kU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-j8mXdFZLKs",
-      "title": "LIVE: NBC News NOW - Sept. 3",
-      "thumbnail": "https://i.ytimg.com/vi/-j8mXdFZLKs/hqdefault.jpg"
+      "videoId": "lpMs2RRgC88",
+      "title": "LIVE: Vice President JD Vance holds White House press briefing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/lpMs2RRgC88/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -138,24 +141,27 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "wwJV2mo2US4",
+      "title": "VP Vance holds White House briefing",
+      "thumbnail": "https://i.ytimg.com/vi/wwJV2mo2US4/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "zE93otEHj4Y",
+      "title": "LIVE: JD Vance holds White House briefing amid Hegseth uproar",
+      "thumbnail": "https://i.ytimg.com/vi/zE93otEHj4Y/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3eiNnvUsyF4",
-      "title": "Jury deliberations continue in Lindsay Clancy trial",
-      "thumbnail": "https://i.ytimg.com/vi/3eiNnvUsyF4/hqdefault.jpg"
+      "videoId": "pz5otpJOWTQ",
+      "title": "JD Vance holds White House news briefing",
+      "thumbnail": "https://i.ytimg.com/vi/pz5otpJOWTQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "v2iu_kZwqCI",
-      "title": "WATCH LIVE: House lawmakers may react to Leon Black defying subpoena for Jeffrey Epstein testimony",
-      "thumbnail": "https://i.ytimg.com/vi/v2iu_kZwqCI/hqdefault.jpg"
+      "videoId": "itASfLs5sGw",
+      "title": "WATCH LIVE: Lindsay Clancy jury continues deliberations as mistrial chances grow",
+      "thumbnail": "https://i.ytimg.com/vi/itASfLs5sGw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -249,9 +255,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "5O5Yda0Zi1I",
-      "title": "Carney announces \"historic\" investment in Canadian manufacturing | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/5O5Yda0Zi1I/hqdefault.jpg"
+      "videoId": "g_zCnwpAaMQ",
+      "title": "JD Vance holds White House press briefing amid ongoing war with Iran, trade war with Canada | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/g_zCnwpAaMQ/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-03T13:53:04.262Z",
+      "at": "2026-09-03T17:26:42.388Z",
       "checked": 33,
       "errors": 0
     }
