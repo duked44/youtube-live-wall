@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T20:03:42.601Z",
+  "generatedAt": "2026-09-03T22:31:41.818Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "TpjvxkzhOA0",
-      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/TpjvxkzhOA0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "AZXiuNYZ8OE",
-      "title": "VERDICT WATCH: Clancy lawyer ERUPTS, cites lone juror holding up trial",
-      "thumbnail": "https://i.ytimg.com/vi/AZXiuNYZ8OE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,37 +86,31 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "uLrimqjHSHw",
-      "title": "LIVE: Lindsay Clancy trial Day 27 — Deadlocked jury resumes deliberations",
-      "thumbnail": "https://i.ytimg.com/vi/uLrimqjHSHw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "V787JMG4qPI",
-      "title": "LIVE: Lindsay Clancy trial jury remains deadlocked, deliberations to continue",
-      "thumbnail": "https://i.ytimg.com/vi/V787JMG4qPI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "hT9hiSK9f1I",
-      "title": "Lindsay Clancy Trial Latest",
-      "thumbnail": "https://i.ytimg.com/vi/hT9hiSK9f1I/hqdefault.jpg"
+      "videoId": "I5cwapgz2kU",
+      "title": "LIVE: ABC News Live - Thursday, September 3 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/I5cwapgz2kU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-j8mXdFZLKs",
+      "videoId": "1C6OXlw9J7o",
       "title": "WATCH: NBC News NOW - Sept. 3",
-      "thumbnail": "https://i.ytimg.com/vi/-j8mXdFZLKs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1C6OXlw9J7o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "jkrE6xyhQuA",
-      "title": "Judge sends deadlocked Lindsay Clancy jury back as defence seeks juror’s removal | The World",
-      "thumbnail": "https://i.ytimg.com/vi/jkrE6xyhQuA/hqdefault.jpg"
+      "videoId": "XO0uLHE36sI",
+      "title": "Trump hints he wouldn't help UK in potential future Falklands conflict | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/XO0uLHE36sI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +195,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "itASfLs5sGw",
-      "title": "WATCH LIVE: Lindsay Clancy jury continues deliberations as mistrial chances grow",
-      "thumbnail": "https://i.ytimg.com/vi/itASfLs5sGw/hqdefault.jpg"
+      "videoId": "Jf1gG7wwKIg",
+      "title": "PBS News Hour live episode, Sept. 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/Jf1gG7wwKIg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "osep3EtPpnU",
-      "title": "VERDICT WATCH: Lindsay Clancy  Trial",
-      "thumbnail": "https://i.ytimg.com/vi/osep3EtPpnU/hqdefault.jpg"
+      "videoId": "XUsBsvpX45g",
+      "title": "What Comes After AI? A Futurist's Predictions for 2035 | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/XUsBsvpX45g/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -264,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-03T20:03:42.601Z",
+      "at": "2026-09-03T22:31:41.818Z",
       "checked": 33,
       "errors": 0
     }
