@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T00:33:50.742Z",
+  "generatedAt": "2026-09-03T05:00:40.408Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "4j9hZvnsZFY",
+      "title": "LIVE: Vice President JD Vance Holds White House Press Briefing",
+      "thumbnail": "https://i.ytimg.com/vi/4j9hZvnsZFY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -92,28 +95,25 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "2XqZkh-XvR0",
-      "title": "LIVE: People queue outside the Royal Palace to pay their respects to King Harald",
-      "thumbnail": "https://i.ytimg.com/vi/2XqZkh-XvR0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "wUW8dU1lp8s",
-      "title": "LIVE: ABC News Live - Wednesday, September 2 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/wUW8dU1lp8s/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "vnlQsmlpdpY",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 02",
-      "thumbnail": "https://i.ytimg.com/vi/vnlQsmlpdpY/hqdefault.jpg"
+      "videoId": "01BTjBaCRSY",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/01BTjBaCRSY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "YzWg-1a-uZA",
+      "title": "Prime Minister, King and Macron welcome Bayeux Tapestry to London | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/YzWg-1a-uZA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-03T00:33:50.742Z",
+      "at": "2026-09-03T05:00:40.408Z",
       "checked": 33,
       "errors": 0
     }
