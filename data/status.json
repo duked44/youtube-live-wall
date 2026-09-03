@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T22:28:35.070Z",
+  "generatedAt": "2026-09-03T00:33:50.742Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "ueYK0zU2AlE",
-      "title": "WATCH LIVE: Members Of Congress Debate Legislation On House Floor Following Socialism Condemnation",
-      "thumbnail": "https://i.ytimg.com/vi/ueYK0zU2AlE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -114,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "01BTjBaCRSY",
-      "title": "LIVE: NBC News NOW - Sept. 2",
-      "thumbnail": "https://i.ytimg.com/vi/01BTjBaCRSY/hqdefault.jpg"
+      "videoId": "vnlQsmlpdpY",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 02",
+      "thumbnail": "https://i.ytimg.com/vi/vnlQsmlpdpY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "N1t9Kjsgbyk",
+      "videoId": "eocSkz9ZuTk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/N1t9Kjsgbyk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/eocSkz9ZuTk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "HZIcjWWQvhE",
-      "title": "Burnham questioned on tax, borrowing and defence at first PMQs | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/HZIcjWWQvhE/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "CBRr-WsaVuk",
-      "title": "PBS News Hour live episode, Sept. 2, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/CBRr-WsaVuk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -218,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "dbEay9s_BFk",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/dbEay9s_BFk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-02T22:28:35.070Z",
+      "at": "2026-09-03T00:33:50.742Z",
       "checked": 33,
       "errors": 0
     }
