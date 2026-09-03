@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T05:00:40.408Z",
+  "generatedAt": "2026-09-03T09:38:58.643Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,13 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "n8N_GD8bHmw",
+      "title": "Venice Film Festival LIVE: ‘Wild Horse Nine’ and ‘Bucking Fastard’ stars at the Lido",
+      "thumbnail": "https://i.ytimg.com/vi/n8N_GD8bHmw/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "j5LwclJ0obE",
+      "title": "LIVE: 'Wild Horse Nine' film team arrive at Venice Film Festival",
+      "thumbnail": "https://i.ytimg.com/vi/j5LwclJ0obE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YzWg-1a-uZA",
-      "title": "Prime Minister, King and Macron welcome Bayeux Tapestry to London | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/YzWg-1a-uZA/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "CNv-7XMSrKg",
+      "title": "Conservative Party leader Kemi Badenoch gives keynote speech on defence - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/CNv-7XMSrKg/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-03T05:00:40.408Z",
+      "at": "2026-09-03T09:38:58.643Z",
       "checked": 33,
       "errors": 0
     }
