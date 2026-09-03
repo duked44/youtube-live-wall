@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T09:38:58.643Z",
+  "generatedAt": "2026-09-03T13:53:04.262Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,24 +12,27 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "4j9hZvnsZFY",
-      "title": "LIVE: Vice President JD Vance Holds White House Press Briefing",
-      "thumbnail": "https://i.ytimg.com/vi/4j9hZvnsZFY/hqdefault.jpg"
+      "videoId": "TpjvxkzhOA0",
+      "title": "LIVE: Lindsay Clancy Trial Verdict Watch, Jury Resumes Deliberations",
+      "thumbnail": "https://i.ytimg.com/vi/TpjvxkzhOA0/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "MvAIZN8elEc",
-      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
-      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
+      "videoId": "f7fQ1UApifY",
+      "title": "White House Press Briefing with Vice President JD Vance",
+      "thumbnail": "https://i.ytimg.com/vi/f7fQ1UApifY/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "AZXiuNYZ8OE",
+      "title": "VERDICT WATCH: Lindsay Clancy jurors deliberate for 6th day",
+      "thumbnail": "https://i.ytimg.com/vi/AZXiuNYZ8OE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "n8N_GD8bHmw",
-      "title": "Venice Film Festival LIVE: ‘Wild Horse Nine’ and ‘Bucking Fastard’ stars at the Lido",
-      "thumbnail": "https://i.ytimg.com/vi/n8N_GD8bHmw/hqdefault.jpg"
+      "videoId": "uLrimqjHSHw",
+      "title": "LIVE: Lindsay Clancy trial Day 27 — Deadlocked jury resumes deliberations",
+      "thumbnail": "https://i.ytimg.com/vi/uLrimqjHSHw/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "j5LwclJ0obE",
-      "title": "LIVE: 'Wild Horse Nine' film team arrive at Venice Film Festival",
-      "thumbnail": "https://i.ytimg.com/vi/j5LwclJ0obE/hqdefault.jpg"
+      "videoId": "V787JMG4qPI",
+      "title": "LIVE: Lindsay Clancy trial jury remains deadlocked, deliberations to continue",
+      "thumbnail": "https://i.ytimg.com/vi/V787JMG4qPI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "01BTjBaCRSY",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/01BTjBaCRSY/hqdefault.jpg"
+      "videoId": "-j8mXdFZLKs",
+      "title": "LIVE: NBC News NOW - Sept. 3",
+      "thumbnail": "https://i.ytimg.com/vi/-j8mXdFZLKs/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "eocSkz9ZuTk",
+      "videoId": "eB0kF1ZiZF0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/eocSkz9ZuTk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/eB0kF1ZiZF0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "3eiNnvUsyF4",
+      "title": "Jury deliberations continue in Lindsay Clancy trial",
+      "thumbnail": "https://i.ytimg.com/vi/3eiNnvUsyF4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "v2iu_kZwqCI",
+      "title": "WATCH LIVE: House lawmakers may react to Leon Black defying subpoena for Jeffrey Epstein testimony",
+      "thumbnail": "https://i.ytimg.com/vi/v2iu_kZwqCI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,16 +224,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "xRWduLQ_V34",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/xRWduLQ_V34/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "CNv-7XMSrKg",
-      "title": "Conservative Party leader Kemi Badenoch gives keynote speech on defence - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/CNv-7XMSrKg/hqdefault.jpg"
+      "videoId": "tflNKmj_wmA",
+      "title": "US vice president JD Vance holds press briefing - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/tflNKmj_wmA/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -239,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "5O5Yda0Zi1I",
+      "title": "Carney announces \"historic\" investment in Canadian manufacturing | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/5O5Yda0Zi1I/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-03T09:38:58.643Z",
+      "at": "2026-09-03T13:53:04.262Z",
       "checked": 33,
       "errors": 0
     }
