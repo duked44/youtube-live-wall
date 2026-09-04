@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T13:31:17.792Z",
+  "generatedAt": "2026-09-04T17:02:07.479Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -31,7 +31,7 @@
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
       "videoId": "h8VEUIw-03g",
-      "title": "VERDICT WATCH: Lindsay Clancy jurors deliberate for 7th day",
+      "title": "WATCH LIVE: Lindsay Clancy judge declares MISTRIAL; gives defense hour for appeal",
       "thumbnail": "https://i.ytimg.com/vi/h8VEUIw-03g/hqdefault.jpg"
     },
     {
@@ -50,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "a2-1t4rz_BQ",
+      "title": "LIVE: Lindsay Clancy murder trial collapses | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/a2-1t4rz_BQ/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -94,7 +97,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "WD8_dQxZWAw",
-      "title": "LIVE: Lindsay Clancy trial Day 28 — Deadlocked jury resumes deliberations",
+      "title": "LIVE: Judge in Lindsay Clancy case says he’ll declare a mistrial, then gives defense hour to appeal",
       "thumbnail": "https://i.ytimg.com/vi/WD8_dQxZWAw/hqdefault.jpg"
     },
     {
@@ -102,18 +105,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "KMCx00VdMz4",
-      "title": "LIVE: Jury in Lindsay Clancy murder trial to deliberate for seventh day",
-      "thumbnail": "https://i.ytimg.com/vi/KMCx00VdMz4/hqdefault.jpg"
+      "videoId": "eSqmPEk2qFA",
+      "title": "LIVE: UN to adopt resolution in support of map showing Africa's true size",
+      "thumbnail": "https://i.ytimg.com/vi/eSqmPEk2qFA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "C8-zDuZwVh0",
-      "title": "LIVE: ABC News Live - Friday, September 4 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/C8-zDuZwVh0/hqdefault.jpg"
+      "videoId": "ORLph9gZAOM",
+      "title": "Lindsay Clancy trial: Jury says it cannot reach verdict",
+      "thumbnail": "https://i.ytimg.com/vi/ORLph9gZAOM/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -121,7 +124,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "XPFHR0LH1zE",
-      "title": "WATCH: NBC News NOW - Sept. 4",
+      "title": "LIVE: NBC News NOW - September 4",
       "thumbnail": "https://i.ytimg.com/vi/XPFHR0LH1zE/hqdefault.jpg"
     },
     {
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "adP90Y68yWc",
-      "title": "Nigel Farage holds news conference with Jordan Bardella",
-      "thumbnail": "https://i.ytimg.com/vi/adP90Y68yWc/hqdefault.jpg"
+      "videoId": "fdAc4lSoWeY",
+      "title": "Gavin Newsom rallies for Democrats ahead of US midterms",
+      "thumbnail": "https://i.ytimg.com/vi/fdAc4lSoWeY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +219,9 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "osep3EtPpnU",
-      "title": "VERDICT WATCH: Lindsay Clancy  Trial",
-      "thumbnail": "https://i.ytimg.com/vi/osep3EtPpnU/hqdefault.jpg"
+      "videoId": "0pLqMit_Ev0",
+      "title": "LINDSAY CLANCY TRIAL: Judge gives defense one hour to fight mistrial declaration",
+      "thumbnail": "https://i.ytimg.com/vi/0pLqMit_Ev0/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -233,10 +236,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "WHKMBvm1npQ",
-      "title": "Reform UK conference continues in Birmingham - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/WHKMBvm1npQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -248,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "o9i2pUGa9H8",
+      "title": "Judge to declare mistrial in Lindsay Clancy murder case in Massachusetts | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/o9i2pUGa9H8/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -267,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-04T13:31:17.792Z",
+      "at": "2026-09-04T17:02:07.479Z",
       "checked": 33,
       "errors": 0
     }
