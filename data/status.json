@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T19:28:00.176Z",
+  "generatedAt": "2026-09-04T21:44:20.055Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "pxHumTSw2fM",
-      "title": "WATCH LIVE: Lindsay Clancy attorney Kevin Reddington speaks to press",
-      "thumbnail": "https://i.ytimg.com/vi/pxHumTSw2fM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -47,10 +44,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "a2-1t4rz_BQ",
-      "title": "LIVE: Lindsay Clancy murder trial collapses | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/a2-1t4rz_BQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -98,19 +92,16 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "KMCx00VdMz4",
-      "title": "LIVE: Jury in Lindsay Clancy murder trial to deliberate for seventh day",
-      "thumbnail": "https://i.ytimg.com/vi/KMCx00VdMz4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "ORLph9gZAOM",
-      "title": "Lindsay Clancy trial: Jury says it cannot reach verdict",
-      "thumbnail": "https://i.ytimg.com/vi/ORLph9gZAOM/hqdefault.jpg"
+      "videoId": "C8-zDuZwVh0",
+      "title": "LIVE: ABC News Live - Friday, September 4 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/C8-zDuZwVh0/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -126,9 +117,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "13Tm57AlxQU",
-      "title": "Breaking News: Lindsay Clancy's murder trial officially ends in mistrial",
-      "thumbnail": "https://i.ytimg.com/vi/13Tm57AlxQU/hqdefault.jpg"
+      "videoId": "sWN94WeS4Oo",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/sWN94WeS4Oo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "7O_mSg80DJs",
-      "title": "Judge declares mistrial in Lindsay Clancy trial",
-      "thumbnail": "https://i.ytimg.com/vi/7O_mSg80DJs/hqdefault.jpg"
+      "videoId": "7tF7jbT2opo",
+      "title": "Mistrial declared in Lindsay Clancy case after last-ditch appeal rejected | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/7tF7jbT2opo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +195,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "OIXr6RNo4S4",
-      "title": "WATCH LIVE: Lindsay Clancy defense lawyers speak after mistrial declared in murder case",
-      "thumbnail": "https://i.ytimg.com/vi/OIXr6RNo4S4/hqdefault.jpg"
+      "videoId": "FEwQ-BfIDqE",
+      "title": "PBS News Hour live episode, Sept. 4, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/FEwQ-BfIDqE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "0pLqMit_Ev0",
-      "title": "LINDSAY CLANCY TRIAL: Judge gives defense one hour to fight mistrial declaration",
-      "thumbnail": "https://i.ytimg.com/vi/0pLqMit_Ev0/hqdefault.jpg"
+      "videoId": "osep3EtPpnU",
+      "title": "VERDICT WATCH: Lindsay Clancy  Trial",
+      "thumbnail": "https://i.ytimg.com/vi/osep3EtPpnU/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -242,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "o9i2pUGa9H8",
-      "title": "Judge declares mistrial in Lindsay Clancy murder case in Massachusetts | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/o9i2pUGa9H8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-04T19:28:00.176Z",
+      "at": "2026-09-04T21:44:20.055Z",
       "checked": 33,
       "errors": 0
     }
