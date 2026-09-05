@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T18:08:20.112Z",
+  "generatedAt": "2026-09-05T20:19:02.525Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,7 +92,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "6uA-DWxJCuk",
+      "title": "LIVE: Liam and Noel Gallagher expected at Venice Film Festival red carpet",
+      "thumbnail": "https://i.ytimg.com/vi/6uA-DWxJCuk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-05T18:08:20.112Z",
+      "at": "2026-09-05T20:19:02.525Z",
       "checked": 33,
       "errors": 0
     }
