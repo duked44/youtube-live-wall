@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-09-05T20:19:02.525Z",
+  "generatedAt": "2026-09-05T22:06:46.491Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "imndXTJUe1w",
+      "title": "U.S. Attacks 3 Iranian Tankers - LIVE Breaking News Coverage (Iran War & Other Top Stories)",
+      "thumbnail": "https://i.ytimg.com/vi/imndXTJUe1w/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -102,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "GQHpvbaFMqA",
-      "title": "LIVE: ABC News Live - Saturday, September 5 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/GQHpvbaFMqA/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "rvPpVjocLzQ",
+      "title": "The Wrap | Putin meets US envoys after ordering 72-hour pause of strikes on Kyiv",
+      "thumbnail": "https://i.ytimg.com/vi/rvPpVjocLzQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-05T20:19:02.525Z",
+      "at": "2026-09-05T22:06:46.491Z",
       "checked": 33,
       "errors": 0
     }
