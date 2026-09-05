@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T13:00:36.259Z",
+  "generatedAt": "2026-09-05T15:58:49.338Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -174,9 +174,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "Uk9zYAqDClM",
-      "title": "Iran Conflict 'Small Potatoes'; Trump’s Big Venezuela Deal | Bloomberg This Weekend: Sept 5, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/Uk9zYAqDClM/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -215,10 +215,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "rMYOOm9Pp0g",
-      "title": "Reform UK holds final day of annual party conference in Birmingham – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/rMYOOm9Pp0g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-05T13:00:36.259Z",
+      "at": "2026-09-05T15:58:49.338Z",
       "checked": 33,
       "errors": 0
     }
