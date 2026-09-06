@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-06T17:15:57.048Z",
+  "generatedAt": "2026-09-06T19:17:29.683Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "dnMBw1CzUk4",
-      "title": "Germany State Election Results - Will AfD Take Power? - LIVE Breaking News Coverage (Saxony-Anhalt)",
-      "thumbnail": "https://i.ytimg.com/vi/dnMBw1CzUk4/hqdefault.jpg"
+      "videoId": "k-OYfItQZ9k",
+      "title": "Amazon Cargo Plane Crashes in Miami - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/k-OYfItQZ9k/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -162,9 +162,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "laI61MdUIcs",
-      "title": "LIVE Germany Votes: Is the far-right AfD headed for a landmark result in Saxony-Anhalt? | DW News",
-      "thumbnail": "https://i.ytimg.com/vi/laI61MdUIcs/hqdefault.jpg"
+      "videoId": "LuKwFajn37U",
+      "title": "DW News livestream | Headline news from around the world",
+      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-06T17:15:57.048Z",
+      "at": "2026-09-06T19:17:29.683Z",
       "checked": 33,
       "errors": 0
     }
