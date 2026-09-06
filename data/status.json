@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T14:25:30.013Z",
+  "generatedAt": "2026-09-06T17:15:57.048Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -162,9 +162,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "videoId": "laI61MdUIcs",
+      "title": "LIVE Germany Votes: Is the far-right AfD headed for a landmark result in Saxony-Anhalt? | DW News",
+      "thumbnail": "https://i.ytimg.com/vi/laI61MdUIcs/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "U6XYhaIBBkM",
-      "title": "Trump Envoys Arrive in Kyiv; Iran Responds to US Strikes | Bloomberg This Weekend: Sept. 6, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/U6XYhaIBBkM/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-06T14:25:30.013Z",
+      "at": "2026-09-06T17:15:57.048Z",
       "checked": 33,
       "errors": 0
     }
