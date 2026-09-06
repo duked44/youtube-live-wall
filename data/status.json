@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-05T23:53:07.845Z",
+  "generatedAt": "2026-09-06T02:26:34.416Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "imndXTJUe1w",
-      "title": "U.S. Attacks 3 Iranian Tankers - LIVE Breaking News Coverage (Iran War & Other Top Stories)",
-      "thumbnail": "https://i.ytimg.com/vi/imndXTJUe1w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-05T23:53:07.845Z",
+      "at": "2026-09-06T02:26:34.416Z",
       "checked": 33,
       "errors": 0
     }
