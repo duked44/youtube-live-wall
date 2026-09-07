@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T00:56:44.822Z",
+  "generatedAt": "2026-09-07T05:51:39.755Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -93,18 +93,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "6uA-DWxJCuk",
-      "title": "LIVE: Liam and Noel Gallagher expected at Venice Film Festival red carpet",
-      "thumbnail": "https://i.ytimg.com/vi/6uA-DWxJCuk/hqdefault.jpg"
+      "videoId": "tePCY5w8wds",
+      "title": "LIVE: Funeral of convicted war criminal Ratko Mladic in Serbia",
+      "thumbnail": "https://i.ytimg.com/vi/tePCY5w8wds/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "n_bsH6zRJ7w",
-      "title": "LIVE: ABC News Live - Sunday, September 6 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/n_bsH6zRJ7w/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "pir4Igiruak",
+      "title": "Far-right AfD wins regional election in Germany | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/pir4Igiruak/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-07T00:56:44.822Z",
+      "at": "2026-09-07T05:51:39.755Z",
       "checked": 33,
       "errors": 0
     }
