@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-09-07T16:25:05.054Z",
+  "generatedAt": "2026-09-07T20:05:45.106Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "CNFNkNi599s",
+      "title": "NTSB News Conference on Amazon Plane Crash in Miami - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/CNFNkNi599s/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "bjKQh1-pW6w",
+      "title": "WATCH LIVE: NTSB briefs after Amazon cargo plane crash in Miami",
+      "thumbnail": "https://i.ytimg.com/vi/bjKQh1-pW6w/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -138,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lBXuvMRR_1w",
-      "title": "Policing minister gives statement on anti-migrant protests in Portsmouth and Dover",
-      "thumbnail": "https://i.ytimg.com/vi/lBXuvMRR_1w/hqdefault.jpg"
+      "videoId": "p2gpI8_5XSE",
+      "title": "What impact will AfD’s election win have beyond Germany | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/p2gpI8_5XSE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -192,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "G647RN4WjB8",
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
-      "thumbnail": "https://i.ytimg.com/vi/G647RN4WjB8/hqdefault.jpg"
+      "videoId": "WudTGtUjjaU",
+      "title": "WATCH LIVE: NTSB holds initial briefing on Amazon Air crash at Miami International Airport",
+      "thumbnail": "https://i.ytimg.com/vi/WudTGtUjjaU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -241,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 8,
-      "channelChecks": 264,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-07T16:25:05.054Z",
+      "at": "2026-09-07T20:05:45.106Z",
       "checked": 33,
       "errors": 0
     }
