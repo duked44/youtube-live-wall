@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T05:51:39.755Z",
+  "generatedAt": "2026-09-07T11:02:08.660Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,34 +86,37 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "YpI_w1KIWOs",
+      "title": "LIVE: Brazil’s Lula attends Independence Day military parade ahead of election",
+      "thumbnail": "https://i.ytimg.com/vi/YpI_w1KIWOs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "tePCY5w8wds",
-      "title": "LIVE: Funeral of convicted war criminal Ratko Mladic in Serbia",
-      "thumbnail": "https://i.ytimg.com/vi/tePCY5w8wds/hqdefault.jpg"
+      "videoId": "WkTpgKgIBzk",
+      "title": "LIVE: International Atomic Energy Agency press conference",
+      "thumbnail": "https://i.ytimg.com/vi/WkTpgKgIBzk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "DBkdlVJtqjU",
+      "title": "LIVE: ABC News Live - Monday, September 7 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/DBkdlVJtqjU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "hESFZeam7Gc",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/hESFZeam7Gc/hqdefault.jpg"
+      "videoId": "49YaOmbjFz4",
+      "title": "WATCH: NBC News NOW - Sept. 7",
+      "thumbnail": "https://i.ytimg.com/vi/49YaOmbjFz4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "pir4Igiruak",
-      "title": "Far-right AfD wins regional election in Germany | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/pir4Igiruak/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-07T05:51:39.755Z",
+      "at": "2026-09-07T11:02:08.660Z",
       "checked": 33,
       "errors": 0
     }
