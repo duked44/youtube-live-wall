@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-08T17:54:42.577Z",
+  "generatedAt": "2026-09-08T20:41:14.698Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "pKhhLFIEaWg",
+      "title": "New U.S. Attacks on Iranian Oil Tankers - LIVE Breaking News Coverage & Iran War Updates",
+      "thumbnail": "https://i.ytimg.com/vi/pKhhLFIEaWg/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "wT2h5B3XtqQ",
-      "title": "LIVE: Department Of Justice Holds 9/11 25th Anniversary Ceremony In Washington, D.C.",
-      "thumbnail": "https://i.ytimg.com/vi/wT2h5B3XtqQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "AI3-X2-QkPI",
-      "title": "WATCH LIVE: AG Blanche delivers remarks at DOJ 9/11 dedication ceremony",
-      "thumbnail": "https://i.ytimg.com/vi/AI3-X2-QkPI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "JHIDE39a_ps",
-      "title": "LIVE: Opening session of the 81st UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/JHIDE39a_ps/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "J5VZWjPUe3U",
-      "title": "Is Labour party politics behind timing of Israel sanctions? | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/J5VZWjPUe3U/hqdefault.jpg"
+      "videoId": "gqnP-xe9s9s",
+      "title": "Israel takes revenge after UK sanctions on illegal settlements | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/gqnP-xe9s9s/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "rJgV5RlUrXU",
-      "title": "WATCH LIVE: Justice Department marks 25th anniversary of 9/11 attacks",
-      "thumbnail": "https://i.ytimg.com/vi/rJgV5RlUrXU/hqdefault.jpg"
+      "videoId": "jcLuv1dRWcw",
+      "title": "WATCH LIVE: Rubio signs strategic agreements with Colombia's president and foreign minister",
+      "thumbnail": "https://i.ytimg.com/vi/jcLuv1dRWcw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "UfpNRtTQ0iA",
-      "title": "US-Canada trade war: BC Premier David Eby speaks as Canada's counter-tariffs come into effect | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/UfpNRtTQ0iA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-08T17:54:42.577Z",
+      "at": "2026-09-08T20:41:14.698Z",
       "checked": 33,
       "errors": 0
     }
