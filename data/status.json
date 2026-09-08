@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T14:05:04.511Z",
+  "generatedAt": "2026-09-08T17:54:42.577Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "wT2h5B3XtqQ",
+      "title": "LIVE: Department Of Justice Holds 9/11 25th Anniversary Ceremony In Washington, D.C.",
+      "thumbnail": "https://i.ytimg.com/vi/wT2h5B3XtqQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "I36z1hnkg7k",
-      "title": "WATCH LIVE: Trump honors 9/11 heroes at Steel Across America memorial",
-      "thumbnail": "https://i.ytimg.com/vi/I36z1hnkg7k/hqdefault.jpg"
+      "videoId": "AI3-X2-QkPI",
+      "title": "WATCH LIVE: AG Blanche delivers remarks at DOJ 9/11 dedication ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/AI3-X2-QkPI/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "jjFA3KZ0H6s",
-      "title": "LIVE: Trump speaks at ‘Steel Across America’ event at the Ellipse",
-      "thumbnail": "https://i.ytimg.com/vi/jjFA3KZ0H6s/hqdefault.jpg"
+      "videoId": "JHIDE39a_ps",
+      "title": "LIVE: Opening session of the 81st UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/JHIDE39a_ps/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -114,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-SR8F9aH22Q",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/-SR8F9aH22Q/hqdefault.jpg"
+      "videoId": "WRNV-iaQt_4",
+      "title": "WATCH: NBC News NOW - Sept. 8",
+      "thumbnail": "https://i.ytimg.com/vi/WRNV-iaQt_4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ejCVIFefBhI",
-      "title": "Israel responds to sanctions placed by UK",
-      "thumbnail": "https://i.ytimg.com/vi/ejCVIFefBhI/hqdefault.jpg"
+      "videoId": "J5VZWjPUe3U",
+      "title": "Is Labour party politics behind timing of Israel sanctions? | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/J5VZWjPUe3U/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "5HVyF-lmJNg",
-      "title": "WATCH LIVE: Trump speaks at Steel Across America event for 9/11 anniversary",
-      "thumbnail": "https://i.ytimg.com/vi/5HVyF-lmJNg/hqdefault.jpg"
+      "videoId": "rJgV5RlUrXU",
+      "title": "WATCH LIVE: Justice Department marks 25th anniversary of 9/11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/rJgV5RlUrXU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "dqnm8M3RfII",
-      "title": "Bank of England governor Andrew Bailey faces parliament treasury committee – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/dqnm8M3RfII/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -242,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "UfpNRtTQ0iA",
+      "title": "US-Canada trade war: BC Premier David Eby speaks as Canada's counter-tariffs come into effect | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/UfpNRtTQ0iA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-08T14:05:04.511Z",
+      "at": "2026-09-08T17:54:42.577Z",
       "checked": 33,
       "errors": 0
     }
