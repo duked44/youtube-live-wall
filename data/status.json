@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T20:41:14.698Z",
+  "generatedAt": "2026-09-08T22:59:43.600Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -111,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "WRNV-iaQt_4",
-      "title": "WATCH: NBC News NOW - Sept. 8",
-      "thumbnail": "https://i.ytimg.com/vi/WRNV-iaQt_4/hqdefault.jpg"
+      "videoId": "v6HT3xntYJY",
+      "title": "LIVE: Kornacki Cam: Watch Steve analyze New Hampshire primary election results | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/v6HT3xntYJY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "4yKB9kD-0OU",
+      "videoId": "2xumYUZBjOg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/4yKB9kD-0OU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/2xumYUZBjOg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "gqnP-xe9s9s",
-      "title": "Israel takes revenge after UK sanctions on illegal settlements | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/gqnP-xe9s9s/hqdefault.jpg"
+      "videoId": "4Js673d60SI",
+      "title": "Burnham takes biggest gamble as PM, risking breakdown of relations with Israel | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/4Js673d60SI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,18 +198,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "jcLuv1dRWcw",
-      "title": "WATCH LIVE: Rubio signs strategic agreements with Colombia's president and foreign minister",
-      "thumbnail": "https://i.ytimg.com/vi/jcLuv1dRWcw/hqdefault.jpg"
+      "videoId": "G647RN4WjB8",
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
+      "thumbnail": "https://i.ytimg.com/vi/G647RN4WjB8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "osep3EtPpnU",
-      "title": "VERDICT WATCH: Lindsay Clancy  Trial",
-      "thumbnail": "https://i.ytimg.com/vi/osep3EtPpnU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-08T20:41:14.698Z",
+      "at": "2026-09-08T22:59:43.600Z",
       "checked": 33,
       "errors": 0
     }
