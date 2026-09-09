@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-09T01:12:12.612Z",
+  "generatedAt": "2026-09-09T06:00:57.902Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "pKhhLFIEaWg",
-      "title": "NTSB News Conference on Amazon Plane Accident in Miami - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/pKhhLFIEaWg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "nUFmGCV4lfo",
-      "title": "WATCH LIVE: NTSB gives the latest update on the deadly Amazon cargo plane crash investigation",
-      "thumbnail": "https://i.ytimg.com/vi/nUFmGCV4lfo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "s0gIZQqh6aY",
-      "title": "LIVE: NTSB briefing on Amazon cargo plane crash in Miami",
-      "thumbnail": "https://i.ytimg.com/vi/s0gIZQqh6aY/hqdefault.jpg"
+      "videoId": "7nncuuV30DE",
+      "title": "LIVE: King Harald V funeral in Norway",
+      "thumbnail": "https://i.ytimg.com/vi/7nncuuV30DE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,18 +102,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "nUwHbewn5vw",
-      "title": "LIVE: ABC News Live - Tuesday, September 8 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/nUwHbewn5vw/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "v6HT3xntYJY",
-      "title": "LIVE: Steve Kornacki analyzes New Hampshire primary election results | Kornacki Cam | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/v6HT3xntYJY/hqdefault.jpg"
+      "videoId": "N6zXkom1kGo",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/N6zXkom1kGo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "lk0PX03twOM",
+      "title": "Israel reacts after UK announces sanctions | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/lk0PX03twOM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T01:12:12.612Z",
+      "at": "2026-09-09T06:00:57.902Z",
       "checked": 33,
       "errors": 0
     }
