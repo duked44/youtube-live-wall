@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T22:59:43.600Z",
+  "generatedAt": "2026-09-09T01:12:12.612Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -7,7 +7,7 @@
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
       "videoId": "pKhhLFIEaWg",
-      "title": "New U.S. Attacks on Iranian Oil Tankers - LIVE Breaking News Coverage & Iran War Updates",
+      "title": "NTSB News Conference on Amazon Plane Accident in Miami - LIVE Breaking News Coverage",
       "thumbnail": "https://i.ytimg.com/vi/pKhhLFIEaWg/hqdefault.jpg"
     },
     {
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "nUFmGCV4lfo",
+      "title": "WATCH LIVE: NTSB gives the latest update on the deadly Amazon cargo plane crash investigation",
+      "thumbnail": "https://i.ytimg.com/vi/nUFmGCV4lfo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -89,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "s0gIZQqh6aY",
+      "title": "LIVE: NTSB briefing on Amazon cargo plane crash in Miami",
+      "thumbnail": "https://i.ytimg.com/vi/s0gIZQqh6aY/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -112,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "v6HT3xntYJY",
-      "title": "LIVE: Kornacki Cam: Watch Steve analyze New Hampshire primary election results | NBC News",
+      "title": "LIVE: Steve Kornacki analyzes New Hampshire primary election results | Kornacki Cam | NBC News",
       "thumbnail": "https://i.ytimg.com/vi/v6HT3xntYJY/hqdefault.jpg"
     },
     {
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "4Js673d60SI",
-      "title": "Burnham takes biggest gamble as PM, risking breakdown of relations with Israel | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/4Js673d60SI/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +218,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "jSU2nVQM_dA",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/jSU2nVQM_dA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-08T22:59:43.600Z",
+      "at": "2026-09-09T01:12:12.612Z",
       "checked": 33,
       "errors": 0
     }
