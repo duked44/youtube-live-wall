@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:09:11.300Z",
+  "generatedAt": "2026-09-09T18:36:09.725Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "wR9LMxqU-5M",
-      "title": "LIVE: Texas Democrats Hold Press Conference To Counter RNC’s Midterm Convention In Dallas, TX",
-      "thumbnail": "https://i.ytimg.com/vi/wR9LMxqU-5M/hqdefault.jpg"
+      "videoId": "8WP4jGoyKYk",
+      "title": "LIVE: President Trump And RNC Hold Midterm Republican Convention In Texas — Night 1",
+      "thumbnail": "https://i.ytimg.com/vi/8WP4jGoyKYk/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "fHjleRid3Tg",
+      "title": "WATCH LIVE: Trump headlines Republican midterm convention in Dallas",
+      "thumbnail": "https://i.ytimg.com/vi/fHjleRid3Tg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -98,10 +101,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "2XB-8m0oMEs",
-      "title": "LIVE: France’s Macron hosts international summit on space",
-      "thumbnail": "https://i.ytimg.com/vi/2XB-8m0oMEs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Cmp9ugnLaWg",
-      "title": "Transport Secretary on UK flight disruption",
-      "thumbnail": "https://i.ytimg.com/vi/Cmp9ugnLaWg/hqdefault.jpg"
+      "videoId": "cTlB_jqGoz0",
+      "title": "Inside the chaos at Reform's flagship northern council | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/cTlB_jqGoz0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,15 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "lqt7pp4A9DA",
-      "title": "WATCH LIVE: Democrats hold news conference ahead of RNC midterm convention",
-      "thumbnail": "https://i.ytimg.com/vi/lqt7pp4A9DA/hqdefault.jpg"
+      "videoId": "tZXlZ8yjIJY",
+      "title": "WATCH LIVE: Rubio, Ecuadorian Foreign Minister Kury deliver joint statements",
+      "thumbnail": "https://i.ytimg.com/vi/tZXlZ8yjIJY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "hPONwO9ylz0",
+      "title": "Should Mamdani attend the 9/11 ceremony?",
+      "thumbnail": "https://i.ytimg.com/vi/hPONwO9ylz0/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T15:09:11.300Z",
+      "at": "2026-09-09T18:36:09.725Z",
       "checked": 33,
       "errors": 0
     }
