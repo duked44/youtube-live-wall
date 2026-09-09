@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T18:36:09.725Z",
+  "generatedAt": "2026-09-09T21:10:24.437Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "8WP4jGoyKYk",
-      "title": "LIVE: President Trump And RNC Hold Midterm Republican Convention In Texas — Night 1",
-      "thumbnail": "https://i.ytimg.com/vi/8WP4jGoyKYk/hqdefault.jpg"
+      "videoId": "eDxQoj9vZXw",
+      "title": "LIVE: President Trump Arrives For The RNC Convention As Midterm Elections Draw Near",
+      "thumbnail": "https://i.ytimg.com/vi/eDxQoj9vZXw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -94,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "Gl6Yi3tsvyE",
-      "title": "Republican midterm convention LIVE: Trump speaks on Day 1",
+      "title": "Republican midterm convention LIVE: Trump speech on Day 1",
       "thumbnail": "https://i.ytimg.com/vi/Gl6Yi3tsvyE/hqdefault.jpg"
     },
     {
@@ -126,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "tJREXJwOGlY",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/tJREXJwOGlY/hqdefault.jpg"
+      "videoId": "fQsX7sAGbMs",
+      "title": "Watch Live: Day 1 of Republicans' first midterm convention",
+      "thumbnail": "https://i.ytimg.com/vi/fQsX7sAGbMs/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cTlB_jqGoz0",
-      "title": "Inside the chaos at Reform's flagship northern council | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/cTlB_jqGoz0/hqdefault.jpg"
+      "videoId": "_rMKaFY8wRE",
+      "title": "Airport Chas continues for another day | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/_rMKaFY8wRE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +204,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "tZXlZ8yjIJY",
-      "title": "WATCH LIVE: Rubio, Ecuadorian Foreign Minister Kury deliver joint statements",
-      "thumbnail": "https://i.ytimg.com/vi/tZXlZ8yjIJY/hqdefault.jpg"
+      "videoId": "G647RN4WjB8",
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
+      "thumbnail": "https://i.ytimg.com/vi/G647RN4WjB8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "hPONwO9ylz0",
-      "title": "Should Mamdani attend the 9/11 ceremony?",
-      "thumbnail": "https://i.ytimg.com/vi/hPONwO9ylz0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T18:36:09.725Z",
+      "at": "2026-09-09T21:10:24.437Z",
       "checked": 33,
       "errors": 0
     }
