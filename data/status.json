@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T11:13:11.277Z",
+  "generatedAt": "2026-09-09T15:09:11.300Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "wR9LMxqU-5M",
+      "title": "LIVE: Texas Democrats Hold Press Conference To Counter RNC’s Midterm Convention In Dallas, TX",
+      "thumbnail": "https://i.ytimg.com/vi/wR9LMxqU-5M/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -44,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "NckKfRJaQuM",
-      "title": "LIVE: Norway holds state funeral for King Harald V in Oslo | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/NckKfRJaQuM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -90,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "7nncuuV30DE",
-      "title": "LIVE: King Harald V funeral in Norway",
-      "thumbnail": "https://i.ytimg.com/vi/7nncuuV30DE/hqdefault.jpg"
+      "videoId": "Gl6Yi3tsvyE",
+      "title": "Republican midterm convention LIVE: Trump speaks on Day 1",
+      "thumbnail": "https://i.ytimg.com/vi/Gl6Yi3tsvyE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "9Ay6n_JnxeA",
-      "title": "LIVE: British Prime Minister Burnham takes questions in Parliament",
-      "thumbnail": "https://i.ytimg.com/vi/9Ay6n_JnxeA/hqdefault.jpg"
+      "videoId": "2XB-8m0oMEs",
+      "title": "LIVE: France’s Macron hosts international summit on space",
+      "thumbnail": "https://i.ytimg.com/vi/2XB-8m0oMEs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "wfk8OH_zme8",
-      "title": "PMQs | Burnham faces questions after UK row with Israel over sanctions",
-      "thumbnail": "https://i.ytimg.com/vi/wfk8OH_zme8/hqdefault.jpg"
+      "videoId": "Cmp9ugnLaWg",
+      "title": "Transport Secretary on UK flight disruption",
+      "thumbnail": "https://i.ytimg.com/vi/Cmp9ugnLaWg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "G647RN4WjB8",
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
-      "thumbnail": "https://i.ytimg.com/vi/G647RN4WjB8/hqdefault.jpg"
+      "videoId": "lqt7pp4A9DA",
+      "title": "WATCH LIVE: Democrats hold news conference ahead of RNC midterm convention",
+      "thumbnail": "https://i.ytimg.com/vi/lqt7pp4A9DA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,16 +218,16 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "ndX9OyPvdks",
+      "title": "LIVE: Sept. 9 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/ndX9OyPvdks/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "Mc-qewCZRTE",
-      "title": "British PM Andy Burnham takes questions in parliament – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/Mc-qewCZRTE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T11:13:11.277Z",
+      "at": "2026-09-09T15:09:11.300Z",
       "checked": 33,
       "errors": 0
     }
