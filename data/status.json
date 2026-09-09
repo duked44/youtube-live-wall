@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T06:00:57.902Z",
+  "generatedAt": "2026-09-09T11:13:11.277Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -44,7 +44,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "NckKfRJaQuM",
+      "title": "LIVE: Norway holds state funeral for King Harald V in Oslo | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/NckKfRJaQuM/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -95,34 +98,37 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "9Ay6n_JnxeA",
+      "title": "LIVE: British Prime Minister Burnham takes questions in Parliament",
+      "thumbnail": "https://i.ytimg.com/vi/9Ay6n_JnxeA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "pONWOiqVva0",
+      "title": "LIVE: ABC News Live - Wednesday, September 9 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/pONWOiqVva0/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "N6zXkom1kGo",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/N6zXkom1kGo/hqdefault.jpg"
+      "videoId": "zz3lxrm7km0",
+      "title": "WATCH: NBC News NOW - Sept. 9",
+      "thumbnail": "https://i.ytimg.com/vi/zz3lxrm7km0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "2xumYUZBjOg",
+      "videoId": "tJREXJwOGlY",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/2xumYUZBjOg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/tJREXJwOGlY/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lk0PX03twOM",
-      "title": "Israel reacts after UK announces sanctions | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/lk0PX03twOM/hqdefault.jpg"
+      "videoId": "wfk8OH_zme8",
+      "title": "PMQs | Burnham faces questions after UK row with Israel over sanctions",
+      "thumbnail": "https://i.ytimg.com/vi/wfk8OH_zme8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "Mc-qewCZRTE",
+      "title": "British PM Andy Burnham takes questions in parliament – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/Mc-qewCZRTE/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T06:00:57.902Z",
+      "at": "2026-09-09T11:13:11.277Z",
       "checked": 33,
       "errors": 0
     }
