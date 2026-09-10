@@ -1,41 +1,32 @@
 {
-  "generatedAt": "2026-09-10T01:10:12.740Z",
+  "generatedAt": "2026-09-10T05:59:05.248Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "jqZTzBC4Y9g",
-      "title": "Republican Midterm Convention & Iran War - LIVE Breaking News Coverage (Including Trump Speech)",
-      "thumbnail": "https://i.ytimg.com/vi/jqZTzBC4Y9g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "QDh0hMhOEdA",
-      "title": "LIVE: President Trump Delivers Presidential Keynote At The RNC Convention In Dallas, Texas",
-      "thumbnail": "https://i.ytimg.com/vi/QDh0hMhOEdA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "MvAIZN8elEc",
-      "title": "Campaign 2026: Republican Midterm Convention (Day 1)",
-      "thumbnail": "https://i.ytimg.com/vi/MvAIZN8elEc/hqdefault.jpg"
+      "videoId": "OugOHvbfySM",
+      "title": "Campaign 2026: Republican Midterm Convention (Day 2)",
+      "thumbnail": "https://i.ytimg.com/vi/OugOHvbfySM/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "fHjleRid3Tg",
-      "title": "WATCH LIVE: Trump headlines Republican midterm convention in Dallas",
-      "thumbnail": "https://i.ytimg.com/vi/fHjleRid3Tg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -59,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "AJ4py9KKOb0",
-      "title": "RNC Day 1: Welcome to Dallas!",
-      "thumbnail": "https://i.ytimg.com/vi/AJ4py9KKOb0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -99,9 +87,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Gl6Yi3tsvyE",
-      "title": "LIVE: Trump speaks on Day 1 of the Republican midterm convention",
-      "thumbnail": "https://i.ytimg.com/vi/Gl6Yi3tsvyE/hqdefault.jpg"
+      "videoId": "3ftlf4NyC44",
+      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
+      "thumbnail": "https://i.ytimg.com/vi/3ftlf4NyC44/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -114,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "pONWOiqVva0",
-      "title": "LIVE: ABC News Live - Wednesday, September 9 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/pONWOiqVva0/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -149,19 +137,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "42aHncvo7yg",
-      "title": "LIVE: Trump to deliver remarks at GOP midterm convention in Dallas",
-      "thumbnail": "https://i.ytimg.com/vi/42aHncvo7yg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "yrmrKYogy08",
+      "title": "Trump promises $5,000 dividend to adult US citizens if Republicans win the midterms | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/yrmrKYogy08/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "G647RN4WjB8",
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 1",
-      "thumbnail": "https://i.ytimg.com/vi/G647RN4WjB8/hqdefault.jpg"
+      "videoId": "vuh8w-nDxMg",
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
+      "thumbnail": "https://i.ytimg.com/vi/vuh8w-nDxMg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,9 +237,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "XWq5kBlakcQ",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
+      "videoId": "5kp0AvVu6kM",
+      "title": "[LIVE] Parliament debates increase of ministerial salaries",
+      "thumbnail": "https://i.ytimg.com/vi/5kp0AvVu6kM/hqdefault.jpg"
     }
   ],
   "health": {
@@ -264,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T01:10:12.740Z",
+      "at": "2026-09-10T05:59:05.248Z",
       "checked": 33,
       "errors": 0
     }
