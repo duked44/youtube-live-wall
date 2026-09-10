@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-09-10T14:58:54.398Z",
+  "generatedAt": "2026-09-10T18:18:36.944Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "WdDOXZWDQgE",
-      "title": "Houthis Seize Mokha in Yemen Near Bab al-Mandab Strait - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/WdDOXZWDQgE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "o9Q64FibOPc",
-      "title": "LIVE: Marco Rubio Holds Presser In Lima, Peru After US And Iran Exchange Strikes In Strait Of Hormuz",
-      "thumbnail": "https://i.ytimg.com/vi/o9Q64FibOPc/hqdefault.jpg"
+      "videoId": "tHRkZrHyucA",
+      "title": "LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX",
+      "thumbnail": "https://i.ytimg.com/vi/tHRkZrHyucA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "QTsI7QH9d8A",
-      "title": "WATCH LIVE: Rubio speaks alongside Peru’s leaders",
-      "thumbnail": "https://i.ytimg.com/vi/QTsI7QH9d8A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "04vzi9fbYgk",
-      "title": "LIVE: Missouri Supreme Court hears contempt case over Trump-backed congressional map",
-      "thumbnail": "https://i.ytimg.com/vi/04vzi9fbYgk/hqdefault.jpg"
+      "videoId": "lVWuNV0sido",
+      "title": "LIVE: Trump and JD Vance deliver speeches at the Republican midterm convention",
+      "thumbnail": "https://i.ytimg.com/vi/lVWuNV0sido/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ps41ic4-tOU",
-      "title": "LIVE: Red carpet at Gaza war film 'NAZA' premiere in Venice",
-      "thumbnail": "https://i.ytimg.com/vi/ps41ic4-tOU/hqdefault.jpg"
+      "videoId": "1Zbc6edomns",
+      "title": "LIVE: Macron attends International Space Summit in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/1Zbc6edomns/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -156,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "Rd5m-S8bVlM",
+      "title": "Volunteer lifesavers told to hide logos after anti-migrant protester abuse | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/Rd5m-S8bVlM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,15 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vuh8w-nDxMg",
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
-      "thumbnail": "https://i.ytimg.com/vi/vuh8w-nDxMg/hqdefault.jpg"
+      "videoId": "1RDuZ2NQrko",
+      "title": "WATCH LIVE: Trump speaks at National Medal of Honor Museum in Texas",
+      "thumbnail": "https://i.ytimg.com/vi/1RDuZ2NQrko/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "R2Z0siP7s78",
+      "title": "Is Trump bribing voters? Debate with Mike Nellis and Batya Ungar-Sargon",
+      "thumbnail": "https://i.ytimg.com/vi/R2Z0siP7s78/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -226,17 +223,14 @@
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
       "videoId": "cAwEd8OZAQo",
-      "title": "LIVE: Top Headlines You Need to Know Today",
+      "title": "LIVE: Sept. 10 — Breaking News & Top Headlines",
       "thumbnail": "https://i.ytimg.com/vi/cAwEd8OZAQo/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "z-U8hg1re_w",
-      "title": "MPs discuss Social Housing Bill in parliament – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/z-U8hg1re_w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -270,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T14:58:54.398Z",
+      "at": "2026-09-10T18:18:36.944Z",
       "checked": 33,
       "errors": 0
     }
