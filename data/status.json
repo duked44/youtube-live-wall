@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:15:40.267Z",
+  "generatedAt": "2026-09-10T01:10:12.740Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "8WP4jGoyKYk",
-      "title": "LIVE: President Trump And RNC Hold Midterm Republican Convention In Texas — Night 1",
-      "thumbnail": "https://i.ytimg.com/vi/8WP4jGoyKYk/hqdefault.jpg"
+      "videoId": "QDh0hMhOEdA",
+      "title": "LIVE: President Trump Delivers Presidential Keynote At The RNC Convention In Dallas, Texas",
+      "thumbnail": "https://i.ytimg.com/vi/QDh0hMhOEdA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -100,7 +100,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "Gl6Yi3tsvyE",
-      "title": "Republican midterm convention LIVE: Trump speech on Day 1",
+      "title": "LIVE: Trump speaks on Day 1 of the Republican midterm convention",
       "thumbnail": "https://i.ytimg.com/vi/Gl6Yi3tsvyE/hqdefault.jpg"
     },
     {
@@ -124,7 +124,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "azVn7W8zuMA",
-      "title": "LIVE: NBC News NOW - Sept. 9",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/azVn7W8zuMA/hqdefault.jpg"
     },
     {
@@ -149,7 +149,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "42aHncvo7yg",
+      "title": "LIVE: Trump to deliver remarks at GOP midterm convention in Dallas",
+      "thumbnail": "https://i.ytimg.com/vi/42aHncvo7yg/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 8,
+      "channelChecks": 264,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-09T23:15:40.267Z",
+      "at": "2026-09-10T01:10:12.740Z",
       "checked": 33,
       "errors": 0
     }
