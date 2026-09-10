@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-09-10T11:08:10.763Z",
+  "generatedAt": "2026-09-10T14:58:54.398Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "WdDOXZWDQgE",
+      "title": "Houthis Seize Mokha in Yemen Near Bab al-Mandab Strait - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/WdDOXZWDQgE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "o9Q64FibOPc",
+      "title": "LIVE: Marco Rubio Holds Presser In Lima, Peru After US And Iran Exchange Strikes In Strait Of Hormuz",
+      "thumbnail": "https://i.ytimg.com/vi/o9Q64FibOPc/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +32,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "QTsI7QH9d8A",
+      "title": "WATCH LIVE: Rubio speaks alongside Peru’s leaders",
+      "thumbnail": "https://i.ytimg.com/vi/QTsI7QH9d8A/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,9 +105,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1Zbc6edomns",
-      "title": "LIVE: Macron attends International Space Summit in Paris",
-      "thumbnail": "https://i.ytimg.com/vi/1Zbc6edomns/hqdefault.jpg"
+      "videoId": "ps41ic4-tOU",
+      "title": "LIVE: Red carpet at Gaza war film 'NAZA' premiere in Venice",
+      "thumbnail": "https://i.ytimg.com/vi/ps41ic4-tOU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "VtyvfRcqIyQ",
-      "title": "House of Commons | Government questioned on flight disruptions",
-      "thumbnail": "https://i.ytimg.com/vi/VtyvfRcqIyQ/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -226,7 +235,7 @@
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
       "videoId": "z-U8hg1re_w",
-      "title": "Wes Streeting to make statement on Ukraine in parliament – watch live",
+      "title": "MPs discuss Social Housing Bill in parliament – watch live",
       "thumbnail": "https://i.ytimg.com/vi/z-U8hg1re_w/hqdefault.jpg"
     },
     {
@@ -239,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "G91Bit6MCjs",
+      "title": "Zelenskyy meets with Carney in Calgary to discuss defence, economic and energy co-operation | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/G91Bit6MCjs/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T11:08:10.763Z",
+      "at": "2026-09-10T14:58:54.398Z",
       "checked": 33,
       "errors": 0
     }
