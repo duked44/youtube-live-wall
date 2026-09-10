@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T18:18:36.944Z",
+  "generatedAt": "2026-09-10T20:58:59.428Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "tHRkZrHyucA",
-      "title": "LIVE: President Trump Delivers Remarks At National Medal Of Honor Museum In Arlington, TX",
-      "thumbnail": "https://i.ytimg.com/vi/tHRkZrHyucA/hqdefault.jpg"
+      "videoId": "y0xnpbv2cTE",
+      "title": "LIVE: President Trump And RNC Hold Midterm Republican Convention In Texas — Night 2",
+      "thumbnail": "https://i.ytimg.com/vi/y0xnpbv2cTE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,13 +29,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "OCR1eN61mV4",
+      "title": "WATCH LIVE: President Trump and VP Vance headline Night 2 of the RNC Midterm Convention",
+      "thumbnail": "https://i.ytimg.com/vi/OCR1eN61mV4/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "kQMnrPsCrwY",
+      "title": "9/11 25th Anniversary Ceremony in NYC: Watch live from Ground Zero",
+      "thumbnail": "https://i.ytimg.com/vi/kQMnrPsCrwY/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -91,7 +97,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "lVWuNV0sido",
-      "title": "LIVE: Trump and JD Vance deliver speeches at the Republican midterm convention",
+      "title": "LIVE: Trump and JD Vance speak at the Republican midterm convention",
       "thumbnail": "https://i.ytimg.com/vi/lVWuNV0sido/hqdefault.jpg"
     },
     {
@@ -126,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "V_tSh5FTImc",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/V_tSh5FTImc/hqdefault.jpg"
+      "videoId": "Y6iApm0lSvo",
+      "title": "Watch Live: Day 2 of the Republican midterm convention",
+      "thumbnail": "https://i.ytimg.com/vi/Y6iApm0lSvo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Rd5m-S8bVlM",
-      "title": "Volunteer lifesavers told to hide logos after anti-migrant protester abuse | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/Rd5m-S8bVlM/hqdefault.jpg"
+      "videoId": "8uYw5LK6Gp4",
+      "title": "The Wrap | Thursday 10 September",
+      "thumbnail": "https://i.ytimg.com/vi/8uYw5LK6Gp4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,18 +210,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "1RDuZ2NQrko",
-      "title": "WATCH LIVE: Trump speaks at National Medal of Honor Museum in Texas",
-      "thumbnail": "https://i.ytimg.com/vi/1RDuZ2NQrko/hqdefault.jpg"
+      "videoId": "vuh8w-nDxMg",
+      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
+      "thumbnail": "https://i.ytimg.com/vi/vuh8w-nDxMg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "R2Z0siP7s78",
-      "title": "Is Trump bribing voters? Debate with Mike Nellis and Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/R2Z0siP7s78/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -242,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "G91Bit6MCjs",
-      "title": "Zelenskyy meets with Carney in Calgary to discuss defence, economic and energy co-operation | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/G91Bit6MCjs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T18:18:36.944Z",
+      "at": "2026-09-10T20:58:59.428Z",
       "checked": 33,
       "errors": 0
     }
