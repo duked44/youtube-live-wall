@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T05:59:05.248Z",
+  "generatedAt": "2026-09-10T11:08:10.763Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,42 +87,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "3ftlf4NyC44",
-      "title": "Kilauea volcano LIVE: Eruption in Hawaii",
-      "thumbnail": "https://i.ytimg.com/vi/3ftlf4NyC44/hqdefault.jpg"
+      "videoId": "04vzi9fbYgk",
+      "title": "LIVE: Missouri Supreme Court hears contempt case over Trump-backed congressional map",
+      "thumbnail": "https://i.ytimg.com/vi/04vzi9fbYgk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "1Zbc6edomns",
+      "title": "LIVE: Macron attends International Space Summit in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/1Zbc6edomns/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "MuBEsh9yyKg",
+      "title": "LIVE: ABC News Live - Thursday, September 10 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/MuBEsh9yyKg/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "azVn7W8zuMA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/azVn7W8zuMA/hqdefault.jpg"
+      "videoId": "Nhw-P0y0caU",
+      "title": "WATCH: NBC News NOW - Sept. 10",
+      "thumbnail": "https://i.ytimg.com/vi/Nhw-P0y0caU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "JJlWW6WzVkw",
+      "videoId": "V_tSh5FTImc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/JJlWW6WzVkw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/V_tSh5FTImc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yrmrKYogy08",
-      "title": "Trump promises $5,000 dividend to adult US citizens if Republicans win the midterms | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/yrmrKYogy08/hqdefault.jpg"
+      "videoId": "VtyvfRcqIyQ",
+      "title": "House of Commons | Government questioned on flight disruptions",
+      "thumbnail": "https://i.ytimg.com/vi/VtyvfRcqIyQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,13 +215,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "cAwEd8OZAQo",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/cAwEd8OZAQo/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "z-U8hg1re_w",
+      "title": "Wes Streeting to make statement on Ukraine in parliament – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/z-U8hg1re_w/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -237,9 +246,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "5kp0AvVu6kM",
-      "title": "[LIVE] Parliament debates increase of ministerial salaries",
-      "thumbnail": "https://i.ytimg.com/vi/5kp0AvVu6kM/hqdefault.jpg"
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
@@ -249,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T05:59:05.248Z",
+      "at": "2026-09-10T11:08:10.763Z",
       "checked": 33,
       "errors": 0
     }
