@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T20:58:59.428Z",
+  "generatedAt": "2026-09-10T23:05:02.201Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -59,7 +59,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "77WIVca1Etw",
+      "title": "RNC Day 2: Midterm Dividends, Charlie Kirk & POTUS Center Stage",
+      "thumbnail": "https://i.ytimg.com/vi/77WIVca1Etw/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -105,9 +108,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1Zbc6edomns",
-      "title": "LIVE: Macron attends International Space Summit in Paris",
-      "thumbnail": "https://i.ytimg.com/vi/1Zbc6edomns/hqdefault.jpg"
+      "videoId": "d5P863byQrc",
+      "title": "LIVE: New York commemorates 25th anniversary of 9/11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/d5P863byQrc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,18 +126,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Nhw-P0y0caU",
-      "title": "WATCH: NBC News NOW - Sept. 10",
-      "thumbnail": "https://i.ytimg.com/vi/Nhw-P0y0caU/hqdefault.jpg"
+      "videoId": "RSCPrRgQspk",
+      "title": "LIVE: NBC News NOW - Sept. 10",
+      "thumbnail": "https://i.ytimg.com/vi/RSCPrRgQspk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Y6iApm0lSvo",
-      "title": "Watch Live: Day 2 of the Republican midterm convention",
-      "thumbnail": "https://i.ytimg.com/vi/Y6iApm0lSvo/hqdefault.jpg"
+      "videoId": "kLj69Rzo7ug",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/kLj69Rzo7ug/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "8uYw5LK6Gp4",
-      "title": "The Wrap | Thursday 10 September",
-      "thumbnail": "https://i.ytimg.com/vi/8uYw5LK6Gp4/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,16 +221,19 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "rCUWS594DlE",
+      "title": "Ex-OpenAI and Anthropic Insider: 'We Are Gambling with Lives' | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/rCUWS594DlE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "cAwEd8OZAQo",
-      "title": "LIVE: Sept. 10 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/cAwEd8OZAQo/hqdefault.jpg"
+      "videoId": "vEIzv9MMF10",
+      "title": "LIVE: Sept. 11 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/vEIzv9MMF10/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -264,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T20:58:59.428Z",
+      "at": "2026-09-10T23:05:02.201Z",
       "checked": 33,
       "errors": 0
     }
