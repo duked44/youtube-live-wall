@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-09-10T23:05:02.201Z",
+  "generatedAt": "2026-09-11T01:01:18.111Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "8PsDf9_v2cY",
+      "title": "Republican Midterm Convention - LIVE Breaking News Coverage (with Vance Speech & Trump Remarks)",
+      "thumbnail": "https://i.ytimg.com/vi/8PsDf9_v2cY/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "y0xnpbv2cTE",
-      "title": "LIVE: President Trump And RNC Hold Midterm Republican Convention In Texas — Night 2",
-      "thumbnail": "https://i.ytimg.com/vi/y0xnpbv2cTE/hqdefault.jpg"
+      "videoId": "T39pHogMmBw",
+      "title": "LIVE:VP JD Vance And President Trump Deliver Remarks At RNC Midterm Convention In Texas — Night 2",
+      "thumbnail": "https://i.ytimg.com/vi/T39pHogMmBw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "OCR1eN61mV4",
-      "title": "WATCH LIVE: President Trump and VP Vance headline Night 2 of the RNC Midterm Convention",
-      "thumbnail": "https://i.ytimg.com/vi/OCR1eN61mV4/hqdefault.jpg"
+      "videoId": "JRLv_bRsn9E",
+      "title": "WATCH LIVE: Turning Point USA holds Charlie Kirk memorial event at Utah Valley University",
+      "thumbnail": "https://i.ytimg.com/vi/JRLv_bRsn9E/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -68,7 +71,10 @@
       "id": "turningpointusa",
       "name": "Turning Point USA",
       "channelId": "UCVrK_pMRp_q8IelpfUCTGLQ",
-      "live": false
+      "live": true,
+      "videoId": "1Log3saPGGk",
+      "title": "WATCH LIVE: Freedom Built to Last | Honoring Charlie Kirk",
+      "thumbnail": "https://i.ytimg.com/vi/1Log3saPGGk/hqdefault.jpg"
     },
     {
       "id": "insideedition",
@@ -100,7 +106,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "lVWuNV0sido",
-      "title": "LIVE: Trump and JD Vance speak at the Republican midterm convention",
+      "title": "LIVE: Trump and JD Vance speak on Day 2 of Republican midterm convention",
       "thumbnail": "https://i.ytimg.com/vi/lVWuNV0sido/hqdefault.jpg"
     },
     {
@@ -126,9 +132,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "RSCPrRgQspk",
-      "title": "LIVE: NBC News NOW - Sept. 10",
-      "thumbnail": "https://i.ytimg.com/vi/RSCPrRgQspk/hqdefault.jpg"
+      "videoId": "9ejRDH1Gygw",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 10",
+      "thumbnail": "https://i.ytimg.com/vi/9ejRDH1Gygw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -221,10 +227,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "rCUWS594DlE",
-      "title": "Ex-OpenAI and Anthropic Insider: 'We Are Gambling with Lives' | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/rCUWS594DlE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -270,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-10T23:05:02.201Z",
+      "at": "2026-09-11T01:01:18.111Z",
       "checked": 33,
       "errors": 0
     }
