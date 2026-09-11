@@ -1,41 +1,35 @@
 {
-  "generatedAt": "2026-09-11T01:01:18.111Z",
+  "generatedAt": "2026-09-11T05:51:47.933Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "8PsDf9_v2cY",
-      "title": "Republican Midterm Convention - LIVE Breaking News Coverage (with Vance Speech & Trump Remarks)",
-      "thumbnail": "https://i.ytimg.com/vi/8PsDf9_v2cY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "T39pHogMmBw",
-      "title": "LIVE:VP JD Vance And President Trump Deliver Remarks At RNC Midterm Convention In Texas — Night 2",
-      "thumbnail": "https://i.ytimg.com/vi/T39pHogMmBw/hqdefault.jpg"
+      "videoId": "tk-lEtrY-ZQ",
+      "title": "LIVE: 9/11 Flight 93 Ceremony Held In Shanksville, Pennsylvania",
+      "thumbnail": "https://i.ytimg.com/vi/tk-lEtrY-ZQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "OugOHvbfySM",
-      "title": "Campaign 2026: Republican Midterm Convention (Day 2)",
-      "thumbnail": "https://i.ytimg.com/vi/OugOHvbfySM/hqdefault.jpg"
+      "videoId": "0aoKYvxsqAM",
+      "title": "September 11th - 25th Anniversary Commemoration Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/0aoKYvxsqAM/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "JRLv_bRsn9E",
-      "title": "WATCH LIVE: Turning Point USA holds Charlie Kirk memorial event at Utah Valley University",
-      "thumbnail": "https://i.ytimg.com/vi/JRLv_bRsn9E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -62,19 +56,13 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "77WIVca1Etw",
-      "title": "RNC Day 2: Midterm Dividends, Charlie Kirk & POTUS Center Stage",
-      "thumbnail": "https://i.ytimg.com/vi/77WIVca1Etw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
       "name": "Turning Point USA",
       "channelId": "UCVrK_pMRp_q8IelpfUCTGLQ",
-      "live": true,
-      "videoId": "1Log3saPGGk",
-      "title": "WATCH LIVE: Freedom Built to Last | Honoring Charlie Kirk",
-      "thumbnail": "https://i.ytimg.com/vi/1Log3saPGGk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "insideedition",
@@ -104,10 +92,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "lVWuNV0sido",
-      "title": "LIVE: Trump and JD Vance speak on Day 2 of Republican midterm convention",
-      "thumbnail": "https://i.ytimg.com/vi/lVWuNV0sido/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -123,18 +108,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "MuBEsh9yyKg",
-      "title": "LIVE: ABC News Live - Thursday, September 10 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/MuBEsh9yyKg/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "9ejRDH1Gygw",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 10",
-      "thumbnail": "https://i.ytimg.com/vi/9ejRDH1Gygw/hqdefault.jpg"
+      "videoId": "RSCPrRgQspk",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/RSCPrRgQspk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -165,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "ppo40-VN0pI",
+      "title": "Memorials held to remember 9/11 victims on 25th anniversary | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/ppo40-VN0pI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -219,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vuh8w-nDxMg",
-      "title": "WATCH LIVE: 2026 Republican Midterm Convention | Night 2",
-      "thumbnail": "https://i.ytimg.com/vi/vuh8w-nDxMg/hqdefault.jpg"
+      "videoId": "8ssTkP2FMPo",
+      "title": "WATCH LIVE: Pentagon holds Sept. 11 observance ceremony on 25th anniversary of attacks",
+      "thumbnail": "https://i.ytimg.com/vi/8ssTkP2FMPo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -273,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T01:01:18.111Z",
+      "at": "2026-09-11T05:51:47.933Z",
       "checked": 33,
       "errors": 0
     }
