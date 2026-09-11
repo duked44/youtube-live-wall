@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T10:14:59.831Z",
+  "generatedAt": "2026-09-11T14:29:33.345Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,24 +12,27 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "tk-lEtrY-ZQ",
-      "title": "LIVE: 9/11 Flight 93 Ceremony Held In Shanksville, Pennsylvania",
-      "thumbnail": "https://i.ytimg.com/vi/tk-lEtrY-ZQ/hqdefault.jpg"
+      "videoId": "XzWpIP8HdUE",
+      "title": "LIVE: 9/11 25th Anniversary Ceremony Held At The Pentagon",
+      "thumbnail": "https://i.ytimg.com/vi/XzWpIP8HdUE/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "0aoKYvxsqAM",
-      "title": "September 11th - 25th Anniversary Commemoration Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/0aoKYvxsqAM/hqdefault.jpg"
+      "videoId": "Wkl0vAMmU0I",
+      "title": "New York City September 11th Commemoration",
+      "thumbnail": "https://i.ytimg.com/vi/Wkl0vAMmU0I/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "u7DnMyhxmdk",
+      "title": "WATCH LIVE: Trump speaks at 9/11 ceremony at the Pentagon",
+      "thumbnail": "https://i.ytimg.com/vi/u7DnMyhxmdk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,69 +99,72 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "QZucLvN3IDs",
-      "title": "LIVE: 9/11 memorial ceremony in New York",
-      "thumbnail": "https://i.ytimg.com/vi/QZucLvN3IDs/hqdefault.jpg"
+      "videoId": "HFDqQKXOtwk",
+      "title": "Trump hosts Pentagon ceremony marking 25 years since 9/11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/HFDqQKXOtwk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "nLnrrJ-c9Xg",
-      "title": "LIVE: Buckingham Palace marks 9/11 with Changing of the Guard ceremony",
-      "thumbnail": "https://i.ytimg.com/vi/nLnrrJ-c9Xg/hqdefault.jpg"
+      "videoId": "b2NYm-MP4GM",
+      "title": "LIVE: Pennsylvania marks 25th anniversary of Sept 11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/b2NYm-MP4GM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "e0ggXxMfpgY",
-      "title": "LIVE: ABC News Live - Friday, September 11 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/e0ggXxMfpgY/hqdefault.jpg"
+      "videoId": "hxOGjvUXHTQ",
+      "title": "9/11: 25 years later, America Remembers",
+      "thumbnail": "https://i.ytimg.com/vi/hxOGjvUXHTQ/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "RSCPrRgQspk",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/RSCPrRgQspk/hqdefault.jpg"
+      "videoId": "cN2FngFuVPw",
+      "title": "WATCH: Marking the 25th anniversary of 9/11 | NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/cN2FngFuVPw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "kLj69Rzo7ug",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/kLj69Rzo7ug/hqdefault.jpg"
+      "videoId": "sBdOlQpggng",
+      "title": "Watch Live: Trump to speak at Pentagon ceremony marking 25 years since 9/11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/sBdOlQpggng/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "OaGMVdYNoMU",
+      "title": "Live: 9/11 NYC commemoration & reflecting pool shot",
+      "thumbnail": "https://i.ytimg.com/vi/OaGMVdYNoMU/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "1KKRe_d4LRU",
+      "title": "LIVE: Flight 93 victims remembered in Shanksville, PA 25 years after September 11 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/1KKRe_d4LRU/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "iPH3ezGMlQU",
-      "title": "9/11 anniversary | Changing of the Guard ceremony marks 25 years since terror attacks",
-      "thumbnail": "https://i.ytimg.com/vi/iPH3ezGMlQU/hqdefault.jpg"
+      "videoId": "tSD9AEJZ7yM",
+      "title": "Trump speaks at 9/11 memorial event at Pentagon",
+      "thumbnail": "https://i.ytimg.com/vi/tSD9AEJZ7yM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +224,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "mY-Esxs_oYs",
+      "title": "Watch live: President Trump honors 9/11 victims at the Pentagon",
+      "thumbnail": "https://i.ytimg.com/vi/mY-Esxs_oYs/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -234,9 +243,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "uFGaOssV7ec",
-      "title": "MPs debate on legalising assisted dying in England and Wales – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/uFGaOssV7ec/hqdefault.jpg"
+      "videoId": "_nnuA2jozNQ",
+      "title": "Trump attends Pentagon commemoration of 9/11 attacks – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/_nnuA2jozNQ/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -267,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T10:14:59.831Z",
+      "at": "2026-09-11T14:29:33.345Z",
       "checked": 33,
       "errors": 0
     }
