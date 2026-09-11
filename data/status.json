@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-09-11T20:15:54.252Z",
+  "generatedAt": "2026-09-11T22:40:01.492Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "4MsuAZwn4z0",
-      "title": "Houthis Seize Perim Island - LIVE Breaking News Coverage (with Iran & Saudi Arabia Updates)",
-      "thumbnail": "https://i.ytimg.com/vi/4MsuAZwn4z0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "8f9nVocyuHo",
-      "title": "LIVE: AG Blanche Delivers Remarks At National Law Enforcement Officers Memorial Fund 9/11 Program",
-      "thumbnail": "https://i.ytimg.com/vi/8f9nVocyuHo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -117,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cN2FngFuVPw",
+      "videoId": "ilHtekNP_DA",
       "title": "LIVE: NBC News NOW - Sept. 11",
-      "thumbnail": "https://i.ytimg.com/vi/cN2FngFuVPw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ilHtekNP_DA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "RPZT2CRLpEc",
+      "title": "The Wrap | Friday 11 September 2026",
+      "thumbnail": "https://i.ytimg.com/vi/RPZT2CRLpEc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +197,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "4ZCgGlibb9E",
+      "title": "PBS News Hour live episode, Sept. 11, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/4ZCgGlibb9E/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -215,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "vEIzv9MMF10",
-      "title": "LIVE: Sept. 11 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/vEIzv9MMF10/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T20:15:54.252Z",
+      "at": "2026-09-11T22:40:01.492Z",
       "checked": 33,
       "errors": 0
     }
