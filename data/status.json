@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T05:51:47.933Z",
+  "generatedAt": "2026-09-11T10:14:59.831Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -50,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "ljTn85IGDqg",
+      "title": "LIVE: 9/11 victims remembered 25 years on from September 11 attacks | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/ljTn85IGDqg/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -92,25 +95,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "QZucLvN3IDs",
+      "title": "LIVE: 9/11 memorial ceremony in New York",
+      "thumbnail": "https://i.ytimg.com/vi/QZucLvN3IDs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "d5P863byQrc",
-      "title": "LIVE: New York commemorates 25th anniversary of 9/11 attacks",
-      "thumbnail": "https://i.ytimg.com/vi/d5P863byQrc/hqdefault.jpg"
+      "videoId": "nLnrrJ-c9Xg",
+      "title": "LIVE: Buckingham Palace marks 9/11 with Changing of the Guard ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/nLnrrJ-c9Xg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "e0ggXxMfpgY",
+      "title": "LIVE: ABC News Live - Friday, September 11 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/e0ggXxMfpgY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ppo40-VN0pI",
-      "title": "Memorials held to remember 9/11 victims on 25th anniversary | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/ppo40-VN0pI/hqdefault.jpg"
+      "videoId": "iPH3ezGMlQU",
+      "title": "9/11 anniversary | Changing of the Guard ceremony marks 25 years since terror attacks",
+      "thumbnail": "https://i.ytimg.com/vi/iPH3ezGMlQU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -227,7 +233,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "uFGaOssV7ec",
+      "title": "MPs debate on legalising assisted dying in England and Wales – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/uFGaOssV7ec/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T05:51:47.933Z",
+      "at": "2026-09-11T10:14:59.831Z",
       "checked": 33,
       "errors": 0
     }
