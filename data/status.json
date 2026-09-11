@@ -1,29 +1,32 @@
 {
-  "generatedAt": "2026-09-11T17:52:23.814Z",
+  "generatedAt": "2026-09-11T20:15:54.252Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "4MsuAZwn4z0",
+      "title": "Houthis Seize Perim Island - LIVE Breaking News Coverage (with Iran & Saudi Arabia Updates)",
+      "thumbnail": "https://i.ytimg.com/vi/4MsuAZwn4z0/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "U-QNQ7PZlt8",
-      "title": "LIVE: 9/11 Flight 93 Ceremony Held In Shanksville, Pennsylvania",
-      "thumbnail": "https://i.ytimg.com/vi/U-QNQ7PZlt8/hqdefault.jpg"
+      "videoId": "8f9nVocyuHo",
+      "title": "LIVE: AG Blanche Delivers Remarks At National Law Enforcement Officers Memorial Fund 9/11 Program",
+      "thumbnail": "https://i.ytimg.com/vi/8f9nVocyuHo/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "Wkl0vAMmU0I",
-      "title": "New York City & Newfoundland September 11th Commemorations",
-      "thumbnail": "https://i.ytimg.com/vi/Wkl0vAMmU0I/hqdefault.jpg"
+      "videoId": "f9f6JURECo4",
+      "title": "September 11th - 25th Anniversary Commemoration Coverage (Part 2)",
+      "thumbnail": "https://i.ytimg.com/vi/f9f6JURECo4/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -47,10 +50,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "ljTn85IGDqg",
-      "title": "LIVE: 9/11 victims remembered 25 years on from September 11 attacks | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/ljTn85IGDqg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -92,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "QZucLvN3IDs",
-      "title": "LIVE: 9/11 memorial ceremony in New York",
-      "thumbnail": "https://i.ytimg.com/vi/QZucLvN3IDs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "yhfTWa0EYE0",
-      "title": "LIVE: Newfoundland town commemorates 25 years since 9/11",
-      "thumbnail": "https://i.ytimg.com/vi/yhfTWa0EYE0/hqdefault.jpg"
+      "videoId": "hk_EVn6ohPY",
+      "title": "LIVE: UK lawmakers debate assisted dying",
+      "thumbnail": "https://i.ytimg.com/vi/hk_EVn6ohPY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -206,10 +203,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "kHsvZ4bFIAU",
-      "title": "WATCH LIVE: Flight 93 memorial ceremony features speakers, wreath-laying on 25th anniversary",
-      "thumbnail": "https://i.ytimg.com/vi/kHsvZ4bFIAU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T17:52:23.814Z",
+      "at": "2026-09-11T20:15:54.252Z",
       "checked": 33,
       "errors": 0
     }
