@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T00:40:24.636Z",
+  "generatedAt": "2026-09-12T05:06:27.636Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,10 +17,7 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "f9f6JURECo4",
-      "title": "September 11th - 25th Anniversary Commemoration Coverage (Part 2)",
-      "thumbnail": "https://i.ytimg.com/vi/f9f6JURECo4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
@@ -102,27 +99,24 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "rYLx-YZm9WI",
-      "title": "9/11 Tribute in Light: A special tribute honoring 9/11 victims, survivors and heroes",
-      "thumbnail": "https://i.ytimg.com/vi/rYLx-YZm9WI/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "1AaG7oNFpVo",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 11",
-      "thumbnail": "https://i.ytimg.com/vi/1AaG7oNFpVo/hqdefault.jpg"
+      "videoId": "ilHtekNP_DA",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/ilHtekNP_DA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "MScIhlH3T9M",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/MScIhlH3T9M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -144,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RPZT2CRLpEc",
-      "title": "The Wrap | Friday 11 September 2026",
-      "thumbnail": "https://i.ytimg.com/vi/RPZT2CRLpEc/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-12T00:40:24.636Z",
+      "at": "2026-09-12T05:06:27.636Z",
       "checked": 33,
       "errors": 0
     }
