@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T22:40:01.492Z",
+  "generatedAt": "2026-09-12T00:40:24.636Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,18 +102,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "e0ggXxMfpgY",
-      "title": "LIVE: ABC News Live - Friday, September 11 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/e0ggXxMfpgY/hqdefault.jpg"
+      "videoId": "rYLx-YZm9WI",
+      "title": "9/11 Tribute in Light: A special tribute honoring 9/11 victims, survivors and heroes",
+      "thumbnail": "https://i.ytimg.com/vi/rYLx-YZm9WI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ilHtekNP_DA",
-      "title": "LIVE: NBC News NOW - Sept. 11",
-      "thumbnail": "https://i.ytimg.com/vi/ilHtekNP_DA/hqdefault.jpg"
+      "videoId": "1AaG7oNFpVo",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 11",
+      "thumbnail": "https://i.ytimg.com/vi/1AaG7oNFpVo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -197,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "4ZCgGlibb9E",
-      "title": "PBS News Hour live episode, Sept. 11, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/4ZCgGlibb9E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-11T22:40:01.492Z",
+      "at": "2026-09-12T00:40:24.636Z",
       "checked": 33,
       "errors": 0
     }
