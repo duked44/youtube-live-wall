@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T21:45:27.173Z",
+  "generatedAt": "2026-09-13T23:38:57.140Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "e04RvfII82A",
-      "title": "The Wrap | Threat of 'catastrophe any day now' - as tech giants pledge action on AI",
-      "thumbnail": "https://i.ytimg.com/vi/e04RvfII82A/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,10 +224,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "C_dzAA_zbOc",
-      "title": "Carney opens Canada's 1st-ever investment summit with welcome remarks | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/C_dzAA_zbOc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-13T21:45:27.173Z",
+      "at": "2026-09-13T23:38:57.140Z",
       "checked": 33,
       "errors": 0
     }
