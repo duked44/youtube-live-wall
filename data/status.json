@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T17:30:19.819Z",
+  "generatedAt": "2026-09-13T19:43:01.693Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "mEKS4SVVGyM",
-      "title": "LIVE: President Donald Trump Attends Irish Open Trophy Ceremony",
-      "thumbnail": "https://i.ytimg.com/vi/mEKS4SVVGyM/hqdefault.jpg"
+      "videoId": "pKacrzBVSto",
+      "title": "LIVE: Healthcare Fraud Probed In The House Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/pKacrzBVSto/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -224,7 +224,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "C_dzAA_zbOc",
+      "title": "Carney opens Canada's 1st-ever investment summit with welcome remarks | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/C_dzAA_zbOc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-13T17:30:19.819Z",
+      "at": "2026-09-13T19:43:01.693Z",
       "checked": 33,
       "errors": 0
     }
