@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-09-14T19:16:22.385Z",
+  "generatedAt": "2026-09-14T22:34:50.953Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "iHB1KDIUETU",
+      "title": "Concerns Grow Over AI, Plus Updates on Iran, Houthis & More - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/iHB1KDIUETU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "ZZT0xqY_qLk",
-      "title": "LIVE: JD Vance Participates In MAGA Inc. Event In Olathe, Kansas",
-      "thumbnail": "https://i.ytimg.com/vi/ZZT0xqY_qLk/hqdefault.jpg"
+      "videoId": "VqN4o2Ktrz4",
+      "title": "LIVE: FBI Director Kash Patel Testifies Before The Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/VqN4o2Ktrz4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +32,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "URk6kJ9z2TM",
-      "title": "WATCH LIVE: JD Vance speaks at MAGA event in Kansas",
-      "thumbnail": "https://i.ytimg.com/vi/URk6kJ9z2TM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Xsoo1Uqrkac",
-      "title": "LIVE: House Minority Leader Hakeem Jeffries speaks",
-      "thumbnail": "https://i.ytimg.com/vi/Xsoo1Uqrkac/hqdefault.jpg"
+      "videoId": "S5L7nVcrkrE",
+      "title": "LIVE: 78th Emmy Awards red carpet fashion",
+      "thumbnail": "https://i.ytimg.com/vi/S5L7nVcrkrE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "c00rkL-pht0",
+      "videoId": "TTkzaSaEhLE",
       "title": "LIVE: NBC News NOW - Sept. 14",
-      "thumbnail": "https://i.ytimg.com/vi/c00rkL-pht0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/TTkzaSaEhLE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "748DjX8dr0M",
-      "title": "The UK Tonight with Sarah-Jane Mee | Monday 14 September 2026",
-      "thumbnail": "https://i.ytimg.com/vi/748DjX8dr0M/hqdefault.jpg"
+      "videoId": "SF23Cb9fZlE",
+      "title": "The Wrap | Monday 14 September 2026",
+      "thumbnail": "https://i.ytimg.com/vi/SF23Cb9fZlE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,27 +204,24 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ALJTEb5LmWk",
-      "title": "WATCH LIVE: Jeffries holds news conference as calls for AI regulation grow",
-      "thumbnail": "https://i.ytimg.com/vi/ALJTEb5LmWk/hqdefault.jpg"
+      "videoId": "iesJ99c9ITY",
+      "title": "PBS News Hour live episode, September 14, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/iesJ99c9ITY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "g1bqJPEGWHE",
-      "title": "Should the U.S. slow down the AI race? Debate with Robby Soave and Batya Ungar-Sargon | Prove It!",
-      "thumbnail": "https://i.ytimg.com/vi/g1bqJPEGWHE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "FwwkQdoga3A",
-      "title": "LIVE: Sept. 14 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/FwwkQdoga3A/hqdefault.jpg"
+      "videoId": "zqWM51_rCXA",
+      "title": "LIVE: Sept. 15 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/zqWM51_rCXA/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-14T19:16:22.385Z",
+      "at": "2026-09-14T22:34:50.953Z",
       "checked": 33,
       "errors": 0
     }
