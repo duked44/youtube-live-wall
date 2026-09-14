@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T14:01:27.919Z",
+  "generatedAt": "2026-09-14T19:16:22.385Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,24 +12,27 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "pKacrzBVSto",
-      "title": "LIVE: Healthcare Fraud Probed In The House Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/pKacrzBVSto/hqdefault.jpg"
+      "videoId": "ZZT0xqY_qLk",
+      "title": "LIVE: JD Vance Participates In MAGA Inc. Event In Olathe, Kansas",
+      "thumbnail": "https://i.ytimg.com/vi/ZZT0xqY_qLk/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "GJ1FZ9GczKo",
+      "title": "FBI Director Kash Patel testifies before Senate",
+      "thumbnail": "https://i.ytimg.com/vi/GJ1FZ9GczKo/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "HAQ1fCqy84E",
-      "title": "WATCH LIVE: Mamdani, Letitia James announce new immigrant protections",
-      "thumbnail": "https://i.ytimg.com/vi/HAQ1fCqy84E/hqdefault.jpg"
+      "videoId": "URk6kJ9z2TM",
+      "title": "WATCH LIVE: JD Vance speaks at MAGA event in Kansas",
+      "thumbnail": "https://i.ytimg.com/vi/URk6kJ9z2TM/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -89,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "s0VEbsw7F7o",
-      "title": "LIVE: NYC Mayor Zohran Mamdani makes announcement on immigration",
-      "thumbnail": "https://i.ytimg.com/vi/s0VEbsw7F7o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "-Q9k78pgEIA",
-      "title": "LIVE: Strait of Hormuz traffic amid postponed talks and jump in oil prices",
-      "thumbnail": "https://i.ytimg.com/vi/-Q9k78pgEIA/hqdefault.jpg"
+      "videoId": "Xsoo1Uqrkac",
+      "title": "LIVE: House Minority Leader Hakeem Jeffries speaks",
+      "thumbnail": "https://i.ytimg.com/vi/Xsoo1Uqrkac/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "748DjX8dr0M",
+      "title": "The UK Tonight with Sarah-Jane Mee | Monday 14 September 2026",
+      "thumbnail": "https://i.ytimg.com/vi/748DjX8dr0M/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,21 +204,27 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "gJMA26KK_ZE",
-      "title": "WATCH LIVE: Vance, Blanche and Patel expected to announce crackdown on small business program fraud",
-      "thumbnail": "https://i.ytimg.com/vi/gJMA26KK_ZE/hqdefault.jpg"
+      "videoId": "ALJTEb5LmWk",
+      "title": "WATCH LIVE: Jeffries holds news conference as calls for AI regulation grow",
+      "thumbnail": "https://i.ytimg.com/vi/ALJTEb5LmWk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "g1bqJPEGWHE",
+      "title": "Should the U.S. slow down the AI race? Debate with Robby Soave and Batya Ungar-Sargon | Prove It!",
+      "thumbnail": "https://i.ytimg.com/vi/g1bqJPEGWHE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "FwwkQdoga3A",
+      "title": "LIVE: Sept. 14 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/FwwkQdoga3A/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -250,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 8,
-      "channelChecks": 264,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-14T14:01:27.919Z",
+      "at": "2026-09-14T19:16:22.385Z",
       "checked": 33,
       "errors": 0
     }
