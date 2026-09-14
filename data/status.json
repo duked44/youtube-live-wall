@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T01:40:59.964Z",
+  "generatedAt": "2026-09-14T07:08:12.070Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "M99NrH-knYA",
-      "title": "LIVE: ABC News Live - Sunday, September 13 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/M99NrH-knYA/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "8zi3q4fpFi4",
+      "title": "Lords to debate cap on political donations after Reform lands £72m | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/8zi3q4fpFi4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-14T01:40:59.964Z",
+      "at": "2026-09-14T07:08:12.070Z",
       "checked": 33,
       "errors": 0
     }
