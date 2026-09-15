@@ -1,38 +1,35 @@
 {
-  "generatedAt": "2026-09-15T19:03:44.582Z",
+  "generatedAt": "2026-09-15T22:10:01.488Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "YKpArzqGgEU",
-      "title": "White House Press Briefing with Guest Host Attorney General Todd Blanche",
-      "thumbnail": "https://i.ytimg.com/vi/YKpArzqGgEU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "cKWjQfFiV8M",
-      "title": "LIVE: Fraud In Homeless Services Probed In House DOGE Committee",
-      "thumbnail": "https://i.ytimg.com/vi/cKWjQfFiV8M/hqdefault.jpg"
+      "videoId": "YSLMT2aiFFM",
+      "title": "LIVE: Pro-Human Assembly With Bernie Sanders, Steve Bannon, & More Calls For 'Better Path For AI'",
+      "thumbnail": "https://i.ytimg.com/vi/YSLMT2aiFFM/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "qUmX1px6sOI",
+      "title": "Senate Creators Caucus Launch and Panel Discussion",
+      "thumbnail": "https://i.ytimg.com/vi/qUmX1px6sOI/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Ztiq3LQJ8E8",
-      "title": "WATCH LIVE: House sounds alarm on foreign ‘Trojan horses’ exploiting US media",
-      "thumbnail": "https://i.ytimg.com/vi/Ztiq3LQJ8E8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -114,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "4H4rj6IM4D0",
+      "videoId": "4coYhkQxuzM",
       "title": "LIVE: NBC News NOW - Sept. 15",
-      "thumbnail": "https://i.ytimg.com/vi/4H4rj6IM4D0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/4coYhkQxuzM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Bj6BJ_d3Ld4",
-      "title": "Babies killed by Letby could have been prevented, inquiry finds | The UK Tonight with Sarah-Jane Mee",
-      "thumbnail": "https://i.ytimg.com/vi/Bj6BJ_d3Ld4/hqdefault.jpg"
+      "videoId": "aQWGlRxEX7w",
+      "title": "Killing of three babies could have been prevented | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/aQWGlRxEX7w/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,15 +198,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "kgG-eFKtXP0",
-      "title": "WATCH LIVE: Senate Democratic leaders may address crypto regulation, DHS whistleblower",
-      "thumbnail": "https://i.ytimg.com/vi/kgG-eFKtXP0/hqdefault.jpg"
+      "videoId": "uPmt0JQb4Ho",
+      "title": "PBS News Hour live episode, Sept. 15,  2026",
+      "thumbnail": "https://i.ytimg.com/vi/uPmt0JQb4Ho/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "VXqCur2pH4Q",
+      "title": "AI Could Steal Your Money Without Hacking Your Bank Account | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/VXqCur2pH4Q/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-15T19:03:44.582Z",
+      "at": "2026-09-15T22:10:01.488Z",
       "checked": 33,
       "errors": 0
     }
