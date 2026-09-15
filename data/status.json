@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-15T15:14:06.706Z",
+  "generatedAt": "2026-09-15T19:03:44.582Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "YKpArzqGgEU",
+      "title": "White House Press Briefing with Guest Host Attorney General Todd Blanche",
+      "thumbnail": "https://i.ytimg.com/vi/YKpArzqGgEU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "pfyRERhwU_o",
-      "title": "LIVE: Sanctuary Policies Debated In The House Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/pfyRERhwU_o/hqdefault.jpg"
+      "videoId": "cKWjQfFiV8M",
+      "title": "LIVE: Fraud In Homeless Services Probed In House DOGE Committee",
+      "thumbnail": "https://i.ytimg.com/vi/cKWjQfFiV8M/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "GJ1FZ9GczKo",
-      "title": "FBI Director Kash Patel testifies before Senate",
-      "thumbnail": "https://i.ytimg.com/vi/GJ1FZ9GczKo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "CGSQp1CD1GY",
-      "title": "WATCH LIVE: Bessent grilled by Congress on state of global financial system",
-      "thumbnail": "https://i.ytimg.com/vi/CGSQp1CD1GY/hqdefault.jpg"
+      "videoId": "Ztiq3LQJ8E8",
+      "title": "WATCH LIVE: House sounds alarm on foreign ‘Trojan horses’ exploiting US media",
+      "thumbnail": "https://i.ytimg.com/vi/Ztiq3LQJ8E8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,46 +92,40 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "ucDetNtEjMU",
-      "title": "LIVE: Scott Bessent testifies at House hearing on economy and global finance system",
-      "thumbnail": "https://i.ytimg.com/vi/ucDetNtEjMU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "qO0SdTlb0_A",
-      "title": "LIVE: Senior Labour politician Louise Haigh expected to discuss AI",
-      "thumbnail": "https://i.ytimg.com/vi/qO0SdTlb0_A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "fF93aeu0TtE",
-      "title": "FBI Director Kash Patel testifies before Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/fF93aeu0TtE/hqdefault.jpg"
+      "videoId": "5h2JW7mNzLw",
+      "title": "LIVE: ABC News Live - Tuesday, September 15 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/5h2JW7mNzLw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "5jreoKA1Ack",
-      "title": "LIVE: FBI Director Kash Patel testifies at Senate hearing | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/5jreoKA1Ack/hqdefault.jpg"
+      "videoId": "4H4rj6IM4D0",
+      "title": "LIVE: NBC News NOW - Sept. 15",
+      "thumbnail": "https://i.ytimg.com/vi/4H4rj6IM4D0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "QSckAFKZ-6k",
-      "title": "Watch Live: FBI Director Kash Patel testifies before Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/QSckAFKZ-6k/hqdefault.jpg"
+      "videoId": "xZCmIWPmXlo",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/xZCmIWPmXlo/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "1mgiF6FqRRo",
-      "title": "LIVE: Treasury Secretary Scott Bessent testifies before House Financial Services Committee",
-      "thumbnail": "https://i.ytimg.com/vi/1mgiF6FqRRo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "x9SDJFZnxek",
-      "title": "Louise Haigh speaks at TUC conference",
-      "thumbnail": "https://i.ytimg.com/vi/x9SDJFZnxek/hqdefault.jpg"
+      "videoId": "Bj6BJ_d3Ld4",
+      "title": "Babies killed by Letby could have been prevented, inquiry finds | The UK Tonight with Sarah-Jane Mee",
+      "thumbnail": "https://i.ytimg.com/vi/Bj6BJ_d3Ld4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "diUt5V0K5es",
-      "title": "WATCH LIVE: House Small Business subcommittee holds hearing on crypto policies for small businesses",
-      "thumbnail": "https://i.ytimg.com/vi/diUt5V0K5es/hqdefault.jpg"
+      "videoId": "kgG-eFKtXP0",
+      "title": "WATCH LIVE: Senate Democratic leaders may address crypto regulation, DHS whistleblower",
+      "thumbnail": "https://i.ytimg.com/vi/kgG-eFKtXP0/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "6L9l5rHIaoM",
+      "title": "Bernie Sanders and Steve Bannon discuss AI at Washington even – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/6L9l5rHIaoM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -245,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "_z5ET8uqsqM",
-      "title": "Carney takes questions at high-stakes summit aimed at increasing foreign investment in Canada | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/_z5ET8uqsqM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -262,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-15T15:14:06.706Z",
+      "at": "2026-09-15T19:03:44.582Z",
       "checked": 33,
       "errors": 0
     }
