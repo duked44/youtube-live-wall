@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T10:29:02.396Z",
+  "generatedAt": "2026-09-15T15:14:06.706Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "VqN4o2Ktrz4",
-      "title": "LIVE: FBI Director Kash Patel Testifies Before The Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/VqN4o2Ktrz4/hqdefault.jpg"
+      "videoId": "pfyRERhwU_o",
+      "title": "LIVE: Sanctuary Policies Debated In The House Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/pfyRERhwU_o/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "CGSQp1CD1GY",
+      "title": "WATCH LIVE: Bessent grilled by Congress on state of global financial system",
+      "thumbnail": "https://i.ytimg.com/vi/CGSQp1CD1GY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xCGCu4MZOOM",
-      "title": "LIVE: Farmers protest in Romania",
-      "thumbnail": "https://i.ytimg.com/vi/xCGCu4MZOOM/hqdefault.jpg"
+      "videoId": "ucDetNtEjMU",
+      "title": "LIVE: Scott Bessent testifies at House hearing on economy and global finance system",
+      "thumbnail": "https://i.ytimg.com/vi/ucDetNtEjMU/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "O5y2leLTWnI",
-      "title": "LIVE: Strait of Hormuz traffic amid postponed talks and jump in oil prices",
-      "thumbnail": "https://i.ytimg.com/vi/O5y2leLTWnI/hqdefault.jpg"
+      "videoId": "qO0SdTlb0_A",
+      "title": "LIVE: Senior Labour politician Louise Haigh expected to discuss AI",
+      "thumbnail": "https://i.ytimg.com/vi/qO0SdTlb0_A/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "5h2JW7mNzLw",
-      "title": "LIVE: ABC News Live - Tuesday, September 15 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/5h2JW7mNzLw/hqdefault.jpg"
+      "videoId": "fF93aeu0TtE",
+      "title": "FBI Director Kash Patel testifies before Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/fF93aeu0TtE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "TTkzaSaEhLE",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/TTkzaSaEhLE/hqdefault.jpg"
+      "videoId": "5jreoKA1Ack",
+      "title": "LIVE: FBI Director Kash Patel testifies at Senate hearing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/5jreoKA1Ack/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "e5LexqqwZh0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/e5LexqqwZh0/hqdefault.jpg"
+      "videoId": "QSckAFKZ-6k",
+      "title": "Watch Live: FBI Director Kash Patel testifies before Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/QSckAFKZ-6k/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "1mgiF6FqRRo",
+      "title": "LIVE: Treasury Secretary Scott Bessent testifies before House Financial Services Committee",
+      "thumbnail": "https://i.ytimg.com/vi/1mgiF6FqRRo/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "x9SDJFZnxek",
+      "title": "Louise Haigh speaks at TUC conference",
+      "thumbnail": "https://i.ytimg.com/vi/x9SDJFZnxek/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "EyLXVG65F-Y",
-      "title": "WATCH LIVE: Patel testifies on FBI oversight before Senate Judiciary Committee amid troubled tenure",
-      "thumbnail": "https://i.ytimg.com/vi/EyLXVG65F-Y/hqdefault.jpg"
+      "videoId": "diUt5V0K5es",
+      "title": "WATCH LIVE: House Small Business subcommittee holds hearing on crypto policies for small businesses",
+      "thumbnail": "https://i.ytimg.com/vi/diUt5V0K5es/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -239,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "_z5ET8uqsqM",
+      "title": "Carney takes questions at high-stakes summit aimed at increasing foreign investment in Canada | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/_z5ET8uqsqM/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-15T10:29:02.396Z",
+      "at": "2026-09-15T15:14:06.706Z",
       "checked": 33,
       "errors": 0
     }
