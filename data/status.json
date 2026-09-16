@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T00:20:39.273Z",
+  "generatedAt": "2026-09-16T05:00:28.889Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -21,9 +21,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "qUmX1px6sOI",
-      "title": "Senate Creators Caucus Launch and Panel Discussion",
-      "thumbnail": "https://i.ytimg.com/vi/qUmX1px6sOI/hqdefault.jpg"
+      "videoId": "r6tix5NqUK4",
+      "title": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates",
+      "thumbnail": "https://i.ytimg.com/vi/r6tix5NqUK4/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "u-r0fNQGGF0",
+      "title": "LIVE: Mexico's Sheinbaum leads Independence Day ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/u-r0fNQGGF0/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -102,18 +105,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "5h2JW7mNzLw",
-      "title": "LIVE: ABC News Live - Tuesday, September 15 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/5h2JW7mNzLw/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-8p4jSNguhI",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 15",
-      "thumbnail": "https://i.ytimg.com/vi/-8p4jSNguhI/hqdefault.jpg"
+      "videoId": "4coYhkQxuzM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/4coYhkQxuzM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "vCGGtLl-S8I",
+      "title": "Burnham to meet Trump for first time during summit in New York | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/vCGGtLl-S8I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T00:20:39.273Z",
+      "at": "2026-09-16T05:00:28.889Z",
       "checked": 33,
       "errors": 0
     }
