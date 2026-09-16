@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T22:10:01.488Z",
+  "generatedAt": "2026-09-16T00:20:39.273Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "YSLMT2aiFFM",
-      "title": "LIVE: Pro-Human Assembly With Bernie Sanders, Steve Bannon, & More Calls For 'Better Path For AI'",
-      "thumbnail": "https://i.ytimg.com/vi/YSLMT2aiFFM/hqdefault.jpg"
+      "videoId": "FnabP-4AwuM",
+      "title": "LIVE: Refugee From Kim Jong Un's North Korea Testifies Publicly To House Foreign Affairs Committee",
+      "thumbnail": "https://i.ytimg.com/vi/FnabP-4AwuM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -111,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "4coYhkQxuzM",
-      "title": "LIVE: NBC News NOW - Sept. 15",
-      "thumbnail": "https://i.ytimg.com/vi/4coYhkQxuzM/hqdefault.jpg"
+      "videoId": "-8p4jSNguhI",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 15",
+      "thumbnail": "https://i.ytimg.com/vi/-8p4jSNguhI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "xZCmIWPmXlo",
+      "videoId": "CuynDwXn_wU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/xZCmIWPmXlo/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/CuynDwXn_wU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "aQWGlRxEX7w",
-      "title": "Killing of three babies could have been prevented | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/aQWGlRxEX7w/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,27 +198,21 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "uPmt0JQb4Ho",
-      "title": "PBS News Hour live episode, Sept. 15,  2026",
-      "thumbnail": "https://i.ytimg.com/vi/uPmt0JQb4Ho/hqdefault.jpg"
+      "videoId": "QN6FS836GYk",
+      "title": "WATCH LIVE: Warsh holds briefing after latest Fed meeting as interest rates expected to rise",
+      "thumbnail": "https://i.ytimg.com/vi/QN6FS836GYk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "VXqCur2pH4Q",
-      "title": "AI Could Steal Your Money Without Hacking Your Bank Account | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/VXqCur2pH4Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "zqWM51_rCXA",
-      "title": "LIVE: Sept. 15 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/zqWM51_rCXA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-15T22:10:01.488Z",
+      "at": "2026-09-16T00:20:39.273Z",
       "checked": 33,
       "errors": 0
     }
