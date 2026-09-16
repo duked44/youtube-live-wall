@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T21:29:25.516Z",
+  "generatedAt": "2026-09-16T23:47:23.959Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -24,9 +24,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "gCotPErwxi0",
-      "title": "WATCH LIVE: Speaker Mike Johnson and House Republican leaders hold Capitol Hill press conference",
-      "thumbnail": "https://i.ytimg.com/vi/gCotPErwxi0/hqdefault.jpg"
+      "videoId": "bW5jeFYGMEI",
+      "title": "WATCH LIVE: President Trump delivers remarks in Gastonia, North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/bW5jeFYGMEI/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -50,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "Aj8f_IPyeRA",
-      "title": "Friendly Fire | Run Hide Fight: Infidels Edition",
-      "thumbnail": "https://i.ytimg.com/vi/Aj8f_IPyeRA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -89,7 +86,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "uSGltc2a6zo",
+      "title": "SpaceX launch LIVE: Falcon 9 rocket launches USSF-259 mission",
+      "thumbnail": "https://i.ytimg.com/vi/uSGltc2a6zo/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "EhFfLF-0xv4",
-      "title": "LIVE: NBC News NOW - Sept. 16",
-      "thumbnail": "https://i.ytimg.com/vi/EhFfLF-0xv4/hqdefault.jpg"
+      "videoId": "xEKSsrfh380",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 16",
+      "thumbnail": "https://i.ytimg.com/vi/xEKSsrfh380/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "odm7bcPywsg",
+      "videoId": "CUJS8RJ3x2Y",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/odm7bcPywsg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/CUJS8RJ3x2Y/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yRpBURlM9BY",
-      "title": "Buckingham Palace hits back over claims made in Earl Spencer book | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/yRpBURlM9BY/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "j56meC-LSBM",
-      "title": "WATCH LIVE: Senate meets after advancing College Sports Act",
-      "thumbnail": "https://i.ytimg.com/vi/j56meC-LSBM/hqdefault.jpg"
+      "videoId": "phdF71UBfjg",
+      "title": "WATCH LIVE: Trump campaigns for GOP Senate candidate Michael Whatley in North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/phdF71UBfjg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -212,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "0rSYSS8f5SY",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/0rSYSS8f5SY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T21:29:25.516Z",
+      "at": "2026-09-16T23:47:23.959Z",
       "checked": 33,
       "errors": 0
     }
