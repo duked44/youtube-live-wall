@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T09:51:19.270Z",
+  "generatedAt": "2026-09-16T14:27:08.600Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "PRDBed04wEY",
+      "title": "WATCH LIVE: Trump-nominated health leaders face Senate hearing",
+      "thumbnail": "https://i.ytimg.com/vi/PRDBed04wEY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,45 +93,42 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "AHi_y8Zedmk",
-      "title": "WATCH: Former Philippine President Rodrigo Duterte appears before ICC in The Hague",
-      "thumbnail": "https://i.ytimg.com/vi/AHi_y8Zedmk/hqdefault.jpg"
+      "videoId": "LFfJe0AgWCY",
+      "title": "LIVE: Senate hearing on nominees for surgeon general and HHS deputy secretary",
+      "thumbnail": "https://i.ytimg.com/vi/LFfJe0AgWCY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "bI46zgfHatM",
-      "title": "LIVE: Amnesty presents report on Iran protests",
-      "thumbnail": "https://i.ytimg.com/vi/bI46zgfHatM/hqdefault.jpg"
+      "videoId": "Es3P6SzzGzM",
+      "title": "LIVE: Canada's Doug Ford holds press conference",
+      "thumbnail": "https://i.ytimg.com/vi/Es3P6SzzGzM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "LhU8EmTL91o",
+      "title": "LIVE: ABC News Live - Wednesday, September 16 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/LhU8EmTL91o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": true,
-      "videoId": "4coYhkQxuzM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/4coYhkQxuzM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "CuynDwXn_wU",
+      "videoId": "odm7bcPywsg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/CuynDwXn_wU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/odm7bcPywsg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "QN6FS836GYk",
-      "title": "WATCH LIVE: Warsh holds briefing after latest Fed meeting as interest rates expected to rise",
-      "thumbnail": "https://i.ytimg.com/vi/QN6FS836GYk/hqdefault.jpg"
+      "videoId": "noB6MyGXajQ",
+      "title": "WATCH LIVE: Jeffries leads House Democrats in a Capitol news conference ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/noB6MyGXajQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "0rSYSS8f5SY",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/0rSYSS8f5SY/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -236,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "9o2xJtom3vk",
+      "title": "Canada's AI minister makes announcement amid scrutiny and debate over data centres | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/9o2xJtom3vk/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T09:51:19.270Z",
+      "at": "2026-09-16T14:27:08.600Z",
       "checked": 33,
       "errors": 0
     }
