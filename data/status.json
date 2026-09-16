@@ -1,41 +1,32 @@
 {
-  "generatedAt": "2026-09-16T18:21:18.228Z",
+  "generatedAt": "2026-09-16T21:29:25.516Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "FewWbjTc11o",
-      "title": "Fed Interest Rates Decision & Kevin Warsh Press Conference - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/FewWbjTc11o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "74cpKDrSpGU",
-      "title": "LIVE: Fed Chair Kevin Warsh Holds Press Briefing After Federal Reserve Announces Rate Hike",
-      "thumbnail": "https://i.ytimg.com/vi/74cpKDrSpGU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "r6tix5NqUK4",
-      "title": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates",
-      "thumbnail": "https://i.ytimg.com/vi/r6tix5NqUK4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "7MC9GR8bZ_A",
-      "title": "WATCH LIVE: Trump welcomes Constituting America students ahead of Constitution Day",
-      "thumbnail": "https://i.ytimg.com/vi/7MC9GR8bZ_A/hqdefault.jpg"
+      "videoId": "gCotPErwxi0",
+      "title": "WATCH LIVE: Speaker Mike Johnson and House Republican leaders hold Capitol Hill press conference",
+      "thumbnail": "https://i.ytimg.com/vi/gCotPErwxi0/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -59,7 +50,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "Aj8f_IPyeRA",
+      "title": "Friendly Fire | Run Hide Fight: Infidels Edition",
+      "thumbnail": "https://i.ytimg.com/vi/Aj8f_IPyeRA/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -95,19 +89,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "dqvpHKChYx4",
-      "title": "LIVE: Mexico Independence Day 2026 parade",
-      "thumbnail": "https://i.ytimg.com/vi/dqvpHKChYx4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "sXdrFQdVVIs",
-      "title": "LIVE: Fed Chair Warsh speaks after Fed decides to raise rates",
-      "thumbnail": "https://i.ytimg.com/vi/sXdrFQdVVIs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -156,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "aBNc7Pzug-4",
-      "title": "Will Iran war put the squeeze on Burnham's budget? | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/aBNc7Pzug-4/hqdefault.jpg"
+      "videoId": "yRpBURlM9BY",
+      "title": "Buckingham Palace hits back over claims made in Earl Spencer book | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/yRpBURlM9BY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -193,7 +181,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "QB5BNdBFujE",
-      "title": "Fed Hikes Rates by 0.25 | Live Special Coverage on Bloomberg Television",
+      "title": "Bloomberg Business News Live",
       "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
@@ -233,10 +221,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "X1pyi2IbIO0",
-      "title": "Fed Chair Kevin Warsh holds news conference - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/X1pyi2IbIO0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -267,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T18:21:18.228Z",
+      "at": "2026-09-16T21:29:25.516Z",
       "checked": 33,
       "errors": 0
     }
