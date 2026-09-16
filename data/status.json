@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-09-16T14:27:08.600Z",
+  "generatedAt": "2026-09-16T18:21:18.228Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "FewWbjTc11o",
+      "title": "Fed Interest Rates Decision & Kevin Warsh Press Conference - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/FewWbjTc11o/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "FnabP-4AwuM",
-      "title": "LIVE: Refugee From Kim Jong Un's North Korea Testifies Publicly To House Foreign Affairs Committee",
-      "thumbnail": "https://i.ytimg.com/vi/FnabP-4AwuM/hqdefault.jpg"
+      "videoId": "74cpKDrSpGU",
+      "title": "LIVE: Fed Chair Kevin Warsh Holds Press Briefing After Federal Reserve Announces Rate Hike",
+      "thumbnail": "https://i.ytimg.com/vi/74cpKDrSpGU/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "PRDBed04wEY",
-      "title": "WATCH LIVE: Trump-nominated health leaders face Senate hearing",
-      "thumbnail": "https://i.ytimg.com/vi/PRDBed04wEY/hqdefault.jpg"
+      "videoId": "7MC9GR8bZ_A",
+      "title": "WATCH LIVE: Trump welcomes Constituting America students ahead of Constitution Day",
+      "thumbnail": "https://i.ytimg.com/vi/7MC9GR8bZ_A/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "LFfJe0AgWCY",
-      "title": "LIVE: Senate hearing on nominees for surgeon general and HHS deputy secretary",
-      "thumbnail": "https://i.ytimg.com/vi/LFfJe0AgWCY/hqdefault.jpg"
+      "videoId": "dqvpHKChYx4",
+      "title": "LIVE: Mexico Independence Day 2026 parade",
+      "thumbnail": "https://i.ytimg.com/vi/dqvpHKChYx4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "Es3P6SzzGzM",
-      "title": "LIVE: Canada's Doug Ford holds press conference",
-      "thumbnail": "https://i.ytimg.com/vi/Es3P6SzzGzM/hqdefault.jpg"
+      "videoId": "sXdrFQdVVIs",
+      "title": "LIVE: Fed Chair Warsh speaks after Fed decides to raise rates",
+      "thumbnail": "https://i.ytimg.com/vi/sXdrFQdVVIs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -119,7 +122,10 @@
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": false
+      "live": true,
+      "videoId": "EhFfLF-0xv4",
+      "title": "LIVE: NBC News NOW - Sept. 16",
+      "thumbnail": "https://i.ytimg.com/vi/EhFfLF-0xv4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "aBNc7Pzug-4",
+      "title": "Will Iran war put the squeeze on Burnham's budget? | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/aBNc7Pzug-4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -187,7 +193,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
+      "title": "Fed Hikes Rates by 0.25 | Live Special Coverage on Bloomberg Television",
       "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "noB6MyGXajQ",
-      "title": "WATCH LIVE: Jeffries leads House Democrats in a Capitol news conference ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/noB6MyGXajQ/hqdefault.jpg"
+      "videoId": "j56meC-LSBM",
+      "title": "WATCH LIVE: Senate meets after advancing College Sports Act",
+      "thumbnail": "https://i.ytimg.com/vi/j56meC-LSBM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,7 +233,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "X1pyi2IbIO0",
+      "title": "Fed Chair Kevin Warsh holds news conference - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/X1pyi2IbIO0/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -239,10 +248,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "9o2xJtom3vk",
-      "title": "Canada's AI minister makes announcement amid scrutiny and debate over data centres | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/9o2xJtom3vk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T14:27:08.600Z",
+      "at": "2026-09-16T18:21:18.228Z",
       "checked": 33,
       "errors": 0
     }
