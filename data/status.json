@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T20:17:42.014Z",
+  "generatedAt": "2026-09-17T22:54:37.572Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,7 +23,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "V_IZE8h0gV0",
+      "title": "WATCH LIVE: President Trump delivers remarks during Rose Garden dinner",
+      "thumbnail": "https://i.ytimg.com/vi/V_IZE8h0gV0/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,10 +95,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "E8ezLBL8RZU",
-      "title": "LIVE: Pennsylvania Governor Shapiro speaks on AI",
-      "thumbnail": "https://i.ytimg.com/vi/E8ezLBL8RZU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -111,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "PucK0_1fOzU",
+      "videoId": "LedJI24EZ8c",
       "title": "LIVE: NBC News NOW - Sept. 17",
-      "thumbnail": "https://i.ytimg.com/vi/PucK0_1fOzU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/LedJI24EZ8c/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RJNhFybb37E",
-      "title": "UN panel finds 'reasonable grounds' to believe US committed war crimes in Iran | The World",
-      "thumbnail": "https://i.ytimg.com/vi/RJNhFybb37E/hqdefault.jpg"
+      "videoId": "e4-rN03iHqs",
+      "title": "Charles told Diana he didn't love her before their wedding, Earl Spencer claims | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/e4-rN03iHqs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,25 +197,25 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "M7SQ0iDrXRs",
+      "title": "PBS News Hour live episode, Sept. 17, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/M7SQ0iDrXRs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "ddpi3V-kHmw",
-      "title": "Was Macklemore canceled over his ‘Free Palestine' speech? Prove it! With Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/ddpi3V-kHmw/hqdefault.jpg"
+      "videoId": "bxwN4NMTEMQ",
+      "title": "The Future of AI in Health Care: Could it Replace Your Doctor? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/bxwN4NMTEMQ/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "3j2Nj-jWhoA",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/3j2Nj-jWhoA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-17T20:17:42.014Z",
+      "at": "2026-09-17T22:54:37.572Z",
       "checked": 33,
       "errors": 0
     }
