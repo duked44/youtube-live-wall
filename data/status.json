@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:47:23.959Z",
+  "generatedAt": "2026-09-17T01:48:46.879Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,10 +23,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "bW5jeFYGMEI",
-      "title": "WATCH LIVE: President Trump delivers remarks in Gastonia, North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/bW5jeFYGMEI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -86,10 +83,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "uSGltc2a6zo",
-      "title": "SpaceX launch LIVE: Falcon 9 rocket launches USSF-259 mission",
-      "thumbnail": "https://i.ytimg.com/vi/uSGltc2a6zo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -111,9 +105,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "xEKSsrfh380",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 16",
-      "thumbnail": "https://i.ytimg.com/vi/xEKSsrfh380/hqdefault.jpg"
+      "videoId": "ZmER28WtJeY",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/ZmER28WtJeY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -198,9 +192,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "phdF71UBfjg",
-      "title": "WATCH LIVE: Trump campaigns for GOP Senate candidate Michael Whatley in North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/phdF71UBfjg/hqdefault.jpg"
+      "videoId": "iq251-iGEQg",
+      "title": "WATCH LIVE: House considers bills on Russia sanctions, AI data center costs",
+      "thumbnail": "https://i.ytimg.com/vi/iq251-iGEQg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -249,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-16T23:47:23.959Z",
+      "at": "2026-09-17T01:48:46.879Z",
       "checked": 33,
       "errors": 0
     }
