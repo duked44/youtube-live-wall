@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T05:50:43.992Z",
+  "generatedAt": "2026-09-18T10:09:59.720Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "EXETaz-jWeY",
+      "title": "LIVE: ABC News Live - Friday, September 18 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/EXETaz-jWeY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Rlltj9N4rOQ",
-      "title": "Leak from Downing Street reveals how much Burnham has been borrowing from Starmer's plans | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/Rlltj9N4rOQ/hqdefault.jpg"
+      "videoId": "3SrmKSCZ5To",
+      "title": "Tuchel announces England squad ahead of Nations League",
+      "thumbnail": "https://i.ytimg.com/vi/3SrmKSCZ5To/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T05:50:43.992Z",
+      "at": "2026-09-18T10:09:59.720Z",
       "checked": 33,
       "errors": 0
     }
