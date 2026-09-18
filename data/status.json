@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T17:50:48.141Z",
+  "generatedAt": "2026-09-18T20:05:14.186Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -94,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "WnioZPv2HD4",
-      "title": "LIVE: Trump makes an announcement on healthcare",
+      "title": "LIVE: Trump announces all 50 states joining Medicaid drug pricing model",
       "thumbnail": "https://i.ytimg.com/vi/WnioZPv2HD4/hqdefault.jpg"
     },
     {
@@ -102,27 +102,27 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "MiU_aDYB370",
-      "title": "LIVE: Russia votes in parliamentary election",
-      "thumbnail": "https://i.ytimg.com/vi/MiU_aDYB370/hqdefault.jpg"
+      "videoId": "GHwfSf5rIVY",
+      "title": "LIVE: Trump makes healthcare announcement",
+      "thumbnail": "https://i.ytimg.com/vi/GHwfSf5rIVY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "EXETaz-jWeY",
-      "title": "LIVE: ABC News Live - Friday, September 18 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/EXETaz-jWeY/hqdefault.jpg"
+      "videoId": "RmHVgqHFg4Q",
+      "title": "President Trump makes announcement on healthcare",
+      "thumbnail": "https://i.ytimg.com/vi/RmHVgqHFg4Q/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "0sXOTmDB7zg",
-      "title": "LIVE: NBC News NOW - Sept. 18",
-      "thumbnail": "https://i.ytimg.com/vi/0sXOTmDB7zg/hqdefault.jpg"
+      "videoId": "DniWHiz5StY",
+      "title": "LIVE: Trump makes an announcement on healthcare from the Oval Office | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/DniWHiz5StY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -256,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 8,
+      "channelChecks": 264,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T17:50:48.141Z",
+      "at": "2026-09-18T20:05:14.186Z",
       "checked": 33,
       "errors": 0
     }
