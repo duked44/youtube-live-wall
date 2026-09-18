@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T10:09:59.720Z",
+  "generatedAt": "2026-09-18T14:31:44.911Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -83,13 +83,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "js4j2jttnf8",
+      "title": "LIVE: Nicki Minaj participates in Freedom 250 event in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/js4j2jttnf8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "J0pEN3iQCV4",
+      "title": "LIVE: Russia votes in parliamentary election",
+      "thumbnail": "https://i.ytimg.com/vi/J0pEN3iQCV4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -105,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "LedJI24EZ8c",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/LedJI24EZ8c/hqdefault.jpg"
+      "videoId": "0sXOTmDB7zg",
+      "title": "LIVE: NBC News NOW - Sept. 18",
+      "thumbnail": "https://i.ytimg.com/vi/0sXOTmDB7zg/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "tcr5BPl3hEE",
+      "videoId": "syr_ZAPIVJE",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/tcr5BPl3hEE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/syr_ZAPIVJE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -138,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3SrmKSCZ5To",
-      "title": "Tuchel announces England squad ahead of Nations League",
-      "thumbnail": "https://i.ytimg.com/vi/3SrmKSCZ5To/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +209,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "ohnlyTN-iEA",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/ohnlyTN-iEA/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -221,7 +230,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "Pu_Kwwk6ozA",
+      "title": "Carney to address Liberal caucus after return from Europe | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Pu_Kwwk6ozA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -240,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T10:09:59.720Z",
+      "at": "2026-09-18T14:31:44.911Z",
       "checked": 33,
       "errors": 0
     }
