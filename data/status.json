@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T01:02:29.302Z",
+  "generatedAt": "2026-09-18T05:50:43.992Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Ba8Rm8ekZ1k",
-      "title": "LIVE: ABC News Live - Thursday, September 17 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/Ba8Rm8ekZ1k/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -106,7 +106,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "LedJI24EZ8c",
-      "title": "LIVE: NBC News NOW - Sept. 17",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/LedJI24EZ8c/hqdefault.jpg"
     },
     {
@@ -138,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "Rlltj9N4rOQ",
+      "title": "Leak from Downing Street reveals how much Burnham has been borrowing from Starmer's plans | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/Rlltj9N4rOQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -240,7 +240,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T01:02:29.302Z",
+      "at": "2026-09-18T05:50:43.992Z",
       "checked": 33,
       "errors": 0
     }
