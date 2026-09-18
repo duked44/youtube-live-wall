@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T20:05:14.186Z",
+  "generatedAt": "2026-09-18T22:32:57.207Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "pDQIu4E8pFw",
-      "title": "LIVE: President Donald Trump Makes Healthcare Announcement In The Oval Office",
-      "thumbnail": "https://i.ytimg.com/vi/pDQIu4E8pFw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "InusWZSJpdQ",
-      "title": "WATCH LIVE: Trump makes major health care announcement",
-      "thumbnail": "https://i.ytimg.com/vi/InusWZSJpdQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,37 +86,34 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "WnioZPv2HD4",
-      "title": "LIVE: Trump announces all 50 states joining Medicaid drug pricing model",
-      "thumbnail": "https://i.ytimg.com/vi/WnioZPv2HD4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "GHwfSf5rIVY",
-      "title": "LIVE: Trump makes healthcare announcement",
-      "thumbnail": "https://i.ytimg.com/vi/GHwfSf5rIVY/hqdefault.jpg"
+      "videoId": "MiU_aDYB370",
+      "title": "LIVE: Russia votes in parliamentary election",
+      "thumbnail": "https://i.ytimg.com/vi/MiU_aDYB370/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "RmHVgqHFg4Q",
-      "title": "President Trump makes announcement on healthcare",
-      "thumbnail": "https://i.ytimg.com/vi/RmHVgqHFg4Q/hqdefault.jpg"
+      "videoId": "EXETaz-jWeY",
+      "title": "LIVE: ABC News Live - Friday, September 18 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/EXETaz-jWeY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DniWHiz5StY",
-      "title": "LIVE: Trump makes an announcement on healthcare from the Oval Office | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/DniWHiz5StY/hqdefault.jpg"
+      "videoId": "bdvIO2Tzcr4",
+      "title": "LIVE: NBC News NOW - Sept. 18",
+      "thumbnail": "https://i.ytimg.com/vi/bdvIO2Tzcr4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "fBmdtwiz_0o",
+      "title": "The Wrap | Queen had 'tetchy' first response to news of Diana car crash, her brother claims",
+      "thumbnail": "https://i.ytimg.com/vi/fBmdtwiz_0o/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "aKEgh9bIeSU",
-      "title": "WATCH LIVE: Trump makes an announcement about healthcare costs",
-      "thumbnail": "https://i.ytimg.com/vi/aKEgh9bIeSU/hqdefault.jpg"
+      "videoId": "ejeGnUc_ZRk",
+      "title": "PBS News Hour live episode, Sept. 18, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/ejeGnUc_ZRk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -221,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "ohnlyTN-iEA",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/ohnlyTN-iEA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -261,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T20:05:14.186Z",
+      "at": "2026-09-18T22:32:57.207Z",
       "checked": 33,
       "errors": 0
     }
