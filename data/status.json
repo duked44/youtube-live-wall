@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T14:31:44.911Z",
+  "generatedAt": "2026-09-18T17:50:48.141Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,19 +11,28 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "pDQIu4E8pFw",
+      "title": "LIVE: President Donald Trump Makes Healthcare Announcement In The Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/pDQIu4E8pFw/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "6iFtwt6Ck58",
+      "title": "President Trump at U.N. General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/6iFtwt6Ck58/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "InusWZSJpdQ",
+      "title": "WATCH LIVE: Trump makes major health care announcement",
+      "thumbnail": "https://i.ytimg.com/vi/InusWZSJpdQ/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -84,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "js4j2jttnf8",
-      "title": "LIVE: Nicki Minaj participates in Freedom 250 event in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/js4j2jttnf8/hqdefault.jpg"
+      "videoId": "WnioZPv2HD4",
+      "title": "LIVE: Trump makes an announcement on healthcare",
+      "thumbnail": "https://i.ytimg.com/vi/WnioZPv2HD4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "J0pEN3iQCV4",
+      "videoId": "MiU_aDYB370",
       "title": "LIVE: Russia votes in parliamentary election",
-      "thumbnail": "https://i.ytimg.com/vi/J0pEN3iQCV4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MiU_aDYB370/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -197,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "aKEgh9bIeSU",
+      "title": "WATCH LIVE: Trump makes an announcement about healthcare costs",
+      "thumbnail": "https://i.ytimg.com/vi/aKEgh9bIeSU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -230,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "Pu_Kwwk6ozA",
-      "title": "Carney to address Liberal caucus after return from Europe | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/Pu_Kwwk6ozA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -252,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-18T14:31:44.911Z",
+      "at": "2026-09-18T17:50:48.141Z",
       "checked": 33,
       "errors": 0
     }
