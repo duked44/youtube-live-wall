@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T13:18:29.066Z",
+  "generatedAt": "2026-09-19T16:34:48.325Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "emsh9H-htos",
-      "title": "Oil Supply Shortages, AI Safety Concerns,  US- China Meeting | Bloomberg This Weekend: Sept 19, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/emsh9H-htos/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-19T13:18:29.066Z",
+      "at": "2026-09-19T16:34:48.325Z",
       "checked": 33,
       "errors": 0
     }
