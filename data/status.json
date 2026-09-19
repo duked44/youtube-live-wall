@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:36:32.372Z",
+  "generatedAt": "2026-09-19T05:02:26.281Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,27 +102,24 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "EXETaz-jWeY",
-      "title": "LIVE: ABC News Live - Friday, September 18 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/EXETaz-jWeY/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "lhD3O7o0l1k",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 18",
-      "thumbnail": "https://i.ytimg.com/vi/lhD3O7o0l1k/hqdefault.jpg"
+      "videoId": "bdvIO2Tzcr4",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/bdvIO2Tzcr4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "syr_ZAPIVJE",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/syr_ZAPIVJE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -246,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-19T00:36:32.372Z",
+      "at": "2026-09-19T05:02:26.281Z",
       "checked": 33,
       "errors": 0
     }
