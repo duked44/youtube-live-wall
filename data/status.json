@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T06:17:33.137Z",
+  "generatedAt": "2026-09-20T11:37:12.448Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -141,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "_oIW-BcINLs",
-      "title": "Ed Sheeran apologises after Macklemore sacking over Palestine comments | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/_oIW-BcINLs/hqdefault.jpg"
+      "videoId": "y8AbkRu72PE",
+      "title": "Liberal Democrat Conference continues in Brighton",
+      "thumbnail": "https://i.ytimg.com/vi/y8AbkRu72PE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "jmmCaXHa4bk",
+      "title": "Live From The Qatar Economic Forum, Powered by Bloomberg | Bloomberg This Weekend: Sept. 20, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/jmmCaXHa4bk/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-20T06:17:33.137Z",
+      "at": "2026-09-20T11:37:12.448Z",
       "checked": 33,
       "errors": 0
     }
