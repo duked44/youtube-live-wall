@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T14:51:34.351Z",
+  "generatedAt": "2026-09-20T17:48:08.747Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "y8AbkRu72PE",
-      "title": "Liberal Democrat Conference continues in Brighton",
-      "thumbnail": "https://i.ytimg.com/vi/y8AbkRu72PE/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "jmmCaXHa4bk",
-      "title": "Live From The Qatar Economic Forum, Powered by Bloomberg | Bloomberg This Weekend: Sept. 20, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/jmmCaXHa4bk/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -227,10 +227,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "inQuw1tP3tc",
-      "title": "Carney, Macron deliver joint statement after symbolic meeting in Saint-Pierre-et-Miquelon | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/inQuw1tP3tc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-20T14:51:34.351Z",
+      "at": "2026-09-20T17:48:08.747Z",
       "checked": 33,
       "errors": 0
     }
