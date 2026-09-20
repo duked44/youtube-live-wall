@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-09-20T11:37:12.448Z",
+  "generatedAt": "2026-09-20T14:51:34.351Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "IigKrKuhZqQ",
+      "title": "New U.S. Strikes Soon on Iran or Houthis? - LIVE Breaking News Coverage (Iran War Updates)",
+      "thumbnail": "https://i.ytimg.com/vi/IigKrKuhZqQ/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -102,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "wwJlZDv_104",
+      "title": "LIVE: ABC News Live - Sunday, September 20 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/wwJlZDv_104/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -224,7 +227,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "inQuw1tP3tc",
+      "title": "Carney, Macron deliver joint statement after symbolic meeting in Saint-Pierre-et-Miquelon | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/inQuw1tP3tc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -243,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-20T11:37:12.448Z",
+      "at": "2026-09-20T14:51:34.351Z",
       "checked": 33,
       "errors": 0
     }
