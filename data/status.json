@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T20:34:04.350Z",
+  "generatedAt": "2026-09-21T23:34:46.686Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "UygHytpSYfA",
-      "title": "LIVE: President Trump Meets With Mayor Zohran Mamdani In New York City",
-      "thumbnail": "https://i.ytimg.com/vi/UygHytpSYfA/hqdefault.jpg"
+      "videoId": "YwMWvoUB9tY",
+      "title": "WATCH LIVE: President Trump Addresses The United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/YwMWvoUB9tY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -89,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "rnBDQsLTnwE",
-      "title": "LIVE: Mamdani speaks after his meeting with Trump",
-      "thumbnail": "https://i.ytimg.com/vi/rnBDQsLTnwE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -114,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "llDUb1UvuLM",
+      "videoId": "v2-4wJ0dANQ",
       "title": "LIVE: NBC News NOW - Sept. 21",
-      "thumbnail": "https://i.ytimg.com/vi/llDUb1UvuLM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/v2-4wJ0dANQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "-AvFTi8SMsA",
+      "videoId": "qQSg9v7pMf0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/-AvFTi8SMsA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/qQSg9v7pMf0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "qc1_gM1CiHM",
-      "title": "Live from UN General Assembly in New York | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/qc1_gM1CiHM/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "7weLF2kowqQ",
-      "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/7weLF2kowqQ/hqdefault.jpg"
+      "videoId": "u8vyfhCfTsE",
+      "title": "WATCH LIVE: Trump addresses 2026 United National General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/u8vyfhCfTsE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -216,9 +213,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "B6a0X3xPVG4",
-      "title": "LIVE: Sept. 21 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/B6a0X3xPVG4/hqdefault.jpg"
+      "videoId": "OdCFO9cZ5Rg",
+      "title": "LIVE: Sept. 22 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/OdCFO9cZ5Rg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -236,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "DmbSjsbpuGQ",
-      "title": "Carney delivers remarks at the Partners for Multilateralism Summit in New York | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/DmbSjsbpuGQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-21T20:34:04.350Z",
+      "at": "2026-09-21T23:34:46.686Z",
       "checked": 33,
       "errors": 0
     }
