@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T16:35:21.475Z",
+  "generatedAt": "2026-09-21T20:34:04.350Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "FVXHgxvSygw",
-      "title": "LIVE: Sean Duffy Holds Launch Event For FAA’s New AI Air-Traffic Management System",
-      "thumbnail": "https://i.ytimg.com/vi/FVXHgxvSygw/hqdefault.jpg"
+      "videoId": "UygHytpSYfA",
+      "title": "LIVE: President Trump Meets With Mayor Zohran Mamdani In New York City",
+      "thumbnail": "https://i.ytimg.com/vi/UygHytpSYfA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "a6xN9w0ZO4I",
-      "title": "WATCH LIVE: Day 2 of Caleb Flynn murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/a6xN9w0ZO4I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -93,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "chOdR6YoK5E",
-      "title": "LIVE: Press conference on ICE shooting in Austin, Texas",
-      "thumbnail": "https://i.ytimg.com/vi/chOdR6YoK5E/hqdefault.jpg"
+      "videoId": "rnBDQsLTnwE",
+      "title": "LIVE: Mamdani speaks after his meeting with Trump",
+      "thumbnail": "https://i.ytimg.com/vi/rnBDQsLTnwE/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "04-x2r70OzQ",
-      "title": "JD Vance speaks in North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/04-x2r70OzQ/hqdefault.jpg"
+      "videoId": "qc1_gM1CiHM",
+      "title": "Live from UN General Assembly in New York | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/qc1_gM1CiHM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ibkVK2XKTes",
-      "title": "WATCH LIVE: Duffy rolls out AI-powered air traffic management tool at DC area airports",
-      "thumbnail": "https://i.ytimg.com/vi/ibkVK2XKTes/hqdefault.jpg"
+      "videoId": "7weLF2kowqQ",
+      "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/7weLF2kowqQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -240,9 +237,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "wkTmSC-vFeM",
-      "title": "Carney, Poilievre face off in Parliament as Question Period returns | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/wkTmSC-vFeM/hqdefault.jpg"
+      "videoId": "DmbSjsbpuGQ",
+      "title": "Carney delivers remarks at the Partners for Multilateralism Summit in New York | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/DmbSjsbpuGQ/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-21T16:35:21.475Z",
+      "at": "2026-09-21T20:34:04.350Z",
       "checked": 33,
       "errors": 0
     }
