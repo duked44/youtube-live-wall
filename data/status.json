@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T04:57:09.713Z",
+  "generatedAt": "2026-09-21T10:33:30.600Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -44,7 +44,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "mxNjKmXfuXg",
+      "title": "Live: Air Traffic Control issues disrupt flights across UK | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/mxNjKmXfuXg/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -93,18 +96,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "MiU_aDYB370",
-      "title": "LIVE: Russia votes in parliamentary election",
-      "thumbnail": "https://i.ytimg.com/vi/MiU_aDYB370/hqdefault.jpg"
+      "videoId": "m3JXLUnHW9A",
+      "title": "LIVE: UNHRC discusses human rights violations in Russia and Iran",
+      "thumbnail": "https://i.ytimg.com/vi/m3JXLUnHW9A/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "xBbX1dLKhNE",
+      "title": "LIVE: ABC News Live - Monday, September 21 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/xBbX1dLKhNE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "2xjOmHMx07Q",
-      "title": "Govt play down Burnham's criticism of Trump as the two set to meet this week | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/2xjOmHMx07Q/hqdefault.jpg"
+      "videoId": "5LcNjU-M_zo",
+      "title": "Liberal Democrat Conference continues in Brighton",
+      "thumbnail": "https://i.ytimg.com/vi/5LcNjU-M_zo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -243,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-21T04:57:09.713Z",
+      "at": "2026-09-21T10:33:30.600Z",
       "checked": 33,
       "errors": 0
     }
