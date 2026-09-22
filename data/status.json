@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T12:19:43.425Z",
+  "generatedAt": "2026-09-22T17:05:22.776Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -16,32 +16,32 @@
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
       "videoId": "YwMWvoUB9tY",
-      "title": "WATCH LIVE: President Trump Addresses The United Nations General Assembly",
+      "title": "WATCH LIVE: President Trump, World Leaders Address United Nations General Assembly",
       "thumbnail": "https://i.ytimg.com/vi/YwMWvoUB9tY/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "6iFtwt6Ck58",
-      "title": "President Trump at U.N. General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/6iFtwt6Ck58/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "2VAQS6zvubY",
-      "title": "WATCH LIVE: Trump, world leaders address United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/2VAQS6zvubY/hqdefault.jpg"
+      "videoId": "0VS-AfhkAGs",
+      "title": "WATCH LIVE: Testimony continues in Caleb Flynn murder trial in Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/0VS-AfhkAGs/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "BW6WFnUEPAE",
+      "title": "Live: President Trump Addresses the United Nations General Assembly after War Crimes Accusations",
+      "thumbnail": "https://i.ytimg.com/vi/BW6WFnUEPAE/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -53,7 +53,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "LKs9jcRtBqE",
+      "title": "LIVE: UN General Assembly in New York",
+      "thumbnail": "https://i.ytimg.com/vi/LKs9jcRtBqE/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -96,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "h6_Kl2oVOTs",
-      "title": "LIVE: Trump and other world leaders speak at UN General Assembly 2026",
-      "thumbnail": "https://i.ytimg.com/vi/h6_Kl2oVOTs/hqdefault.jpg"
+      "videoId": "7Gg3vxaFlt4",
+      "title": "LIVE: Press conference after Nolan Wells grand jury declines to bring charges",
+      "thumbnail": "https://i.ytimg.com/vi/7Gg3vxaFlt4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "RV_iresw78U",
-      "title": "LIVE: World leaders arrive for UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/RV_iresw78U/hqdefault.jpg"
+      "videoId": "MwdbAdUtWzk",
+      "title": "LIVE: World leaders address the UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/MwdbAdUtWzk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "V13yjakD3dI",
-      "title": "Is Putin plotting something big? Could Russia shut UK airports? Michael Clarke Ukraine war Q&A",
-      "thumbnail": "https://i.ytimg.com/vi/V13yjakD3dI/hqdefault.jpg"
+      "videoId": "rErXJyFIHWg",
+      "title": "UN General Debate begins",
+      "thumbnail": "https://i.ytimg.com/vi/rErXJyFIHWg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "u8vyfhCfTsE",
-      "title": "WATCH LIVE: Trump addresses 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/u8vyfhCfTsE/hqdefault.jpg"
+      "videoId": "7weLF2kowqQ",
+      "title": "WATCH LIVE: Day 1 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/7weLF2kowqQ/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,7 +236,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "AQiREu9BALU",
+      "title": "World leaders speak at the UN General Assembly – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/AQiREu9BALU/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -264,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-22T12:19:43.425Z",
+      "at": "2026-09-22T17:05:22.776Z",
       "checked": 33,
       "errors": 0
     }
