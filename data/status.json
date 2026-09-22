@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T23:34:46.686Z",
+  "generatedAt": "2026-09-22T01:50:21.996Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "Q4CM5yugkS4",
+      "title": "LIVE: Protest in Texas after ICE shooting",
+      "thumbnail": "https://i.ytimg.com/vi/Q4CM5yugkS4/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -112,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "v2-4wJ0dANQ",
-      "title": "LIVE: NBC News NOW - Sept. 21",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/v2-4wJ0dANQ/hqdefault.jpg"
     },
     {
@@ -199,7 +202,7 @@
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
       "videoId": "u8vyfhCfTsE",
-      "title": "WATCH LIVE: Trump addresses 2026 United National General Assembly",
+      "title": "WATCH LIVE: Trump addresses 2026 United Nations General Assembly",
       "thumbnail": "https://i.ytimg.com/vi/u8vyfhCfTsE/hqdefault.jpg"
     },
     {
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-21T23:34:46.686Z",
+      "at": "2026-09-22T01:50:21.996Z",
       "checked": 33,
       "errors": 0
     }
