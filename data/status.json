@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-09-22T06:53:51.716Z",
+  "generatedAt": "2026-09-22T12:19:43.425Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "cQ9bOf3QSKE",
+      "title": "Trump Speech to UN (United Nations) General Assembly - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/cQ9bOf3QSKE/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -29,7 +32,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "2VAQS6zvubY",
+      "title": "WATCH LIVE: Trump, world leaders address United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/2VAQS6zvubY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -89,40 +95,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "h6_Kl2oVOTs",
+      "title": "LIVE: Trump and other world leaders speak at UN General Assembly 2026",
+      "thumbnail": "https://i.ytimg.com/vi/h6_Kl2oVOTs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "RV_iresw78U",
+      "title": "LIVE: World leaders arrive for UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/RV_iresw78U/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "wuO8I-LHpWg",
+      "title": "LIVE: ABC News Live - Tuesday, September 22 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/wuO8I-LHpWg/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "v2-4wJ0dANQ",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/v2-4wJ0dANQ/hqdefault.jpg"
+      "videoId": "IbAPXnhW1Ts",
+      "title": "LIVE: NBC News NOW - Sept. 22",
+      "thumbnail": "https://i.ytimg.com/vi/IbAPXnhW1Ts/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "qQSg9v7pMf0",
+      "videoId": "rYoTgtL-0ng",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/qQSg9v7pMf0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/rYoTgtL-0ng/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "3YXUcQanD8E",
-      "title": "Britain to give military support to Saudi Arabia in fight against Houthis | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/3YXUcQanD8E/hqdefault.jpg"
+      "videoId": "V13yjakD3dI",
+      "title": "Is Putin plotting something big? Could Russia shut UK airports? Michael Clarke Ukraine war Q&A",
+      "thumbnail": "https://i.ytimg.com/vi/V13yjakD3dI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-22T06:53:51.716Z",
+      "at": "2026-09-22T12:19:43.425Z",
       "checked": 33,
       "errors": 0
     }
