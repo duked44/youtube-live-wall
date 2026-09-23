@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-09-23T11:49:31.825Z",
+  "generatedAt": "2026-09-23T15:36:28.726Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "1De7MSQGY-U",
+      "title": "Iran President Gives Speech at UN - LIVE Breaking News Coverage (United Nations)",
+      "thumbnail": "https://i.ytimg.com/vi/1De7MSQGY-U/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "O_yMIlcsbDo",
-      "title": "LIVE: Josh Hawley Probes Flock Surveillance Network In Senate Judiciary Committee Hearing",
-      "thumbnail": "https://i.ytimg.com/vi/O_yMIlcsbDo/hqdefault.jpg"
+      "videoId": "B-j1Zj3EbRw",
+      "title": "LIVE: Iran’s Pezeshkian, Ukraine’s Zelensky, World Leaders Address United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/B-j1Zj3EbRw/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "klE498xFjOY",
+      "title": "Senate Hearing on Flock Cameras",
+      "thumbnail": "https://i.ytimg.com/vi/klE498xFjOY/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "pGzRuKrm6sc",
+      "title": "WATCH LIVE: Senators review women's sports protections",
+      "thumbnail": "https://i.ytimg.com/vi/pGzRuKrm6sc/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -98,7 +107,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "d_XGPf0deog",
+      "title": "LIVE: Zelenskiy expected to speak at UN Security Council on Ukraine",
+      "thumbnail": "https://i.ytimg.com/vi/d_XGPf0deog/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -147,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "abaRrILklis",
+      "title": "Day two | UN General Debate continues",
+      "thumbnail": "https://i.ytimg.com/vi/abaRrILklis/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "hnv9iw5rI3I",
-      "title": "WATCH LIVE: Day 2 of the 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/hnv9iw5rI3I/hqdefault.jpg"
+      "videoId": "Deg8-xyxzW8",
+      "title": "WATCH LIVE: Senate considers Protect College Sports Act",
+      "thumbnail": "https://i.ytimg.com/vi/Deg8-xyxzW8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,7 +236,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "INqyLTbd9JI",
+      "title": "World leaders speak at second day of UN General Assembly – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/INqyLTbd9JI/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-23T11:49:31.825Z",
+      "at": "2026-09-23T15:36:28.726Z",
       "checked": 33,
       "errors": 0
     }
