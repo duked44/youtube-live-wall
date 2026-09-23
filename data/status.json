@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T01:23:11.668Z",
+  "generatedAt": "2026-09-23T06:15:37.551Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -33,9 +33,9 @@
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "BW6WFnUEPAE",
-      "title": "Live: President Trump Addresses the United Nations General Assembly after War Crimes Accusations",
-      "thumbnail": "https://i.ytimg.com/vi/BW6WFnUEPAE/hqdefault.jpg"
+      "videoId": "rCROz5zQn8A",
+      "title": "Live: Iranian, Ukrainian Leaders, More Address UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/rCROz5zQn8A/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "wuO8I-LHpWg",
-      "title": "LIVE: ABC News Live - Tuesday, September 22 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/wuO8I-LHpWg/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "2s22Z6XL9sA",
-      "title": "LIVE: NBC News NOW - Sept. 22",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/2s22Z6XL9sA/hqdefault.jpg"
     },
     {
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "yOqRHsRzQLc",
+      "title": "Andy Burnham announces UK-US AI defence partnership in UN speech | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/yOqRHsRzQLc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "NY7b0QvTAF0",
-      "title": "WATCH LIVE: Senate meets as Trump addresses UN, dismisses AI concerns",
-      "thumbnail": "https://i.ytimg.com/vi/NY7b0QvTAF0/hqdefault.jpg"
+      "videoId": "hnv9iw5rI3I",
+      "title": "WATCH LIVE: Day 2 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/hnv9iw5rI3I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -221,10 +221,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "AQiREu9BALU",
-      "title": "World leaders speak at the UN General Assembly – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/AQiREu9BALU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-23T01:23:11.668Z",
+      "at": "2026-09-23T06:15:37.551Z",
       "checked": 33,
       "errors": 0
     }
