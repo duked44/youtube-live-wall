@@ -1,38 +1,38 @@
 {
-  "generatedAt": "2026-09-23T19:14:13.724Z",
+  "generatedAt": "2026-09-23T22:21:33.493Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "o2z25ZeEKt4",
+      "title": "Trump Welcomes China’s President Xi to US - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/o2z25ZeEKt4/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "O_yMIlcsbDo",
-      "title": "LIVE: Josh Hawley Probes Flock Surveillance Network In Senate Judiciary Committee Hearing",
-      "thumbnail": "https://i.ytimg.com/vi/O_yMIlcsbDo/hqdefault.jpg"
+      "videoId": "B-j1Zj3EbRw",
+      "title": "LIVE: Iran’s Pezeshkian, Ukraine’s Zelensky, World Leaders Address United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/B-j1Zj3EbRw/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "lHiLFoqNUCg",
-      "title": "AI CEOs Brief the U.N. Security Council",
-      "thumbnail": "https://i.ytimg.com/vi/lHiLFoqNUCg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "2LijXWlp7sg",
-      "title": "WATCH LIVE:  Senate Judiciary subcommittee hearing to examine Flock's nationwide AI surveillance",
-      "thumbnail": "https://i.ytimg.com/vi/2LijXWlp7sg/hqdefault.jpg"
+      "videoId": "ziDGAXxutUA",
+      "title": "WATCH LIVE: World leaders address United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/ziDGAXxutUA/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xwyNEwlnN6w",
-      "title": "LIVE: Senate Judiciary Committee holds hearing on Flock Safety’s AI surveillance network",
-      "thumbnail": "https://i.ytimg.com/vi/xwyNEwlnN6w/hqdefault.jpg"
+      "videoId": "Mi-u8JnsYfk",
+      "title": "LIVE: World leaders speak at UN General Assembly 2026 (Day 2)",
+      "thumbnail": "https://i.ytimg.com/vi/Mi-u8JnsYfk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ojqLH8wsJXU",
+      "videoId": "8xWBCehbPcI",
       "title": "LIVE: World leaders address the UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/ojqLH8wsJXU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/8xWBCehbPcI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +123,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "A18oQde3UHc",
+      "videoId": "Lr0szNFiPnA",
       "title": "LIVE: NBC News NOW - Sept. 23",
-      "thumbnail": "https://i.ytimg.com/vi/A18oQde3UHc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Lr0szNFiPnA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -156,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "VFyOaZrEOPs",
-      "title": "The UK Tonight special edition | Rapid advancement of AI and the risks becoming very real",
-      "thumbnail": "https://i.ytimg.com/vi/VFyOaZrEOPs/hqdefault.jpg"
+      "videoId": "E6ggCbP8rT0",
+      "title": "Government's efforts to stop migrant boats in disarray? | The Wrap with Gillian Joseph",
+      "thumbnail": "https://i.ytimg.com/vi/E6ggCbP8rT0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,18 +210,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "1xGCM4HoXT8",
-      "title": "WATCH LIVE: Senate Judiciary panel examines use of Flock's AI surveillance network",
-      "thumbnail": "https://i.ytimg.com/vi/1xGCM4HoXT8/hqdefault.jpg"
+      "videoId": "3u5xv-0nrX8",
+      "title": "PBS News Hour live episode, Sept. 23, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/3u5xv-0nrX8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "ibWHOxCn5KU",
-      "title": "Is Trump's Foreign Policy a Failure? Debate with Jonathan Schanzer | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/ibWHOxCn5KU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -270,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-23T19:14:13.724Z",
+      "at": "2026-09-23T22:21:33.493Z",
       "checked": 33,
       "errors": 0
     }
