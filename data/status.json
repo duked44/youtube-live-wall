@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-24T19:22:30.066Z",
+  "generatedAt": "2026-09-24T22:35:57.949Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "Udx-7iW20Fo",
-      "title": "Israeli PM Netanyahu Gives Speech at UN - LIVE Breaking News Coverage (United Nations)",
-      "thumbnail": "https://i.ytimg.com/vi/Udx-7iW20Fo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,19 +26,16 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "7fS4Fu9cjMs",
-      "title": "WATCH LIVE: 'American Idol' alum Caleb Flynn stands trial for wife’s murder",
-      "thumbnail": "https://i.ytimg.com/vi/7fS4Fu9cjMs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "KWmMWLQgiPI",
-      "title": "Live: Trump Hosts China's Xi at the White House in Historic Visit",
-      "thumbnail": "https://i.ytimg.com/vi/KWmMWLQgiPI/hqdefault.jpg"
+      "videoId": "O1h778Fg1Qk",
+      "title": "Live: Hurricane Polo Barrels Through the Pacific as 'Extremely Dangerous' Storm",
+      "thumbnail": "https://i.ytimg.com/vi/O1h778Fg1Qk/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -105,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_0WsYuRr9ZQ",
+      "videoId": "pRDV98ceCJs",
       "title": "LIVE: World leaders address UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/_0WsYuRr9ZQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/pRDV98ceCJs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "TdIx7wC4_Wk",
+      "videoId": "cUNWgTt5WVM",
       "title": "LIVE: NBC News NOW - Sept. 24",
-      "thumbnail": "https://i.ytimg.com/vi/TdIx7wC4_Wk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/cUNWgTt5WVM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -159,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "A87g3gGWTgM",
-      "title": "New tactics used to get illegal migrants across the channel | The UK Tonight with Matt Barbet",
-      "thumbnail": "https://i.ytimg.com/vi/A87g3gGWTgM/hqdefault.jpg"
+      "videoId": "Q0q-_5dBl7Q",
+      "title": "Journalists banned by Trump allowed back in the White House | The Wrap with Gillian Joseph",
+      "thumbnail": "https://i.ytimg.com/vi/Q0q-_5dBl7Q/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,24 +207,27 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3BHOc33zmMU",
-      "title": "WATCH LIVE: Blanche hosts summit for victims of violent crime and their families",
-      "thumbnail": "https://i.ytimg.com/vi/3BHOc33zmMU/hqdefault.jpg"
+      "videoId": "EfeDNDKk7is",
+      "title": "PBS News Hour live episode, Sept. 24, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/EfeDNDKk7is/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "i8mgG_5HgIg",
+      "title": "Yellowstone supervolcano: What if it erupted tomorrow? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/i8mgG_5HgIg/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "dZ-VPu3hHdU",
-      "title": "LIVE: Sept. 24 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/dZ-VPu3hHdU/hqdefault.jpg"
+      "videoId": "RZDRpfPU1Qg",
+      "title": "LIVE: Sept. 25 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/RZDRpfPU1Qg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -270,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-24T19:22:30.066Z",
+      "at": "2026-09-24T22:35:57.949Z",
       "checked": 33,
       "errors": 0
     }
