@@ -1,35 +1,50 @@
 {
-  "generatedAt": "2026-09-24T10:24:25.018Z",
+  "generatedAt": "2026-09-24T15:23:05.169Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "-fEzF7R8EVQ",
+      "title": "China’s President Xi Visits Trump at White House - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/-fEzF7R8EVQ/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "LVcofnIp41o",
+      "title": "LIVE: Palestinian President Abbas, Israeli PM Netanyahu, World Leaders Address UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/LVcofnIp41o/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "BDKmP8hO9EE",
+      "title": "Israeli Prime Minister Benjamin Netanyahu FULL REMARKS at U.N. General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/BDKmP8hO9EE/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "7fS4Fu9cjMs",
+      "title": "WATCH LIVE: 'American Idol' alum Caleb Flynn stands trial for wife’s murder",
+      "thumbnail": "https://i.ytimg.com/vi/7fS4Fu9cjMs/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "KWmMWLQgiPI",
+      "title": "Live: Trump Hosts China's Xi at the White House in Historic Visit",
+      "thumbnail": "https://i.ytimg.com/vi/KWmMWLQgiPI/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -84,15 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "0W7AcXTL3oE",
-      "title": "LIVE: Palestinian President Mahmoud Abbas’ speech at UN General Assembly 2026",
-      "thumbnail": "https://i.ytimg.com/vi/0W7AcXTL3oE/hqdefault.jpg"
+      "videoId": "HPagJoKF88Q",
+      "title": "LIVE: Dr. Heidi Overton’s confirmation hearing to lead the FDA",
+      "thumbnail": "https://i.ytimg.com/vi/HPagJoKF88Q/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "QKc7rxJfWwU",
+      "title": "LIVE: Protest against China's Xi Jinping's visit to US",
+      "thumbnail": "https://i.ytimg.com/vi/QKc7rxJfWwU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -108,15 +126,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Lr0szNFiPnA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/Lr0szNFiPnA/hqdefault.jpg"
+      "videoId": "TdIx7wC4_Wk",
+      "title": "LIVE: NBC News NOW - Sept. 24",
+      "thumbnail": "https://i.ytimg.com/vi/TdIx7wC4_Wk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "mOhlWQP8gOE",
+      "title": "Watch Live: Dr. Heidi Overton testifies at her Senate confirmation hearing for FDA commissioner",
+      "thumbnail": "https://i.ytimg.com/vi/mOhlWQP8gOE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -131,16 +152,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "oYRmXhVm3zM",
+      "title": "LIVE: Trump's nominee to lead the FDA testifies in front of the Senate",
+      "thumbnail": "https://i.ytimg.com/vi/oYRmXhVm3zM/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "vzQUb5LJ4AU",
+      "title": "Donald Trump hosts Xi Jinping at White House",
+      "thumbnail": "https://i.ytimg.com/vi/vzQUb5LJ4AU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -191,13 +215,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "dGZkn55BTsg",
+      "title": "WATCH LIVE: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
+      "thumbnail": "https://i.ytimg.com/vi/dGZkn55BTsg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "b69yzYylNUs",
+      "title": "Watch live: Ben Crump reveals findings in Nolan Wells’ cellphone",
+      "thumbnail": "https://i.ytimg.com/vi/b69yzYylNUs/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -212,7 +242,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "DkwkZpbuQvU",
+      "title": "World leaders speak at third day of UN General Assembly – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/DkwkZpbuQvU/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -231,9 +264,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "XWq5kBlakcQ",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
+      "videoId": "7XZgV3SN_gQ",
+      "title": "Trump hosts Xi Jinping at White House: Military review & silent drill platoon review",
+      "thumbnail": "https://i.ytimg.com/vi/7XZgV3SN_gQ/hqdefault.jpg"
     }
   ],
   "health": {
@@ -243,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-24T10:24:25.018Z",
+      "at": "2026-09-24T15:23:05.169Z",
       "checked": 33,
       "errors": 0
     }
