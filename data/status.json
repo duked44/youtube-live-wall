@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-24T15:23:05.169Z",
+  "generatedAt": "2026-09-24T19:22:30.066Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "-fEzF7R8EVQ",
-      "title": "China’s President Xi Visits Trump at White House - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/-fEzF7R8EVQ/hqdefault.jpg"
+      "videoId": "Udx-7iW20Fo",
+      "title": "Israeli PM Netanyahu Gives Speech at UN - LIVE Breaking News Coverage (United Nations)",
+      "thumbnail": "https://i.ytimg.com/vi/Udx-7iW20Fo/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -23,10 +23,7 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "BDKmP8hO9EE",
-      "title": "Israeli Prime Minister Benjamin Netanyahu FULL REMARKS at U.N. General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/BDKmP8hO9EE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
@@ -99,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HPagJoKF88Q",
-      "title": "LIVE: Dr. Heidi Overton’s confirmation hearing to lead the FDA",
-      "thumbnail": "https://i.ytimg.com/vi/HPagJoKF88Q/hqdefault.jpg"
+      "videoId": "0W7AcXTL3oE",
+      "title": "LIVE: World leaders speak at UN General Assembly 2026 (Day 3)",
+      "thumbnail": "https://i.ytimg.com/vi/0W7AcXTL3oE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "QKc7rxJfWwU",
-      "title": "LIVE: Protest against China's Xi Jinping's visit to US",
-      "thumbnail": "https://i.ytimg.com/vi/QKc7rxJfWwU/hqdefault.jpg"
+      "videoId": "_0WsYuRr9ZQ",
+      "title": "LIVE: World leaders address UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/_0WsYuRr9ZQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -135,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "mOhlWQP8gOE",
-      "title": "Watch Live: Dr. Heidi Overton testifies at her Senate confirmation hearing for FDA commissioner",
-      "thumbnail": "https://i.ytimg.com/vi/mOhlWQP8gOE/hqdefault.jpg"
+      "videoId": "IvFIHnFYAVk",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/IvFIHnFYAVk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "oYRmXhVm3zM",
-      "title": "LIVE: Trump's nominee to lead the FDA testifies in front of the Senate",
-      "thumbnail": "https://i.ytimg.com/vi/oYRmXhVm3zM/hqdefault.jpg"
+      "videoId": "MLnTqKksftM",
+      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
+      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "vzQUb5LJ4AU",
-      "title": "Donald Trump hosts Xi Jinping at White House",
-      "thumbnail": "https://i.ytimg.com/vi/vzQUb5LJ4AU/hqdefault.jpg"
+      "videoId": "A87g3gGWTgM",
+      "title": "New tactics used to get illegal migrants across the channel | The UK Tonight with Matt Barbet",
+      "thumbnail": "https://i.ytimg.com/vi/A87g3gGWTgM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,18 +213,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "dGZkn55BTsg",
-      "title": "WATCH LIVE: Senators question Heidi Overton in confirmation hearing for FDA commissioner",
-      "thumbnail": "https://i.ytimg.com/vi/dGZkn55BTsg/hqdefault.jpg"
+      "videoId": "3BHOc33zmMU",
+      "title": "WATCH LIVE: Blanche hosts summit for victims of violent crime and their families",
+      "thumbnail": "https://i.ytimg.com/vi/3BHOc33zmMU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "b69yzYylNUs",
-      "title": "Watch live: Ben Crump reveals findings in Nolan Wells’ cellphone",
-      "thumbnail": "https://i.ytimg.com/vi/b69yzYylNUs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -264,19 +258,19 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "7XZgV3SN_gQ",
-      "title": "Trump hosts Xi Jinping at White House: Military review & silent drill platoon review",
-      "thumbnail": "https://i.ytimg.com/vi/7XZgV3SN_gQ/hqdefault.jpg"
+      "videoId": "XWq5kBlakcQ",
+      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
     }
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-24T15:23:05.169Z",
+      "at": "2026-09-24T19:22:30.066Z",
       "checked": 33,
       "errors": 0
     }
