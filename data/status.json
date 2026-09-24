@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-09-23T22:21:33.493Z",
+  "generatedAt": "2026-09-24T00:38:48.475Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "o2z25ZeEKt4",
-      "title": "Trump Welcomes China’s President Xi to US - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/o2z25ZeEKt4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -123,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Lr0szNFiPnA",
-      "title": "LIVE: NBC News NOW - Sept. 23",
-      "thumbnail": "https://i.ytimg.com/vi/Lr0szNFiPnA/hqdefault.jpg"
+      "videoId": "OOA_w8Mg4BE",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 23",
+      "thumbnail": "https://i.ytimg.com/vi/OOA_w8Mg4BE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "gV9un1-Oh8I",
+      "videoId": "nNWphvWIw1w",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/gV9un1-Oh8I/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/nNWphvWIw1w/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "E6ggCbP8rT0",
-      "title": "Government's efforts to stop migrant boats in disarray? | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/E6ggCbP8rT0/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3u5xv-0nrX8",
-      "title": "PBS News Hour live episode, Sept. 23, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/3u5xv-0nrX8/hqdefault.jpg"
+      "videoId": "hnv9iw5rI3I",
+      "title": "WATCH LIVE: Day 2 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/hnv9iw5rI3I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -225,9 +222,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "LUSr1-7Knnw",
-      "title": "LIVE: Sept. 23 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/LUSr1-7Knnw/hqdefault.jpg"
+      "videoId": "dZ-VPu3hHdU",
+      "title": "LIVE: Sept. 24 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/dZ-VPu3hHdU/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -267,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-23T22:21:33.493Z",
+      "at": "2026-09-24T00:38:48.475Z",
       "checked": 33,
       "errors": 0
     }
