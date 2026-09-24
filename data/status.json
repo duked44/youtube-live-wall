@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:38:48.475Z",
+  "generatedAt": "2026-09-24T05:26:49.620Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "B-j1Zj3EbRw",
-      "title": "LIVE: Iran’s Pezeshkian, Ukraine’s Zelensky, World Leaders Address United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/B-j1Zj3EbRw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -26,19 +23,13 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "ziDGAXxutUA",
-      "title": "WATCH LIVE: World leaders address United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/ziDGAXxutUA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "rCROz5zQn8A",
-      "title": "Live: Iranian, Ukrainian Leaders, More Address UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/rCROz5zQn8A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -93,45 +84,42 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Mi-u8JnsYfk",
-      "title": "LIVE: World leaders speak at UN General Assembly 2026 (Day 2)",
-      "thumbnail": "https://i.ytimg.com/vi/Mi-u8JnsYfk/hqdefault.jpg"
+      "videoId": "mrRixuNX99g",
+      "title": "LIVE: NYC Climate Week panels hosted by AP and AP Fund for Journalism",
+      "thumbnail": "https://i.ytimg.com/vi/mrRixuNX99g/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "8xWBCehbPcI",
-      "title": "LIVE: World leaders address the UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/8xWBCehbPcI/hqdefault.jpg"
+      "videoId": "zBMrCQOzFVk",
+      "title": "LIVE: President Trump welcomes Chinese President Xi to US",
+      "thumbnail": "https://i.ytimg.com/vi/zBMrCQOzFVk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "yj_ig9iNfQ8",
-      "title": "LIVE: ABC News Live - Wednesday, September 23 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/yj_ig9iNfQ8/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "OOA_w8Mg4BE",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 23",
-      "thumbnail": "https://i.ytimg.com/vi/OOA_w8Mg4BE/hqdefault.jpg"
+      "videoId": "Lr0szNFiPnA",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/Lr0szNFiPnA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "nNWphvWIw1w",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/nNWphvWIw1w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -153,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "yl0nrpL3kew",
+      "title": "Trump rolls out red carpet as Xi arrives for state visit | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/yl0nrpL3kew/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,10 +194,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "hnv9iw5rI3I",
-      "title": "WATCH LIVE: Day 2 of the 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/hnv9iw5rI3I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -264,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-24T00:38:48.475Z",
+      "at": "2026-09-24T05:26:49.620Z",
       "checked": 33,
       "errors": 0
     }
