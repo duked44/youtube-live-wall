@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T05:30:28.494Z",
+  "generatedAt": "2026-09-25T10:30:35.251Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -87,24 +87,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "cPMzxIBKPSg",
-      "title": "LIVE: Pope Leo XIV arrives in France for a historic 4-day visit",
-      "thumbnail": "https://i.ytimg.com/vi/cPMzxIBKPSg/hqdefault.jpg"
+      "videoId": "HMC6YfM7yGY",
+      "title": "LIVE: Pope Leo XIV arrives in France, welcomed by Macron on historic visit",
+      "thumbnail": "https://i.ytimg.com/vi/HMC6YfM7yGY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "1k4tvJskPIc",
+      "title": "LIVE: Pope Leo visits France",
+      "thumbnail": "https://i.ytimg.com/vi/1k4tvJskPIc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "MGPImmMikvo",
+      "title": "LIVE: ABC News Live - Friday, September 25 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/MGPImmMikvo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "rTWvPAkYFec",
-      "title": "Trump hosts Xi for state dinner - as CNN reporters 'barred' despite judge's order| Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/rTWvPAkYFec/hqdefault.jpg"
+      "videoId": "ctoJgk7Zh3w",
+      "title": "Pope Leo visits Paris | Watch live",
+      "thumbnail": "https://i.ytimg.com/vi/ctoJgk7Zh3w/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-25T05:30:28.494Z",
+      "at": "2026-09-25T10:30:35.251Z",
       "checked": 33,
       "errors": 0
     }
