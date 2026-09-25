@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-09-25T10:30:35.251Z",
+  "generatedAt": "2026-09-25T15:30:47.582Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "tIs0ctDO_K8",
+      "title": "China’s President Xi Visits Trump (Final Day) - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/tIs0ctDO_K8/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "fJ0ZVCQ01AM",
+      "title": "LIVE: President Trump Hosts Chinese President Xi Jinping At The National Archives",
+      "thumbnail": "https://i.ytimg.com/vi/fJ0ZVCQ01AM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -23,16 +29,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "RjBxdBtccic",
+      "title": "WATCH LIVE: 'American Idol' alum Caleb Flynn stands trial for wife’s murder",
+      "thumbnail": "https://i.ytimg.com/vi/RjBxdBtccic/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "O1h778Fg1Qk",
-      "title": "Live: Hurricane Polo Barrels Through the Pacific as 'Extremely Dangerous' Storm",
-      "thumbnail": "https://i.ytimg.com/vi/O1h778Fg1Qk/hqdefault.jpg"
+      "videoId": "DvWc6DRWVHI",
+      "title": "Live: President Trump Hosts President Xi for Tea at White House, Visit to National Archives",
+      "thumbnail": "https://i.ytimg.com/vi/DvWc6DRWVHI/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -44,7 +53,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "M08qo68M288",
+      "title": "LIVE: Manchester City found guilty on majority of 115 breaches of financial rules | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/M08qo68M288/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HMC6YfM7yGY",
-      "title": "LIVE: Pope Leo XIV arrives in France, welcomed by Macron on historic visit",
-      "thumbnail": "https://i.ytimg.com/vi/HMC6YfM7yGY/hqdefault.jpg"
+      "videoId": "jtR20MQFLe0",
+      "title": "LIVE: Pope Leo XIV visits Notre Dame in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/jtR20MQFLe0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "1k4tvJskPIc",
-      "title": "LIVE: Pope Leo visits France",
-      "thumbnail": "https://i.ytimg.com/vi/1k4tvJskPIc/hqdefault.jpg"
+      "videoId": "MsgJGjRk6S8",
+      "title": "LIVE: Trump hosts China’s Xi in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/MsgJGjRk6S8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,18 +126,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cUNWgTt5WVM",
-      "title": "LIVE: NBC News NOW - Sept. 24",
-      "thumbnail": "https://i.ytimg.com/vi/cUNWgTt5WVM/hqdefault.jpg"
+      "videoId": "cE7krG_mC4o",
+      "title": "LIVE: NBC News NOW - Sept. 25",
+      "thumbnail": "https://i.ytimg.com/vi/cE7krG_mC4o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Aj1aX6M-WYs",
+      "videoId": "tTgQEqBxoqU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Aj1aX6M-WYs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/tTgQEqBxoqU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +162,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ctoJgk7Zh3w",
-      "title": "Pope Leo visits Paris | Watch live",
-      "thumbnail": "https://i.ytimg.com/vi/ctoJgk7Zh3w/hqdefault.jpg"
+      "videoId": "IRYT_9shs78",
+      "title": "Chinese president Xi Jinping concludes US state visit | Full Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/IRYT_9shs78/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +215,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "PABrsqye-sk",
+      "title": "WATCH LIVE: Day 4 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/PABrsqye-sk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -236,7 +251,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "ra1KRYv8pPk",
+      "title": "Anita Anand welcomes German Foreign Minister Johann Wadephul for Ottawa talks | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ra1KRYv8pPk/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-25T10:30:35.251Z",
+      "at": "2026-09-25T15:30:47.582Z",
       "checked": 33,
       "errors": 0
     }
