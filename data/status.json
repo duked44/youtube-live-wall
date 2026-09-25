@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-09-25T15:30:47.582Z",
+  "generatedAt": "2026-09-25T19:29:53.267Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "tIs0ctDO_K8",
-      "title": "China’s President Xi Visits Trump (Final Day) - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/tIs0ctDO_K8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "fJ0ZVCQ01AM",
-      "title": "LIVE: President Trump Hosts Chinese President Xi Jinping At The National Archives",
-      "thumbnail": "https://i.ytimg.com/vi/fJ0ZVCQ01AM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -39,9 +33,9 @@
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "DvWc6DRWVHI",
-      "title": "Live: President Trump Hosts President Xi for Tea at White House, Visit to National Archives",
-      "thumbnail": "https://i.ytimg.com/vi/DvWc6DRWVHI/hqdefault.jpg"
+      "videoId": "Vc3cy-m9bBE",
+      "title": "Nor'easter SLAMS East Coast With Wind, Rain, and Flood Threats: Watch Live",
+      "thumbnail": "https://i.ytimg.com/vi/Vc3cy-m9bBE/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -53,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "M08qo68M288",
-      "title": "LIVE: Manchester City found guilty on majority of 115 breaches of financial rules | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/M08qo68M288/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -108,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "MsgJGjRk6S8",
-      "title": "LIVE: Trump hosts China’s Xi in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/MsgJGjRk6S8/hqdefault.jpg"
+      "videoId": "NXd830vUVOM",
+      "title": "LIVE: World leaders address the UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/NXd830vUVOM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -162,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "IRYT_9shs78",
-      "title": "Chinese president Xi Jinping concludes US state visit | Full Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/IRYT_9shs78/hqdefault.jpg"
+      "videoId": "PP0xlL6Wo7c",
+      "title": "Huge crowds gather for Pope's visit to Paris",
+      "thumbnail": "https://i.ytimg.com/vi/PP0xlL6Wo7c/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -251,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "ra1KRYv8pPk",
-      "title": "Anita Anand welcomes German Foreign Minister Johann Wadephul for Ottawa talks | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/ra1KRYv8pPk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -273,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-25T15:30:47.582Z",
+      "at": "2026-09-25T19:29:53.267Z",
       "checked": 33,
       "errors": 0
     }
