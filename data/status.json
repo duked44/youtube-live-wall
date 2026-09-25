@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T22:35:57.949Z",
+  "generatedAt": "2026-09-25T00:48:13.092Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -91,7 +91,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "0W7AcXTL3oE",
-      "title": "LIVE: World leaders speak at UN General Assembly 2026 (Day 3)",
+      "title": "LIVE: World leaders speak at UN General Assembly 2026 (Day 3 full speeches)",
       "thumbnail": "https://i.ytimg.com/vi/0W7AcXTL3oE/hqdefault.jpg"
     },
     {
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cUNWgTt5WVM",
-      "title": "LIVE: NBC News NOW - Sept. 24",
-      "thumbnail": "https://i.ytimg.com/vi/cUNWgTt5WVM/hqdefault.jpg"
+      "videoId": "HXt_srvfEy4",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 24",
+      "thumbnail": "https://i.ytimg.com/vi/HXt_srvfEy4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "IvFIHnFYAVk",
+      "videoId": "Aj1aX6M-WYs",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/IvFIHnFYAVk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Aj1aX6M-WYs/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Q0q-_5dBl7Q",
-      "title": "Journalists banned by Trump allowed back in the White House | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/Q0q-_5dBl7Q/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +207,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "EfeDNDKk7is",
-      "title": "PBS News Hour live episode, Sept. 24, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/EfeDNDKk7is/hqdefault.jpg"
+      "videoId": "TkgrRA0Naqs",
+      "title": "WATCH LIVE: Day 3 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/TkgrRA0Naqs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "i8mgG_5HgIg",
-      "title": "Yellowstone supervolcano: What if it erupted tomorrow? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/i8mgG_5HgIg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -267,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-24T22:35:57.949Z",
+      "at": "2026-09-25T00:48:13.092Z",
       "checked": 33,
       "errors": 0
     }
