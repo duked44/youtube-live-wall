@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T11:15:18.076Z",
+  "generatedAt": "2026-09-26T15:00:24.392Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "W_igfavVA-8",
+      "title": "WATCH LIVE: Russia's Sergey Lavrov, Saudi Foreign Minister, Vatican Address UN General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/W_igfavVA-8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -99,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "N9mqdbh9s3Y",
+      "title": "LIVE: ABC News Live - Saturday, September 26 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/N9mqdbh9s3Y/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RMKgbL7dXP4",
-      "title": "Crowds gather as Pope Leo visits Paris | Day two",
-      "thumbnail": "https://i.ytimg.com/vi/RMKgbL7dXP4/hqdefault.jpg"
+      "videoId": "YoKj1VIkFXE",
+      "title": "World leaders speak at UN General Assembly | Day five",
+      "thumbnail": "https://i.ytimg.com/vi/YoKj1VIkFXE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -241,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-26T11:15:18.076Z",
+      "at": "2026-09-26T15:00:24.392Z",
       "checked": 33,
       "errors": 0
     }
