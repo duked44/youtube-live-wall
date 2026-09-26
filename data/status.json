@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T15:00:24.392Z",
+  "generatedAt": "2026-09-26T18:30:29.507Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "IjNODLI452s",
-      "title": "Xi Jinping's State Visit, Global Bond Selloff, Nor'Easter | Bloomberg This Weekend: Sept 26, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/IjNODLI452s/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -230,7 +230,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "DPFsKMv0Z4s",
+      "title": "Canada's foreign affairs minister speaks in place of PM Carney at UN General Assembly | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/DPFsKMv0Z4s/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-26T15:00:24.392Z",
+      "at": "2026-09-26T18:30:29.507Z",
       "checked": 33,
       "errors": 0
     }
