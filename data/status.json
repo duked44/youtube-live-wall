@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T21:28:12.327Z",
+  "generatedAt": "2026-09-26T23:47:57.780Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "W_igfavVA-8",
-      "title": "WATCH LIVE: Russia's Sergey Lavrov, Saudi Foreign Minister, Vatican Address UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/W_igfavVA-8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "gLTWgmhm63o",
-      "title": "The Wrap | Saturday 26 September 2026",
-      "thumbnail": "https://i.ytimg.com/vi/gLTWgmhm63o/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-26T21:28:12.327Z",
+      "at": "2026-09-26T23:47:57.780Z",
       "checked": 33,
       "errors": 0
     }
