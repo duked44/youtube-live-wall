@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T00:56:44.400Z",
+  "generatedAt": "2026-09-26T05:58:32.820Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,37 +92,31 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "MYu1tQsM5OU",
-      "title": "LIVE: World leaders address the UN General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/MYu1tQsM5OU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "MGPImmMikvo",
-      "title": "LIVE: ABC News Live - Friday, September 25 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/MGPImmMikvo/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "kVpB7XjF0ko",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 25",
-      "thumbnail": "https://i.ytimg.com/vi/kVpB7XjF0ko/hqdefault.jpg"
+      "videoId": "wCzFV6XV1yI",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/wCzFV6XV1yI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "tTgQEqBxoqU",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/tTgQEqBxoqU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -147,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "SPtvJn-RRZE",
+      "title": "Premier League clubs 'planning legal action' after reports of Man City guilty verdicts | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/SPtvJn-RRZE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,10 +194,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "PABrsqye-sk",
-      "title": "WATCH LIVE: Day 4 of the 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/PABrsqye-sk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -255,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-26T00:56:44.400Z",
+      "at": "2026-09-26T05:58:32.820Z",
       "checked": 33,
       "errors": 0
     }
