@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T22:44:37.061Z",
+  "generatedAt": "2026-09-26T00:56:44.400Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "ty-KpjN1knw",
-      "title": "LIVE: New Orleans celebrates Dolly Parton Day with parade",
-      "thumbnail": "https://i.ytimg.com/vi/ty-KpjN1knw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -114,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wCzFV6XV1yI",
-      "title": "LIVE: NBC News NOW - Sept. 25",
-      "thumbnail": "https://i.ytimg.com/vi/wCzFV6XV1yI/hqdefault.jpg"
+      "videoId": "kVpB7XjF0ko",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Sept 25",
+      "thumbnail": "https://i.ytimg.com/vi/kVpB7XjF0ko/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "PjE3UpWd7o8",
-      "title": "Man City found guilty in almost all finance charges, reports say | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/PjE3UpWd7o8/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "0YeBwgLB8CM",
-      "title": "PBS News Hour live episode, Sept. 25, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/0YeBwgLB8CM/hqdefault.jpg"
+      "videoId": "PABrsqye-sk",
+      "title": "WATCH LIVE: Day 4 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/PABrsqye-sk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-25T22:44:37.061Z",
+      "at": "2026-09-26T00:56:44.400Z",
       "checked": 33,
       "errors": 0
     }
