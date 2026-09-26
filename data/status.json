@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:30:29.507Z",
+  "generatedAt": "2026-09-26T21:28:12.327Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "N9mqdbh9s3Y",
-      "title": "LIVE: ABC News Live - Saturday, September 26 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/N9mqdbh9s3Y/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YoKj1VIkFXE",
-      "title": "World leaders speak at UN General Assembly | Day five",
-      "thumbnail": "https://i.ytimg.com/vi/YoKj1VIkFXE/hqdefault.jpg"
+      "videoId": "gLTWgmhm63o",
+      "title": "The Wrap | Saturday 26 September 2026",
+      "thumbnail": "https://i.ytimg.com/vi/gLTWgmhm63o/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -230,10 +230,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "DPFsKMv0Z4s",
-      "title": "Canada's foreign affairs minister speaks in place of PM Carney at UN General Assembly | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/DPFsKMv0Z4s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-26T18:30:29.507Z",
+      "at": "2026-09-26T21:28:12.327Z",
       "checked": 33,
       "errors": 0
     }
