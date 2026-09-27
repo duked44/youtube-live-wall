@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T01:55:40.803Z",
+  "generatedAt": "2026-09-27T07:42:08.915Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,7 +86,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "6o4fB40XEYI",
+      "title": "LIVE: Pope Leo XIV celebrates Mass in Lourdes during France visit",
+      "thumbnail": "https://i.ytimg.com/vi/6o4fB40XEYI/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -141,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "Y1mRXjF9pds",
+      "title": "Orange Order to march down nationalist street in Northern Ireland",
+      "thumbnail": "https://i.ytimg.com/vi/Y1mRXjF9pds/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-27T01:55:40.803Z",
+      "at": "2026-09-27T07:42:08.915Z",
       "checked": 33,
       "errors": 0
     }
