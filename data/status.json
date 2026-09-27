@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T13:20:10.359Z",
+  "generatedAt": "2026-09-27T17:50:44.461Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,7 +14,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "HvVpCu_12qE",
+      "title": "LIVE: President Trump Attends Presidents Cup Closing Ceremony In Medinah, Illinois",
+      "thumbnail": "https://i.ytimg.com/vi/HvVpCu_12qE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +35,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "Vc3cy-m9bBE",
-      "title": "Nor'easter SLAMS East Coast With Wind, Rain, and Flood Threats: Watch Live",
-      "thumbnail": "https://i.ytimg.com/vi/Vc3cy-m9bBE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Wn_qOQ7jm4M",
-      "title": "Five men arrested after major incident near RAF base",
-      "thumbnail": "https://i.ytimg.com/vi/Wn_qOQ7jm4M/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "Y1plLuQcaDw",
-      "title": "US-Iran Standoff, Data Center Boom, Bond Selloff | Bloomberg This Weekend: Sept. 27, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/Y1plLuQcaDw/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-27T13:20:10.359Z",
+      "at": "2026-09-27T17:50:44.461Z",
       "checked": 33,
       "errors": 0
     }
