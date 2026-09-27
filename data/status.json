@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-09-27T07:42:08.915Z",
+  "generatedAt": "2026-09-27T13:20:10.359Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "iJKrsOPOXlw",
+      "title": "Explosives Arrests Near UK Airbase Used by US vs. Iran - LIVE Breaking News Coverage (RAF Fairford)",
+      "thumbnail": "https://i.ytimg.com/vi/iJKrsOPOXlw/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -86,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "6o4fB40XEYI",
-      "title": "LIVE: Pope Leo XIV celebrates Mass in Lourdes during France visit",
-      "thumbnail": "https://i.ytimg.com/vi/6o4fB40XEYI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "qNN5RAI2Iek",
+      "title": "LIVE: ABC News Live - Sunday, September 27 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/qNN5RAI2Iek/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Y1mRXjF9pds",
-      "title": "Orange Order to march down nationalist street in Northern Ireland",
-      "thumbnail": "https://i.ytimg.com/vi/Y1mRXjF9pds/hqdefault.jpg"
+      "videoId": "Wn_qOQ7jm4M",
+      "title": "Five men arrested after major incident near RAF base",
+      "thumbnail": "https://i.ytimg.com/vi/Wn_qOQ7jm4M/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "Y1plLuQcaDw",
+      "title": "US-Iran Standoff, Data Center Boom, Bond Selloff | Bloomberg This Weekend: Sept. 27, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/Y1plLuQcaDw/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-27T07:42:08.915Z",
+      "at": "2026-09-27T13:20:10.359Z",
       "checked": 33,
       "errors": 0
     }
