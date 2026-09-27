@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-09-27T17:50:44.461Z",
+  "generatedAt": "2026-09-27T20:31:54.544Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "iJKrsOPOXlw",
-      "title": "Explosives Arrests Near UK Airbase Used by US vs. Iran - LIVE Breaking News Coverage (RAF Fairford)",
-      "thumbnail": "https://i.ytimg.com/vi/iJKrsOPOXlw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "HvVpCu_12qE",
-      "title": "LIVE: President Trump Attends Presidents Cup Closing Ceremony In Medinah, Illinois",
-      "thumbnail": "https://i.ytimg.com/vi/HvVpCu_12qE/hqdefault.jpg"
+      "videoId": "eiHxYqjpmiM",
+      "title": "LIVE: Jack Smith Tesitfies Before The Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/eiHxYqjpmiM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-27T17:50:44.461Z",
+      "at": "2026-09-27T20:31:54.544Z",
       "checked": 33,
       "errors": 0
     }
