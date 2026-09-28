@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-09-28T16:05:44.690Z",
+  "generatedAt": "2026-09-28T21:56:47.122Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "GLqnJRAZ_MU",
-      "title": "SpaceX Starship Launch (First Orbital Flight) - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/GLqnJRAZ_MU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "_7rNXlebeCs",
-      "title": "LIVE: Court Trial Of Former 'American Idol' Contestant, Caleb Flynn, Accused Of Murdering Wife",
-      "thumbnail": "https://i.ytimg.com/vi/_7rNXlebeCs/hqdefault.jpg"
+      "videoId": "eiHxYqjpmiM",
+      "title": "LIVE: Jack Smith Testifies Before The Senate Judiciary Committee",
+      "thumbnail": "https://i.ytimg.com/vi/eiHxYqjpmiM/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "yE7W_JzJUoU",
-      "title": "WATCH LIVE: Testimony continues in the Caleb Flynn trial",
-      "thumbnail": "https://i.ytimg.com/vi/yE7W_JzJUoU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -53,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "wwtOjSoGXpo",
-      "title": "LIVE: SpaceX's Starship rocket returning to Earth after orbiting the planet | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/wwtOjSoGXpo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -98,19 +89,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "nU4mPsBNEG4",
-      "title": "LeBron James speaks at Philadelphia 76ers Media Day",
-      "thumbnail": "https://i.ytimg.com/vi/nU4mPsBNEG4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ukhrOZDsuzA",
-      "title": "LIVE: Philadelphia 76ers speak about upcoming season",
-      "thumbnail": "https://i.ytimg.com/vi/ukhrOZDsuzA/hqdefault.jpg"
+      "videoId": "18ethK1h3mY",
+      "title": "LIVE: Rally for abortion access in Colombia",
+      "thumbnail": "https://i.ytimg.com/vi/18ethK1h3mY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -135,9 +123,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "4jTq8IpUs98",
-      "title": "Watch Live: Former \"American Idol\" contestant charged for wife's murder back in court | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/4jTq8IpUs98/hqdefault.jpg"
+      "videoId": "GT_iiccZvmg",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/GT_iiccZvmg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,18 +141,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "MLnTqKksftM",
-      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
-      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
+      "videoId": "H69_OqFX-aE",
+      "title": "LIVE: Jack Smith testifies before Senate committee",
+      "thumbnail": "https://i.ytimg.com/vi/H69_OqFX-aE/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ct1TIWca4Ew",
-      "title": "World leaders speak at UN | Day six",
-      "thumbnail": "https://i.ytimg.com/vi/ct1TIWca4Ew/hqdefault.jpg"
+      "videoId": "Ov1ixs9WeH4",
+      "title": "Five men arrested near Fairford released on bail | The Wrap with Gillian Joseph",
+      "thumbnail": "https://i.ytimg.com/vi/Ov1ixs9WeH4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "f5HizDM0UkM",
-      "title": "WATCH LIVE: Day 6 of the 2026 United Nations General Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/f5HizDM0UkM/hqdefault.jpg"
+      "videoId": "nB3jCDRFKbk",
+      "title": "WATCH LIVE: Senate expected to vote on the Protect College Sports Act",
+      "thumbnail": "https://i.ytimg.com/vi/nB3jCDRFKbk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -265,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-28T16:05:44.690Z",
+      "at": "2026-09-28T21:56:47.122Z",
       "checked": 33,
       "errors": 0
     }
