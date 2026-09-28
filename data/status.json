@@ -1,32 +1,41 @@
 {
-  "generatedAt": "2026-09-28T07:47:11.192Z",
+  "generatedAt": "2026-09-28T16:05:44.690Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "GLqnJRAZ_MU",
+      "title": "SpaceX Starship Launch (First Orbital Flight) - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/GLqnJRAZ_MU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "eiHxYqjpmiM",
-      "title": "LIVE: Jack Smith Tesitfies Before The Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/eiHxYqjpmiM/hqdefault.jpg"
+      "videoId": "_7rNXlebeCs",
+      "title": "LIVE: Court Trial Of Former 'American Idol' Contestant, Caleb Flynn, Accused Of Murdering Wife",
+      "thumbnail": "https://i.ytimg.com/vi/_7rNXlebeCs/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "FdAjPKquoK4",
+      "title": "Fmr. Special Counsel Jack Smith Testifies on Allegations of Targeting GOP Lawmakers",
+      "thumbnail": "https://i.ytimg.com/vi/FdAjPKquoK4/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "yE7W_JzJUoU",
+      "title": "WATCH LIVE: Testimony continues in the Caleb Flynn trial",
+      "thumbnail": "https://i.ytimg.com/vi/yE7W_JzJUoU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -44,7 +53,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "wwtOjSoGXpo",
+      "title": "LIVE: SpaceX's Starship rocket returning to Earth after orbiting the planet | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/wwtOjSoGXpo/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,42 +99,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "3dtlebZD1RU",
-      "title": "LIVE: Bangkok deals with flooding after days of heavy rain",
-      "thumbnail": "https://i.ytimg.com/vi/3dtlebZD1RU/hqdefault.jpg"
+      "videoId": "nU4mPsBNEG4",
+      "title": "LeBron James speaks at Philadelphia 76ers Media Day",
+      "thumbnail": "https://i.ytimg.com/vi/nU4mPsBNEG4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "53Zqa3NriuA",
-      "title": "LIVE: EU defense ministers arrive for meeting in Brussels",
-      "thumbnail": "https://i.ytimg.com/vi/53Zqa3NriuA/hqdefault.jpg"
+      "videoId": "ukhrOZDsuzA",
+      "title": "LIVE: Philadelphia 76ers speak about upcoming season",
+      "thumbnail": "https://i.ytimg.com/vi/ukhrOZDsuzA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "nePWDZODqXM",
+      "title": "LIVE: ABC News Live - Monday September 28 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/nePWDZODqXM/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wCzFV6XV1yI",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/wCzFV6XV1yI/hqdefault.jpg"
+      "videoId": "jiTiyXldA2o",
+      "title": "LIVE: NBC News NOW - Sept. 28",
+      "thumbnail": "https://i.ytimg.com/vi/jiTiyXldA2o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "4jTq8IpUs98",
+      "title": "Watch Live: Former \"American Idol\" contestant charged for wife's murder back in court | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/4jTq8IpUs98/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +162,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "wBhxknOJibc",
-      "title": "Final day of Pope's visit to France",
-      "thumbnail": "https://i.ytimg.com/vi/wBhxknOJibc/hqdefault.jpg"
+      "videoId": "ct1TIWca4Ew",
+      "title": "World leaders speak at UN | Day six",
+      "thumbnail": "https://i.ytimg.com/vi/ct1TIWca4Ew/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +215,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "f5HizDM0UkM",
+      "title": "WATCH LIVE: Day 6 of the 2026 United Nations General Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/f5HizDM0UkM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -252,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-28T07:47:11.192Z",
+      "at": "2026-09-28T16:05:44.690Z",
       "checked": 33,
       "errors": 0
     }
