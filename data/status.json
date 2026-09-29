@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T19:29:49.131Z",
+  "generatedAt": "2026-09-29T23:09:29.939Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "oC27WpP4mf4",
-      "title": "LIVE: Day 8 Of Former 'American Idol' Contestant, Caleb Flynn, Murder Trial",
-      "thumbnail": "https://i.ytimg.com/vi/oC27WpP4mf4/hqdefault.jpg"
+      "videoId": "A1aOqsIpPmQ",
+      "title": "LIVE: Senate Homeland Security Committee Holds Hearing On ‘Rogue AI’",
+      "thumbnail": "https://i.ytimg.com/vi/A1aOqsIpPmQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "M5kyObDKuJM",
-      "title": "WATCH LIVE: Closing arguments begin in Caleb Flynn murder trial",
-      "thumbnail": "https://i.ytimg.com/vi/M5kyObDKuJM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "NBRcatReLD4",
-      "title": "LIVE: Elon Musk and Jensen Huang discuss AI at the unveiling of America.gov",
-      "thumbnail": "https://i.ytimg.com/vi/NBRcatReLD4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -117,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "uk5RODxh6ww",
+      "videoId": "ScfK6qmxoqE",
       "title": "LIVE: NBC News NOW - Sept. 29",
-      "thumbnail": "https://i.ytimg.com/vi/uk5RODxh6ww/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ScfK6qmxoqE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lxHsF96pgPM",
-      "title": "Premier League confirms Man City's guilty charges | The UK Tonight with Sarah-Jane Mee",
-      "thumbnail": "https://i.ytimg.com/vi/lxHsF96pgPM/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,27 +201,24 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "Xi7l3FUs8Jg",
-      "title": "WATCH LIVE: Elon Musk joins 'Golden Age of AI' conversation at event unveiling America.gov",
-      "thumbnail": "https://i.ytimg.com/vi/Xi7l3FUs8Jg/hqdefault.jpg"
+      "videoId": "5afYfqzGeBA",
+      "title": "WATCH LIVE: Senate HELP Committee considers Trump nominees for HHS and National Mediation Board",
+      "thumbnail": "https://i.ytimg.com/vi/5afYfqzGeBA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "48CUGTdU3QY",
-      "title": "Will Trump’s plan win in Iran? Debate with Batya Ungar-Sargon and Y. David Scharf",
-      "thumbnail": "https://i.ytimg.com/vi/48CUGTdU3QY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "y6jxTWuUCO0",
-      "title": "LIVE: Sept. 29 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/y6jxTWuUCO0/hqdefault.jpg"
+      "videoId": "V4zGI0deQv8",
+      "title": "LIVE: Sept. 30 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/V4zGI0deQv8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-29T19:29:49.131Z",
+      "at": "2026-09-29T23:09:29.939Z",
       "checked": 33,
       "errors": 0
     }
