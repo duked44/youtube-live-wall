@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T01:37:21.303Z",
+  "generatedAt": "2026-09-29T07:31:51.184Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "xuBA91WViEs",
+      "title": "LIVE: Spain housing protesters camp in Madrid’s Puerta del Sol for 4th day",
+      "thumbnail": "https://i.ytimg.com/vi/xuBA91WViEs/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "nePWDZODqXM",
-      "title": "LIVE: ABC News Live - Monday September 28 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/nePWDZODqXM/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "DRrxGf9SCGg",
-      "title": "LIVE: NBC News NOW - Sept. 28",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/DRrxGf9SCGg/hqdefault.jpg"
     },
     {
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "-1JvSY1EywQ",
+      "title": "Burnham to suggest pension triple lock should be reviewed in next manifesto | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/-1JvSY1EywQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "nB3jCDRFKbk",
-      "title": "WATCH LIVE: Senate expected to vote on the Protect College Sports Act",
-      "thumbnail": "https://i.ytimg.com/vi/nB3jCDRFKbk/hqdefault.jpg"
+      "videoId": "BJRtI85Efos",
+      "title": "WATCH LIVE: Jack Smith testifies before Senate Judiciary Committee as GOP targets past Trump probes",
+      "thumbnail": "https://i.ytimg.com/vi/BJRtI85Efos/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-29T01:37:21.303Z",
+      "at": "2026-09-29T07:31:51.184Z",
       "checked": 33,
       "errors": 0
     }
