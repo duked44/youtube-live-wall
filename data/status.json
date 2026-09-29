@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T07:31:51.184Z",
+  "generatedAt": "2026-09-29T14:18:36.659Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "eiHxYqjpmiM",
-      "title": "LIVE: Jack Smith Testifies Before The Senate Judiciary Committee",
-      "thumbnail": "https://i.ytimg.com/vi/eiHxYqjpmiM/hqdefault.jpg"
+      "videoId": "Br2DA1P6GJA",
+      "title": "WATCH LIVE: Lindsay Clancy Returns To Court For Post-Verdict Motion Hearing Following Mistrial",
+      "thumbnail": "https://i.ytimg.com/vi/Br2DA1P6GJA/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,13 +29,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "6d0a9m1YcEA",
+      "title": "WATCH LIVE: Trump unveils major AI initiative at Mellon Auditorium",
+      "thumbnail": "https://i.ytimg.com/vi/6d0a9m1YcEA/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "siDp6ZpPXbs",
+      "title": "Live: Jack Smith Testifies in Senate Amid 'Abuse of Authority' Allegations",
+      "thumbnail": "https://i.ytimg.com/vi/siDp6ZpPXbs/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -90,54 +96,54 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "xuBA91WViEs",
-      "title": "LIVE: Spain housing protesters camp in Madrid’s Puerta del Sol for 4th day",
-      "thumbnail": "https://i.ytimg.com/vi/xuBA91WViEs/hqdefault.jpg"
+      "videoId": "whbSkDZWGok",
+      "title": "LIVE: Trump and Vance unveil AI-powered America.gov platform in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/whbSkDZWGok/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "V7Jkim4dfLE",
-      "title": "LIVE: Rally for abortion access in Colombia",
-      "thumbnail": "https://i.ytimg.com/vi/V7Jkim4dfLE/hqdefault.jpg"
+      "videoId": "HCBrs19F9BE",
+      "title": "LIVE: Protesters demand action on Spain’s housing crisis",
+      "thumbnail": "https://i.ytimg.com/vi/HCBrs19F9BE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "ys6LModdIj8",
+      "title": "LIVE: Former special counsel Jack Smith testifies before Senate Committee on Trump investigations",
+      "thumbnail": "https://i.ytimg.com/vi/ys6LModdIj8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DRrxGf9SCGg",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/DRrxGf9SCGg/hqdefault.jpg"
+      "videoId": "uP3uAK9KPC8",
+      "title": "LIVE: Jack Smith testifies at Senate hearing | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/uP3uAK9KPC8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "0jAAgHl2cCY",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/0jAAgHl2cCY/hqdefault.jpg"
+      "videoId": "fG6IwLYkNDg",
+      "title": "Watch Live: Lindsay Clancy back in court for first hearing since mistrial | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/fG6IwLYkNDg/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "ner3qsIE0MY",
+      "title": "Live: Ex-special counsel Jack Smith faces GOP-led Senate hearing",
+      "thumbnail": "https://i.ytimg.com/vi/ner3qsIE0MY/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -153,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "-1JvSY1EywQ",
-      "title": "Burnham to suggest pension triple lock should be reviewed in next manifesto | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/-1JvSY1EywQ/hqdefault.jpg"
+      "videoId": "mHR3CTX_Xfg",
+      "title": "Trump unveils new AI-powered government website",
+      "thumbnail": "https://i.ytimg.com/vi/mHR3CTX_Xfg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,15 +213,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "BJRtI85Efos",
-      "title": "WATCH LIVE: Jack Smith testifies before Senate Judiciary Committee as GOP targets past Trump probes",
-      "thumbnail": "https://i.ytimg.com/vi/BJRtI85Efos/hqdefault.jpg"
+      "videoId": "JrFIg_UjjlU",
+      "title": "WATCH LIVE: Lindsay Clancy returns to court for hearing on whether she will be retried",
+      "thumbnail": "https://i.ytimg.com/vi/JrFIg_UjjlU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "gFWCNC31ChE",
+      "title": "Lindsay Clancy back in court: Will there be a retrial?",
+      "thumbnail": "https://i.ytimg.com/vi/gFWCNC31ChE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -230,7 +239,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "BhHgoqgPI6U",
+      "title": "Andy Burnham addresses Labour party conference – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/BhHgoqgPI6U/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -261,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-29T07:31:51.184Z",
+      "at": "2026-09-29T14:18:36.659Z",
       "checked": 33,
       "errors": 0
     }
