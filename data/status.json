@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T14:18:36.659Z",
+  "generatedAt": "2026-09-29T19:29:49.131Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,36 +12,30 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "Br2DA1P6GJA",
-      "title": "WATCH LIVE: Lindsay Clancy Returns To Court For Post-Verdict Motion Hearing Following Mistrial",
-      "thumbnail": "https://i.ytimg.com/vi/Br2DA1P6GJA/hqdefault.jpg"
+      "videoId": "oC27WpP4mf4",
+      "title": "LIVE: Day 8 Of Former 'American Idol' Contestant, Caleb Flynn, Murder Trial",
+      "thumbnail": "https://i.ytimg.com/vi/oC27WpP4mf4/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "FdAjPKquoK4",
-      "title": "Fmr. Special Counsel Jack Smith Testifies on Allegations of Targeting GOP Lawmakers",
-      "thumbnail": "https://i.ytimg.com/vi/FdAjPKquoK4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "6d0a9m1YcEA",
-      "title": "WATCH LIVE: Trump unveils major AI initiative at Mellon Auditorium",
-      "thumbnail": "https://i.ytimg.com/vi/6d0a9m1YcEA/hqdefault.jpg"
+      "videoId": "M5kyObDKuJM",
+      "title": "WATCH LIVE: Closing arguments begin in Caleb Flynn murder trial",
+      "thumbnail": "https://i.ytimg.com/vi/M5kyObDKuJM/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "siDp6ZpPXbs",
-      "title": "Live: Jack Smith Testifies in Senate Amid 'Abuse of Authority' Allegations",
-      "thumbnail": "https://i.ytimg.com/vi/siDp6ZpPXbs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -96,72 +90,72 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "whbSkDZWGok",
-      "title": "LIVE: Trump and Vance unveil AI-powered America.gov platform in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/whbSkDZWGok/hqdefault.jpg"
+      "videoId": "NBRcatReLD4",
+      "title": "LIVE: Elon Musk and Jensen Huang discuss AI at the unveiling of America.gov",
+      "thumbnail": "https://i.ytimg.com/vi/NBRcatReLD4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "HCBrs19F9BE",
-      "title": "LIVE: Protesters demand action on Spain’s housing crisis",
-      "thumbnail": "https://i.ytimg.com/vi/HCBrs19F9BE/hqdefault.jpg"
+      "videoId": "x29-omUI-yk",
+      "title": "LIVE: Lindsay Clancy appears in court after mistrial",
+      "thumbnail": "https://i.ytimg.com/vi/x29-omUI-yk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "ys6LModdIj8",
-      "title": "LIVE: Former special counsel Jack Smith testifies before Senate Committee on Trump investigations",
-      "thumbnail": "https://i.ytimg.com/vi/ys6LModdIj8/hqdefault.jpg"
+      "videoId": "JZVtj8UC8OM",
+      "title": "LIVE: ABC News Live - Tuesday, September 29 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/JZVtj8UC8OM/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "uP3uAK9KPC8",
-      "title": "LIVE: Jack Smith testifies at Senate hearing | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/uP3uAK9KPC8/hqdefault.jpg"
+      "videoId": "uk5RODxh6ww",
+      "title": "LIVE: NBC News NOW - Sept. 29",
+      "thumbnail": "https://i.ytimg.com/vi/uk5RODxh6ww/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "fG6IwLYkNDg",
-      "title": "Watch Live: Lindsay Clancy back in court for first hearing since mistrial | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/fG6IwLYkNDg/hqdefault.jpg"
+      "videoId": "99c3AXcu_9g",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/99c3AXcu_9g/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "ner3qsIE0MY",
-      "title": "Live: Ex-special counsel Jack Smith faces GOP-led Senate hearing",
-      "thumbnail": "https://i.ytimg.com/vi/ner3qsIE0MY/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "H69_OqFX-aE",
-      "title": "LIVE: Jack Smith testifies before Senate committee",
-      "thumbnail": "https://i.ytimg.com/vi/H69_OqFX-aE/hqdefault.jpg"
+      "videoId": "MLnTqKksftM",
+      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
+      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "mHR3CTX_Xfg",
-      "title": "Trump unveils new AI-powered government website",
-      "thumbnail": "https://i.ytimg.com/vi/mHR3CTX_Xfg/hqdefault.jpg"
+      "videoId": "lxHsF96pgPM",
+      "title": "Premier League confirms Man City's guilty charges | The UK Tonight with Sarah-Jane Mee",
+      "thumbnail": "https://i.ytimg.com/vi/lxHsF96pgPM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,18 +207,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "JrFIg_UjjlU",
-      "title": "WATCH LIVE: Lindsay Clancy returns to court for hearing on whether she will be retried",
-      "thumbnail": "https://i.ytimg.com/vi/JrFIg_UjjlU/hqdefault.jpg"
+      "videoId": "Xi7l3FUs8Jg",
+      "title": "WATCH LIVE: Elon Musk joins 'Golden Age of AI' conversation at event unveiling America.gov",
+      "thumbnail": "https://i.ytimg.com/vi/Xi7l3FUs8Jg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "gFWCNC31ChE",
-      "title": "Lindsay Clancy back in court: Will there be a retrial?",
-      "thumbnail": "https://i.ytimg.com/vi/gFWCNC31ChE/hqdefault.jpg"
+      "videoId": "48CUGTdU3QY",
+      "title": "Will Trump’s plan win in Iran? Debate with Batya Ungar-Sargon and Y. David Scharf",
+      "thumbnail": "https://i.ytimg.com/vi/48CUGTdU3QY/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -239,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "BhHgoqgPI6U",
-      "title": "Andy Burnham addresses Labour party conference – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/BhHgoqgPI6U/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -273,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-29T14:18:36.659Z",
+      "at": "2026-09-29T19:29:49.131Z",
       "checked": 33,
       "errors": 0
     }
