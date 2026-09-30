@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-09-30T15:14:13.879Z",
+  "generatedAt": "2026-09-30T20:05:54.459Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "hGC6RpckfMY",
-      "title": "Possible Foiled Attack by Pilot on Plane to Israel - LIVE Updates & Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/hGC6RpckfMY/hqdefault.jpg"
+      "videoId": "MKT7mB0mKKc",
+      "title": "Defense Secretary Hegseth Gives State of the Force Address - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/MKT7mB0mKKc/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "0tLSdQ7jM-4",
-      "title": "LIVE: Todd Blanche And Markwayne Mullin Hold Press Briefing On Election Integrity Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/0tLSdQ7jM-4/hqdefault.jpg"
+      "videoId": "_DwYzRwA-xs",
+      "title": "LIVE: President Trump And Commerce Sec. Lutnick Make Announcement At The White House",
+      "thumbnail": "https://i.ytimg.com/vi/_DwYzRwA-xs/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "8ygGRaKzt_w",
-      "title": "WATCH LIVE: DOJ unveils election integrity crackdown",
-      "thumbnail": "https://i.ytimg.com/vi/8ygGRaKzt_w/hqdefault.jpg"
+      "videoId": "PjNFuLbCVXU",
+      "title": "WATCH LIVE: President Trump makes announcement alongside commerce secretary",
+      "thumbnail": "https://i.ytimg.com/vi/PjNFuLbCVXU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,27 +93,24 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "CiJK-kdJV4Y",
-      "title": "LIVE: Trump hosts Hispanic Heritage Month celebration at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/CiJK-kdJV4Y/hqdefault.jpg"
+      "videoId": "uiIkAZJd-Ko",
+      "title": "LIVE: Trump announces plans for a $54 billion project in Alaska",
+      "thumbnail": "https://i.ytimg.com/vi/uiIkAZJd-Ko/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "laH9dSlyZ4o",
-      "title": "LIVE: Israel-bound Flydubai flight diverted to Saudi Arabia",
-      "thumbnail": "https://i.ytimg.com/vi/laH9dSlyZ4o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "wCcKhfEJ5BU",
-      "title": "LIVE: ABC News Live - Wednesday, September 30",
-      "thumbnail": "https://i.ytimg.com/vi/wCcKhfEJ5BU/hqdefault.jpg"
+      "videoId": "UZdp3pFHJXI",
+      "title": "Secretary Hegseth delivers State of the Force address",
+      "thumbnail": "https://i.ytimg.com/vi/UZdp3pFHJXI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -129,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "iSidarp0Mz0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/iSidarp0Mz0/hqdefault.jpg"
+      "videoId": "LfDXO4VjUbE",
+      "title": "Watch Live: Senate holds hearing on rogue AI attacks",
+      "thumbnail": "https://i.ytimg.com/vi/LfDXO4VjUbE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,18 +144,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "MLnTqKksftM",
-      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
-      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
+      "videoId": "bRNu9-8_1RE",
+      "title": "LIVE: Trump makes an announcement at the Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/bRNu9-8_1RE/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "nu3aAFR3rqU",
-      "title": "Watch live from Ben Gurion Airport in Israel after flights diverted",
-      "thumbnail": "https://i.ytimg.com/vi/nu3aAFR3rqU/hqdefault.jpg"
+      "videoId": "riURgWz_yVU",
+      "title": "Pilot arrested for 'attempting to hijack' Israel-bound plane | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/riURgWz_yVU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,15 +207,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "7VEHCEfoEF4",
-      "title": "WATCH LIVE: Senate expected to consider Ratepayer Protection Act, Stop Insider Trading Act",
-      "thumbnail": "https://i.ytimg.com/vi/7VEHCEfoEF4/hqdefault.jpg"
+      "videoId": "X9ng5MPH_Eg",
+      "title": "WATCH LIVE: Senate Homeland Security subcommittee holds hearing on ‘rogue’ AI",
+      "thumbnail": "https://i.ytimg.com/vi/X9ng5MPH_Eg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "6CuHd-IXX_Q",
+      "title": "'Serious reservations' on reopening the Cornell Case: Debate with Robby Soave | Prove It!",
+      "thumbnail": "https://i.ytimg.com/vi/6CuHd-IXX_Q/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -245,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "t1RIe7ow2es",
-      "title": "Carney delivers speech at commemorative National Day for Truth and Reconciliation event | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/t1RIe7ow2es/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -267,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-30T15:14:13.879Z",
+      "at": "2026-09-30T20:05:54.459Z",
       "checked": 33,
       "errors": 0
     }
