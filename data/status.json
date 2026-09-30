@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-09-30T08:30:42.958Z",
+  "generatedAt": "2026-09-30T15:14:13.879Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "hGC6RpckfMY",
+      "title": "Possible Foiled Attack by Pilot on Plane to Israel - LIVE Updates & Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/hGC6RpckfMY/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "A1aOqsIpPmQ",
-      "title": "LIVE: Senate Homeland Security Committee Holds Hearing On ‘Rogue AI’",
-      "thumbnail": "https://i.ytimg.com/vi/A1aOqsIpPmQ/hqdefault.jpg"
+      "videoId": "0tLSdQ7jM-4",
+      "title": "LIVE: Todd Blanche And Markwayne Mullin Hold Press Briefing On Election Integrity Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/0tLSdQ7jM-4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "8ygGRaKzt_w",
+      "title": "WATCH LIVE: DOJ unveils election integrity crackdown",
+      "thumbnail": "https://i.ytimg.com/vi/8ygGRaKzt_w/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,9 +93,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "UUF2ayHerLQ",
-      "title": "LIVE: View from Baghdad as last US troops leave Iraq",
-      "thumbnail": "https://i.ytimg.com/vi/UUF2ayHerLQ/hqdefault.jpg"
+      "videoId": "CiJK-kdJV4Y",
+      "title": "LIVE: Trump hosts Hispanic Heritage Month celebration at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/CiJK-kdJV4Y/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,27 +111,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "wCcKhfEJ5BU",
+      "title": "LIVE: ABC News Live - Wednesday, September 30",
+      "thumbnail": "https://i.ytimg.com/vi/wCcKhfEJ5BU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ScfK6qmxoqE",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/ScfK6qmxoqE/hqdefault.jpg"
+      "videoId": "XiZyhJwlDDM",
+      "title": "LIVE: NBC News NOW - Sept. 30",
+      "thumbnail": "https://i.ytimg.com/vi/XiZyhJwlDDM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "bftI1brf9Mw",
+      "videoId": "iSidarp0Mz0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/bftI1brf9Mw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/iSidarp0Mz0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "JUnMSCKCTko",
-      "title": "Man City deny any wrongdoing after being found guilty of financial breaches | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/JUnMSCKCTko/hqdefault.jpg"
+      "videoId": "nu3aAFR3rqU",
+      "title": "Watch live from Ben Gurion Airport in Israel after flights diverted",
+      "thumbnail": "https://i.ytimg.com/vi/nu3aAFR3rqU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "5afYfqzGeBA",
-      "title": "WATCH LIVE: Senate HELP Committee considers Trump nominees for HHS and National Mediation Board",
-      "thumbnail": "https://i.ytimg.com/vi/5afYfqzGeBA/hqdefault.jpg"
+      "videoId": "7VEHCEfoEF4",
+      "title": "WATCH LIVE: Senate expected to consider Ratepayer Protection Act, Stop Insider Trading Act",
+      "thumbnail": "https://i.ytimg.com/vi/7VEHCEfoEF4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +233,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "1IY9qC0rwlY",
-      "title": "Labour party holds its annual conference in Liverpool – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/1IY9qC0rwlY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -242,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "t1RIe7ow2es",
+      "title": "Carney delivers speech at commemorative National Day for Truth and Reconciliation event | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/t1RIe7ow2es/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-30T08:30:42.958Z",
+      "at": "2026-09-30T15:14:13.879Z",
       "checked": 33,
       "errors": 0
     }
