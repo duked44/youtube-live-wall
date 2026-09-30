@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T23:09:29.939Z",
+  "generatedAt": "2026-09-30T02:07:42.097Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -112,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "ScfK6qmxoqE",
-      "title": "LIVE: NBC News NOW - Sept. 29",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/ScfK6qmxoqE/hqdefault.jpg"
     },
     {
@@ -120,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "99c3AXcu_9g",
+      "videoId": "bftI1brf9Mw",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/99c3AXcu_9g/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/bftI1brf9Mw/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-29T23:09:29.939Z",
+      "at": "2026-09-30T02:07:42.097Z",
       "checked": 33,
       "errors": 0
     }
