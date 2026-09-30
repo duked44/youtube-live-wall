@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T02:07:42.097Z",
+  "generatedAt": "2026-09-30T08:30:42.958Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,25 +86,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "UUF2ayHerLQ",
+      "title": "LIVE: View from Baghdad as last US troops leave Iraq",
+      "thumbnail": "https://i.ytimg.com/vi/UUF2ayHerLQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "x29-omUI-yk",
-      "title": "LIVE: Lindsay Clancy appears in court after mistrial",
-      "thumbnail": "https://i.ytimg.com/vi/x29-omUI-yk/hqdefault.jpg"
+      "videoId": "laH9dSlyZ4o",
+      "title": "LIVE: Israel-bound Flydubai flight diverted to Saudi Arabia",
+      "thumbnail": "https://i.ytimg.com/vi/laH9dSlyZ4o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "JZVtj8UC8OM",
-      "title": "LIVE: ABC News Live - Tuesday, September 29 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/JZVtj8UC8OM/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "JUnMSCKCTko",
+      "title": "Man City deny any wrongdoing after being found guilty of financial breaches | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/JUnMSCKCTko/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,7 +227,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "1IY9qC0rwlY",
+      "title": "Labour party holds its annual conference in Liverpool – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/1IY9qC0rwlY/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-30T02:07:42.097Z",
+      "at": "2026-09-30T08:30:42.958Z",
       "checked": 33,
       "errors": 0
     }
