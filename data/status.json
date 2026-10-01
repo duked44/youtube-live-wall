@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-01T09:22:58.755Z",
+  "generatedAt": "2026-10-01T16:36:25.132Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "XhOKsTYZrmM",
-      "title": "Christa Pike Survives Failed Execution Attempt in Tennessee - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/XhOKsTYZrmM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -20,16 +17,16 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "zbGepvgR5qQ",
-      "title": "NASA SpaceX Crew-13 Launch",
-      "thumbnail": "https://i.ytimg.com/vi/zbGepvgR5qQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "36z5B_oFsfk",
+      "title": "WATCH LIVE: Vance rallies Florida voters ahead of midterm election",
+      "thumbnail": "https://i.ytimg.com/vi/36z5B_oFsfk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,45 +87,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "_eH485nmpBM",
-      "title": "LIVE: Launch of NASA's SpaceX Crew-13 mission to International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/_eH485nmpBM/hqdefault.jpg"
+      "videoId": "UvN7ZMLbzug",
+      "title": "LIVE: Renee Good’s family sues the US government and immigration officials",
+      "thumbnail": "https://i.ytimg.com/vi/UvN7ZMLbzug/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "BLc5b25vsc0",
-      "title": "LIVE: Students block Paris high school in protest",
-      "thumbnail": "https://i.ytimg.com/vi/BLc5b25vsc0/hqdefault.jpg"
+      "videoId": "nA0uSJXLwM4",
+      "title": "LIVE: NASA, SpaceX launch Crew-13 to the ISS",
+      "thumbnail": "https://i.ytimg.com/vi/nA0uSJXLwM4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "l4s747MnDN0",
+      "title": "Hawaii's Kilauea volcano spews lava during eruption",
+      "thumbnail": "https://i.ytimg.com/vi/l4s747MnDN0/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ZB45H5nCOyo",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/ZB45H5nCOyo/hqdefault.jpg"
+      "videoId": "H_bRC6FFPRE",
+      "title": "LIVE: NBC News NOW - Oct. 1",
+      "thumbnail": "https://i.ytimg.com/vi/H_bRC6FFPRE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "JrzsxR1WG3w",
+      "videoId": "v340FtLGrpg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/JrzsxR1WG3w/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/v340FtLGrpg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "Elklk__xDiY",
+      "title": "Putin delivers speech on foreign policy at forum",
+      "thumbnail": "https://i.ytimg.com/vi/Elklk__xDiY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,15 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "7VEHCEfoEF4",
-      "title": "WATCH LIVE: Senate expected to consider Ratepayer Protection Act, Stop Insider Trading Act",
-      "thumbnail": "https://i.ytimg.com/vi/7VEHCEfoEF4/hqdefault.jpg"
+      "videoId": "CG9mX1cyuFw",
+      "title": "WATCH LIVE: Lava flows from Hawaii's Kīlauea volcano",
+      "thumbnail": "https://i.ytimg.com/vi/CG9mX1cyuFw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "e0GwOq1NajE",
+      "title": "Watch live: Renee Good’s family sues federal immigration agency",
+      "thumbnail": "https://i.ytimg.com/vi/e0GwOq1NajE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-01T09:22:58.755Z",
+      "at": "2026-10-01T16:36:25.132Z",
       "checked": 33,
       "errors": 0
     }
