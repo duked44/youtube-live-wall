@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:36:25.132Z",
+  "generatedAt": "2026-10-01T21:20:30.660Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,16 +17,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "VnRJlQYEOow",
+      "title": "National Civics Bee",
+      "thumbnail": "https://i.ytimg.com/vi/VnRJlQYEOow/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "36z5B_oFsfk",
-      "title": "WATCH LIVE: Vance rallies Florida voters ahead of midterm election",
-      "thumbnail": "https://i.ytimg.com/vi/36z5B_oFsfk/hqdefault.jpg"
+      "videoId": "8a9EpQwQgJU",
+      "title": "WATCH LIVE: President Trump visits Peterbilt Motors Company factory",
+      "thumbnail": "https://i.ytimg.com/vi/8a9EpQwQgJU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,27 +90,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "UvN7ZMLbzug",
-      "title": "LIVE: Renee Good’s family sues the US government and immigration officials",
-      "thumbnail": "https://i.ytimg.com/vi/UvN7ZMLbzug/hqdefault.jpg"
+      "videoId": "HGYPo-_iK0E",
+      "title": "LIVE: NASA’s SpaceX Crew-13 docking to the International Space Station",
+      "thumbnail": "https://i.ytimg.com/vi/HGYPo-_iK0E/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "nA0uSJXLwM4",
-      "title": "LIVE: NASA, SpaceX launch Crew-13 to the ISS",
-      "thumbnail": "https://i.ytimg.com/vi/nA0uSJXLwM4/hqdefault.jpg"
+      "videoId": "81yFiPp8Xco",
+      "title": "LIVE: Trump tours, delivers remarks at truck manufacturer in Texas",
+      "thumbnail": "https://i.ytimg.com/vi/81yFiPp8Xco/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "l4s747MnDN0",
-      "title": "Hawaii's Kilauea volcano spews lava during eruption",
-      "thumbnail": "https://i.ytimg.com/vi/l4s747MnDN0/hqdefault.jpg"
+      "videoId": "9_pH_bqotAU",
+      "title": "LIVE: ABC News Live - Thursday, October 1",
+      "thumbnail": "https://i.ytimg.com/vi/9_pH_bqotAU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Elklk__xDiY",
-      "title": "Putin delivers speech on foreign policy at forum",
-      "thumbnail": "https://i.ytimg.com/vi/Elklk__xDiY/hqdefault.jpg"
+      "videoId": "EaRsXhEg1X4",
+      "title": "Dual UK-Iranian national arrested over RAF Fairford incident | The Wrap with Gillian Joseph",
+      "thumbnail": "https://i.ytimg.com/vi/EaRsXhEg1X4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +215,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "e0GwOq1NajE",
-      "title": "Watch live: Renee Good’s family sues federal immigration agency",
-      "thumbnail": "https://i.ytimg.com/vi/e0GwOq1NajE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-01T16:36:25.132Z",
+      "at": "2026-10-01T21:20:30.660Z",
       "checked": 33,
       "errors": 0
     }
