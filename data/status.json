@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:45:30.339Z",
+  "generatedAt": "2026-10-01T02:30:32.277Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,7 +17,10 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "zbGepvgR5qQ",
+      "title": "NASA SpaceX Crew-13 Launch",
+      "thumbnail": "https://i.ytimg.com/vi/zbGepvgR5qQ/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -47,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "NAooHwuowp8",
-      "title": "Friendly Fire | Cornell #MeToo Hypocrisy & Not So \"Super\" Intelligence",
-      "thumbnail": "https://i.ytimg.com/vi/NAooHwuowp8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -109,7 +109,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "ZB45H5nCOyo",
-      "title": "LIVE: NBC News NOW - Sept. 30",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/ZB45H5nCOyo/hqdefault.jpg"
     },
     {
@@ -188,10 +188,7 @@
       "id": "cnbc",
       "name": "CNBC",
       "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "live": true,
-      "videoId": "9NyxcX3rhQs",
-      "title": "LIVE: CNBC Marathon - Documentaries and deep dives 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "pbsnewshour",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-09-30T23:45:30.339Z",
+      "at": "2026-10-01T02:30:32.277Z",
       "checked": 33,
       "errors": 0
     }
