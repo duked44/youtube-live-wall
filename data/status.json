@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T06:50:55.005Z",
+  "generatedAt": "2026-10-02T13:17:56.630Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "xqiVgeXS8q8",
+      "title": "LIVE: New York's Kathy Hochul & Letitia James Hold Press Briefing On Cornell Investigation",
+      "thumbnail": "https://i.ytimg.com/vi/xqiVgeXS8q8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -87,45 +90,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "QR8Y1xh2sKE",
-      "title": "LIVE: Spain housing protesters camp in Madrid’s Puerta del Sol",
-      "thumbnail": "https://i.ytimg.com/vi/QR8Y1xh2sKE/hqdefault.jpg"
+      "videoId": "SX8eOSXemeM",
+      "title": "LIVE: Gov. Kathy Hochul and AG Letitia James give update on Cornell sexual assault investigation",
+      "thumbnail": "https://i.ytimg.com/vi/SX8eOSXemeM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "MffJ2_CZYXI",
-      "title": "LIVE: Rescue efforts to guide shark stranded in South Korean canal",
-      "thumbnail": "https://i.ytimg.com/vi/MffJ2_CZYXI/hqdefault.jpg"
+      "videoId": "SlssDOuQi7A",
+      "title": "LIVE: French students protest over school funding",
+      "thumbnail": "https://i.ytimg.com/vi/SlssDOuQi7A/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "ODio2-1aFa8",
+      "title": "LIVE: ABC News Live - Friday, October 2",
+      "thumbnail": "https://i.ytimg.com/vi/ODio2-1aFa8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "NA1gsCbauBk",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/NA1gsCbauBk/hqdefault.jpg"
+      "videoId": "BKOZyONHtUs",
+      "title": "LIVE: NBC News NOW - Oct. 2",
+      "thumbnail": "https://i.ytimg.com/vi/BKOZyONHtUs/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "JhovYfegmlQ",
+      "videoId": "Px5qqWf1Kxk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/JhovYfegmlQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Px5qqWf1Kxk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -141,18 +144,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "MLnTqKksftM",
-      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
-      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
+      "videoId": "MaKxfRPvXQo",
+      "title": "LIVE: NY Gov. Hochul & AG Letitia James hold a press conference on Cornell University investigation",
+      "thumbnail": "https://i.ytimg.com/vi/MaKxfRPvXQo/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "BHWbW3OQKhM",
-      "title": "Counter terror police arrest UK-Iranian national over RAF Fairford investigation | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/BHWbW3OQKhM/hqdefault.jpg"
+      "videoId": "2ys03aCxS2I",
+      "title": "Rhun ap Iorwerth delivers speech at Plaid Cymru Conference",
+      "thumbnail": "https://i.ytimg.com/vi/2ys03aCxS2I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "ZwNFvNYOvCI",
+      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
+      "thumbnail": "https://i.ytimg.com/vi/ZwNFvNYOvCI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -216,15 +222,18 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "QFqtielIB1k",
-      "title": "LIVE: Oct. 1 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/QFqtielIB1k/hqdefault.jpg"
+      "videoId": "0HuO6Q2WLWg",
+      "title": "LIVE: Oct. 2 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/0HuO6Q2WLWg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "loQiPmgnOLo",
+      "title": "Zack Polanski speaks at Green Party conference – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/loQiPmgnOLo/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-02T06:50:55.005Z",
+      "at": "2026-10-02T13:17:56.630Z",
       "checked": 33,
       "errors": 0
     }
