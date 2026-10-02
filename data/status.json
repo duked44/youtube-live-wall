@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-02T18:32:24.227Z",
+  "generatedAt": "2026-10-02T22:31:41.533Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "zF4o179A1YA",
+      "title": "Trump Midterm Rally in Alabama - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/zF4o179A1YA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "p01W2opwhYE",
+      "title": "WATCH LIVE: President Trump holds a midterm rally in Mobile, Ala.",
+      "thumbnail": "https://i.ytimg.com/vi/p01W2opwhYE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -114,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "BKOZyONHtUs",
+      "videoId": "_sKZFIZvwP8",
       "title": "LIVE: NBC News NOW - Oct. 2",
-      "thumbnail": "https://i.ytimg.com/vi/BKOZyONHtUs/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/_sKZFIZvwP8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "iLQEZEC313w",
+      "title": "G7 to release 100 million barrels of diesel and oil after emergency talks | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/iLQEZEC313w/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ZwNFvNYOvCI",
-      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
-      "thumbnail": "https://i.ytimg.com/vi/ZwNFvNYOvCI/hqdefault.jpg"
+      "videoId": "VHddj_8FMtM",
+      "title": "PBS News Hour live episode, Oct. 2, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/VHddj_8FMtM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-02T18:32:24.227Z",
+      "at": "2026-10-02T22:31:41.533Z",
       "checked": 33,
       "errors": 0
     }
