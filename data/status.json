@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T13:17:56.630Z",
+  "generatedAt": "2026-10-02T18:32:24.227Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "xqiVgeXS8q8",
-      "title": "LIVE: New York's Kathy Hochul & Letitia James Hold Press Briefing On Cornell Investigation",
-      "thumbnail": "https://i.ytimg.com/vi/xqiVgeXS8q8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -90,18 +87,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "SX8eOSXemeM",
-      "title": "LIVE: Gov. Kathy Hochul and AG Letitia James give update on Cornell sexual assault investigation",
-      "thumbnail": "https://i.ytimg.com/vi/SX8eOSXemeM/hqdefault.jpg"
+      "videoId": "FOccr8CgbPg",
+      "title": "LIVE: Trump holds a rally in Alabama ahead of midterm election",
+      "thumbnail": "https://i.ytimg.com/vi/FOccr8CgbPg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "SlssDOuQi7A",
-      "title": "LIVE: French students protest over school funding",
-      "thumbnail": "https://i.ytimg.com/vi/SlssDOuQi7A/hqdefault.jpg"
+      "videoId": "5_ZVJwLex_w",
+      "title": "LIVE: Protests in Madrid as Spain faces more fury over housing after parliament rejects decree",
+      "thumbnail": "https://i.ytimg.com/vi/5_ZVJwLex_w/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,18 +141,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "MaKxfRPvXQo",
-      "title": "LIVE: NY Gov. Hochul & AG Letitia James hold a press conference on Cornell University investigation",
-      "thumbnail": "https://i.ytimg.com/vi/MaKxfRPvXQo/hqdefault.jpg"
+      "videoId": "MLnTqKksftM",
+      "title": "MS NOW LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Tom Morello and more!",
+      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "2ys03aCxS2I",
-      "title": "Rhun ap Iorwerth delivers speech at Plaid Cymru Conference",
-      "thumbnail": "https://i.ytimg.com/vi/2ys03aCxS2I/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -230,10 +227,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "loQiPmgnOLo",
-      "title": "Zack Polanski speaks at Green Party conference – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/loQiPmgnOLo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-02T13:17:56.630Z",
+      "at": "2026-10-02T18:32:24.227Z",
       "checked": 33,
       "errors": 0
     }
