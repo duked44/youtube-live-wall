@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T00:57:02.447Z",
+  "generatedAt": "2026-10-02T06:50:55.005Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "5yMuzCTV4oE",
-      "title": "WATCH LIVE: Trump speaks in Oklahoma",
-      "thumbnail": "https://i.ytimg.com/vi/5yMuzCTV4oE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -90,36 +87,36 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HGYPo-_iK0E",
-      "title": "LIVE: NASA’s SpaceX Crew-13 docking to the International Space Station",
-      "thumbnail": "https://i.ytimg.com/vi/HGYPo-_iK0E/hqdefault.jpg"
+      "videoId": "QR8Y1xh2sKE",
+      "title": "LIVE: Spain housing protesters camp in Madrid’s Puerta del Sol",
+      "thumbnail": "https://i.ytimg.com/vi/QR8Y1xh2sKE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "w_KqkNY7rAo",
-      "title": "LIVE: Trump tours, delivers remarks at truck manufacturer in Texas",
-      "thumbnail": "https://i.ytimg.com/vi/w_KqkNY7rAo/hqdefault.jpg"
+      "videoId": "MffJ2_CZYXI",
+      "title": "LIVE: Rescue efforts to guide shark stranded in South Korean canal",
+      "thumbnail": "https://i.ytimg.com/vi/MffJ2_CZYXI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "9_pH_bqotAU",
-      "title": "LIVE: ABC News Live - Thursday, October 1",
-      "thumbnail": "https://i.ytimg.com/vi/9_pH_bqotAU/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "3VKqkFPSJrk",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 01",
-      "thumbnail": "https://i.ytimg.com/vi/3VKqkFPSJrk/hqdefault.jpg"
+      "videoId": "NA1gsCbauBk",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/NA1gsCbauBk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "BHWbW3OQKhM",
+      "title": "Counter terror police arrest UK-Iranian national over RAF Fairford investigation | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/BHWbW3OQKhM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,10 +203,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "CG9mX1cyuFw",
-      "title": "WATCH LIVE: Lava flows from Hawaii's Kīlauea volcano",
-      "thumbnail": "https://i.ytimg.com/vi/CG9mX1cyuFw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-02T00:57:02.447Z",
+      "at": "2026-10-02T06:50:55.005Z",
       "checked": 33,
       "errors": 0
     }
