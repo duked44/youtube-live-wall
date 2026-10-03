@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T06:48:40.137Z",
+  "generatedAt": "2026-10-03T12:06:38.779Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "4qSX0mjP1hA",
+      "title": "LIVE: ABC News Live - Saturday, October 3",
+      "thumbnail": "https://i.ytimg.com/vi/4qSX0mjP1hA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "zGX7fvQukjw",
-      "title": "Mornings | Saturday 3 October 2026",
-      "thumbnail": "https://i.ytimg.com/vi/zGX7fvQukjw/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "3zARNR8Fv9E",
+      "title": "Pressure Builds on Iran | Bloomberg This Weekend: Oct. 3rd, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/3zARNR8Fv9E/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-03T06:48:40.137Z",
+      "at": "2026-10-03T12:06:38.779Z",
       "checked": 33,
       "errors": 0
     }
