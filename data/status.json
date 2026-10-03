@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T12:06:38.779Z",
+  "generatedAt": "2026-10-03T16:14:17.407Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "3zARNR8Fv9E",
-      "title": "Pressure Builds on Iran | Bloomberg This Weekend: Oct. 3rd, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/3zARNR8Fv9E/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-03T12:06:38.779Z",
+      "at": "2026-10-03T16:14:17.407Z",
       "checked": 33,
       "errors": 0
     }
