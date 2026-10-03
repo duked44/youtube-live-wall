@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-02T22:31:41.533Z",
+  "generatedAt": "2026-10-03T01:23:55.730Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "zF4o179A1YA",
-      "title": "Trump Midterm Rally in Alabama - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/zF4o179A1YA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "p01W2opwhYE",
-      "title": "WATCH LIVE: President Trump holds a midterm rally in Mobile, Ala.",
-      "thumbnail": "https://i.ytimg.com/vi/p01W2opwhYE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "FOccr8CgbPg",
-      "title": "LIVE: Trump holds a rally in Alabama ahead of midterm election",
-      "thumbnail": "https://i.ytimg.com/vi/FOccr8CgbPg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -156,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "iLQEZEC313w",
-      "title": "G7 to release 100 million barrels of diesel and oil after emergency talks | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/iLQEZEC313w/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VHddj_8FMtM",
-      "title": "PBS News Hour live episode, Oct. 2, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/VHddj_8FMtM/hqdefault.jpg"
+      "videoId": "ZwNFvNYOvCI",
+      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
+      "thumbnail": "https://i.ytimg.com/vi/ZwNFvNYOvCI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,10 +215,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "0HuO6Q2WLWg",
-      "title": "LIVE: Oct. 2 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/0HuO6Q2WLWg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -264,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-02T22:31:41.533Z",
+      "at": "2026-10-03T01:23:55.730Z",
       "checked": 33,
       "errors": 0
     }
