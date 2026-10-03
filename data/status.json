@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T01:23:55.730Z",
+  "generatedAt": "2026-10-03T06:48:40.137Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "ODio2-1aFa8",
-      "title": "LIVE: ABC News Live - Friday, October 2",
-      "thumbnail": "https://i.ytimg.com/vi/ODio2-1aFa8/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,17 +112,14 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "_sKZFIZvwP8",
-      "title": "LIVE: NBC News NOW - Oct. 2",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/_sKZFIZvwP8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "Px5qqWf1Kxk",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Px5qqWf1Kxk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "zGX7fvQukjw",
+      "title": "Mornings | Saturday 3 October 2026",
+      "thumbnail": "https://i.ytimg.com/vi/zGX7fvQukjw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "ZwNFvNYOvCI",
-      "title": "WATCH LIVE: Lava erupts from Hawaii's Kīlauea volcano",
-      "thumbnail": "https://i.ytimg.com/vi/ZwNFvNYOvCI/hqdefault.jpg"
+      "videoId": "r3sl4v4asnY",
+      "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
+      "thumbnail": "https://i.ytimg.com/vi/r3sl4v4asnY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -247,12 +244,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-03T01:23:55.730Z",
+      "at": "2026-10-03T06:48:40.137Z",
       "checked": 33,
       "errors": 0
     }
