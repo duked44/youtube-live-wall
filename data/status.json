@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T22:13:01.539Z",
+  "generatedAt": "2026-10-04T00:42:04.153Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RfBiZdIFk98",
-      "title": "The Wrap | Pilot accused of trying to hijack plane in 'terror attack' studied at British university",
-      "thumbnail": "https://i.ytimg.com/vi/RfBiZdIFk98/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-03T22:13:01.539Z",
+      "at": "2026-10-04T00:42:04.153Z",
       "checked": 33,
       "errors": 0
     }
