@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-04T00:42:04.153Z",
+  "generatedAt": "2026-10-04T06:23:50.153Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "2gCs9hnO_es",
-      "title": "Updates on flydubai Plane Attack, France Student Protests, Christa Pike & More - LIVE News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/2gCs9hnO_es/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -21,18 +18,15 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "wyy3vNk9vcw",
-      "title": "New Hampshire 1st Congressional District Debate",
-      "thumbnail": "https://i.ytimg.com/vi/wyy3vNk9vcw/hqdefault.jpg"
+      "videoId": "uLqulRhRLJQ",
+      "title": "New Hampshire U.S. Senate Debate",
+      "thumbnail": "https://i.ytimg.com/vi/uLqulRhRLJQ/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "xjReUyleUJs",
-      "title": "WATCH: President Donald Trump holds a midterm rally in Vandalia, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/xjReUyleUJs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -137,10 +131,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "MLnTqKksftM",
-      "title": "LIVE EXCLUSIVE: \"POWER TO THE PEOPLE\" with Springsteen, Foo Fighters, Dave Matthews, and more!",
-      "thumbnail": "https://i.ytimg.com/vi/MLnTqKksftM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -252,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-04T00:42:04.153Z",
+      "at": "2026-10-04T06:23:50.153Z",
       "checked": 33,
       "errors": 0
     }
