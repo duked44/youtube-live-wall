@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T17:31:15.477Z",
+  "generatedAt": "2026-10-05T23:20:58.530Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,28 +11,22 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "ktEgjpKxb1E",
-      "title": "Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
-      "thumbnail": "https://i.ytimg.com/vi/ktEgjpKxb1E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "uLqulRhRLJQ",
-      "title": "New Hampshire U.S. Senate Debate",
-      "thumbnail": "https://i.ytimg.com/vi/uLqulRhRLJQ/hqdefault.jpg"
+      "videoId": "wyy3vNk9vcw",
+      "title": "New Hampshire 1st Congressional District Debate",
+      "thumbnail": "https://i.ytimg.com/vi/wyy3vNk9vcw/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "bcm-Ilhq-jo",
-      "title": "WATCH LIVE: Tech giants face grilling over AI’s growing risks",
-      "thumbnail": "https://i.ytimg.com/vi/bcm-Ilhq-jo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,19 +86,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "_Yl73PhMtm8",
-      "title": "LIVE: Former Anthropic researcher testifies on AI at New York City Council",
-      "thumbnail": "https://i.ytimg.com/vi/_Yl73PhMtm8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "9hSkuiAh6UQ",
-      "title": "LIVE: Protesters march in Spain over housing crisis",
-      "thumbnail": "https://i.ytimg.com/vi/9hSkuiAh6UQ/hqdefault.jpg"
+      "videoId": "fBA1N_haXi0",
+      "title": "LIVE: Madrid protesters camp demand action on housing crisis",
+      "thumbnail": "https://i.ytimg.com/vi/fBA1N_haXi0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,18 +111,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "65o-WfaOkvQ",
+      "videoId": "uMaWTttJTVc",
       "title": "LIVE: NBC News NOW - Oct. 5",
-      "thumbnail": "https://i.ytimg.com/vi/65o-WfaOkvQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/uMaWTttJTVc/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "GNImoRf-VyI",
+      "videoId": "wFv1SJ43g5s",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/GNImoRf-VyI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/wFv1SJ43g5s/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -146,7 +137,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "N3bZB039OHw",
+      "title": "LIVE: President Trump holds midterm rally in the red state of Nebraska",
+      "thumbnail": "https://i.ytimg.com/vi/N3bZB039OHw/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -207,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VKOHukiMmzE",
-      "title": "WATCH LIVE: Trump speaks at rally in Nebraska as he campaigns in red states ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/VKOHukiMmzE/hqdefault.jpg"
+      "videoId": "hePYQWyggnk",
+      "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have a beef with import plan",
+      "thumbnail": "https://i.ytimg.com/vi/hePYQWyggnk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -222,9 +216,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "62WrTQb7LdY",
-      "title": "LIVE: Oct. 5 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/62WrTQb7LdY/hqdefault.jpg"
+      "videoId": "IPuN6plmLYk",
+      "title": "LIVE: Oct. 6 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/IPuN6plmLYk/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -242,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "e_NiaR8I0BU",
+      "title": "Quebec election 2026: Voters cast final ballots as polls show Parti Québécois in the lead | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/e_NiaR8I0BU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-05T17:31:15.477Z",
+      "at": "2026-10-05T23:20:58.530Z",
       "checked": 33,
       "errors": 0
     }
