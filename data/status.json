@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T08:50:44.930Z",
+  "generatedAt": "2026-10-05T17:31:15.477Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "ktEgjpKxb1E",
+      "title": "Top Tech Execs From OpenAI, Anthropic, Google, Meta Testify Before NYC Council On AI Risks",
+      "thumbnail": "https://i.ytimg.com/vi/ktEgjpKxb1E/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "bcm-Ilhq-jo",
+      "title": "WATCH LIVE: Tech giants face grilling over AI’s growing risks",
+      "thumbnail": "https://i.ytimg.com/vi/bcm-Ilhq-jo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,42 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "wUzEYfTLW6c",
-      "title": "LIVE: Nobel Prize in medicine 2026 announcement",
-      "thumbnail": "https://i.ytimg.com/vi/wUzEYfTLW6c/hqdefault.jpg"
+      "videoId": "_Yl73PhMtm8",
+      "title": "LIVE: Former Anthropic researcher testifies on AI at New York City Council",
+      "thumbnail": "https://i.ytimg.com/vi/_Yl73PhMtm8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "E25NzQmNlcM",
-      "title": "LIVE: Students protest in Paris over school conditions and funding",
-      "thumbnail": "https://i.ytimg.com/vi/E25NzQmNlcM/hqdefault.jpg"
+      "videoId": "9hSkuiAh6UQ",
+      "title": "LIVE: Protesters march in Spain over housing crisis",
+      "thumbnail": "https://i.ytimg.com/vi/9hSkuiAh6UQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "D5fkCngw8zU",
+      "title": "LIVE: ABC News Live - Monday, October 5",
+      "thumbnail": "https://i.ytimg.com/vi/D5fkCngw8zU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "_sKZFIZvwP8",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/_sKZFIZvwP8/hqdefault.jpg"
+      "videoId": "65o-WfaOkvQ",
+      "title": "LIVE: NBC News NOW - Oct. 5",
+      "thumbnail": "https://i.ytimg.com/vi/65o-WfaOkvQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "GNImoRf-VyI",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/GNImoRf-VyI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Cl3iGZfyJkQ",
-      "title": "Conservative Party conference in Birmingham",
-      "thumbnail": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "r3sl4v4asnY",
-      "title": "LISTEN LIVE: Supreme Court hears case seeking damages from fossil fuel industry for climate change",
-      "thumbnail": "https://i.ytimg.com/vi/r3sl4v4asnY/hqdefault.jpg"
+      "videoId": "VKOHukiMmzE",
+      "title": "WATCH LIVE: Trump speaks at rally in Nebraska as he campaigns in red states ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/VKOHukiMmzE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -247,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-05T08:50:44.930Z",
+      "at": "2026-10-05T17:31:15.477Z",
       "checked": 33,
       "errors": 0
     }
