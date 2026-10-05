@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T01:58:50.644Z",
+  "generatedAt": "2026-10-05T08:50:44.930Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,13 +86,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "wUzEYfTLW6c",
+      "title": "LIVE: Nobel Prize in medicine 2026 announcement",
+      "thumbnail": "https://i.ytimg.com/vi/wUzEYfTLW6c/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "E25NzQmNlcM",
+      "title": "LIVE: Students protest in Paris over school conditions and funding",
+      "thumbnail": "https://i.ytimg.com/vi/E25NzQmNlcM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -138,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "Cl3iGZfyJkQ",
+      "title": "Conservative Party conference in Birmingham",
+      "thumbnail": "https://i.ytimg.com/vi/Cl3iGZfyJkQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,7 +212,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "62WrTQb7LdY",
+      "title": "LIVE: Oct. 5 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/62WrTQb7LdY/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -243,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-05T01:58:50.644Z",
+      "at": "2026-10-05T08:50:44.930Z",
       "checked": 33,
       "errors": 0
     }
