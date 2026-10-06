@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T23:20:58.530Z",
+  "generatedAt": "2026-10-06T03:09:52.724Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "D5fkCngw8zU",
-      "title": "LIVE: ABC News Live - Monday, October 5",
-      "thumbnail": "https://i.ytimg.com/vi/D5fkCngw8zU/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "uMaWTttJTVc",
-      "title": "LIVE: NBC News NOW - Oct. 5",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/uMaWTttJTVc/hqdefault.jpg"
     },
     {
@@ -137,10 +137,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "N3bZB039OHw",
-      "title": "LIVE: President Trump holds midterm rally in the red state of Nebraska",
-      "thumbnail": "https://i.ytimg.com/vi/N3bZB039OHw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -200,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "hePYQWyggnk",
-      "title": "WATCH LIVE: Trump campaigns with Ricketts in Nebraska, where ranchers have a beef with import plan",
-      "thumbnail": "https://i.ytimg.com/vi/hePYQWyggnk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -238,7 +232,7 @@
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
       "videoId": "e_NiaR8I0BU",
-      "title": "Quebec election 2026: Voters cast final ballots as polls show Parti Québécois in the lead | LIVE",
+      "title": "Quebec election 2026: Parti Québécois projected to form minority government | LIVE",
       "thumbnail": "https://i.ytimg.com/vi/e_NiaR8I0BU/hqdefault.jpg"
     },
     {
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-05T23:20:58.530Z",
+      "at": "2026-10-06T03:09:52.724Z",
       "checked": 33,
       "errors": 0
     }
