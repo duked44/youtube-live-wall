@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T10:17:30.594Z",
+  "generatedAt": "2026-10-06T16:51:54.419Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,7 +14,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "Ud_NkY0s09Y",
+      "title": "LIVE: President Trump Delivers Remarks At Campaign Rally In Maryland Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/Ud_NkY0s09Y/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -47,10 +50,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "NlkmeOgNFBM",
-      "title": "LIVE: France braces for national day of school protests",
-      "thumbnail": "https://i.ytimg.com/vi/NlkmeOgNFBM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -94,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "jwYJoLqVXMI",
-      "title": "LIVE: School protests in France",
+      "title": "LIVE: Students protest in France for school funding",
       "thumbnail": "https://i.ytimg.com/vi/jwYJoLqVXMI/hqdefault.jpg"
     },
     {
@@ -102,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "cT3peLGZ8F4",
-      "title": "LIVE: Protest in Strasbourg, France, over school conditions",
-      "thumbnail": "https://i.ytimg.com/vi/cT3peLGZ8F4/hqdefault.jpg"
+      "videoId": "b_vyETpT-jU",
+      "title": "LIVE: Athens workers protest Rubio visit",
+      "thumbnail": "https://i.ytimg.com/vi/b_vyETpT-jU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "uMaWTttJTVc",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/uMaWTttJTVc/hqdefault.jpg"
+      "videoId": "cpFDLxCoK-g",
+      "title": "LIVE: NBC News NOW - Oct. 6",
+      "thumbnail": "https://i.ytimg.com/vi/cpFDLxCoK-g/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "wFv1SJ43g5s",
+      "videoId": "6uBMUj0jBsQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/wFv1SJ43g5s/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/6uBMUj0jBsQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ZV5E2qkP4oE",
-      "title": "Conservative Party conference continues in Birmingham",
-      "thumbnail": "https://i.ytimg.com/vi/ZV5E2qkP4oE/hqdefault.jpg"
+      "videoId": "fgASZeqF_cQ",
+      "title": "Thousands of French students storm streets over school conditions | Full Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/fgASZeqF_cQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -227,10 +227,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "yP4MngqJnSE",
-      "title": "2026 Nobel Prize in physics is announced – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/yP4MngqJnSE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -256,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-06T10:17:30.594Z",
+      "at": "2026-10-06T16:51:54.419Z",
       "checked": 33,
       "errors": 0
     }
