@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-06T03:09:52.724Z",
+  "generatedAt": "2026-10-06T10:17:30.594Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "sODutnRKDb4",
+      "title": "French Student Protests - Major Demonstrations in France - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/sODutnRKDb4/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -44,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "NlkmeOgNFBM",
+      "title": "LIVE: France braces for national day of school protests",
+      "thumbnail": "https://i.ytimg.com/vi/NlkmeOgNFBM/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -86,25 +92,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "jwYJoLqVXMI",
+      "title": "LIVE: School protests in France",
+      "thumbnail": "https://i.ytimg.com/vi/jwYJoLqVXMI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "fBA1N_haXi0",
-      "title": "LIVE: Madrid protesters camp demand action on housing crisis",
-      "thumbnail": "https://i.ytimg.com/vi/fBA1N_haXi0/hqdefault.jpg"
+      "videoId": "cT3peLGZ8F4",
+      "title": "LIVE: Protest in Strasbourg, France, over school conditions",
+      "thumbnail": "https://i.ytimg.com/vi/cT3peLGZ8F4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "356iV1xhBag",
+      "title": "LIVE: ABC News Live - Tuesday, October 6",
+      "thumbnail": "https://i.ytimg.com/vi/356iV1xhBag/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "ZV5E2qkP4oE",
+      "title": "Conservative Party conference continues in Birmingham",
+      "thumbnail": "https://i.ytimg.com/vi/ZV5E2qkP4oE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +227,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "yP4MngqJnSE",
+      "title": "2026 Nobel Prize in physics is announced – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/yP4MngqJnSE/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -230,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "e_NiaR8I0BU",
-      "title": "Quebec election 2026: Parti Québécois projected to form minority government | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/e_NiaR8I0BU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -252,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-06T03:09:52.724Z",
+      "at": "2026-10-06T10:17:30.594Z",
       "checked": 33,
       "errors": 0
     }
