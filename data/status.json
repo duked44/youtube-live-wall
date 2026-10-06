@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-10-06T16:51:54.419Z",
+  "generatedAt": "2026-10-06T21:24:13.569Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "sODutnRKDb4",
-      "title": "French Student Protests - Major Demonstrations in France - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/sODutnRKDb4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "Ud_NkY0s09Y",
-      "title": "LIVE: President Trump Delivers Remarks At Campaign Rally In Maryland Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/Ud_NkY0s09Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -25,7 +19,7 @@
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
       "videoId": "wyy3vNk9vcw",
-      "title": "New Hampshire 1st Congressional District Debate",
+      "title": "New Hampshire 1st Congressional District Forum",
       "thumbnail": "https://i.ytimg.com/vi/wyy3vNk9vcw/hqdefault.jpg"
     },
     {
@@ -93,18 +87,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "jwYJoLqVXMI",
-      "title": "LIVE: Students protest in France for school funding",
-      "thumbnail": "https://i.ytimg.com/vi/jwYJoLqVXMI/hqdefault.jpg"
+      "videoId": "4AbiV-fPaB4",
+      "title": "LIVE: Fans arrive to watch Messi’s farewell game for Argentina",
+      "thumbnail": "https://i.ytimg.com/vi/4AbiV-fPaB4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "b_vyETpT-jU",
-      "title": "LIVE: Athens workers protest Rubio visit",
-      "thumbnail": "https://i.ytimg.com/vi/b_vyETpT-jU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -153,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "fgASZeqF_cQ",
-      "title": "Thousands of French students storm streets over school conditions | Full Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/fgASZeqF_cQ/hqdefault.jpg"
+      "videoId": "gVGO3LmSm8w",
+      "title": "Tear gas fired at protesters in France | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/gVGO3LmSm8w/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,7 +197,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "NmtYiYI_7us",
+      "title": "PBS News Hour live episode, Oct. 6, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/NmtYiYI_7us/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-06T16:51:54.419Z",
+      "at": "2026-10-06T21:24:13.569Z",
       "checked": 33,
       "errors": 0
     }
