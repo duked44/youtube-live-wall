@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:24:13.569Z",
+  "generatedAt": "2026-10-07T00:54:24.829Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -18,9 +18,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "wyy3vNk9vcw",
-      "title": "New Hampshire 1st Congressional District Forum",
-      "thumbnail": "https://i.ytimg.com/vi/wyy3vNk9vcw/hqdefault.jpg"
+      "videoId": "VnRJlQYEOow",
+      "title": "National Civics Bee",
+      "thumbnail": "https://i.ytimg.com/vi/VnRJlQYEOow/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -86,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "4AbiV-fPaB4",
-      "title": "LIVE: Fans arrive to watch Messi’s farewell game for Argentina",
-      "thumbnail": "https://i.ytimg.com/vi/4AbiV-fPaB4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -111,18 +108,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cpFDLxCoK-g",
+      "videoId": "6_f4r8tqdao",
       "title": "LIVE: NBC News NOW - Oct. 6",
-      "thumbnail": "https://i.ytimg.com/vi/cpFDLxCoK-g/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/6_f4r8tqdao/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "6uBMUj0jBsQ",
+      "videoId": "GmE5Ie02NdI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/6uBMUj0jBsQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/GmE5Ie02NdI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "gVGO3LmSm8w",
-      "title": "Tear gas fired at protesters in France | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/gVGO3LmSm8w/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,24 +195,27 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "NmtYiYI_7us",
-      "title": "PBS News Hour live episode, Oct. 6, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/NmtYiYI_7us/hqdefault.jpg"
+      "videoId": "KS_6noNetDM",
+      "title": "LISTEN LIVE: Supreme Court hears arguments in dispute over Air Force’s munitions disposal in Guam",
+      "thumbnail": "https://i.ytimg.com/vi/KS_6noNetDM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "iutgIK0sRaA",
+      "title": "Betting on the 'Final Frontier': What will the future look like? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/iutgIK0sRaA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "IPuN6plmLYk",
-      "title": "LIVE: Oct. 6 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/IPuN6plmLYk/hqdefault.jpg"
+      "videoId": "OrCmyBLOMXM",
+      "title": "LIVE: Oct. 7 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/OrCmyBLOMXM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-06T21:24:13.569Z",
+      "at": "2026-10-07T00:54:24.829Z",
       "checked": 33,
       "errors": 0
     }
