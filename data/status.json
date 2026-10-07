@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T06:50:39.333Z",
+  "generatedAt": "2026-10-07T14:01:54.536Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "hSeLlJzLQzs",
+      "title": "WATCH LIVE: Rubio sounds alarm on THREATS facing America and the West",
+      "thumbnail": "https://i.ytimg.com/vi/hSeLlJzLQzs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,45 +90,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "ay9BsVDa-OM",
-      "title": "LIVE: View of Gaza City on 3rd anniversary of Oct. 7 attack",
-      "thumbnail": "https://i.ytimg.com/vi/ay9BsVDa-OM/hqdefault.jpg"
+      "videoId": "VJZHPGf23BA",
+      "title": "LIVE: Kenso Soai reacts after winning the 2026 Nobel Prize in chemistry",
+      "thumbnail": "https://i.ytimg.com/vi/VJZHPGf23BA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "N5r5H2SMWe8",
-      "title": "LIVE: View of Gaza City on October 7 anniversary",
-      "thumbnail": "https://i.ytimg.com/vi/N5r5H2SMWe8/hqdefault.jpg"
+      "videoId": "O3YL8f4v_gs",
+      "title": "LIVE: Hot air balloons fill New Mexico's skies",
+      "thumbnail": "https://i.ytimg.com/vi/O3YL8f4v_gs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "V0NSpYFg1dk",
+      "title": "LIVE: ABC News Live - Wednesday, October 7",
+      "thumbnail": "https://i.ytimg.com/vi/V0NSpYFg1dk/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "6_f4r8tqdao",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/6_f4r8tqdao/hqdefault.jpg"
+      "videoId": "GgPKRZdFZ7s",
+      "title": "LIVE: NBC News NOW - Oct. 7",
+      "thumbnail": "https://i.ytimg.com/vi/GgPKRZdFZ7s/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "GmE5Ie02NdI",
+      "videoId": "5fShan4Wmtk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/GmE5Ie02NdI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/5fShan4Wmtk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "GPXBAwPFkHI",
-      "title": "Christa Pike 'conscious and speaking at hospital' after failed execution in US | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/GPXBAwPFkHI/hqdefault.jpg"
+      "videoId": "_6Ep3cpk6rs",
+      "title": "Israel marks three anniversary of October 7 attacks",
+      "thumbnail": "https://i.ytimg.com/vi/_6Ep3cpk6rs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -236,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "s_CQ5nLuQlM",
+      "title": "Canada to announce stance on assisted dying (MAID) for people with mental illness | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/s_CQ5nLuQlM/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-07T06:50:39.333Z",
+      "at": "2026-10-07T14:01:54.536Z",
       "checked": 33,
       "errors": 0
     }
