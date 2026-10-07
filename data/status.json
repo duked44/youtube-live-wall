@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T14:01:54.536Z",
+  "generatedAt": "2026-10-07T19:55:27.994Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "hSeLlJzLQzs",
-      "title": "WATCH LIVE: Rubio sounds alarm on THREATS facing America and the West",
-      "thumbnail": "https://i.ytimg.com/vi/hSeLlJzLQzs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,19 +86,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "VJZHPGf23BA",
-      "title": "LIVE: Kenso Soai reacts after winning the 2026 Nobel Prize in chemistry",
-      "thumbnail": "https://i.ytimg.com/vi/VJZHPGf23BA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "O3YL8f4v_gs",
-      "title": "LIVE: Hot air balloons fill New Mexico's skies",
-      "thumbnail": "https://i.ytimg.com/vi/O3YL8f4v_gs/hqdefault.jpg"
+      "videoId": "mdg7LlMvTvE",
+      "title": "LIVE: BTS fans gather in Lima for band's first Peru concert",
+      "thumbnail": "https://i.ytimg.com/vi/mdg7LlMvTvE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "GgPKRZdFZ7s",
-      "title": "LIVE: NBC News NOW - Oct. 7",
-      "thumbnail": "https://i.ytimg.com/vi/GgPKRZdFZ7s/hqdefault.jpg"
+      "videoId": "w7uPIMH2c3o",
+      "title": "LIVE: Tracking Tropical Storm Isaias as it heads toward Gulf Coast | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "_6Ep3cpk6rs",
-      "title": "Israel marks three anniversary of October 7 attacks",
-      "thumbnail": "https://i.ytimg.com/vi/_6Ep3cpk6rs/hqdefault.jpg"
+      "videoId": "vq-VkW13rgU",
+      "title": "British Jews mark October 7 anniversary | The UK Tonight with Sarah-Jane Mee",
+      "thumbnail": "https://i.ytimg.com/vi/vq-VkW13rgU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,15 +198,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "KS_6noNetDM",
-      "title": "LISTEN LIVE: Supreme Court hears arguments in dispute over Air Force’s munitions disposal in Guam",
-      "thumbnail": "https://i.ytimg.com/vi/KS_6noNetDM/hqdefault.jpg"
+      "videoId": "Ykk3UCmeftU",
+      "title": "WATCH LIVE: Trump speaks at rally for Senate candidate Ken Paxton in San Antonio",
+      "thumbnail": "https://i.ytimg.com/vi/Ykk3UCmeftU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "1bU5dh19xTE",
+      "title": "Mamdani evokes Gaza in Oct. 7 message — was it antisemitic? Debate Batya Ungar-Sargon",
+      "thumbnail": "https://i.ytimg.com/vi/1bU5dh19xTE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -239,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "s_CQ5nLuQlM",
-      "title": "Canada to announce stance on assisted dying (MAID) for people with mental illness | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/s_CQ5nLuQlM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-07T14:01:54.536Z",
+      "at": "2026-10-07T19:55:27.994Z",
       "checked": 33,
       "errors": 0
     }
