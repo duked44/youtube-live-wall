@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T00:54:24.829Z",
+  "generatedAt": "2026-10-07T06:50:39.333Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,22 +86,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "ay9BsVDa-OM",
+      "title": "LIVE: View of Gaza City on 3rd anniversary of Oct. 7 attack",
+      "thumbnail": "https://i.ytimg.com/vi/ay9BsVDa-OM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "N5r5H2SMWe8",
+      "title": "LIVE: View of Gaza City on October 7 anniversary",
+      "thumbnail": "https://i.ytimg.com/vi/N5r5H2SMWe8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "356iV1xhBag",
-      "title": "LIVE: ABC News Live - Tuesday, October 6",
-      "thumbnail": "https://i.ytimg.com/vi/356iV1xhBag/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -109,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "6_f4r8tqdao",
-      "title": "LIVE: NBC News NOW - Oct. 6",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/6_f4r8tqdao/hqdefault.jpg"
     },
     {
@@ -141,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "GPXBAwPFkHI",
+      "title": "Christa Pike 'conscious and speaking at hospital' after failed execution in US | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/GPXBAwPFkHI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "iutgIK0sRaA",
-      "title": "Betting on the 'Final Frontier': What will the future look like? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/iutgIK0sRaA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-07T00:54:24.829Z",
+      "at": "2026-10-07T06:50:39.333Z",
       "checked": 33,
       "errors": 0
     }
