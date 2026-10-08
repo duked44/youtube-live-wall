@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T19:01:56.581Z",
+  "generatedAt": "2026-10-08T23:44:39.453Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,10 +86,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "b3v1FZfVFmk",
-      "title": "LIVE: Gov. DeSantis holds a press conference as Hurricane Isaias approaches Florida",
-      "thumbnail": "https://i.ytimg.com/vi/b3v1FZfVFmk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -105,27 +102,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "M3o-Fve7S2E",
-      "title": "President Trump attends innovation summit",
-      "thumbnail": "https://i.ytimg.com/vi/M3o-Fve7S2E/hqdefault.jpg"
+      "videoId": "UNlabc4CzPE",
+      "title": "LIVE: ABC News Live - Thursday, October 8",
+      "thumbnail": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "nnxk28zM4RU",
-      "title": "LIVE: Trump speaks at science and technology summit | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/nnxk28zM4RU/hqdefault.jpg"
+      "videoId": "WdYw0vgfWP0",
+      "title": "LIVE: NBC News NOW - Oct. 8",
+      "thumbnail": "https://i.ytimg.com/vi/WdYw0vgfWP0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "GtNbBQGfNyI",
+      "videoId": "Q9GprU4Hi-Q",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/GtNbBQGfNyI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "bNjzopXUGS0",
-      "title": "The UK Tonight with Sarah-Jane Mee | Thursday 8 October 2026",
-      "thumbnail": "https://i.ytimg.com/vi/bNjzopXUGS0/hqdefault.jpg"
+      "videoId": "cMymRkxOx5k",
+      "title": "Holborn and St Pancras by-election result and analysis | Full Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/cMymRkxOx5k/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,27 +204,24 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "WXpc9lGE3mw",
-      "title": "Is ‘MeToo’ back? Prove it! With Batya Ungar-Sargon and Michael Tracey",
-      "thumbnail": "https://i.ytimg.com/vi/WXpc9lGE3mw/hqdefault.jpg"
+      "videoId": "RCNDrlzoAfo",
+      "title": "LIVE: Abdul El-Sayed vs. Mike Rogers Michigan Senate debate",
+      "thumbnail": "https://i.ytimg.com/vi/RCNDrlzoAfo/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "YMLrVBp88E4",
-      "title": "LIVE: Oct. 8 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/YMLrVBp88E4/hqdefault.jpg"
+      "videoId": "PZ2FbcdEdkU",
+      "title": "LIVE: Oct. 9 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/PZ2FbcdEdkU/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "3q6A_meJjOA",
-      "title": "USS Abraham Lincoln returns to US after record-long deployment - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/3q6A_meJjOA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-08T19:01:56.581Z",
+      "at": "2026-10-08T23:44:39.453Z",
       "checked": 33,
       "errors": 0
     }
