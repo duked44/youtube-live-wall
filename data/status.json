@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T00:02:08.556Z",
+  "generatedAt": "2026-10-08T05:53:33.284Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "AEaFRwh5loY",
-      "title": "WATCH: President Trump delivers remarks at San Antonio rally",
-      "thumbnail": "https://i.ytimg.com/vi/AEaFRwh5loY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,27 +93,27 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "tHiKZt46Y_o",
-      "title": "LIVE: Hot air balloons fill New Mexico's skies",
-      "thumbnail": "https://i.ytimg.com/vi/tHiKZt46Y_o/hqdefault.jpg"
+      "videoId": "_Cj7bRmac4A",
+      "title": "LIVE: Protests over housing continue in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/_Cj7bRmac4A/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "V0NSpYFg1dk",
-      "title": "LIVE: ABC News Live - Wednesday, October 7",
-      "thumbnail": "https://i.ytimg.com/vi/V0NSpYFg1dk/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "i0UqwQYyg8Y",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 07",
-      "thumbnail": "https://i.ytimg.com/vi/i0UqwQYyg8Y/hqdefault.jpg"
+      "videoId": "h3YYphh4GRU",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/h3YYphh4GRU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -140,19 +137,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "LngqFLxPgVQ",
-      "title": "LIVE: President Trump delivers remarks at rally ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/LngqFLxPgVQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "BpOT6LiEQoA",
+      "title": "UK and Germany teaming up to fight sabotage and cyber attacks | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/BpOT6LiEQoA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "Ykk3UCmeftU",
-      "title": "WATCH LIVE: Trump speaks at rally for Senate candidate Ken Paxton in San Antonio",
-      "thumbnail": "https://i.ytimg.com/vi/Ykk3UCmeftU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-08T00:02:08.556Z",
+      "at": "2026-10-08T05:53:33.284Z",
       "checked": 33,
       "errors": 0
     }
