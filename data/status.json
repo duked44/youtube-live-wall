@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T05:53:33.284Z",
+  "generatedAt": "2026-10-08T12:42:25.428Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "McnE-bhBkCI",
+      "title": "WATCH LIVE: Rubio meets with Portuguese leaders in Lisbon",
+      "thumbnail": "https://i.ytimg.com/vi/McnE-bhBkCI/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -86,43 +89,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "AtpL_AWqIOg",
+      "title": "LIVE: Marco Rubio and Portugal foreign minister speak in Lisbon",
+      "thumbnail": "https://i.ytimg.com/vi/AtpL_AWqIOg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "_Cj7bRmac4A",
-      "title": "LIVE: Protests over housing continue in Spain",
-      "thumbnail": "https://i.ytimg.com/vi/_Cj7bRmac4A/hqdefault.jpg"
+      "videoId": "MXYkF2TLEFA",
+      "title": "LIVE: Protest in Paris demanding better school conditions",
+      "thumbnail": "https://i.ytimg.com/vi/MXYkF2TLEFA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "UNlabc4CzPE",
+      "title": "LIVE: ABC News Live - Thursday, October 8",
+      "thumbnail": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "h3YYphh4GRU",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/h3YYphh4GRU/hqdefault.jpg"
+      "videoId": "_qTps0Q2QtY",
+      "title": "LIVE: NBC News NOW - Oct. 8",
+      "thumbnail": "https://i.ytimg.com/vi/_qTps0Q2QtY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "wBjxt4Osqoc",
+      "videoId": "GtNbBQGfNyI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/wBjxt4Osqoc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/GtNbBQGfNyI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "BpOT6LiEQoA",
-      "title": "UK and Germany teaming up to fight sabotage and cyber attacks | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/BpOT6LiEQoA/hqdefault.jpg"
+      "videoId": "i6glR8bFbHc",
+      "title": "Live outside court as Andrew takes legal action against police force",
+      "thumbnail": "https://i.ytimg.com/vi/i6glR8bFbHc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-08T05:53:33.284Z",
+      "at": "2026-10-08T12:42:25.428Z",
       "checked": 33,
       "errors": 0
     }
