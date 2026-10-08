@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T12:42:25.428Z",
+  "generatedAt": "2026-10-08T19:01:56.581Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "McnE-bhBkCI",
-      "title": "WATCH LIVE: Rubio meets with Portuguese leaders in Lisbon",
-      "thumbnail": "https://i.ytimg.com/vi/McnE-bhBkCI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -90,36 +87,36 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "AtpL_AWqIOg",
-      "title": "LIVE: Marco Rubio and Portugal foreign minister speak in Lisbon",
-      "thumbnail": "https://i.ytimg.com/vi/AtpL_AWqIOg/hqdefault.jpg"
+      "videoId": "b3v1FZfVFmk",
+      "title": "LIVE: Gov. DeSantis holds a press conference as Hurricane Isaias approaches Florida",
+      "thumbnail": "https://i.ytimg.com/vi/b3v1FZfVFmk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "MXYkF2TLEFA",
-      "title": "LIVE: Protest in Paris demanding better school conditions",
-      "thumbnail": "https://i.ytimg.com/vi/MXYkF2TLEFA/hqdefault.jpg"
+      "videoId": "EZeyeNA9w1g",
+      "title": "LIVE: USS Abraham Lincoln returns to San Diego",
+      "thumbnail": "https://i.ytimg.com/vi/EZeyeNA9w1g/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "UNlabc4CzPE",
-      "title": "LIVE: ABC News Live - Thursday, October 8",
-      "thumbnail": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault.jpg"
+      "videoId": "M3o-Fve7S2E",
+      "title": "President Trump attends innovation summit",
+      "thumbnail": "https://i.ytimg.com/vi/M3o-Fve7S2E/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "_qTps0Q2QtY",
-      "title": "LIVE: NBC News NOW - Oct. 8",
-      "thumbnail": "https://i.ytimg.com/vi/_qTps0Q2QtY/hqdefault.jpg"
+      "videoId": "nnxk28zM4RU",
+      "title": "LIVE: Trump speaks at science and technology summit | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/nnxk28zM4RU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "i6glR8bFbHc",
-      "title": "Live outside court as Andrew takes legal action against police force",
-      "thumbnail": "https://i.ytimg.com/vi/i6glR8bFbHc/hqdefault.jpg"
+      "videoId": "bNjzopXUGS0",
+      "title": "The UK Tonight with Sarah-Jane Mee | Thursday 8 October 2026",
+      "thumbnail": "https://i.ytimg.com/vi/bNjzopXUGS0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +206,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "WXpc9lGE3mw",
+      "title": "Is ‘MeToo’ back? Prove it! With Batya Ungar-Sargon and Michael Tracey",
+      "thumbnail": "https://i.ytimg.com/vi/WXpc9lGE3mw/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -224,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "3q6A_meJjOA",
+      "title": "USS Abraham Lincoln returns to US after record-long deployment - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/3q6A_meJjOA/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-08T12:42:25.428Z",
+      "at": "2026-10-08T19:01:56.581Z",
       "checked": 33,
       "errors": 0
     }
