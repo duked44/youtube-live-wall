@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T19:55:27.994Z",
+  "generatedAt": "2026-10-08T00:02:08.556Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "AEaFRwh5loY",
+      "title": "WATCH: President Trump delivers remarks at San Antonio rally",
+      "thumbnail": "https://i.ytimg.com/vi/AEaFRwh5loY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "mdg7LlMvTvE",
-      "title": "LIVE: BTS fans gather in Lima for band's first Peru concert",
-      "thumbnail": "https://i.ytimg.com/vi/mdg7LlMvTvE/hqdefault.jpg"
+      "videoId": "tHiKZt46Y_o",
+      "title": "LIVE: Hot air balloons fill New Mexico's skies",
+      "thumbnail": "https://i.ytimg.com/vi/tHiKZt46Y_o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -111,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "w7uPIMH2c3o",
-      "title": "LIVE: Tracking Tropical Storm Isaias as it heads toward Gulf Coast | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/w7uPIMH2c3o/hqdefault.jpg"
+      "videoId": "i0UqwQYyg8Y",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 07",
+      "thumbnail": "https://i.ytimg.com/vi/i0UqwQYyg8Y/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "5fShan4Wmtk",
+      "videoId": "wBjxt4Osqoc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/5fShan4Wmtk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/wBjxt4Osqoc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -137,16 +140,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "LngqFLxPgVQ",
+      "title": "LIVE: President Trump delivers remarks at rally ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/LngqFLxPgVQ/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "vq-VkW13rgU",
-      "title": "British Jews mark October 7 anniversary | The UK Tonight with Sarah-Jane Mee",
-      "thumbnail": "https://i.ytimg.com/vi/vq-VkW13rgU/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,19 +212,16 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "1bU5dh19xTE",
-      "title": "Mamdani evokes Gaza in Oct. 7 message — was it antisemitic? Debate Batya Ungar-Sargon",
-      "thumbnail": "https://i.ytimg.com/vi/1bU5dh19xTE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "OrCmyBLOMXM",
-      "title": "LIVE: Oct. 7 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/OrCmyBLOMXM/hqdefault.jpg"
+      "videoId": "YMLrVBp88E4",
+      "title": "LIVE: Oct. 8 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/YMLrVBp88E4/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-07T19:55:27.994Z",
+      "at": "2026-10-08T00:02:08.556Z",
       "checked": 33,
       "errors": 0
     }
