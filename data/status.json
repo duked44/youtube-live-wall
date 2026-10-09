@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-10-09T17:10:01.553Z",
+  "generatedAt": "2026-10-09T21:41:13.265Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "WvbojcaVQtI",
-      "title": "Updates: Hurricane Isaias, ICE Shooting in NYC, Saudi-Houthi Fighting & More - LIVE News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/WvbojcaVQtI/hqdefault.jpg"
+      "videoId": "faYeE6QHWYI",
+      "title": "Hurricane Isaias Nears U.S. Coast - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/faYeE6QHWYI/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "XzPdRSKhoK0",
-      "title": "LIVE: Vice President JD Vance Delivers Remarks At Rally In Lima, Ohio As Midterm Elections Draw Near",
-      "thumbnail": "https://i.ytimg.com/vi/XzPdRSKhoK0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -97,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "qScgCSMyvtI",
-      "title": "LIVE: View of Panama City Beach as Hurricane Isaias reaches the Florida coast",
+      "title": "LIVE: View of Panama City Beach in Florida ahead of Hurricane Isaias",
       "thumbnail": "https://i.ytimg.com/vi/qScgCSMyvtI/hqdefault.jpg"
     },
     {
@@ -105,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "LJwhHhP6Nlc",
-      "title": "LIVE: Housing activists in Barcelona protest in tribute to Maricarmen Abascal",
-      "thumbnail": "https://i.ytimg.com/vi/LJwhHhP6Nlc/hqdefault.jpg"
+      "videoId": "zI9iO9hkwWE",
+      "title": "LIVE: Florida's Miramar Beach as Hurricane Isaias bears down on US Gulf",
+      "thumbnail": "https://i.ytimg.com/vi/zI9iO9hkwWE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "TA_kM7FkZ-o",
-      "title": "WATCH LIVE: Vance campaigns for Ohio Republican candidates with less than a month before midterms",
-      "thumbnail": "https://i.ytimg.com/vi/TA_kM7FkZ-o/hqdefault.jpg"
+      "videoId": "mYSN-TqyiDA",
+      "title": "WATCH LIVE: Trump rallies with Bruce Blakeman, New York's GOP gubernatorial candidate",
+      "thumbnail": "https://i.ytimg.com/vi/mYSN-TqyiDA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-09T17:10:01.553Z",
+      "at": "2026-10-09T21:41:13.265Z",
       "checked": 33,
       "errors": 0
     }
