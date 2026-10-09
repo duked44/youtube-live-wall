@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T03:07:38.548Z",
+  "generatedAt": "2026-10-09T10:29:23.148Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -44,7 +44,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "zzdQU1JVpIQ",
+      "title": "How Ukraine has transformed modern warfare | The Security Brief Live",
+      "thumbnail": "https://i.ytimg.com/vi/zzdQU1JVpIQ/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "niG_LWZnzUg",
-      "title": "LIVE: NYC Mayor Mamdani speaks after ICE officer shoots man",
-      "thumbnail": "https://i.ytimg.com/vi/niG_LWZnzUg/hqdefault.jpg"
+      "videoId": "eteny1ES3wk",
+      "title": "LIVE: Trump hosts Columbus Day celebration at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/eteny1ES3wk/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "YDzkB29E3kU",
+      "title": "LIVE: ABC News Live - Friday, October 9",
+      "thumbnail": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cMymRkxOx5k",
-      "title": "Holborn and St Pancras by-election result and analysis | Full Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/cMymRkxOx5k/hqdefault.jpg"
+      "videoId": "cexwcXpXnbg",
+      "title": "National demonstration escalates in Brussels",
+      "thumbnail": "https://i.ytimg.com/vi/cexwcXpXnbg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-09T03:07:38.548Z",
+      "at": "2026-10-09T10:29:23.148Z",
       "checked": 33,
       "errors": 0
     }
