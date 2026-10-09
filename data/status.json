@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T23:44:39.453Z",
+  "generatedAt": "2026-10-09T03:07:38.548Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,25 +86,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "niG_LWZnzUg",
+      "title": "LIVE: NYC Mayor Mamdani speaks after ICE officer shoots man",
+      "thumbnail": "https://i.ytimg.com/vi/niG_LWZnzUg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "EZeyeNA9w1g",
-      "title": "LIVE: USS Abraham Lincoln returns to San Diego",
-      "thumbnail": "https://i.ytimg.com/vi/EZeyeNA9w1g/hqdefault.jpg"
+      "videoId": "GHkvqW64MQQ",
+      "title": "LIVE: Protesters camp in Madrid square over housing crisis",
+      "thumbnail": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "UNlabc4CzPE",
-      "title": "LIVE: ABC News Live - Thursday, October 8",
-      "thumbnail": "https://i.ytimg.com/vi/UNlabc4CzPE/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "WdYw0vgfWP0",
-      "title": "LIVE: NBC News NOW - Oct. 8",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/WdYw0vgfWP0/hqdefault.jpg"
     },
     {
@@ -203,10 +206,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "RCNDrlzoAfo",
-      "title": "LIVE: Abdul El-Sayed vs. Mike Rogers Michigan Senate debate",
-      "thumbnail": "https://i.ytimg.com/vi/RCNDrlzoAfo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-08T23:44:39.453Z",
+      "at": "2026-10-09T03:07:38.548Z",
       "checked": 33,
       "errors": 0
     }
