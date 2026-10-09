@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-10-09T10:29:23.148Z",
+  "generatedAt": "2026-10-09T17:10:01.553Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "WvbojcaVQtI",
+      "title": "Updates: Hurricane Isaias, ICE Shooting in NYC, Saudi-Houthi Fighting & More - LIVE News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/WvbojcaVQtI/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "XzPdRSKhoK0",
+      "title": "LIVE: Vice President JD Vance Delivers Remarks At Rally In Lima, Ohio As Midterm Elections Draw Near",
+      "thumbnail": "https://i.ytimg.com/vi/XzPdRSKhoK0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -90,45 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "eteny1ES3wk",
-      "title": "LIVE: Trump hosts Columbus Day celebration at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/eteny1ES3wk/hqdefault.jpg"
+      "videoId": "qScgCSMyvtI",
+      "title": "LIVE: View of Panama City Beach as Hurricane Isaias reaches the Florida coast",
+      "thumbnail": "https://i.ytimg.com/vi/qScgCSMyvtI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "GHkvqW64MQQ",
-      "title": "LIVE: Protesters camp in Madrid square over housing crisis",
-      "thumbnail": "https://i.ytimg.com/vi/GHkvqW64MQQ/hqdefault.jpg"
+      "videoId": "LJwhHhP6Nlc",
+      "title": "LIVE: Housing activists in Barcelona protest in tribute to Maricarmen Abascal",
+      "thumbnail": "https://i.ytimg.com/vi/LJwhHhP6Nlc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "YDzkB29E3kU",
-      "title": "LIVE: ABC News Live - Friday, October 9",
-      "thumbnail": "https://i.ytimg.com/vi/YDzkB29E3kU/hqdefault.jpg"
+      "videoId": "gLdSQ0OE52A",
+      "title": "LIVE MAP: Tracking Hurricane Isaias",
+      "thumbnail": "https://i.ytimg.com/vi/gLdSQ0OE52A/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "WdYw0vgfWP0",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/WdYw0vgfWP0/hqdefault.jpg"
+      "videoId": "_ITi5v9zlnY",
+      "title": "LIVE: NBC News NOW - Oct. 9",
+      "thumbnail": "https://i.ytimg.com/vi/_ITi5v9zlnY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Q9GprU4Hi-Q",
+      "videoId": "yCmYjE_7iSs",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Q9GprU4Hi-Q/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/yCmYjE_7iSs/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cexwcXpXnbg",
-      "title": "National demonstration escalates in Brussels",
-      "thumbnail": "https://i.ytimg.com/vi/cexwcXpXnbg/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +209,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "TA_kM7FkZ-o",
+      "title": "WATCH LIVE: Vance campaigns for Ohio Republican candidates with less than a month before midterms",
+      "thumbnail": "https://i.ytimg.com/vi/TA_kM7FkZ-o/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-09T10:29:23.148Z",
+      "at": "2026-10-09T17:10:01.553Z",
       "checked": 33,
       "errors": 0
     }
