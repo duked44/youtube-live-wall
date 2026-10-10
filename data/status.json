@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T07:17:39.405Z",
+  "generatedAt": "2026-10-10T13:51:46.977Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "gLdSQ0OE52A",
-      "title": "LIVE MAP: Tracking Hurricane Isaias",
-      "thumbnail": "https://i.ytimg.com/vi/gLdSQ0OE52A/hqdefault.jpg"
+      "videoId": "Qek9Hh5_2zQ",
+      "title": "LIVE: ABC News Live - Saturday, October 10",
+      "thumbnail": "https://i.ytimg.com/vi/Qek9Hh5_2zQ/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ggDnLyfRXJA",
-      "title": "Trump agrees deal with Putin for diesel | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/ggDnLyfRXJA/hqdefault.jpg"
+      "videoId": "a41pL7yDx4I",
+      "title": "Pro-Palestine march in London marking three years of war in Gaza",
+      "thumbnail": "https://i.ytimg.com/vi/a41pL7yDx4I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -183,9 +183,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "1yn3KUpkF_c",
+      "title": "Trump Says Putin to Supply US With Diesel Ahead of Midterms | Bloomberg This Weekend: Oct. 3rd, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/1yn3KUpkF_c/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-10T07:17:39.405Z",
+      "at": "2026-10-10T13:51:46.977Z",
       "checked": 33,
       "errors": 0
     }
