@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-10T13:51:46.977Z",
+  "generatedAt": "2026-10-10T18:07:51.401Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "Suf8AoNoJI4",
+      "title": "Houthis Attack Riyadh Airport in Saudi Arabia - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/Suf8AoNoJI4/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "a41pL7yDx4I",
-      "title": "Pro-Palestine march in London marking three years of war in Gaza",
-      "thumbnail": "https://i.ytimg.com/vi/a41pL7yDx4I/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -183,9 +186,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "1yn3KUpkF_c",
-      "title": "Trump Says Putin to Supply US With Diesel Ahead of Midterms | Bloomberg This Weekend: Oct. 3rd, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/1yn3KUpkF_c/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-10T13:51:46.977Z",
+      "at": "2026-10-10T18:07:51.401Z",
       "checked": 33,
       "errors": 0
     }
