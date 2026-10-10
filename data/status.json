@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-10T01:17:45.278Z",
+  "generatedAt": "2026-10-10T07:17:39.405Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "faYeE6QHWYI",
-      "title": "Hurricane Isaias Nears U.S. Coast - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/faYeE6QHWYI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "UWYQNO-atuo",
-      "title": "WATCH LIVE:  Trump campaigns for Bruce Blakeman in Syracuse, New York",
-      "thumbnail": "https://i.ytimg.com/vi/UWYQNO-atuo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -102,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "zI9iO9hkwWE",
-      "title": "LIVE: Florida's Miramar Beach as Hurricane Isaias bears down on US Gulf",
-      "thumbnail": "https://i.ytimg.com/vi/zI9iO9hkwWE/hqdefault.jpg"
+      "videoId": "mnwBQ3y1MRo",
+      "title": "LIVE: Hurricane Isaias bears down on US Gulf Coast",
+      "thumbnail": "https://i.ytimg.com/vi/mnwBQ3y1MRo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -121,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "a0I_VkZHHIU",
-      "title": "LIVE: NBC News NOW - Oct. 9",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault.jpg"
     },
     {
@@ -146,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "boO6jP1nQDc",
-      "title": "LIVE: President Trump speaks at GOP midterm rally",
-      "thumbnail": "https://i.ytimg.com/vi/boO6jP1nQDc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "ggDnLyfRXJA",
+      "title": "Trump agrees deal with Putin for diesel | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/ggDnLyfRXJA/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,10 +200,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "mYSN-TqyiDA",
-      "title": "WATCH LIVE: Trump rallies with Bruce Blakeman, New York's GOP gubernatorial candidate",
-      "thumbnail": "https://i.ytimg.com/vi/mYSN-TqyiDA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -261,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-10T01:17:45.278Z",
+      "at": "2026-10-10T07:17:39.405Z",
       "checked": 33,
       "errors": 0
     }
