@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-12T07:03:20.136Z",
+  "generatedAt": "2026-10-12T16:41:25.856Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "WL3F9MvoPk8",
+      "title": "Federal Agents Raid Ilhan Omar’s Home - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/WL3F9MvoPk8/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -90,42 +93,42 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "lrf4HsfBLCs",
-      "title": "LIVE: Pope Leo XIV departs Vatican for surgery at Rome hospital",
-      "thumbnail": "https://i.ytimg.com/vi/lrf4HsfBLCs/hqdefault.jpg"
+      "videoId": "hMUmzRtk-Ts",
+      "title": "LIVE: Giant pumpkins compete at annual Northern California weigh-off",
+      "thumbnail": "https://i.ytimg.com/vi/hMUmzRtk-Ts/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "Yw7Uhbpg50Q",
-      "title": "LIVE: World Bank President Ajay Banga speaks at a town hall",
-      "thumbnail": "https://i.ytimg.com/vi/Yw7Uhbpg50Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "KrRZuVZXUDI",
+      "title": "LIVE: ABC News Live - Monday, October 12",
+      "thumbnail": "https://i.ytimg.com/vi/KrRZuVZXUDI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "a0I_VkZHHIU",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/a0I_VkZHHIU/hqdefault.jpg"
+      "videoId": "jeJ4kdpSCJk",
+      "title": "LIVE: NBC News NOW - Oct. 12",
+      "thumbnail": "https://i.ytimg.com/vi/jeJ4kdpSCJk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "SGGJBg6wBDc",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/SGGJBg6wBDc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "2Mb-Ih00xRo",
-      "title": "Zelenskyy accuses Russia of breaking Trump's 'energy ceasefire' | Mornings with Ridge & Frost",
-      "thumbnail": "https://i.ytimg.com/vi/2Mb-Ih00xRo/hqdefault.jpg"
+      "videoId": "Y9juuknXFo8",
+      "title": "Shabana Mahmood statement on MPs' safety",
+      "thumbnail": "https://i.ytimg.com/vi/Y9juuknXFo8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "yw29AXeKHdA",
+      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -212,13 +218,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "mj5byHvNQOs",
+      "title": "LIVE: Oct. 12 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/mj5byHvNQOs/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "C1XlKxN2VwU",
+      "title": "Andy Burnham delivers statement on strengthening ties with EU – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/C1XlKxN2VwU/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-12T07:03:20.136Z",
+      "at": "2026-10-12T16:41:25.856Z",
       "checked": 33,
       "errors": 0
     }
