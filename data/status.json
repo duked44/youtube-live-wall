@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-12T16:41:25.856Z",
+  "generatedAt": "2026-10-12T23:15:17.403Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "WL3F9MvoPk8",
-      "title": "Federal Agents Raid Ilhan Omar’s Home - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/WL3F9MvoPk8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -21,15 +18,18 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "VnRJlQYEOow",
-      "title": "National Civics Bee",
-      "thumbnail": "https://i.ytimg.com/vi/VnRJlQYEOow/hqdefault.jpg"
+      "videoId": "Uya88MLbHV0",
+      "title": "White House Press Secretary Katie Zacharia Holds First Briefing",
+      "thumbnail": "https://i.ytimg.com/vi/Uya88MLbHV0/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "SI2G_B423Ng",
+      "title": "WATCH LIVE: President Trump delivers remarks at Youngstown campaign rally",
+      "thumbnail": "https://i.ytimg.com/vi/SI2G_B423Ng/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -47,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "zzdQU1JVpIQ",
-      "title": "How Ukraine has transformed modern warfare | The Security Brief Live",
-      "thumbnail": "https://i.ytimg.com/vi/zzdQU1JVpIQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -92,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "hMUmzRtk-Ts",
-      "title": "LIVE: Giant pumpkins compete at annual Northern California weigh-off",
-      "thumbnail": "https://i.ytimg.com/vi/hMUmzRtk-Ts/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -108,27 +102,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KrRZuVZXUDI",
+      "videoId": "p2kCBRSS8Lc",
       "title": "LIVE: ABC News Live - Monday, October 12",
-      "thumbnail": "https://i.ytimg.com/vi/KrRZuVZXUDI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/p2kCBRSS8Lc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "jeJ4kdpSCJk",
+      "videoId": "FXDEt2omKmA",
       "title": "LIVE: NBC News NOW - Oct. 12",
-      "thumbnail": "https://i.ytimg.com/vi/jeJ4kdpSCJk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/FXDEt2omKmA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "SGGJBg6wBDc",
+      "videoId": "CmR2-LqwYw4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/SGGJBg6wBDc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/CmR2-LqwYw4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +137,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "m6poOVG2XRw",
+      "title": "LIVE: Trump speaks at Ohio rally amid midterm roadshow",
+      "thumbnail": "https://i.ytimg.com/vi/m6poOVG2XRw/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Y9juuknXFo8",
-      "title": "Shabana Mahmood statement on MPs' safety",
-      "thumbnail": "https://i.ytimg.com/vi/Y9juuknXFo8/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yw29AXeKHdA",
-      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
+      "videoId": "yk-_XzYuyYY",
+      "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/yk-_XzYuyYY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +224,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "C1XlKxN2VwU",
-      "title": "Andy Burnham delivers statement on strengthening ties with EU – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/C1XlKxN2VwU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -256,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-12T16:41:25.856Z",
+      "at": "2026-10-12T23:15:17.403Z",
       "checked": 33,
       "errors": 0
     }
