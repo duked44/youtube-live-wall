@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T21:53:39.960Z",
+  "generatedAt": "2026-10-12T00:56:07.227Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "dNIvmhbEK4Y",
-      "title": "LIVE: ABC News Live - Sunday, October 11",
-      "thumbnail": "https://i.ytimg.com/vi/dNIvmhbEK4Y/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "RBmt8zC38FQ",
-      "title": "Trump announces Russia-Ukraine 'energy ceasefire' | The Wrap with Matt Barbet",
-      "thumbnail": "https://i.ytimg.com/vi/RBmt8zC38FQ/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-11T21:53:39.960Z",
+      "at": "2026-10-12T00:56:07.227Z",
       "checked": 33,
       "errors": 0
     }
