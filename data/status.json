@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:56:07.227Z",
+  "generatedAt": "2026-10-12T07:03:20.136Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,16 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "lrf4HsfBLCs",
+      "title": "LIVE: Pope Leo XIV departs Vatican for surgery at Rome hospital",
+      "thumbnail": "https://i.ytimg.com/vi/lrf4HsfBLCs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "mnwBQ3y1MRo",
-      "title": "LIVE: Hurricane Isaias bears down on US Gulf Coast",
-      "thumbnail": "https://i.ytimg.com/vi/mnwBQ3y1MRo/hqdefault.jpg"
+      "videoId": "Yw7Uhbpg50Q",
+      "title": "LIVE: World Bank President Ajay Banga speaks at a town hall",
+      "thumbnail": "https://i.ytimg.com/vi/Yw7Uhbpg50Q/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "2Mb-Ih00xRo",
+      "title": "Zelenskyy accuses Russia of breaking Trump's 'energy ceasefire' | Mornings with Ridge & Frost",
+      "thumbnail": "https://i.ytimg.com/vi/2Mb-Ih00xRo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-12T00:56:07.227Z",
+      "at": "2026-10-12T07:03:20.136Z",
       "checked": 33,
       "errors": 0
     }
