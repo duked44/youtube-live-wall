@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-13T03:38:15.040Z",
+  "generatedAt": "2026-10-13T11:06:59.134Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "gIMXwv38iNc",
+      "title": "French Student Protests - Major Demonstrations in France - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/gIMXwv38iNc/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -89,40 +92,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "dN-prxP1rPE",
+      "title": "LIVE: Pope Leo XIV heads to Rome hospital for lung surgery",
+      "thumbnail": "https://i.ytimg.com/vi/dN-prxP1rPE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "0zTXsiTkdcM",
+      "title": "LIVE: Spain's King Felipe and Queen Letizia visit Ceuta",
+      "thumbnail": "https://i.ytimg.com/vi/0zTXsiTkdcM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "KOTdMiRUbng",
+      "title": "LIVE: ABC News Live - Tuesday, October 13",
+      "thumbnail": "https://i.ytimg.com/vi/KOTdMiRUbng/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "FXDEt2omKmA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/FXDEt2omKmA/hqdefault.jpg"
+      "videoId": "rUkUQrosskw",
+      "title": "LIVE: NBC News NOW - Oct. 13",
+      "thumbnail": "https://i.ytimg.com/vi/rUkUQrosskw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "CmR2-LqwYw4",
+      "videoId": "cKsksEjZY64",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/CmR2-LqwYw4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/cKsksEjZY64/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "6vqjfM6GN-U",
+      "title": "Man City boss faces press after guilty verdicts",
+      "thumbnail": "https://i.ytimg.com/vi/6vqjfM6GN-U/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +230,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "9ob2MGCZptQ",
+      "title": "King Felipe and Queen Letizia visit Ceuta city hall – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/9ob2MGCZptQ/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -252,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-13T03:38:15.040Z",
+      "at": "2026-10-13T11:06:59.134Z",
       "checked": 33,
       "errors": 0
     }
