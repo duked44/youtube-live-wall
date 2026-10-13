@@ -1,32 +1,26 @@
 {
-  "generatedAt": "2026-10-13T11:06:59.134Z",
+  "generatedAt": "2026-10-13T18:15:52.076Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "gIMXwv38iNc",
-      "title": "French Student Protests - Major Demonstrations in France - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/gIMXwv38iNc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "7SMIIES5TQU",
-      "title": "LIVE: New Press Secretary Katie Zacharia Holds Her First White House Press Briefing",
-      "thumbnail": "https://i.ytimg.com/vi/7SMIIES5TQU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "Uya88MLbHV0",
-      "title": "White House Press Secretary Katie Zacharia Holds First Briefing",
-      "thumbnail": "https://i.ytimg.com/vi/Uya88MLbHV0/hqdefault.jpg"
+      "videoId": "VnRJlQYEOow",
+      "title": "National Civics Bee",
+      "thumbnail": "https://i.ytimg.com/vi/VnRJlQYEOow/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -93,18 +87,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "dN-prxP1rPE",
-      "title": "LIVE: Pope Leo XIV heads to Rome hospital for lung surgery",
-      "thumbnail": "https://i.ytimg.com/vi/dN-prxP1rPE/hqdefault.jpg"
+      "videoId": "kaXpf0l2gec",
+      "title": "LIVE: Judge sentences Duane ‘Keffe D’ Davis for Tupac Shakur’s murder",
+      "thumbnail": "https://i.ytimg.com/vi/kaXpf0l2gec/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "0zTXsiTkdcM",
-      "title": "LIVE: Spain's King Felipe and Queen Letizia visit Ceuta",
-      "thumbnail": "https://i.ytimg.com/vi/0zTXsiTkdcM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -153,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "6vqjfM6GN-U",
-      "title": "Man City boss faces press after guilty verdicts",
-      "thumbnail": "https://i.ytimg.com/vi/6vqjfM6GN-U/hqdefault.jpg"
+      "videoId": "q86a_3KZLw0",
+      "title": "MI5 says AI 'supercharging' security threats in UK | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/q86a_3KZLw0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -231,9 +222,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "9ob2MGCZptQ",
-      "title": "King Felipe and Queen Letizia visit Ceuta city hall – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/9ob2MGCZptQ/hqdefault.jpg"
+      "videoId": "TbsfKdObOd4",
+      "title": "Wes Streeting answers questions at Commons defence committee – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/TbsfKdObOd4/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -245,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "KXi4m3Haueo",
+      "title": "Ex-political rivals Notley, Kenney unite to keep Alberta in Canada ahead of vote | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/KXi4m3Haueo/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-13T11:06:59.134Z",
+      "at": "2026-10-13T18:15:52.076Z",
       "checked": 33,
       "errors": 0
     }
