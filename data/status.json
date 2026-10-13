@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T18:15:52.076Z",
+  "generatedAt": "2026-10-13T22:55:10.976Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "z9oxBwSLFkk",
+      "title": "WATCH: President Trump holds rally in Alaska",
+      "thumbnail": "https://i.ytimg.com/vi/z9oxBwSLFkk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -50,7 +53,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "da41wCzzwIY",
+      "title": "You See How This looks, Right? | Friendly Fire",
+      "thumbnail": "https://i.ytimg.com/vi/da41wCzzwIY/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -86,10 +92,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "kaXpf0l2gec",
-      "title": "LIVE: Judge sentences Duane ‘Keffe D’ Davis for Tupac Shakur’s murder",
-      "thumbnail": "https://i.ytimg.com/vi/kaXpf0l2gec/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -111,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "rUkUQrosskw",
+      "videoId": "F4VWVQ5j1rY",
       "title": "LIVE: NBC News NOW - Oct. 13",
-      "thumbnail": "https://i.ytimg.com/vi/rUkUQrosskw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "q86a_3KZLw0",
-      "title": "MI5 says AI 'supercharging' security threats in UK | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/q86a_3KZLw0/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -198,33 +201,33 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yw29AXeKHdA",
-      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
+      "videoId": "GpA1De9aj4c",
+      "title": "WATCH LIVE: Trump campaigns for Sen. Dan Sullivan in Alaska",
+      "thumbnail": "https://i.ytimg.com/vi/GpA1De9aj4c/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "uDPkE-lFdzk",
+      "title": "Can this 194-year-old tortoise help humans live to 200? | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/uDPkE-lFdzk/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "zto3mnjDDsI",
-      "title": "LIVE: Oct. 13 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/zto3mnjDDsI/hqdefault.jpg"
+      "videoId": "IvUHQACl2Yg",
+      "title": "LIVE: Oct. 14 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/IvUHQACl2Yg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "TbsfKdObOd4",
-      "title": "Wes Streeting answers questions at Commons defence committee – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/TbsfKdObOd4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -236,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "KXi4m3Haueo",
-      "title": "Ex-political rivals Notley, Kenney unite to keep Alberta in Canada ahead of vote | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/KXi4m3Haueo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -253,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-13T18:15:52.076Z",
+      "at": "2026-10-13T22:55:10.976Z",
       "checked": 33,
       "errors": 0
     }
