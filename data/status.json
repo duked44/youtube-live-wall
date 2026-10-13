@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:15:17.403Z",
+  "generatedAt": "2026-10-13T03:38:15.040Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "7SMIIES5TQU",
+      "title": "LIVE: New Press Secretary Katie Zacharia Holds Her First White House Press Briefing",
+      "thumbnail": "https://i.ytimg.com/vi/7SMIIES5TQU/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "SI2G_B423Ng",
-      "title": "WATCH LIVE: President Trump delivers remarks at Youngstown campaign rally",
-      "thumbnail": "https://i.ytimg.com/vi/SI2G_B423Ng/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "p2kCBRSS8Lc",
-      "title": "LIVE: ABC News Live - Monday, October 12",
-      "thumbnail": "https://i.ytimg.com/vi/p2kCBRSS8Lc/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "FXDEt2omKmA",
-      "title": "LIVE: NBC News NOW - Oct. 12",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/FXDEt2omKmA/hqdefault.jpg"
     },
     {
@@ -137,10 +137,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "m6poOVG2XRw",
-      "title": "LIVE: Trump speaks at Ohio rally amid midterm roadshow",
-      "thumbnail": "https://i.ytimg.com/vi/m6poOVG2XRw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -201,9 +198,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yk-_XzYuyYY",
-      "title": "WATCH LIVE: Trump speaks at midterm rally in Youngstown, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/yk-_XzYuyYY/hqdefault.jpg"
+      "videoId": "yw29AXeKHdA",
+      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -216,9 +213,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "mj5byHvNQOs",
-      "title": "LIVE: Oct. 12 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/mj5byHvNQOs/hqdefault.jpg"
+      "videoId": "zto3mnjDDsI",
+      "title": "LIVE: Oct. 13 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/zto3mnjDDsI/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-12T23:15:17.403Z",
+      "at": "2026-10-13T03:38:15.040Z",
       "checked": 33,
       "errors": 0
     }
