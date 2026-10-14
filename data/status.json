@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:41:51.577Z",
+  "generatedAt": "2026-10-14T12:26:02.944Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -86,49 +86,55 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "Y_LntqDuYCg",
+      "title": "LIVE: Rally held in Washington as court hears arguments on National Guard deployment",
+      "thumbnail": "https://i.ytimg.com/vi/Y_LntqDuYCg/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "i_x9QLmN4og",
+      "title": "LIVE: Albanian students protest over education costs",
+      "thumbnail": "https://i.ytimg.com/vi/i_x9QLmN4og/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "E_FYkY7-8uc",
+      "title": "LIVE: ABC News Live - Wednesday, October 14",
+      "thumbnail": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "F4VWVQ5j1rY",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault.jpg"
+      "videoId": "GKOAmJ9uuSE",
+      "title": "LIVE: NBC News NOW - Oct. 14",
+      "thumbnail": "https://i.ytimg.com/vi/GKOAmJ9uuSE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "eFCQVCpcX1U",
+      "videoId": "lLtdBrhYJuI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/eFCQVCpcX1U/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/lLtdBrhYJuI/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "ewKZNrvEfiA",
-      "title": "Global Perspectives in Bangkok: Experts discuss today’s biggest stories",
-      "thumbnail": "https://i.ytimg.com/vi/ewKZNrvEfiA/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -141,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "OSzaw9eQ3E8",
-      "title": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today | Mornings with Ridge & Frost",
-      "thumbnail": "https://i.ytimg.com/vi/OSzaw9eQ3E8/hqdefault.jpg"
+      "videoId": "3q0pr2IqxV4",
+      "title": "Violent protests flare up in Albania as students protest over education costs",
+      "thumbnail": "https://i.ytimg.com/vi/3q0pr2IqxV4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -159,9 +165,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "videoId": "-suk9CJfdyc",
+      "title": "Live: Merz addresses German Parliament as tensions mount over EU funding",
+      "thumbnail": "https://i.ytimg.com/vi/-suk9CJfdyc/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -218,10 +224,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "DP2Z-UUlSWs",
-      "title": "Andy Burnham takes questions in parliament – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/DP2Z-UUlSWs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -240,9 +243,9 @@
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
       "live": true,
-      "videoId": "XWq5kBlakcQ",
-      "title": "[CNA 24/7 LIVE] Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/XWq5kBlakcQ/hqdefault.jpg"
+      "videoId": "-PWMxjBgr0k",
+      "title": "CNA 24/7 LIVE: Breaking news on Asia and award-winning documentaries and shows",
+      "thumbnail": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg"
     }
   ],
   "health": {
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-14T06:41:51.577Z",
+      "at": "2026-10-14T12:26:02.944Z",
       "checked": 33,
       "errors": 0
     }
