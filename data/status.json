@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T20:55:52.199Z",
+  "generatedAt": "2026-10-14T23:44:50.236Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "RQhcDswAdBk",
-      "title": "LIVE: President Trump Delivers Remarks At Campaign Rally In Arizona Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/RQhcDswAdBk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "BY-4z4gFUcM",
-      "title": "WATCH LIVE: President Trump delivers remarks at midterm rally in Arizona",
-      "thumbnail": "https://i.ytimg.com/vi/BY-4z4gFUcM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,19 +86,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "QPHCVO4q47s",
-      "title": "LIVE: Los Angeles Dodgers and Milwaukee Brewers warm up before Game 3",
-      "thumbnail": "https://i.ytimg.com/vi/QPHCVO4q47s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "c5ICnYE09Fs",
-      "title": "LIVE: President Trump campaigns in Arizona ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/c5ICnYE09Fs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,45 +108,42 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "GKOAmJ9uuSE",
+      "videoId": "vFDaUmllLE8",
       "title": "LIVE: NBC News NOW - Oct. 14",
-      "thumbnail": "https://i.ytimg.com/vi/GKOAmJ9uuSE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/vFDaUmllLE8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "lLtdBrhYJuI",
+      "videoId": "RqbFX-USalc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/lLtdBrhYJuI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/RqbFX-USalc/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "PKXt7FkEGHc",
-      "title": "Live: Trump campaigns at Arizona rally ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/PKXt7FkEGHc/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "HD3TRyTx7HA",
-      "title": "LIVE: Trump delivers remarks in Arizona amid midterm blitz",
-      "thumbnail": "https://i.ytimg.com/vi/HD3TRyTx7HA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "J5PylUOvov8",
-      "title": "Zelenskyy gives Trump 'wrong side of history' warning | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/J5PylUOvov8/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "1ClvkN02_8I",
-      "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
-      "thumbnail": "https://i.ytimg.com/vi/1ClvkN02_8I/hqdefault.jpg"
+      "videoId": "i26U77GqVRY",
+      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
+      "thumbnail": "https://i.ytimg.com/vi/i26U77GqVRY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -225,9 +210,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "IvUHQACl2Yg",
-      "title": "LIVE: Oct. 14 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/IvUHQACl2Yg/hqdefault.jpg"
+      "videoId": "GCwa5DCgyOg",
+      "title": "LIVE: Oct. 15 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/GCwa5DCgyOg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -245,7 +230,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "T30EBgQZbr8",
+      "title": "2026 BC election leaders debate: David Eby, Lorne Doerkson and Emily Lowan square off | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/T30EBgQZbr8/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -264,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-14T20:55:52.199Z",
+      "at": "2026-10-14T23:44:50.236Z",
       "checked": 33,
       "errors": 0
     }
