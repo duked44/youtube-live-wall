@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T22:55:10.976Z",
+  "generatedAt": "2026-10-14T01:36:58.573Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -53,10 +53,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "da41wCzzwIY",
-      "title": "You See How This looks, Right? | Friendly Fire",
-      "thumbnail": "https://i.ytimg.com/vi/da41wCzzwIY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -123,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "cKsksEjZY64",
+      "videoId": "eFCQVCpcX1U",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/cKsksEjZY64/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/eFCQVCpcX1U/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -140,7 +137,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "xpAZDqQue-0",
+      "title": "LIVE: Trump rallies for GOP candidates in Alaska with just three weeks until midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/xpAZDqQue-0/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -209,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "uDPkE-lFdzk",
-      "title": "Can this 194-year-old tortoise help humans live to 200? | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/uDPkE-lFdzk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-13T22:55:10.976Z",
+      "at": "2026-10-14T01:36:58.573Z",
       "checked": 33,
       "errors": 0
     }
