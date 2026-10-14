@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T01:36:58.573Z",
+  "generatedAt": "2026-10-14T06:41:51.577Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "z9oxBwSLFkk",
-      "title": "WATCH: President Trump holds rally in Alaska",
-      "thumbnail": "https://i.ytimg.com/vi/z9oxBwSLFkk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -102,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KOTdMiRUbng",
-      "title": "LIVE: ABC News Live - Tuesday, October 13",
-      "thumbnail": "https://i.ytimg.com/vi/KOTdMiRUbng/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -112,7 +109,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "F4VWVQ5j1rY",
-      "title": "LIVE: NBC News NOW - Oct. 13",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/F4VWVQ5j1rY/hqdefault.jpg"
     },
     {
@@ -129,27 +126,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "ewKZNrvEfiA",
+      "title": "Global Perspectives in Bangkok: Experts discuss today’s biggest stories",
+      "thumbnail": "https://i.ytimg.com/vi/ewKZNrvEfiA/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "xpAZDqQue-0",
-      "title": "LIVE: Trump rallies for GOP candidates in Alaska with just three weeks until midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/xpAZDqQue-0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "OSzaw9eQ3E8",
+      "title": "Andy Burnham will welcome Volodymyr Zelenskyy to Downing Street today | Mornings with Ridge & Frost",
+      "thumbnail": "https://i.ytimg.com/vi/OSzaw9eQ3E8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +195,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "GpA1De9aj4c",
-      "title": "WATCH LIVE: Trump campaigns for Sen. Dan Sullivan in Alaska",
-      "thumbnail": "https://i.ytimg.com/vi/GpA1De9aj4c/hqdefault.jpg"
+      "videoId": "yw29AXeKHdA",
+      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,7 +218,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "DP2Z-UUlSWs",
+      "title": "Andy Burnham takes questions in parliament – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/DP2Z-UUlSWs/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-14T01:36:58.573Z",
+      "at": "2026-10-14T06:41:51.577Z",
       "checked": 33,
       "errors": 0
     }
