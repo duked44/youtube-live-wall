@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-14T17:29:12.409Z",
+  "generatedAt": "2026-10-14T20:55:52.199Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "Gn26oJMIRtc",
-      "title": "Albania Student Protests - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/Gn26oJMIRtc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -32,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "BY-4z4gFUcM",
+      "title": "WATCH LIVE: President Trump delivers remarks at midterm rally in Arizona",
+      "thumbnail": "https://i.ytimg.com/vi/BY-4z4gFUcM/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,16 +92,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "QPHCVO4q47s",
+      "title": "LIVE: Los Angeles Dodgers and Milwaukee Brewers warm up before Game 3",
+      "thumbnail": "https://i.ytimg.com/vi/QPHCVO4q47s/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "jl4aqRIrwD0",
-      "title": "LIVE: Albanian students protest over education costs",
-      "thumbnail": "https://i.ytimg.com/vi/jl4aqRIrwD0/hqdefault.jpg"
+      "videoId": "c5ICnYE09Fs",
+      "title": "LIVE: President Trump campaigns in Arizona ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/c5ICnYE09Fs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -135,24 +138,27 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "PKXt7FkEGHc",
+      "title": "Live: Trump campaigns at Arizona rally ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/PKXt7FkEGHc/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "HD3TRyTx7HA",
+      "title": "LIVE: Trump delivers remarks in Arizona amid midterm blitz",
+      "thumbnail": "https://i.ytimg.com/vi/HD3TRyTx7HA/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "J5PylUOvov8",
+      "title": "Zelenskyy gives Trump 'wrong side of history' warning | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/J5PylUOvov8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yw29AXeKHdA",
-      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
+      "videoId": "1ClvkN02_8I",
+      "title": "WATCH LIVE: Trump speaks at rally along Arizona-Nevada border",
+      "thumbnail": "https://i.ytimg.com/vi/1ClvkN02_8I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-14T17:29:12.409Z",
+      "at": "2026-10-14T20:55:52.199Z",
       "checked": 33,
       "errors": 0
     }
