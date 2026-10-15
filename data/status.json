@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T01:53:58.472Z",
+  "generatedAt": "2026-10-15T06:55:22.583Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -18,18 +18,15 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "VnRJlQYEOow",
-      "title": "National Civics Bee",
-      "thumbnail": "https://i.ytimg.com/vi/VnRJlQYEOow/hqdefault.jpg"
+      "videoId": "uLqulRhRLJQ",
+      "title": "New Hampshire U.S. Senate Debate",
+      "thumbnail": "https://i.ytimg.com/vi/uLqulRhRLJQ/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "ndHz4yh2b44",
-      "title": "WATCH: Trump delivers remarks at a rally in Montana",
-      "thumbnail": "https://i.ytimg.com/vi/ndHz4yh2b44/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -89,22 +86,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "N9TTL5zws_c",
+      "title": "LIVE: EU leaders arrive for a summit in Brussels",
+      "thumbnail": "https://i.ytimg.com/vi/N9TTL5zws_c/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "ZD0OMjRA04U",
+      "title": "LIVE: EU leaders arrive for a two-day summit in Brussels",
+      "thumbnail": "https://i.ytimg.com/vi/ZD0OMjRA04U/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "E_FYkY7-8uc",
-      "title": "LIVE: ABC News Live - Wednesday, October 14",
-      "thumbnail": "https://i.ytimg.com/vi/E_FYkY7-8uc/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -129,27 +132,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "XOWZbLqBzG4",
-      "title": "John Berman breaks down the CNN & Jubilee Town Hall with James Talarico",
-      "thumbnail": "https://i.ytimg.com/vi/XOWZbLqBzG4/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "RcVXO3LYEro",
-      "title": "LIVE: President Trump delivers remarks in Montana amid midterm blitz",
-      "thumbnail": "https://i.ytimg.com/vi/RcVXO3LYEro/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "v5_w9wC2Mrg",
+      "title": "Zelenskyy says Ukrainians are dying after Starlink slowdown - but who’s to blame? | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/v5_w9wC2Mrg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -201,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "i26U77GqVRY",
-      "title": "WATCH LIVE: Trump speaks at Montana rally for GOP House candidate Aaron Flint",
-      "thumbnail": "https://i.ytimg.com/vi/i26U77GqVRY/hqdefault.jpg"
+      "videoId": "yw29AXeKHdA",
+      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
+      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -236,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "T30EBgQZbr8",
-      "title": "2026 BC election leaders debate: David Eby, Lorne Doerkson and Emily Lowan square off | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/T30EBgQZbr8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -258,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T01:53:58.472Z",
+      "at": "2026-10-15T06:55:22.583Z",
       "checked": 33,
       "errors": 0
     }
