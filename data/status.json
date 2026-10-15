@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-15T20:25:00.336Z",
+  "generatedAt": "2026-10-15T23:11:31.117Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "ZH1bF9yzFs8",
+      "title": "Active Shooter at Silver Rail Elementary School in Bend, Oregon - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/ZH1bF9yzFs8/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "488t7Wgdn8g",
-      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Michigan As Midterm Elections Draw Near",
-      "thumbnail": "https://i.ytimg.com/vi/488t7Wgdn8g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -49,7 +49,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News LIVE",
+      "title": "Watch BBC News",
       "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
@@ -99,9 +99,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "TdGYfkT_g1o",
-      "title": "LIVE: Argentines hold protest over university funding",
-      "thumbnail": "https://i.ytimg.com/vi/TdGYfkT_g1o/hqdefault.jpg"
+      "videoId": "kxj8hjbCPuM",
+      "title": "LIVE: SpaceX Dragon docks at the ISS",
+      "thumbnail": "https://i.ytimg.com/vi/kxj8hjbCPuM/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "jcPgeulLxt8",
+      "videoId": "DLnAwi5wQwk",
       "title": "LIVE: NBC News NOW - Oct. 15",
-      "thumbnail": "https://i.ytimg.com/vi/jcPgeulLxt8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Uqf67ODWspg",
+      "videoId": "E4Z4v3qzd9A",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Uqf67ODWspg/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/E4Z4v3qzd9A/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,19 +143,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "CPEFUptsBUk",
-      "title": "LIVE: JD Vance holds midterm rally in Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/CPEFUptsBUk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "q22NTIbDwe0",
-      "title": "The frontline in Trump's war with Iran | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/q22NTIbDwe0/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,16 +203,16 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "kOx1dqE4lBw",
-      "title": "WATCH LIVE: Vance speaks at GOP rally in Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/kOx1dqE4lBw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "1QeEuiUu_Z8",
+      "title": "Are seed oils REALLY bad for you? The science behind the health scare | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/1QeEuiUu_Z8/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T20:25:00.336Z",
+      "at": "2026-10-15T23:11:31.117Z",
       "checked": 33,
       "errors": 0
     }
