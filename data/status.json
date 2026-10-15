@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-15T06:55:22.583Z",
+  "generatedAt": "2026-10-15T12:29:31.373Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "wRevkof155g",
+      "title": "Albania Protests - LIVE Breaking News Coverage (in Tirana)",
+      "thumbnail": "https://i.ytimg.com/vi/wRevkof155g/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "qxb7TSTE-Ko",
+      "title": "WATCH LIVE: DOJ announces results of Operation Show Me Justice",
+      "thumbnail": "https://i.ytimg.com/vi/qxb7TSTE-Ko/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -44,7 +50,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,45 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "N9TTL5zws_c",
-      "title": "LIVE: EU leaders arrive for a summit in Brussels",
-      "thumbnail": "https://i.ytimg.com/vi/N9TTL5zws_c/hqdefault.jpg"
+      "videoId": "V-jDgn4NSa8",
+      "title": "LIVE: Anti-government protests in Albania",
+      "thumbnail": "https://i.ytimg.com/vi/V-jDgn4NSa8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ZD0OMjRA04U",
-      "title": "LIVE: EU leaders arrive for a two-day summit in Brussels",
-      "thumbnail": "https://i.ytimg.com/vi/ZD0OMjRA04U/hqdefault.jpg"
+      "videoId": "UH4D9_byzVI",
+      "title": "LIVE: Albanian students protest over education costs",
+      "thumbnail": "https://i.ytimg.com/vi/UH4D9_byzVI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "hQJ0JsPojQU",
+      "title": "LIVE: ABC News Live - Thursday, October 15",
+      "thumbnail": "https://i.ytimg.com/vi/hQJ0JsPojQU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "vFDaUmllLE8",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/vFDaUmllLE8/hqdefault.jpg"
+      "videoId": "jcPgeulLxt8",
+      "title": "LIVE: NBC News NOW - Oct. 15",
+      "thumbnail": "https://i.ytimg.com/vi/jcPgeulLxt8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "RqbFX-USalc",
+      "videoId": "Uqf67ODWspg",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/RqbFX-USalc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Uqf67ODWspg/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "v5_w9wC2Mrg",
-      "title": "Zelenskyy says Ukrainians are dying after Starlink slowdown - but who’s to blame? | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/v5_w9wC2Mrg/hqdefault.jpg"
+      "videoId": "DERWtAlU-Bg",
+      "title": "Harry and Meghan's first public engagements since returning to the UK",
+      "thumbnail": "https://i.ytimg.com/vi/DERWtAlU-Bg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T06:55:22.583Z",
+      "at": "2026-10-15T12:29:31.373Z",
       "checked": 33,
       "errors": 0
     }
