@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T23:44:50.236Z",
+  "generatedAt": "2026-10-15T01:53:58.472Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "ndHz4yh2b44",
+      "title": "WATCH: Trump delivers remarks at a rally in Montana",
+      "thumbnail": "https://i.ytimg.com/vi/ndHz4yh2b44/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -109,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "vFDaUmllLE8",
-      "title": "LIVE: NBC News NOW - Oct. 14",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/vFDaUmllLE8/hqdefault.jpg"
     },
     {
@@ -126,15 +129,18 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "XOWZbLqBzG4",
+      "title": "John Berman breaks down the CNN & Jubilee Town Hall with James Talarico",
+      "thumbnail": "https://i.ytimg.com/vi/XOWZbLqBzG4/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "RcVXO3LYEro",
+      "title": "LIVE: President Trump delivers remarks in Montana amid midterm blitz",
+      "thumbnail": "https://i.ytimg.com/vi/RcVXO3LYEro/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-14T23:44:50.236Z",
+      "at": "2026-10-15T01:53:58.472Z",
       "checked": 33,
       "errors": 0
     }
