@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-10-15T12:29:31.373Z",
+  "generatedAt": "2026-10-15T17:18:28.887Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "wRevkof155g",
+      "videoId": "jiPKCB7ESfA",
       "title": "Albania Protests - LIVE Breaking News Coverage (in Tirana)",
-      "thumbnail": "https://i.ytimg.com/vi/wRevkof155g/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/jiPKCB7ESfA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "in6PLMhvTHE",
+      "title": "LIVE: President Trump Hosts Rose Garden Lunch At The White House",
+      "thumbnail": "https://i.ytimg.com/vi/in6PLMhvTHE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "qxb7TSTE-Ko",
-      "title": "WATCH LIVE: DOJ announces results of Operation Show Me Justice",
-      "thumbnail": "https://i.ytimg.com/vi/qxb7TSTE-Ko/hqdefault.jpg"
+      "videoId": "vbl56eRrejk",
+      "title": "WATCH LIVE: Vance rallies Michigan voters ahead of critical midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/vbl56eRrejk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "V-jDgn4NSa8",
-      "title": "LIVE: Anti-government protests in Albania",
-      "thumbnail": "https://i.ytimg.com/vi/V-jDgn4NSa8/hqdefault.jpg"
+      "videoId": "lWWB13t4_Uk",
+      "title": "LIVE: Anti-government protests in Albania sparked by Jared Kushner-linked project",
+      "thumbnail": "https://i.ytimg.com/vi/lWWB13t4_Uk/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "UH4D9_byzVI",
-      "title": "LIVE: Albanian students protest over education costs",
-      "thumbnail": "https://i.ytimg.com/vi/UH4D9_byzVI/hqdefault.jpg"
+      "videoId": "EUqByCDqtSE",
+      "title": "LIVE: Trump attends event at the White House",
+      "thumbnail": "https://i.ytimg.com/vi/EUqByCDqtSE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -149,16 +152,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "CPEFUptsBUk",
+      "title": "LIVE: JD Vance holds midterm rally in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/CPEFUptsBUk/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DERWtAlU-Bg",
-      "title": "Harry and Meghan's first public engagements since returning to the UK",
-      "thumbnail": "https://i.ytimg.com/vi/DERWtAlU-Bg/hqdefault.jpg"
+      "videoId": "DA0jCh4OfFk",
+      "title": "Trump speaks at the White House ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/DA0jCh4OfFk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "yw29AXeKHdA",
-      "title": "WATCH LIVE: National Columbus Day ​Ceremony in Washington",
-      "thumbnail": "https://i.ytimg.com/vi/yw29AXeKHdA/hqdefault.jpg"
+      "videoId": "VAU3rOucVPY",
+      "title": "WATCH LIVE: Trump hosts lunch in the White House Rose Garden",
+      "thumbnail": "https://i.ytimg.com/vi/VAU3rOucVPY/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -259,12 +265,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T12:29:31.373Z",
+      "at": "2026-10-15T17:18:28.887Z",
       "checked": 33,
       "errors": 0
     }
