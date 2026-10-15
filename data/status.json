@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-10-15T17:18:28.887Z",
+  "generatedAt": "2026-10-15T20:25:00.336Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "jiPKCB7ESfA",
-      "title": "Albania Protests - LIVE Breaking News Coverage (in Tirana)",
-      "thumbnail": "https://i.ytimg.com/vi/jiPKCB7ESfA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "in6PLMhvTHE",
-      "title": "LIVE: President Trump Hosts Rose Garden Lunch At The White House",
-      "thumbnail": "https://i.ytimg.com/vi/in6PLMhvTHE/hqdefault.jpg"
+      "videoId": "488t7Wgdn8g",
+      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Michigan As Midterm Elections Draw Near",
+      "thumbnail": "https://i.ytimg.com/vi/488t7Wgdn8g/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "vbl56eRrejk",
-      "title": "WATCH LIVE: Vance rallies Michigan voters ahead of critical midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/vbl56eRrejk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -98,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "lWWB13t4_Uk",
-      "title": "LIVE: Anti-government protests in Albania sparked by Jared Kushner-linked project",
-      "thumbnail": "https://i.ytimg.com/vi/lWWB13t4_Uk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "EUqByCDqtSE",
-      "title": "LIVE: Trump attends event at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/EUqByCDqtSE/hqdefault.jpg"
+      "videoId": "TdGYfkT_g1o",
+      "title": "LIVE: Argentines hold protest over university funding",
+      "thumbnail": "https://i.ytimg.com/vi/TdGYfkT_g1o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -162,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DA0jCh4OfFk",
-      "title": "Trump speaks at the White House ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/DA0jCh4OfFk/hqdefault.jpg"
+      "videoId": "q22NTIbDwe0",
+      "title": "The frontline in Trump's war with Iran | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/q22NTIbDwe0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VAU3rOucVPY",
-      "title": "WATCH LIVE: Trump hosts lunch in the White House Rose Garden",
-      "thumbnail": "https://i.ytimg.com/vi/VAU3rOucVPY/hqdefault.jpg"
+      "videoId": "kOx1dqE4lBw",
+      "title": "WATCH LIVE: Vance speaks at GOP rally in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/kOx1dqE4lBw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -251,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "mS-u602g3fc",
+      "title": "Mark Carney delivers remarks at ‘Forever Canadian’ rally ahead of Alberta referendum | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/mS-u602g3fc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T17:18:28.887Z",
+      "at": "2026-10-15T20:25:00.336Z",
       "checked": 33,
       "errors": 0
     }
