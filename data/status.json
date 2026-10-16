@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-15T23:11:31.117Z",
+  "generatedAt": "2026-10-16T01:22:45.012Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "ZH1bF9yzFs8",
-      "title": "Active Shooter at Silver Rail Elementary School in Bend, Oregon - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/ZH1bF9yzFs8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -209,19 +206,16 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "1QeEuiUu_Z8",
-      "title": "Are seed oils REALLY bad for you? The science behind the health scare | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/1QeEuiUu_Z8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "GCwa5DCgyOg",
-      "title": "LIVE: Oct. 15 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/GCwa5DCgyOg/hqdefault.jpg"
+      "videoId": "b4zP8v7XlMM",
+      "title": "LIVE: Oct. 16 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/b4zP8v7XlMM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-15T23:11:31.117Z",
+      "at": "2026-10-16T01:22:45.012Z",
       "checked": 33,
       "errors": 0
     }
