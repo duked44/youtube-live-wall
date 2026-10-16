@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-16T15:24:31.204Z",
+  "generatedAt": "2026-10-16T18:54:56.970Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "uL67P6qRlAk",
+      "title": "White House Press Secretary Katie Zacharia Fired - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/uL67P6qRlAk/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "XLats_C_W9Y",
-      "title": "WATCH LIVE: Alex Murdaugh returns to court ahead of his second double-murder retrial",
-      "thumbnail": "https://i.ytimg.com/vi/XLats_C_W9Y/hqdefault.jpg"
+      "videoId": "EDx9usMh6Pk",
+      "title": "WATCH LIVE: Trump delivers remarks at high-profile rally in Georgia",
+      "thumbnail": "https://i.ytimg.com/vi/EDx9usMh6Pk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,18 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Bce2TPJ4tbk",
-      "title": "LIVE from Bend, Oregon after a school shooting",
-      "thumbnail": "https://i.ytimg.com/vi/Bce2TPJ4tbk/hqdefault.jpg"
+      "videoId": "qCCPV4yWevA",
+      "title": "LIVE: Trump speaks at a rally in Dalton, Georgia",
+      "thumbnail": "https://i.ytimg.com/vi/qCCPV4yWevA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "VxainE-DB_Q",
-      "title": "LIVE: Alex Murdaugh back in South Carolina court",
-      "thumbnail": "https://i.ytimg.com/vi/VxainE-DB_Q/hqdefault.jpg"
+      "videoId": "LuKRRnhODCk",
+      "title": "LIVE: Albanian students protest over education costs",
+      "thumbnail": "https://i.ytimg.com/vi/LuKRRnhODCk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -124,7 +127,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "DLnAwi5wQwk",
-      "title": "LIVE: NBC News NOW",
+      "title": "LIVE: NBC News NOW - Oct. 16",
       "thumbnail": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault.jpg"
     },
     {
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Mx0EDf7gWs4",
-      "title": "Anti-government demonstrations continue in Albania",
-      "thumbnail": "https://i.ytimg.com/vi/Mx0EDf7gWs4/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,16 +212,16 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "a8LHyVS1IlI",
+      "title": "WATCH LIVE: State officials hold news conference after deadly shooting at Oregon elementary school",
+      "thumbnail": "https://i.ytimg.com/vi/a8LHyVS1IlI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "4JYUFI6uNQo",
-      "title": "Watch live: Alex Murdaugh new trial hearing",
-      "thumbnail": "https://i.ytimg.com/vi/4JYUFI6uNQo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -233,10 +236,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "qTv6kd4BAgw",
-      "title": "Ursula von der Leyen and Antonio Costa hold news conference at EU summit - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/qTv6kd4BAgw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-16T15:24:31.204Z",
+      "at": "2026-10-16T18:54:56.970Z",
       "checked": 33,
       "errors": 0
     }
