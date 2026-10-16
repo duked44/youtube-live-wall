@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:03:35.820Z",
+  "generatedAt": "2026-10-16T11:15:11.432Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,25 +89,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "LCRHCc6Jz1o",
+      "title": "LIVE: Anti-government protests in Albania",
+      "thumbnail": "https://i.ytimg.com/vi/LCRHCc6Jz1o/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "kxj8hjbCPuM",
-      "title": "LIVE: SpaceX Dragon docks at the ISS",
-      "thumbnail": "https://i.ytimg.com/vi/kxj8hjbCPuM/hqdefault.jpg"
+      "videoId": "UyAOZv1KttA",
+      "title": "LIVE: India's Cockroach Janta Party holds flag march in Delhi",
+      "thumbnail": "https://i.ytimg.com/vi/UyAOZv1KttA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "syqrmPSmptw",
+      "title": "LIVE: ABC News Live - Friday, October 16",
+      "thumbnail": "https://i.ytimg.com/vi/syqrmPSmptw/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -123,9 +126,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "E4Z4v3qzd9A",
+      "videoId": "MMCqhcEgwLQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/E4Z4v3qzd9A/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "m-V-HT8CLyM",
-      "title": "Teenager kills three children and teacher at primary school in Oregon | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/m-V-HT8CLyM/hqdefault.jpg"
+      "videoId": "mBKseiO0gTU",
+      "title": "PM delivers first major speech in Scotland",
+      "thumbnail": "https://i.ytimg.com/vi/mBKseiO0gTU/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "731gPW7oU18",
+      "title": "Ukrainian president Volodymyr Zelenskiy holds press conference at EU summit - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/731gPW7oU18/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-16T06:03:35.820Z",
+      "at": "2026-10-16T11:15:11.432Z",
       "checked": 33,
       "errors": 0
     }
