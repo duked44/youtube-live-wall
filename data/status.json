@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-10-16T18:54:56.970Z",
+  "generatedAt": "2026-10-16T21:55:38.138Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "uL67P6qRlAk",
-      "title": "White House Press Secretary Katie Zacharia Fired - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/uL67P6qRlAk/hqdefault.jpg"
+      "videoId": "7TTDt64xo8A",
+      "title": "Oregon School Shooting Press Conference - LIVE Breaking News Coverage (Silver Rail Elementary)",
+      "thumbnail": "https://i.ytimg.com/vi/7TTDt64xo8A/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -159,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "j2YHdso5fLE",
+      "title": "Under-fire White House spokesperson leaves after a week | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/j2YHdso5fLE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "a8LHyVS1IlI",
-      "title": "WATCH LIVE: State officials hold news conference after deadly shooting at Oregon elementary school",
-      "thumbnail": "https://i.ytimg.com/vi/a8LHyVS1IlI/hqdefault.jpg"
+      "videoId": "rhJld-3ThMs",
+      "title": "PBS News Hour live episode, Oct. 16, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/rhJld-3ThMs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -249,9 +249,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "oH8wf1p5QhA",
-      "title": "Alberta referendum 2026: Province votes on whether to remain a part of Canada | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/oH8wf1p5QhA/hqdefault.jpg"
+      "videoId": "4cSkS9Jd7Kw",
+      "title": "Carney to deliver remarks at ‘Forever Canadian’ rally ahead of Alberta referendum | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/4cSkS9Jd7Kw/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-16T18:54:56.970Z",
+      "at": "2026-10-16T21:55:38.138Z",
       "checked": 33,
       "errors": 0
     }
