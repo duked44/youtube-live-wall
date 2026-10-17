@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:53:26.551Z",
+  "generatedAt": "2026-10-17T18:07:24.543Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,7 +14,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "dE9pD_CIZTc",
+      "title": "WATCH LIVE: President Trump Holds Rally In Highland Heights, Kentucky",
+      "thumbnail": "https://i.ytimg.com/vi/dE9pD_CIZTc/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -48,9 +51,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "QAal6f0leNE",
-      "title": "LIVE: Hundreds arrested across France with large-scale protest underway in Paris | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/QAal6f0leNE/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -250,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 8,
+      "channelChecks": 264,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-17T15:53:26.551Z",
+      "at": "2026-10-17T18:07:24.543Z",
       "checked": 33,
       "errors": 0
     }
