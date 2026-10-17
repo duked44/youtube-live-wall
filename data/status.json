@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-10-17T18:07:24.543Z",
+  "generatedAt": "2026-10-17T20:33:26.912Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "mvQZljL5Ggk",
-      "title": "France Protests - LIVE Breaking News Coverage (including Paris)",
-      "thumbnail": "https://i.ytimg.com/vi/mvQZljL5Ggk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "dE9pD_CIZTc",
-      "title": "WATCH LIVE: President Trump Holds Rally In Highland Heights, Kentucky",
-      "thumbnail": "https://i.ytimg.com/vi/dE9pD_CIZTc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -150,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "yeq_dW5yu88",
-      "title": "'Escalating violence' in France as protesters clash with police over living costs",
-      "thumbnail": "https://i.ytimg.com/vi/yeq_dW5yu88/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-17T18:07:24.543Z",
+      "at": "2026-10-17T20:33:26.912Z",
       "checked": 33,
       "errors": 0
     }
