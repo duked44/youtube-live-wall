@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-10-16T21:55:38.138Z",
+  "generatedAt": "2026-10-17T00:10:53.559Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "7TTDt64xo8A",
-      "title": "Oregon School Shooting Press Conference - LIVE Breaking News Coverage (Silver Rail Elementary)",
-      "thumbnail": "https://i.ytimg.com/vi/7TTDt64xo8A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "9dv6BQUDKYw",
-      "title": "LIVE: President Trump Delivers Remarks At Rally In Dalton, Georgia As Midterm Elections Draw Near",
-      "thumbnail": "https://i.ytimg.com/vi/9dv6BQUDKYw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -32,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "EDx9usMh6Pk",
-      "title": "WATCH LIVE: Trump delivers remarks at high-profile rally in Georgia",
-      "thumbnail": "https://i.ytimg.com/vi/EDx9usMh6Pk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -98,19 +89,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "qCCPV4yWevA",
-      "title": "LIVE: Trump speaks at a rally in Dalton, Georgia",
-      "thumbnail": "https://i.ytimg.com/vi/qCCPV4yWevA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "LuKRRnhODCk",
-      "title": "LIVE: Albanian students protest over education costs",
-      "thumbnail": "https://i.ytimg.com/vi/LuKRRnhODCk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -126,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DLnAwi5wQwk",
-      "title": "LIVE: NBC News NOW - Oct. 16",
-      "thumbnail": "https://i.ytimg.com/vi/DLnAwi5wQwk/hqdefault.jpg"
+      "videoId": "ar28mZkcPaE",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 16",
+      "thumbnail": "https://i.ytimg.com/vi/ar28mZkcPaE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -159,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "j2YHdso5fLE",
-      "title": "Under-fire White House spokesperson leaves after a week | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/j2YHdso5fLE/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "rhJld-3ThMs",
-      "title": "PBS News Hour live episode, Oct. 16, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/rhJld-3ThMs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -228,9 +210,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "b4zP8v7XlMM",
-      "title": "LIVE: Oct. 16 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/b4zP8v7XlMM/hqdefault.jpg"
+      "videoId": "vaeelKbkfRM",
+      "title": "LIVE: Oct. 19 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/vaeelKbkfRM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -270,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-16T21:55:38.138Z",
+      "at": "2026-10-17T00:10:53.559Z",
       "checked": 33,
       "errors": 0
     }
