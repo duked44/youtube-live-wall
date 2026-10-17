@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T12:28:53.163Z",
+  "generatedAt": "2026-10-17T15:53:26.551Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -49,7 +49,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "QAal6f0leNE",
-      "title": "LIVE: Arrests in Paris as day of protests begins across France | BBC News",
+      "title": "LIVE: Hundreds arrested across France with large-scale protest underway in Paris | BBC News",
       "thumbnail": "https://i.ytimg.com/vi/QAal6f0leNE/hqdefault.jpg"
     },
     {
@@ -148,7 +148,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "yeq_dW5yu88",
-      "title": "Protests turn violent in France as thousands march against rising living costs",
+      "title": "'Escalating violence' in France as protesters clash with police over living costs",
       "thumbnail": "https://i.ytimg.com/vi/yeq_dW5yu88/hqdefault.jpg"
     },
     {
@@ -183,9 +183,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "U87Mk57oimw",
-      "title": "Trump Waives Russia Energy Tariffs, CoreWeave Wipeout | Bloomberg This Weekend: Oct 17th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/U87Mk57oimw/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-17T12:28:53.163Z",
+      "at": "2026-10-17T15:53:26.551Z",
       "checked": 33,
       "errors": 0
     }
