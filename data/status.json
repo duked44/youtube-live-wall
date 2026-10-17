@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T20:33:26.912Z",
+  "generatedAt": "2026-10-17T22:37:51.317Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "zccuUPk7dO0",
-      "title": "LIVE: ABC News Live - Saturday, October 17",
-      "thumbnail": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-17T20:33:26.912Z",
+      "at": "2026-10-17T22:37:51.317Z",
       "checked": 33,
       "errors": 0
     }
