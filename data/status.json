@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-17T08:45:11.361Z",
+  "generatedAt": "2026-10-17T12:28:53.163Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "mvQZljL5Ggk",
+      "title": "France Protests - LIVE Breaking News Coverage (including Paris)",
+      "thumbnail": "https://i.ytimg.com/vi/mvQZljL5Ggk/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -45,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "QAal6f0leNE",
+      "title": "LIVE: Arrests in Paris as day of protests begins across France | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/QAal6f0leNE/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -102,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "zccuUPk7dO0",
+      "title": "LIVE: ABC News Live - Saturday, October 17",
+      "thumbnail": "https://i.ytimg.com/vi/zccuUPk7dO0/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "H-j4liSoIdM",
-      "title": "Mornings with Jones and Melbourne | Saturday 17 October",
-      "thumbnail": "https://i.ytimg.com/vi/H-j4liSoIdM/hqdefault.jpg"
+      "videoId": "yeq_dW5yu88",
+      "title": "Protests turn violent in France as thousands march against rising living costs",
+      "thumbnail": "https://i.ytimg.com/vi/yeq_dW5yu88/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -180,9 +183,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "U87Mk57oimw",
+      "title": "Trump Waives Russia Energy Tariffs, CoreWeave Wipeout | Bloomberg This Weekend: Oct 17th, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/U87Mk57oimw/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-17T08:45:11.361Z",
+      "at": "2026-10-17T12:28:53.163Z",
       "checked": 33,
       "errors": 0
     }
