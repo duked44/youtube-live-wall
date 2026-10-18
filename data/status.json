@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-18T13:18:49.700Z",
+  "generatedAt": "2026-10-18T16:37:43.028Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "ptResEvI3o4",
+      "title": "Canadian PM Carney Speaks About Incident at CFB Wainwright - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/ptResEvI3o4/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -44,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -119,19 +119,16 @@
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "MMCqhcEgwLQ",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/MMCqhcEgwLQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -180,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "PqhvFL24pt4",
-      "title": "Trump’s Russia Sanctions Waiver Fallout, Violence In France | Bloomberg This Weekend: Oct 18th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/PqhvFL24pt4/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -231,9 +228,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "oH8wf1p5QhA",
-      "title": "Alberta referendum 2026: Province votes on whether to remain a part of Canada | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/oH8wf1p5QhA/hqdefault.jpg"
+      "videoId": "Y1K8FrD_mi4",
+      "title": "Carney delivers statement after fire, explosion at CFB Wainwright results in multiple deaths | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Y1K8FrD_mi4/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-18T13:18:49.700Z",
+      "at": "2026-10-18T16:37:43.028Z",
       "checked": 33,
       "errors": 0
     }
