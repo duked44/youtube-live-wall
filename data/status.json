@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-18T21:20:57.488Z",
+  "generatedAt": "2026-10-18T23:24:48.655Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "v3T-0VVxGMc",
-      "title": "Press Briefing on Incident & Fire at CFB Wainwright - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/v3T-0VVxGMc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -105,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "8w65vTwKqac",
-      "title": "LIVE: ABC News Live - Sunday, October 18",
-      "thumbnail": "https://i.ytimg.com/vi/8w65vTwKqac/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "sjyBhg80_dI",
-      "title": "France feels 'anger and shame' after riots, Macron says | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/sjyBhg80_dI/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +200,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "MJMpDS7Ic70",
+      "title": "LIVE: Decision Desk ‘26: Midterm preview powered by 2WAY and The Hill",
+      "thumbnail": "https://i.ytimg.com/vi/MJMpDS7Ic70/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -231,9 +231,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "_XbPztrtxfU",
-      "title": "CFB Wainwright: Officials provide update on deadly fire sparked by live-training exercise | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/_XbPztrtxfU/hqdefault.jpg"
+      "videoId": "Pjmn3pwt25E",
+      "title": "Global News coverage of the CFB Wainwright tragedy in Alberta | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Pjmn3pwt25E/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-18T21:20:57.488Z",
+      "at": "2026-10-18T23:24:48.655Z",
       "checked": 33,
       "errors": 0
     }
