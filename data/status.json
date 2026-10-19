@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T01:31:12.096Z",
+  "generatedAt": "2026-10-19T06:44:40.314Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,13 +89,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "fHzPYVsRwYo",
+      "title": "LIVE: French President Macron visits Kuwait",
+      "thumbnail": "https://i.ytimg.com/vi/fHzPYVsRwYo/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "kIWcF6wemeI",
+      "title": "LIVE: Global Security Forum in Doha, Qatar",
+      "thumbnail": "https://i.ytimg.com/vi/kIWcF6wemeI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -141,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "un_Odvrj_kM",
+      "title": "Macron says country feels 'anger and shame' as he calls for unity after worst riots in years",
+      "thumbnail": "https://i.ytimg.com/vi/un_Odvrj_kM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-19T01:31:12.096Z",
+      "at": "2026-10-19T06:44:40.314Z",
       "checked": 33,
       "errors": 0
     }
