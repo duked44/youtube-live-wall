@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:44:40.314Z",
+  "generatedAt": "2026-10-19T14:02:19.514Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "OOYulN5hH_o",
+      "title": "WATCH LIVE: Trump makes major announcement at White House signing ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/OOYulN5hH_o/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -45,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "fyGRv-NpriE",
+      "title": "LIVE: Ten of the toughest places to grow up as a child in England revealed in new report | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/fyGRv-NpriE/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -90,42 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "fHzPYVsRwYo",
-      "title": "LIVE: French President Macron visits Kuwait",
-      "thumbnail": "https://i.ytimg.com/vi/fHzPYVsRwYo/hqdefault.jpg"
+      "videoId": "0uqOs2mGWlY",
+      "title": "LIVE: Anti-government protests in Albania",
+      "thumbnail": "https://i.ytimg.com/vi/0uqOs2mGWlY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "kIWcF6wemeI",
-      "title": "LIVE: Global Security Forum in Doha, Qatar",
-      "thumbnail": "https://i.ytimg.com/vi/kIWcF6wemeI/hqdefault.jpg"
+      "videoId": "7heH9lBSaD4",
+      "title": "LIVE: Streets of Paris after weekend protests",
+      "thumbnail": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "WPgzfzXcZ9E",
+      "title": "LIVE: ABC News Live - Monday, October 19",
+      "thumbnail": "https://i.ytimg.com/vi/WPgzfzXcZ9E/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "KQT3uyD6jQQ",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/KQT3uyD6jQQ/hqdefault.jpg"
+      "videoId": "Y5SxQTYfiwc",
+      "title": "LIVE: NBC News NOW - Oct. 19",
+      "thumbnail": "https://i.ytimg.com/vi/Y5SxQTYfiwc/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "Hnydsw422yQ",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/Hnydsw422yQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "un_Odvrj_kM",
-      "title": "Macron says country feels 'anger and shame' as he calls for unity after worst riots in years",
-      "thumbnail": "https://i.ytimg.com/vi/un_Odvrj_kM/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -234,9 +240,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "oH8wf1p5QhA",
-      "title": "Alberta referendum 2026: Province votes on whether to remain a part of Canada | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/oH8wf1p5QhA/hqdefault.jpg"
+      "videoId": "LTFsZuzeA7c",
+      "title": "CFB Wainwright: Carney speaks in Parliament after fire, explosion kills 4 Canadian soldiers | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/LTFsZuzeA7c/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -250,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 8,
-      "channelChecks": 264,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-19T06:44:40.314Z",
+      "at": "2026-10-19T14:02:19.514Z",
       "checked": 33,
       "errors": 0
     }
