@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T23:24:48.655Z",
+  "generatedAt": "2026-10-19T01:31:12.096Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -200,10 +200,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "MJMpDS7Ic70",
-      "title": "LIVE: Decision Desk ‘26: Midterm preview powered by 2WAY and The Hill",
-      "thumbnail": "https://i.ytimg.com/vi/MJMpDS7Ic70/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -231,9 +228,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "Pjmn3pwt25E",
-      "title": "Global News coverage of the CFB Wainwright tragedy in Alberta | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/Pjmn3pwt25E/hqdefault.jpg"
+      "videoId": "oH8wf1p5QhA",
+      "title": "Alberta referendum 2026: Province votes on whether to remain a part of Canada | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/oH8wf1p5QhA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-18T23:24:48.655Z",
+      "at": "2026-10-19T01:31:12.096Z",
       "checked": 33,
       "errors": 0
     }
