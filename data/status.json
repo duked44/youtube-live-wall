@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T14:02:19.514Z",
+  "generatedAt": "2026-10-19T19:49:23.881Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "OOYulN5hH_o",
-      "title": "WATCH LIVE: Trump makes major announcement at White House signing ceremony",
-      "thumbnail": "https://i.ytimg.com/vi/OOYulN5hH_o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -48,9 +45,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "fyGRv-NpriE",
-      "title": "LIVE: Ten of the toughest places to grow up as a child in England revealed in new report | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/fyGRv-NpriE/hqdefault.jpg"
+      "videoId": "qDDXvLk3WFs",
+      "title": "LIVE: Japan's Mars Moons Exploration (MMX) mission set to grab a piece of Mars's moon | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/qDDXvLk3WFs/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -93,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "0uqOs2mGWlY",
-      "title": "LIVE: Anti-government protests in Albania",
-      "thumbnail": "https://i.ytimg.com/vi/0uqOs2mGWlY/hqdefault.jpg"
+      "videoId": "xyWdl95Tf-4",
+      "title": "LIVE: Japan launches world's first mission to collect samples from a Martian moon",
+      "thumbnail": "https://i.ytimg.com/vi/xyWdl95Tf-4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "7heH9lBSaD4",
-      "title": "LIVE: Streets of Paris after weekend protests",
-      "thumbnail": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault.jpg"
+      "videoId": "D7W1gsGEzds",
+      "title": "LIVE: Japan launches probe to Martian moon Phobos",
+      "thumbnail": "https://i.ytimg.com/vi/D7W1gsGEzds/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "V45PBSF88Yg",
+      "title": "Russell Brand trial hears from third accuser | The UK Tonight",
+      "thumbnail": "https://i.ytimg.com/vi/V45PBSF88Yg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,13 +203,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "4759yVmNCM4",
+      "title": "WATCH LIVE: Trump heads to rally in Kansas as Republican voters' frustrations deepen",
+      "thumbnail": "https://i.ytimg.com/vi/4759yVmNCM4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "n5eER4FMyQA",
+      "title": "Is Abdul El-Sayed tied to the Muslim Brotherhood? Debate with Adam Green | Prove It! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/n5eER4FMyQA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -240,9 +243,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "LTFsZuzeA7c",
-      "title": "CFB Wainwright: Carney speaks in Parliament after fire, explosion kills 4 Canadian soldiers | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/LTFsZuzeA7c/hqdefault.jpg"
+      "videoId": "oH8wf1p5QhA",
+      "title": "Alberta referendum 2026: Province votes on whether to remain a part of Canada | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/oH8wf1p5QhA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-19T14:02:19.514Z",
+      "at": "2026-10-19T19:49:23.881Z",
       "checked": 33,
       "errors": 0
     }
