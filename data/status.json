@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T19:49:23.881Z",
+  "generatedAt": "2026-10-19T23:10:20.980Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Gpvsst07C28",
+      "title": "WATCH LIVE: President Donald Trump delivers remarks at Kansas campaign rally",
+      "thumbnail": "https://i.ytimg.com/vi/Gpvsst07C28/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -45,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "qDDXvLk3WFs",
-      "title": "LIVE: Japan's Mars Moons Exploration (MMX) mission set to grab a piece of Mars's moon | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/qDDXvLk3WFs/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -89,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "xyWdl95Tf-4",
-      "title": "LIVE: Japan launches world's first mission to collect samples from a Martian moon",
-      "thumbnail": "https://i.ytimg.com/vi/xyWdl95Tf-4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "D7W1gsGEzds",
-      "title": "LIVE: Japan launches probe to Martian moon Phobos",
-      "thumbnail": "https://i.ytimg.com/vi/D7W1gsGEzds/hqdefault.jpg"
+      "videoId": "7heH9lBSaD4",
+      "title": "LIVE: Streets of Paris after weekend protests",
+      "thumbnail": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Y5SxQTYfiwc",
+      "videoId": "QltvipOViT0",
       "title": "LIVE: NBC News NOW - Oct. 19",
-      "thumbnail": "https://i.ytimg.com/vi/Y5SxQTYfiwc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/QltvipOViT0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Hnydsw422yQ",
+      "videoId": "E4zB_LgD-T0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Hnydsw422yQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/E4zB_LgD-T0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +143,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "a-tfmyrV5nc",
+      "title": "LIVE: Trump delivers remarks at rally in Kansas just weeks out from midterms",
+      "thumbnail": "https://i.ytimg.com/vi/a-tfmyrV5nc/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "V45PBSF88Yg",
-      "title": "Russell Brand trial hears from third accuser | The UK Tonight",
-      "thumbnail": "https://i.ytimg.com/vi/V45PBSF88Yg/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,19 +215,16 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "n5eER4FMyQA",
-      "title": "Is Abdul El-Sayed tied to the Muslim Brotherhood? Debate with Adam Green | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/n5eER4FMyQA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "vaeelKbkfRM",
-      "title": "LIVE: Oct. 19 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/vaeelKbkfRM/hqdefault.jpg"
+      "videoId": "Ua5h69b41Hs",
+      "title": "LIVE: Oct. 20 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/Ua5h69b41Hs/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -264,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-19T19:49:23.881Z",
+      "at": "2026-10-19T23:10:20.980Z",
       "checked": 33,
       "errors": 0
     }
