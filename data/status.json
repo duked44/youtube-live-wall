@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:22:02.136Z",
+  "generatedAt": "2026-10-20T20:45:50.795Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "r3Il7ZazeK8",
-      "title": "LIVE: Ukraine's Volodymyr Zelensky Holds Press Briefing After Meeting US Special Envoy Steve Witkoff",
-      "thumbnail": "https://i.ytimg.com/vi/r3Il7ZazeK8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "R1flHmd_hMA",
-      "title": "WATCH LIVE: Trump, Vance address nation from Oval Office",
-      "thumbnail": "https://i.ytimg.com/vi/R1flHmd_hMA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,24 +90,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "vTbsQeCErjw",
-      "title": "LIVE: Trump and JD Vance announce a $25 million fraud whistleblower program",
-      "thumbnail": "https://i.ytimg.com/vi/vTbsQeCErjw/hqdefault.jpg"
+      "videoId": "VjkT7_xqkZI",
+      "title": "SpaceX launch LIVE: Falcon 9 rocket launches Starlink satellites",
+      "thumbnail": "https://i.ytimg.com/vi/VjkT7_xqkZI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "-Ry5iiSvDak",
+      "title": "LIVE: Overnight curfew begins in France's Marseille after protests",
+      "thumbnail": "https://i.ytimg.com/vi/-Ry5iiSvDak/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "JME5F_4SE34",
-      "title": "Ukrainian Pres. Zelenskyy participates in news conference following meeting with US special envoy",
-      "thumbnail": "https://i.ytimg.com/vi/JME5F_4SE34/hqdefault.jpg"
+      "videoId": "ZEcqTYwCkaA",
+      "title": "LIVE: ABC News Live - Tuesday, October 20",
+      "thumbnail": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -138,27 +135,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "QX82CIW-ssI",
+      "title": "Live: Bernie Sanders & Beto O'Rourke rally in Texas ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/QX82CIW-ssI/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "nMnO3AYCYVE",
-      "title": "LIVE: Donald Trump and J.D. Vance make an announcement with midterms two weeks away",
-      "thumbnail": "https://i.ytimg.com/vi/nMnO3AYCYVE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "-QDyfuKSTMs",
-      "title": "Trump and JD Vance make announcement",
-      "thumbnail": "https://i.ytimg.com/vi/-QDyfuKSTMs/hqdefault.jpg"
+      "videoId": "EXYxr-cNMTM",
+      "title": "No food. No power. No way out. Full report from Southern Ukraine | The World with Matt Barbet",
+      "thumbnail": "https://i.ytimg.com/vi/EXYxr-cNMTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,15 +204,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vI4eL6RtqEs",
-      "title": "WATCH LIVE: Trump and Vance announce $25 million whistleblower program on alleged fraud",
-      "thumbnail": "https://i.ytimg.com/vi/vI4eL6RtqEs/hqdefault.jpg"
+      "videoId": "6PUtBmb7FPI",
+      "title": "WATCH LIVE: Trump holds GOP midterm rally in North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/6PUtBmb7FPI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "eVKqAQiSq0g",
+      "title": "Should JD Vance denounce Tucker Carlson? Debate with Batya Ungar-Sargon and Will Chamberlain",
+      "thumbnail": "https://i.ytimg.com/vi/eVKqAQiSq0g/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -233,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "Xgy_8OBmms8",
-      "title": "Zelensky holds presser with Finland and Norway leaders following Witkoff meeting - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/Xgy_8OBmms8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -248,10 +242,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "ZKTV6N1bocU",
-      "title": "Trump, Vance to announce $25M whistleblower program to report alleged fraud | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/ZKTV6N1bocU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -270,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-20T17:22:02.136Z",
+      "at": "2026-10-20T20:45:50.795Z",
       "checked": 33,
       "errors": 0
     }
