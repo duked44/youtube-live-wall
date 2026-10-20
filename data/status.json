@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:46:48.012Z",
+  "generatedAt": "2026-10-20T12:19:28.639Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,43 +89,43 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "5UGnNjl-YQ4",
+      "title": "LIVE: Anti-government protests in Albania",
+      "thumbnail": "https://i.ytimg.com/vi/5UGnNjl-YQ4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "7heH9lBSaD4",
-      "title": "LIVE: Streets of Paris after weekend protests",
-      "thumbnail": "https://i.ytimg.com/vi/7heH9lBSaD4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "ZEcqTYwCkaA",
+      "title": "LIVE: ABC News Live - Tuesday, October 20",
+      "thumbnail": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "QltvipOViT0",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/QltvipOViT0/hqdefault.jpg"
+      "videoId": "9995vhcrF60",
+      "title": "LIVE: NBC News NOW - Oct. 20",
+      "thumbnail": "https://i.ytimg.com/vi/9995vhcrF60/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "E4zB_LgD-T0",
+      "videoId": "3YNSR2Xzjnw",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/E4zB_LgD-T0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/3YNSR2Xzjnw/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "fGRldHurmgg",
-      "title": "Overnight curfew in parts of Paris after worst rioting for years | Mornings with Ridge",
-      "thumbnail": "https://i.ytimg.com/vi/fGRldHurmgg/hqdefault.jpg"
+      "videoId": "cY-6Ari01EE",
+      "title": "Anti-government protests in Albanian capital continue into seventh day",
+      "thumbnail": "https://i.ytimg.com/vi/cY-6Ari01EE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,7 +221,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "fIfe8MSfzos",
+      "title": "Kemi Badenoch speaks ahead of Labour's budget – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/fIfe8MSfzos/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -247,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-20T06:46:48.012Z",
+      "at": "2026-10-20T12:19:28.639Z",
       "checked": 33,
       "errors": 0
     }
