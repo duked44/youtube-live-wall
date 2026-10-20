@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T20:45:50.795Z",
+  "generatedAt": "2026-10-20T23:28:29.558Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "3OFk73Qjwlk",
+      "title": "President Trump delivers remarks at a rally in North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/3OFk73Qjwlk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -89,19 +92,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "VjkT7_xqkZI",
-      "title": "SpaceX launch LIVE: Falcon 9 rocket launches Starlink satellites",
-      "thumbnail": "https://i.ytimg.com/vi/VjkT7_xqkZI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "-Ry5iiSvDak",
-      "title": "LIVE: Overnight curfew begins in France's Marseille after protests",
-      "thumbnail": "https://i.ytimg.com/vi/-Ry5iiSvDak/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -117,27 +114,27 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "9995vhcrF60",
+      "videoId": "sz8CjkOu6V0",
       "title": "LIVE: NBC News NOW - Oct. 20",
-      "thumbnail": "https://i.ytimg.com/vi/9995vhcrF60/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/sz8CjkOu6V0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "3YNSR2Xzjnw",
+      "videoId": "DT-meBfnJyI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/3YNSR2Xzjnw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/DT-meBfnJyI/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "QX82CIW-ssI",
-      "title": "Live: Bernie Sanders & Beto O'Rourke rally in Texas ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/QX82CIW-ssI/hqdefault.jpg"
+      "videoId": "3-5b7y7kAbg",
+      "title": "Live: Trump speaks at midterm campaign rally in NC",
+      "thumbnail": "https://i.ytimg.com/vi/3-5b7y7kAbg/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "EXYxr-cNMTM",
-      "title": "No food. No power. No way out. Full report from Southern Ukraine | The World with Matt Barbet",
-      "thumbnail": "https://i.ytimg.com/vi/EXYxr-cNMTM/hqdefault.jpg"
+      "videoId": "xDWQ3LkccY8",
+      "title": "Watch Sky News",
+      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,18 +210,15 @@
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "eVKqAQiSq0g",
-      "title": "Should JD Vance denounce Tucker Carlson? Debate with Batya Ungar-Sargon and Will Chamberlain",
-      "thumbnail": "https://i.ytimg.com/vi/eVKqAQiSq0g/hqdefault.jpg"
+      "videoId": "X3PjirfU54w",
+      "title": "Rhode Island governor candidates square off in debate",
+      "thumbnail": "https://i.ytimg.com/vi/X3PjirfU54w/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "Ua5h69b41Hs",
-      "title": "LIVE: Oct. 20 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/Ua5h69b41Hs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-20T20:45:50.795Z",
+      "at": "2026-10-20T23:28:29.558Z",
       "checked": 33,
       "errors": 0
     }
