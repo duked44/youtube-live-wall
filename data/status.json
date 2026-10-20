@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T23:10:20.980Z",
+  "generatedAt": "2026-10-20T01:50:39.246Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Gpvsst07C28",
-      "title": "WATCH LIVE: President Donald Trump delivers remarks at Kansas campaign rally",
-      "thumbnail": "https://i.ytimg.com/vi/Gpvsst07C28/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -118,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "QltvipOViT0",
-      "title": "LIVE: NBC News NOW - Oct. 19",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/QltvipOViT0/hqdefault.jpg"
     },
     {
@@ -143,10 +140,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "a-tfmyrV5nc",
-      "title": "LIVE: Trump delivers remarks at rally in Kansas just weeks out from midterms",
-      "thumbnail": "https://i.ytimg.com/vi/a-tfmyrV5nc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -259,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-19T23:10:20.980Z",
+      "at": "2026-10-20T01:50:39.246Z",
       "checked": 33,
       "errors": 0
     }
