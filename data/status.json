@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T12:19:28.639Z",
+  "generatedAt": "2026-10-20T17:22:02.136Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "r3Il7ZazeK8",
+      "title": "LIVE: Ukraine's Volodymyr Zelensky Holds Press Briefing After Meeting US Special Envoy Steve Witkoff",
+      "thumbnail": "https://i.ytimg.com/vi/r3Il7ZazeK8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "R1flHmd_hMA",
+      "title": "WATCH LIVE: Trump, Vance address nation from Oval Office",
+      "thumbnail": "https://i.ytimg.com/vi/R1flHmd_hMA/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,9 +96,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5UGnNjl-YQ4",
-      "title": "LIVE: Anti-government protests in Albania",
-      "thumbnail": "https://i.ytimg.com/vi/5UGnNjl-YQ4/hqdefault.jpg"
+      "videoId": "vTbsQeCErjw",
+      "title": "LIVE: Trump and JD Vance announce a $25 million fraud whistleblower program",
+      "thumbnail": "https://i.ytimg.com/vi/vTbsQeCErjw/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,9 +111,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "ZEcqTYwCkaA",
-      "title": "LIVE: ABC News Live - Tuesday, October 20",
-      "thumbnail": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault.jpg"
+      "videoId": "JME5F_4SE34",
+      "title": "Ukrainian Pres. Zelenskyy participates in news conference following meeting with US special envoy",
+      "thumbnail": "https://i.ytimg.com/vi/JME5F_4SE34/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -140,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "nMnO3AYCYVE",
+      "title": "LIVE: Donald Trump and J.D. Vance make an announcement with midterms two weeks away",
+      "thumbnail": "https://i.ytimg.com/vi/nMnO3AYCYVE/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cY-6Ari01EE",
-      "title": "Anti-government protests in Albanian capital continue into seventh day",
-      "thumbnail": "https://i.ytimg.com/vi/cY-6Ari01EE/hqdefault.jpg"
+      "videoId": "-QDyfuKSTMs",
+      "title": "Trump and JD Vance make announcement",
+      "thumbnail": "https://i.ytimg.com/vi/-QDyfuKSTMs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,7 +209,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "vI4eL6RtqEs",
+      "title": "WATCH LIVE: Trump and Vance announce $25 million whistleblower program on alleged fraud",
+      "thumbnail": "https://i.ytimg.com/vi/vI4eL6RtqEs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -222,9 +234,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "fIfe8MSfzos",
-      "title": "Kemi Badenoch speaks ahead of Labour's budget – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/fIfe8MSfzos/hqdefault.jpg"
+      "videoId": "Xgy_8OBmms8",
+      "title": "Zelensky holds presser with Finland and Norway leaders following Witkoff meeting - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/Xgy_8OBmms8/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -236,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "ZKTV6N1bocU",
+      "title": "Trump, Vance to announce $25M whistleblower program to report alleged fraud | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ZKTV6N1bocU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-20T12:19:28.639Z",
+      "at": "2026-10-20T17:22:02.136Z",
       "checked": 33,
       "errors": 0
     }
