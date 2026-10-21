@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T17:59:13.611Z",
+  "generatedAt": "2026-10-21T21:33:18.056Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "9aFGUxZRWEM",
-      "title": "LIVE: President Trump Holds Roundtable Event At The White House Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/9aFGUxZRWEM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "pOnIGSomZjQ",
-      "title": "WATCH LIVE: Trump hosts key roundtable discussion at the White House",
-      "thumbnail": "https://i.ytimg.com/vi/pOnIGSomZjQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -95,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "x_o4iB4fxs8",
-      "title": "LIVE: Anti-government protests in Albania",
-      "thumbnail": "https://i.ytimg.com/vi/x_o4iB4fxs8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -156,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YSJTsLtAT-0",
-      "title": "Burnham approves new gas drilling operation off coast of Aberdeen | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/YSJTsLtAT-0/hqdefault.jpg"
+      "videoId": "EY5brxFrKxY",
+      "title": "Websites around the world taken offline after AI finds critical vulnerabilities | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/EY5brxFrKxY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +200,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "jBog6BdbUaw",
+      "title": "PBS News Hour live episode, Oct. 21, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/jBog6BdbUaw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -242,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "sD_DFnnEHUA",
-      "title": "Carney, Ford set to announce support for workers amid trade war, layoffs | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/sD_DFnnEHUA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-21T17:59:13.611Z",
+      "at": "2026-10-21T21:33:18.056Z",
       "checked": 33,
       "errors": 0
     }
