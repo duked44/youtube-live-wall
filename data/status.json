@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T07:14:14.987Z",
+  "generatedAt": "2026-10-21T12:59:37.997Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,69 +90,72 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HS5ykj-6jC8",
-      "title": "LIVE: Qatar’s emir welcomes French President Macron on state visit",
-      "thumbnail": "https://i.ytimg.com/vi/HS5ykj-6jC8/hqdefault.jpg"
+      "videoId": "EtVLn7hI8Xc",
+      "title": "LIVE: New Orleans Saints press conference ahead of NFL game vs Pittsburgh Steelers in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/EtVLn7hI8Xc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "DZ4kGCM85DU",
-      "title": "LIVE: South Korea makes bid to guide shark out to sea",
-      "thumbnail": "https://i.ytimg.com/vi/DZ4kGCM85DU/hqdefault.jpg"
+      "videoId": "xlTJeGOFoOs",
+      "title": "LIVE: UK Prime Minister Burnham holds PMQs",
+      "thumbnail": "https://i.ytimg.com/vi/xlTJeGOFoOs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "KSPiBsFeIhU",
+      "title": "LIVE: ABC News Live - Wednesday, October 21",
+      "thumbnail": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "sz8CjkOu6V0",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/sz8CjkOu6V0/hqdefault.jpg"
+      "videoId": "X2YAMGmZ7gw",
+      "title": "LIVE: NBC News NOW - Oct. 21",
+      "thumbnail": "https://i.ytimg.com/vi/X2YAMGmZ7gw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "DT-meBfnJyI",
+      "videoId": "gdHP9qQ1oAQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/DT-meBfnJyI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "V9O3uvdn2nk",
+      "title": "Live: CNN Health Innovation Summit",
+      "thumbnail": "https://i.ytimg.com/vi/V9O3uvdn2nk/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "nBpLTzuoM1c",
+      "title": "LIVE: Vance stumps with Ramaswamy amid OUTRAGE over “DASTARDLY” ad",
+      "thumbnail": "https://i.ytimg.com/vi/nBpLTzuoM1c/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "kGBJ0dxB7nI",
-      "title": "Jackdaw gas field approved by government | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/kGBJ0dxB7nI/hqdefault.jpg"
+      "videoId": "jxJ_7vQSSek",
+      "title": "Live Q&A | Michael Clarke answers your questions",
+      "thumbnail": "https://i.ytimg.com/vi/jxJ_7vQSSek/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -215,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "dFVai7u69N4",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/dFVai7u69N4/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-21T07:14:14.987Z",
+      "at": "2026-10-21T12:59:37.997Z",
       "checked": 33,
       "errors": 0
     }
