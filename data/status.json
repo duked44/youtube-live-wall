@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T01:56:02.258Z",
+  "generatedAt": "2026-10-21T07:14:14.987Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,22 +89,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "HS5ykj-6jC8",
+      "title": "LIVE: Qatar’s emir welcomes French President Macron on state visit",
+      "thumbnail": "https://i.ytimg.com/vi/HS5ykj-6jC8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "DZ4kGCM85DU",
+      "title": "LIVE: South Korea makes bid to guide shark out to sea",
+      "thumbnail": "https://i.ytimg.com/vi/DZ4kGCM85DU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "ZEcqTYwCkaA",
-      "title": "LIVE: ABC News Live - Tuesday, October 20",
-      "thumbnail": "https://i.ytimg.com/vi/ZEcqTYwCkaA/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "xDWQ3LkccY8",
-      "title": "Watch Sky News",
-      "thumbnail": "https://i.ytimg.com/vi/xDWQ3LkccY8/hqdefault.jpg"
+      "videoId": "kGBJ0dxB7nI",
+      "title": "Jackdaw gas field approved by government | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/kGBJ0dxB7nI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-21T01:56:02.258Z",
+      "at": "2026-10-21T07:14:14.987Z",
       "checked": 33,
       "errors": 0
     }
