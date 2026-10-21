@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T23:28:29.558Z",
+  "generatedAt": "2026-10-21T01:56:02.258Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "3OFk73Qjwlk",
-      "title": "President Trump delivers remarks at a rally in North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/3OFk73Qjwlk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -115,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "sz8CjkOu6V0",
-      "title": "LIVE: NBC News NOW - Oct. 20",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/sz8CjkOu6V0/hqdefault.jpg"
     },
     {
@@ -132,9 +129,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "3-5b7y7kAbg",
-      "title": "Live: Trump speaks at midterm campaign rally in NC",
-      "thumbnail": "https://i.ytimg.com/vi/3-5b7y7kAbg/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -200,19 +197,13 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "6PUtBmb7FPI",
-      "title": "WATCH LIVE: Trump holds GOP midterm rally in North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/6PUtBmb7FPI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "X3PjirfU54w",
-      "title": "Rhode Island governor candidates square off in debate",
-      "thumbnail": "https://i.ytimg.com/vi/X3PjirfU54w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -255,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-20T23:28:29.558Z",
+      "at": "2026-10-21T01:56:02.258Z",
       "checked": 33,
       "errors": 0
     }
