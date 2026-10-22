@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T21:33:18.056Z",
+  "generatedAt": "2026-10-22T00:10:30.577Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "YNmr6SyjoAo",
+      "title": "WATCH: President Trump rallies for Darline Graham in South Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/YNmr6SyjoAo/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -114,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "X2YAMGmZ7gw",
-      "title": "LIVE: NBC News NOW - Oct. 21",
-      "thumbnail": "https://i.ytimg.com/vi/X2YAMGmZ7gw/hqdefault.jpg"
+      "videoId": "Qqwxl1QMWJk",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 21",
+      "thumbnail": "https://i.ytimg.com/vi/Qqwxl1QMWJk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "gdHP9qQ1oAQ",
+      "videoId": "DFdWWKa2rc4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/gdHP9qQ1oAQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/DFdWWKa2rc4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "EY5brxFrKxY",
-      "title": "Websites around the world taken offline after AI finds critical vulnerabilities | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/EY5brxFrKxY/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,25 +203,22 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "jBog6BdbUaw",
-      "title": "PBS News Hour live episode, Oct. 21, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/jBog6BdbUaw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "f82mahyUqT4",
+      "title": "Live: Roger Marshall vs. Adam Hamilton — Kansas Senate candidates make their final pitches",
+      "thumbnail": "https://i.ytimg.com/vi/f82mahyUqT4/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "dFVai7u69N4",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/dFVai7u69N4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-21T21:33:18.056Z",
+      "at": "2026-10-22T00:10:30.577Z",
       "checked": 33,
       "errors": 0
     }
