@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T09:41:42.274Z",
+  "generatedAt": "2026-10-22T14:42:11.192Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "iC5sW7I_bD4",
+      "title": "LIVE: AG Todd Blanche, FBI Director Kash Patel Announce Fraud Charges Against Top Virginia Dem",
+      "thumbnail": "https://i.ytimg.com/vi/iC5sW7I_bD4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "cGUYqjhFM8I",
+      "title": "WATCH LIVE: AG Blanche, Director Patel make law enforcement announcement",
+      "thumbnail": "https://i.ytimg.com/vi/cGUYqjhFM8I/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,45 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "3kwL_kDbkJA",
-      "title": "LIVE: EU Parliament announces the winner of the 2026 Sakharov Prize",
-      "thumbnail": "https://i.ytimg.com/vi/3kwL_kDbkJA/hqdefault.jpg"
+      "videoId": "MFx_rV59DvQ",
+      "title": "LIVE: Todd Blanche and Kash Patel make a law enforcement announcement",
+      "thumbnail": "https://i.ytimg.com/vi/MFx_rV59DvQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "KT-x1mjBQVE",
-      "title": "LIVE: Typhoon Champi approaches Taiwan",
-      "thumbnail": "https://i.ytimg.com/vi/KT-x1mjBQVE/hqdefault.jpg"
+      "videoId": "63Nni-GPhMQ",
+      "title": "LIVE: Students in Paris protest for better school conditions",
+      "thumbnail": "https://i.ytimg.com/vi/63Nni-GPhMQ/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "6h25qvCFuL8",
+      "title": "LIVE: ABC News Live - Thursday, October 22",
+      "thumbnail": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "0oXHkeRZoaw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/0oXHkeRZoaw/hqdefault.jpg"
+      "videoId": "xPtxnwQREmE",
+      "title": "LIVE: NBC News NOW - Oct. 22",
+      "thumbnail": "https://i.ytimg.com/vi/xPtxnwQREmE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "DFdWWKa2rc4",
+      "videoId": "I9M1hVv8V_c",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/DFdWWKa2rc4/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/I9M1hVv8V_c/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +149,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "Asu0fWInDc4",
+      "title": "LIVE: AG Todd Blanche, FBI Director Kash Patel make a law enforcement announcement",
+      "thumbnail": "https://i.ytimg.com/vi/Asu0fWInDc4/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "QIDvEv-D7Tk",
-      "title": "Minister faces questions on sending RAF jets to defend Saudi Arabia",
-      "thumbnail": "https://i.ytimg.com/vi/QIDvEv-D7Tk/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +212,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "NVW1ZAgaEYw",
+      "title": "WATCH LIVE: Blanche and Patel announce law enforcement action",
+      "thumbnail": "https://i.ytimg.com/vi/NVW1ZAgaEYw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -215,7 +227,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "Gorb_dU_16E",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/Gorb_dU_16E/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -233,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "egPn22uiaOc",
+      "title": "Canadian PM Carney, Turkish President Erdoğan give a joint statement in 1st bilateral meeting | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/egPn22uiaOc/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T09:41:42.274Z",
+      "at": "2026-10-22T14:42:11.192Z",
       "checked": 33,
       "errors": 0
     }
