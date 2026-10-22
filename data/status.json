@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T00:10:30.577Z",
+  "generatedAt": "2026-10-22T04:46:42.885Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "YNmr6SyjoAo",
-      "title": "WATCH: President Trump rallies for Darline Graham in South Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/YNmr6SyjoAo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -92,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "wYRqNp2wvuI",
+      "title": "LIVE: Students protest poor school conditions in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/wYRqNp2wvuI/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,18 +108,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KSPiBsFeIhU",
-      "title": "LIVE: ABC News Live - Wednesday, October 21",
-      "thumbnail": "https://i.ytimg.com/vi/KSPiBsFeIhU/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Qqwxl1QMWJk",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 21",
-      "thumbnail": "https://i.ytimg.com/vi/Qqwxl1QMWJk/hqdefault.jpg"
+      "videoId": "0oXHkeRZoaw",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/0oXHkeRZoaw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -209,10 +209,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "f82mahyUqT4",
-      "title": "Live: Roger Marshall vs. Adam Hamilton — Kansas Senate candidates make their final pitches",
-      "thumbnail": "https://i.ytimg.com/vi/f82mahyUqT4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T00:10:30.577Z",
+      "at": "2026-10-22T04:46:42.885Z",
       "checked": 33,
       "errors": 0
     }
