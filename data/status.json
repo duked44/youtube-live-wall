@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T04:46:42.885Z",
+  "generatedAt": "2026-10-22T09:41:42.274Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,18 +90,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "wYRqNp2wvuI",
-      "title": "LIVE: Students protest poor school conditions in Paris",
-      "thumbnail": "https://i.ytimg.com/vi/wYRqNp2wvuI/hqdefault.jpg"
+      "videoId": "3kwL_kDbkJA",
+      "title": "LIVE: EU Parliament announces the winner of the 2026 Sakharov Prize",
+      "thumbnail": "https://i.ytimg.com/vi/3kwL_kDbkJA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "iRRFnTMYa7s",
-      "title": "LIVE: South Korea makes bid to guide shark out to sea",
-      "thumbnail": "https://i.ytimg.com/vi/iRRFnTMYa7s/hqdefault.jpg"
+      "videoId": "KT-x1mjBQVE",
+      "title": "LIVE: Typhoon Champi approaches Taiwan",
+      "thumbnail": "https://i.ytimg.com/vi/KT-x1mjBQVE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "QIDvEv-D7Tk",
+      "title": "Minister faces questions on sending RAF jets to defend Saudi Arabia",
+      "thumbnail": "https://i.ytimg.com/vi/QIDvEv-D7Tk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T04:46:42.885Z",
+      "at": "2026-10-22T09:41:42.274Z",
       "checked": 33,
       "errors": 0
     }
