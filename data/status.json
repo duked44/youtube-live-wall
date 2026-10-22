@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-22T18:52:33.178Z",
+  "generatedAt": "2026-10-22T22:01:42.298Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "AxYOgp_o-4g",
+      "title": "Press Conference on Incident & Fire at CFB Wainwright - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/AxYOgp_o-4g/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -93,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Br4sWGkkwcY",
-      "title": "LIVE: Troy Jackson campaigns with AOC in Maine",
-      "thumbnail": "https://i.ytimg.com/vi/Br4sWGkkwcY/hqdefault.jpg"
+      "videoId": "sUXxCcf5ZVI",
+      "title": "LIVE: Kamala Harris campaigns with Scott Colom at a midterm rally in Mississippi",
+      "thumbnail": "https://i.ytimg.com/vi/sUXxCcf5ZVI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "H0rBz46HFDY",
-      "title": "LIVE: Typhoon Champi approaches Japan",
-      "thumbnail": "https://i.ytimg.com/vi/H0rBz46HFDY/hqdefault.jpg"
+      "videoId": "lqD3eSaVr0s",
+      "title": "LIVE: Trump expected to speak at rally in Iowa",
+      "thumbnail": "https://i.ytimg.com/vi/lqD3eSaVr0s/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,9 +123,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "xPtxnwQREmE",
+      "videoId": "KhkNcaErtes",
       "title": "LIVE: NBC News NOW - Oct. 22",
-      "thumbnail": "https://i.ytimg.com/vi/xPtxnwQREmE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "iYMxuoEPWuY",
-      "title": "The government wants you to prepare for an emergency | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/iYMxuoEPWuY/hqdefault.jpg"
+      "videoId": "rFVCBfTIOUk",
+      "title": "Government warns British families to have plan if critical infrastructure is attacked | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/rFVCBfTIOUk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,18 +210,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "KDZsHwxX-yg",
-      "title": "WATCH LIVE: Kamala Harris joins Mississippi's Scott Colom for rural healthcare discussion",
-      "thumbnail": "https://i.ytimg.com/vi/KDZsHwxX-yg/hqdefault.jpg"
+      "videoId": "VLMSC3i6IYs",
+      "title": "PBS News Hour live episode, Oct. 22, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/VLMSC3i6IYs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "K6bHVb0u0bw",
-      "title": "Ilhan Omar raid: Which party is weaponizing the justice system worse? Debate with Laura Fink",
-      "thumbnail": "https://i.ytimg.com/vi/K6bHVb0u0bw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -246,9 +246,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "Ud4AzunMG14",
-      "title": "CFB Wainwright fire: Canadian Armed Forces to provide update as 27 remain in hospital | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/Ud4AzunMG14/hqdefault.jpg"
+      "videoId": "UPbB-NpQ_bA",
+      "title": "Decision BC: Latest news and updates as British Columbians go to the polls | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -267,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T18:52:33.178Z",
+      "at": "2026-10-22T22:01:42.298Z",
       "checked": 33,
       "errors": 0
     }
