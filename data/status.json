@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T14:42:11.192Z",
+  "generatedAt": "2026-10-22T18:52:33.178Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "iC5sW7I_bD4",
-      "title": "LIVE: AG Todd Blanche, FBI Director Kash Patel Announce Fraud Charges Against Top Virginia Dem",
-      "thumbnail": "https://i.ytimg.com/vi/iC5sW7I_bD4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "cGUYqjhFM8I",
-      "title": "WATCH LIVE: AG Blanche, Director Patel make law enforcement announcement",
-      "thumbnail": "https://i.ytimg.com/vi/cGUYqjhFM8I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -77,7 +71,10 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": false
+      "live": true,
+      "videoId": "Wm3_KLpbDTg",
+      "title": "🔴 MARATHON: Global investigations from FRONTLINE",
+      "thumbnail": "https://i.ytimg.com/vi/Wm3_KLpbDTg/hqdefault.jpg"
     },
     {
       "id": "wsj",
@@ -96,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "MFx_rV59DvQ",
-      "title": "LIVE: Todd Blanche and Kash Patel make a law enforcement announcement",
-      "thumbnail": "https://i.ytimg.com/vi/MFx_rV59DvQ/hqdefault.jpg"
+      "videoId": "Br4sWGkkwcY",
+      "title": "LIVE: Troy Jackson campaigns with AOC in Maine",
+      "thumbnail": "https://i.ytimg.com/vi/Br4sWGkkwcY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "63Nni-GPhMQ",
-      "title": "LIVE: Students in Paris protest for better school conditions",
-      "thumbnail": "https://i.ytimg.com/vi/63Nni-GPhMQ/hqdefault.jpg"
+      "videoId": "H0rBz46HFDY",
+      "title": "LIVE: Typhoon Champi approaches Japan",
+      "thumbnail": "https://i.ytimg.com/vi/H0rBz46HFDY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -149,19 +146,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "Asu0fWInDc4",
-      "title": "LIVE: AG Todd Blanche, FBI Director Kash Patel make a law enforcement announcement",
-      "thumbnail": "https://i.ytimg.com/vi/Asu0fWInDc4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "iYMxuoEPWuY",
+      "title": "The government wants you to prepare for an emergency | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/iYMxuoEPWuY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,15 +207,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "NVW1ZAgaEYw",
-      "title": "WATCH LIVE: Blanche and Patel announce law enforcement action",
-      "thumbnail": "https://i.ytimg.com/vi/NVW1ZAgaEYw/hqdefault.jpg"
+      "videoId": "KDZsHwxX-yg",
+      "title": "WATCH LIVE: Kamala Harris joins Mississippi's Scott Colom for rural healthcare discussion",
+      "thumbnail": "https://i.ytimg.com/vi/KDZsHwxX-yg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "K6bHVb0u0bw",
+      "title": "Ilhan Omar raid: Which party is weaponizing the justice system worse? Debate with Laura Fink",
+      "thumbnail": "https://i.ytimg.com/vi/K6bHVb0u0bw/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -249,9 +246,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "egPn22uiaOc",
-      "title": "Canadian PM Carney, Turkish President Erdoğan give a joint statement in 1st bilateral meeting | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/egPn22uiaOc/hqdefault.jpg"
+      "videoId": "Ud4AzunMG14",
+      "title": "CFB Wainwright fire: Canadian Armed Forces to provide update as 27 remain in hospital | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Ud4AzunMG14/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T14:42:11.192Z",
+      "at": "2026-10-22T18:52:33.178Z",
       "checked": 33,
       "errors": 0
     }
