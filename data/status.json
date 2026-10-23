@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T05:19:43.794Z",
+  "generatedAt": "2026-10-23T10:15:27.404Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -45,9 +45,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "7xE-CBMukbE",
+      "title": "LIVE: Storm Austen leaves thousands without power as it sweeps across parts of the UK | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/7xE-CBMukbE/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -102,18 +102,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "IFJbjBuV_I0",
-      "title": "LIVE: Typhoon Champi approaches Taiwan",
-      "thumbnail": "https://i.ytimg.com/vi/IFJbjBuV_I0/hqdefault.jpg"
+      "videoId": "lLGO45Zrjh4",
+      "title": "LIVE: Hungary opposition marches through Budapest",
+      "thumbnail": "https://i.ytimg.com/vi/lLGO45Zrjh4/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "iipR5yUp36o",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
+      "videoId": "rIm8DksJWBI",
+      "title": "LIVE: ABC News Live - Friday, October 23",
+      "thumbnail": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "wfAYEzu1-ns",
-      "title": "Mornings | Friday 23 October 2026",
-      "thumbnail": "https://i.ytimg.com/vi/wfAYEzu1-ns/hqdefault.jpg"
+      "videoId": "DNONFn5HjA4",
+      "title": "Meghan Markle responds to allegations against her father",
+      "thumbnail": "https://i.ytimg.com/vi/DNONFn5HjA4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,7 +224,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "RRw-O0JrHJM",
+      "title": "French interior minister Laurent Nuñez holds news conference ahead of protests – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/RRw-O0JrHJM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-23T05:19:43.794Z",
+      "at": "2026-10-23T10:15:27.404Z",
       "checked": 33,
       "errors": 0
     }
