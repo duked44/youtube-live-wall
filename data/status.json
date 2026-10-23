@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-10-23T10:15:27.404Z",
+  "generatedAt": "2026-10-23T15:11:39.227Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "ciJ5JTrmwqU",
+      "title": "Shooting Attacks in France & Jordan (Unrelated) - LIVE Breaking News Coverage (Trappes & Karak)",
+      "thumbnail": "https://i.ytimg.com/vi/ciJ5JTrmwqU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "vXSYPzG0dz8",
+      "title": "LIVE: President Trump Delivers Remarks At Rally In Fort Myers, Florida Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/vXSYPzG0dz8/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +32,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "pMD0ffRom7M",
+      "title": "WATCH LIVE: Trump speaks at Florida rally in highly anticipated address",
+      "thumbnail": "https://i.ytimg.com/vi/pMD0ffRom7M/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -93,18 +102,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "HV_4JagTvDs",
-      "title": "LIVE: Typhoon Champi brushes by Taiwan",
-      "thumbnail": "https://i.ytimg.com/vi/HV_4JagTvDs/hqdefault.jpg"
+      "videoId": "DsdpiuzJTO8",
+      "title": "LIVE: Trump holds rally in Florida ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/DsdpiuzJTO8/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "lLGO45Zrjh4",
-      "title": "LIVE: Hungary opposition marches through Budapest",
-      "thumbnail": "https://i.ytimg.com/vi/lLGO45Zrjh4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,18 +126,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "KhkNcaErtes",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg"
+      "videoId": "Nvl7K0LvvgI",
+      "title": "LIVE: NBC News NOW - Oct. 23",
+      "thumbnail": "https://i.ytimg.com/vi/Nvl7K0LvvgI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "66zHdzs-DdQ",
+      "videoId": "V1b6nTzIknA",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/66zHdzs-DdQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "DNONFn5HjA4",
-      "title": "Meghan Markle responds to allegations against her father",
-      "thumbnail": "https://i.ytimg.com/vi/DNONFn5HjA4/hqdefault.jpg"
+      "videoId": "w_9UZOulCgE",
+      "title": "Trump answers reporters' questions outside White House",
+      "thumbnail": "https://i.ytimg.com/vi/w_9UZOulCgE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,7 +212,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "RxfSad6WFNc",
+      "title": "WATCH LIVE: Trump speaks at GOP midterm rally in Florida",
+      "thumbnail": "https://i.ytimg.com/vi/RxfSad6WFNc/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,16 +227,16 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "m5gCFwKm9Qg",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/m5gCFwKm9Qg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "RRw-O0JrHJM",
-      "title": "French interior minister Laurent Nuñez holds news conference ahead of protests – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/RRw-O0JrHJM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -241,7 +250,7 @@
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
       "videoId": "UPbB-NpQ_bA",
-      "title": "Decision BC: Latest news and updates as British Columbians go to the polls | LIVE",
+      "title": "Decision BC: Latest news & updates on British Columbia provincial election | LIVE",
       "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
     },
     {
@@ -261,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-23T10:15:27.404Z",
+      "at": "2026-10-23T15:11:39.227Z",
       "checked": 33,
       "errors": 0
     }
