@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-22T22:01:42.298Z",
+  "generatedAt": "2026-10-23T00:35:15.132Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "AxYOgp_o-4g",
-      "title": "Press Conference on Incident & Fire at CFB Wainwright - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/AxYOgp_o-4g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "S6cHqLZSHZg",
+      "title": "WATCH LIVE: President Trump speaks at Iowa campaign rally",
+      "thumbnail": "https://i.ytimg.com/vi/S6cHqLZSHZg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -123,42 +123,45 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "KhkNcaErtes",
-      "title": "LIVE: NBC News NOW - Oct. 22",
-      "thumbnail": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg"
+      "videoId": "gSJt4j2wjfA",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 22",
+      "thumbnail": "https://i.ytimg.com/vi/gSJt4j2wjfA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "I9M1hVv8V_c",
+      "videoId": "66zHdzs-DdQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/I9M1hVv8V_c/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/66zHdzs-DdQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "o_PJ61ycYfM",
+      "title": "Live: Trump to rally for Rep. Ashley Hinson in Iowa Senate race",
+      "thumbnail": "https://i.ytimg.com/vi/o_PJ61ycYfM/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "-HPEiFWErRw",
+      "title": "LIVE: Trump holds midterm rally in Iowa as approval rating hits record lows",
+      "thumbnail": "https://i.ytimg.com/vi/-HPEiFWErRw/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "rFVCBfTIOUk",
-      "title": "Government warns British families to have plan if critical infrastructure is attacked | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/rFVCBfTIOUk/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "VLMSC3i6IYs",
-      "title": "PBS News Hour live episode, Oct. 22, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/VLMSC3i6IYs/hqdefault.jpg"
+      "videoId": "eahfkLRVukI",
+      "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
+      "thumbnail": "https://i.ytimg.com/vi/eahfkLRVukI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,10 +227,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "Gorb_dU_16E",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/Gorb_dU_16E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -267,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-22T22:01:42.298Z",
+      "at": "2026-10-23T00:35:15.132Z",
       "checked": 33,
       "errors": 0
     }
