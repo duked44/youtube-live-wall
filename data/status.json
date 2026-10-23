@@ -1,23 +1,20 @@
 {
-  "generatedAt": "2026-10-23T15:11:39.227Z",
+  "generatedAt": "2026-10-23T19:15:57.946Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "ciJ5JTrmwqU",
-      "title": "Shooting Attacks in France & Jordan (Unrelated) - LIVE Breaking News Coverage (Trappes & Karak)",
-      "thumbnail": "https://i.ytimg.com/vi/ciJ5JTrmwqU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "vXSYPzG0dz8",
-      "title": "LIVE: President Trump Delivers Remarks At Rally In Fort Myers, Florida Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/vXSYPzG0dz8/hqdefault.jpg"
+      "videoId": "PXz5ce928JI",
+      "title": "LIVE: DHS Sec. Mullin Holds Press Conference On Securing Homeland With Tribal Nations",
+      "thumbnail": "https://i.ytimg.com/vi/PXz5ce928JI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -54,9 +51,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "7xE-CBMukbE",
-      "title": "LIVE: Storm Austen leaves thousands without power as it sweeps across parts of the UK | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/7xE-CBMukbE/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -80,10 +77,7 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": true,
-      "videoId": "Wm3_KLpbDTg",
-      "title": "🔴 MARATHON: Global investigations from FRONTLINE",
-      "thumbnail": "https://i.ytimg.com/vi/Wm3_KLpbDTg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "wsj",
@@ -102,9 +96,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "DsdpiuzJTO8",
-      "title": "LIVE: Trump holds rally in Florida ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/DsdpiuzJTO8/hqdefault.jpg"
+      "videoId": "zNRqkUYAE54",
+      "title": "LIVE: NASA officials give an update on Artemis III mission to the moon",
+      "thumbnail": "https://i.ytimg.com/vi/zNRqkUYAE54/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -144,24 +138,27 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "037woJlfULQ",
+      "title": "Live: Trump to hold midterm rally in Fort Myers, FL for Rep. Byron Donalds",
+      "thumbnail": "https://i.ytimg.com/vi/037woJlfULQ/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "Y6XKHF2sGwU",
+      "title": "LIVE: Trump stumps in FLORIDA amid LOWEST approval ever",
+      "thumbnail": "https://i.ytimg.com/vi/Y6XKHF2sGwU/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "w_9UZOulCgE",
-      "title": "Trump answers reporters' questions outside White House",
-      "thumbnail": "https://i.ytimg.com/vi/w_9UZOulCgE/hqdefault.jpg"
+      "videoId": "NJTaTE9pLsQ",
+      "title": "NASA update on plans to return to moon by 2028",
+      "thumbnail": "https://i.ytimg.com/vi/NJTaTE9pLsQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,15 +210,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "RxfSad6WFNc",
-      "title": "WATCH LIVE: Trump speaks at GOP midterm rally in Florida",
-      "thumbnail": "https://i.ytimg.com/vi/RxfSad6WFNc/hqdefault.jpg"
+      "videoId": "kpAMooEICmE",
+      "title": "WATCH LIVE: NASA's Isaacman gives Artemis III update in push to return to the moon",
+      "thumbnail": "https://i.ytimg.com/vi/kpAMooEICmE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "p2dxMh3G7mA",
+      "title": "NASA Artemis update: Returning to the Moon",
+      "thumbnail": "https://i.ytimg.com/vi/p2dxMh3G7mA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-23T15:11:39.227Z",
+      "at": "2026-10-23T19:15:57.946Z",
       "checked": 33,
       "errors": 0
     }
