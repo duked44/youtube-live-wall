@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T19:15:57.946Z",
+  "generatedAt": "2026-10-23T22:20:37.499Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "PXz5ce928JI",
-      "title": "LIVE: DHS Sec. Mullin Holds Press Conference On Securing Homeland With Tribal Nations",
-      "thumbnail": "https://i.ytimg.com/vi/PXz5ce928JI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "pMD0ffRom7M",
-      "title": "WATCH LIVE: Trump speaks at Florida rally in highly anticipated address",
-      "thumbnail": "https://i.ytimg.com/vi/pMD0ffRom7M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -95,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "zNRqkUYAE54",
-      "title": "LIVE: NASA officials give an update on Artemis III mission to the moon",
-      "thumbnail": "https://i.ytimg.com/vi/zNRqkUYAE54/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -120,9 +111,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Nvl7K0LvvgI",
+      "videoId": "aF9neWULq64",
       "title": "LIVE: NBC News NOW - Oct. 23",
-      "thumbnail": "https://i.ytimg.com/vi/Nvl7K0LvvgI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -138,27 +129,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "037woJlfULQ",
-      "title": "Live: Trump to hold midterm rally in Fort Myers, FL for Rep. Byron Donalds",
-      "thumbnail": "https://i.ytimg.com/vi/037woJlfULQ/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "Y6XKHF2sGwU",
-      "title": "LIVE: Trump stumps in FLORIDA amid LOWEST approval ever",
-      "thumbnail": "https://i.ytimg.com/vi/Y6XKHF2sGwU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "NJTaTE9pLsQ",
-      "title": "NASA update on plans to return to moon by 2028",
-      "thumbnail": "https://i.ytimg.com/vi/NJTaTE9pLsQ/hqdefault.jpg"
+      "videoId": "Yu7NmfuvvbY",
+      "title": "Meghan 'deeply distressed' by 'disturbing allegations' against her father | The Wrap",
+      "thumbnail": "https://i.ytimg.com/vi/Yu7NmfuvvbY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,18 +198,15 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "kpAMooEICmE",
-      "title": "WATCH LIVE: NASA's Isaacman gives Artemis III update in push to return to the moon",
-      "thumbnail": "https://i.ytimg.com/vi/kpAMooEICmE/hqdefault.jpg"
+      "videoId": "UvyxP9sw488",
+      "title": "PBS News Hour live episode, Oct. 23, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/UvyxP9sw488/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "p2dxMh3G7mA",
-      "title": "NASA Artemis update: Returning to the Moon",
-      "thumbnail": "https://i.ytimg.com/vi/p2dxMh3G7mA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -270,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-23T19:15:57.946Z",
+      "at": "2026-10-23T22:20:37.499Z",
       "checked": 33,
       "errors": 0
     }
