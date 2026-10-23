@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T00:35:15.132Z",
+  "generatedAt": "2026-10-23T05:19:43.794Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "S6cHqLZSHZg",
-      "title": "WATCH LIVE: President Trump speaks at Iowa campaign rally",
-      "thumbnail": "https://i.ytimg.com/vi/S6cHqLZSHZg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -96,36 +93,36 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "sUXxCcf5ZVI",
-      "title": "LIVE: Kamala Harris campaigns with Scott Colom at a midterm rally in Mississippi",
-      "thumbnail": "https://i.ytimg.com/vi/sUXxCcf5ZVI/hqdefault.jpg"
+      "videoId": "HV_4JagTvDs",
+      "title": "LIVE: Typhoon Champi brushes by Taiwan",
+      "thumbnail": "https://i.ytimg.com/vi/HV_4JagTvDs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "lqD3eSaVr0s",
-      "title": "LIVE: Trump expected to speak at rally in Iowa",
-      "thumbnail": "https://i.ytimg.com/vi/lqD3eSaVr0s/hqdefault.jpg"
+      "videoId": "IFJbjBuV_I0",
+      "title": "LIVE: Typhoon Champi approaches Taiwan",
+      "thumbnail": "https://i.ytimg.com/vi/IFJbjBuV_I0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "6h25qvCFuL8",
-      "title": "LIVE: ABC News Live - Thursday, October 22",
-      "thumbnail": "https://i.ytimg.com/vi/6h25qvCFuL8/hqdefault.jpg"
+      "videoId": "iipR5yUp36o",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/iipR5yUp36o/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gSJt4j2wjfA",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 22",
-      "thumbnail": "https://i.ytimg.com/vi/gSJt4j2wjfA/hqdefault.jpg"
+      "videoId": "KhkNcaErtes",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/KhkNcaErtes/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -141,27 +138,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "o_PJ61ycYfM",
-      "title": "Live: Trump to rally for Rep. Ashley Hinson in Iowa Senate race",
-      "thumbnail": "https://i.ytimg.com/vi/o_PJ61ycYfM/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "-HPEiFWErRw",
-      "title": "LIVE: Trump holds midterm rally in Iowa as approval rating hits record lows",
-      "thumbnail": "https://i.ytimg.com/vi/-HPEiFWErRw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "wfAYEzu1-ns",
+      "title": "Mornings | Friday 23 October 2026",
+      "thumbnail": "https://i.ytimg.com/vi/wfAYEzu1-ns/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +206,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "eahfkLRVukI",
-      "title": "WATCH LIVE: Trump rallies in Iowa with GOP Senate candidate Ashley Hinson",
-      "thumbnail": "https://i.ytimg.com/vi/eahfkLRVukI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -267,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-23T00:35:15.132Z",
+      "at": "2026-10-23T05:19:43.794Z",
       "checked": 33,
       "errors": 0
     }
