@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T16:56:34.708Z",
+  "generatedAt": "2026-10-24T19:19:27.119Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "N8CgizRzLw4",
+      "title": "WATCH LIVE: Barack Obama campaigns with Ohio Democrats",
+      "thumbnail": "https://i.ytimg.com/vi/N8CgizRzLw4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -140,16 +143,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "gvE0MeYj-y4",
+      "title": "LIVE: Obama stumps for Ohio Democrats as midterms approach",
+      "thumbnail": "https://i.ytimg.com/vi/gvE0MeYj-y4/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "9pQVTX-QTpI",
-      "title": "Troops sent into Paris for protests",
-      "thumbnail": "https://i.ytimg.com/vi/9pQVTX-QTpI/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -231,9 +237,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "ph_s9G1MP4g",
-      "title": "Police provide update on alleged parental abduction of 3 children in Toronto | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/ph_s9G1MP4g/hqdefault.jpg"
+      "videoId": "UPbB-NpQ_bA",
+      "title": "Decision BC: Latest news & updates on British Columbia provincial election | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -252,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-24T16:56:34.708Z",
+      "at": "2026-10-24T19:19:27.119Z",
       "checked": 33,
       "errors": 0
     }
