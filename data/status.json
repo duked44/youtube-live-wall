@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T13:34:25.273Z",
+  "generatedAt": "2026-10-24T16:56:34.708Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "snmO3kpEPV0",
+      "title": "WATCH LIVE: Former President Barack Obama Campaigns With Amy Acton, Sherrod Brown In Cleveland, Ohio",
+      "thumbnail": "https://i.ytimg.com/vi/snmO3kpEPV0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,7 +35,10 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "Bq9Ob6zOrOk",
+      "title": "LIVE: Riots Erupt in France as Clashes Break Out Between Protesters and Police",
+      "thumbnail": "https://i.ytimg.com/vi/Bq9Ob6zOrOk/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -177,9 +183,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "1c5z2LQPUaE",
-      "title": "Iran-Houthi Tensions, France Unrest, Tech Stock Selloff | Bloomberg This Weekend: Oct 24th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/1c5z2LQPUaE/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -225,9 +231,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "UPbB-NpQ_bA",
-      "title": "Decision BC: Latest news & updates on British Columbia provincial election | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
+      "videoId": "ph_s9G1MP4g",
+      "title": "Police provide update on alleged parental abduction of 3 children in Toronto | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/ph_s9G1MP4g/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -246,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-24T13:34:25.273Z",
+      "at": "2026-10-24T16:56:34.708Z",
       "checked": 33,
       "errors": 0
     }
