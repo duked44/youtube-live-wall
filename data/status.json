@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T19:19:27.119Z",
+  "generatedAt": "2026-10-24T21:42:09.950Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "snmO3kpEPV0",
-      "title": "WATCH LIVE: Former President Barack Obama Campaigns With Amy Acton, Sherrod Brown In Cleveland, Ohio",
-      "thumbnail": "https://i.ytimg.com/vi/snmO3kpEPV0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "N8CgizRzLw4",
-      "title": "WATCH LIVE: Barack Obama campaigns with Ohio Democrats",
-      "thumbnail": "https://i.ytimg.com/vi/N8CgizRzLw4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -111,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "FklIUvgHTS4",
-      "title": "LIVE: ABC News Live - Saturday, October 24",
-      "thumbnail": "https://i.ytimg.com/vi/FklIUvgHTS4/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,18 +138,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "gvE0MeYj-y4",
-      "title": "LIVE: Obama stumps for Ohio Democrats as midterms approach",
-      "thumbnail": "https://i.ytimg.com/vi/gvE0MeYj-y4/hqdefault.jpg"
+      "videoId": "WPBai3XWNFI",
+      "title": "LIVE: Obama stumps for Abdul El-Sayed in Michigan as midterms approach",
+      "thumbnail": "https://i.ytimg.com/vi/WPBai3XWNFI/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "vFkwthvbji4",
+      "title": "The Wrap | Sunday 25 October 2026",
+      "thumbnail": "https://i.ytimg.com/vi/vFkwthvbji4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -253,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 8,
+      "channelChecks": 264,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-24T19:19:27.119Z",
+      "at": "2026-10-24T21:42:09.950Z",
       "checked": 33,
       "errors": 0
     }
