@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:51:14.416Z",
+  "generatedAt": "2026-10-24T05:11:46.495Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,27 +102,24 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "rIm8DksJWBI",
-      "title": "LIVE: ABC News Live - Friday, October 23",
-      "thumbnail": "https://i.ytimg.com/vi/rIm8DksJWBI/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "tm8igW6KfIs",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 23",
-      "thumbnail": "https://i.ytimg.com/vi/tm8igW6KfIs/hqdefault.jpg"
+      "videoId": "aF9neWULq64",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/aF9neWULq64/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "V1b6nTzIknA",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/V1b6nTzIknA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -144,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Yu7NmfuvvbY",
-      "title": "Meghan 'deeply distressed' by 'disturbing allegations' against her father | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/Yu7NmfuvvbY/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -244,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-24T00:51:14.416Z",
+      "at": "2026-10-24T05:11:46.495Z",
       "checked": 33,
       "errors": 0
     }
