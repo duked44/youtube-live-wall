@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T21:42:09.950Z",
+  "generatedAt": "2026-10-24T23:46:21.037Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "5TxiKNEmOIY",
+      "title": "President Trump rallies in Georgia",
+      "thumbnail": "https://i.ytimg.com/vi/5TxiKNEmOIY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -137,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "WPBai3XWNFI",
-      "title": "LIVE: Obama stumps for Abdul El-Sayed in Michigan as midterms approach",
-      "thumbnail": "https://i.ytimg.com/vi/WPBai3XWNFI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "vFkwthvbji4",
-      "title": "The Wrap | Sunday 25 October 2026",
-      "thumbnail": "https://i.ytimg.com/vi/vFkwthvbji4/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -232,7 +232,7 @@
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
       "videoId": "UPbB-NpQ_bA",
-      "title": "Decision BC: Latest news & updates on British Columbia provincial election | LIVE",
+      "title": "Decision BC: Latest news and updates on British Columbia provincial election | LIVE",
       "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
     },
     {
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-24T21:42:09.950Z",
+      "at": "2026-10-24T23:46:21.037Z",
       "checked": 33,
       "errors": 0
     }
