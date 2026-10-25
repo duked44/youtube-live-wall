@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:55:51.106Z",
+  "generatedAt": "2026-10-25T23:54:42.006Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -206,7 +206,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "KCdGxvFNZUA",
+      "title": "LIVE: Decision Desk ‘26 Midterm preview powered by 2WAY and The Hill",
+      "thumbnail": "https://i.ytimg.com/vi/KCdGxvFNZUA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T21:55:51.106Z",
+      "at": "2026-10-25T23:54:42.006Z",
       "checked": 33,
       "errors": 0
     }
