@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T19:19:40.492Z",
+  "generatedAt": "2026-10-25T21:55:51.106Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,9 +15,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "Fluxwn0F8n0",
-      "title": "WATCH LIVE: President Donald Trump Hosts Midterm Rally In Port Huron, Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/Fluxwn0F8n0/hqdefault.jpg"
+      "videoId": "BoN_6f7zWEI",
+      "title": "WATCH LIVE: Ohio Gubernatorial Candidate Vivek Ramaswamy Holds Campaign Rally In Hocking County, OH",
+      "thumbnail": "https://i.ytimg.com/vi/BoN_6f7zWEI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -32,10 +32,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "CkM_CFtIDUs",
-      "title": "WATCH LIVE: Trump rallies Michigan voters ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/CkM_CFtIDUs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -111,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "YIO_WT0wsz8",
-      "title": "LIVE: ABC News Live - Sunday, October 25",
-      "thumbnail": "https://i.ytimg.com/vi/YIO_WT0wsz8/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -143,10 +140,7 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "0GyuJB9N91U",
-      "title": "LIVE: Trump speaks at midterm rally in Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/0GyuJB9N91U/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -236,10 +230,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "P_DTVURcdFw",
-      "title": "BC premier-elect Lorne Doerkson speaks after majority election win | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/P_DTVURcdFw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T19:19:40.492Z",
+      "at": "2026-10-25T21:55:51.106Z",
       "checked": 33,
       "errors": 0
     }
