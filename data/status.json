@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T01:46:48.306Z",
+  "generatedAt": "2026-10-25T06:59:28.868Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -32,10 +32,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "Bq9Ob6zOrOk",
-      "title": "LIVE: Riots Erupt in France as Clashes Break Out Between Protesters and Police",
-      "thumbnail": "https://i.ytimg.com/vi/Bq9Ob6zOrOk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -227,10 +224,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "UPbB-NpQ_bA",
-      "title": "Decision BC: Latest news and updates on British Columbia provincial election | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/UPbB-NpQ_bA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -249,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T01:46:48.306Z",
+      "at": "2026-10-25T06:59:28.868Z",
       "checked": 33,
       "errors": 0
     }
