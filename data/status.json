@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-10-25T16:45:22.715Z",
+  "generatedAt": "2026-10-25T19:19:40.492Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "tSJ9WMI2ybA",
+      "title": "Brazil Election Results - LIVE Breaking News Coverage (Presidential Runoff: Lula vs. Bolsonaro)",
+      "thumbnail": "https://i.ytimg.com/vi/tSJ9WMI2ybA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "ZiKNMg94g18",
-      "title": "WATCH LIVE: President Donald Trump Departs White House En Route To Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/ZiKNMg94g18/hqdefault.jpg"
+      "videoId": "Fluxwn0F8n0",
+      "title": "WATCH LIVE: President Donald Trump Hosts Midterm Rally In Port Huron, Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/Fluxwn0F8n0/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -140,7 +143,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "0GyuJB9N91U",
+      "title": "LIVE: Trump speaks at midterm rally in Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/0GyuJB9N91U/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -230,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "P_DTVURcdFw",
+      "title": "BC premier-elect Lorne Doerkson speaks after majority election win | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/P_DTVURcdFw/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -244,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 8,
-      "channelChecks": 264,
+      "runs": 7,
+      "channelChecks": 231,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T16:45:22.715Z",
+      "at": "2026-10-25T19:19:40.492Z",
       "checked": 33,
       "errors": 0
     }
