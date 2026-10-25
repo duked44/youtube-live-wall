@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T06:59:28.868Z",
+  "generatedAt": "2026-10-25T12:30:20.334Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "YIO_WT0wsz8",
+      "title": "LIVE: ABC News Live - Sunday, October 25",
+      "thumbnail": "https://i.ytimg.com/vi/YIO_WT0wsz8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "pKiQErB7Ufs",
+      "title": "Potential Iran Strikes, Brazil Elections, Israel Elections | Bloomberg This Weekend: Oct 25th, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/pKiQErB7Ufs/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T06:59:28.868Z",
+      "at": "2026-10-25T12:30:20.334Z",
       "checked": 33,
       "errors": 0
     }
