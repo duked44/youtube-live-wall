@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T12:30:20.334Z",
+  "generatedAt": "2026-10-25T16:45:22.715Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "ZiKNMg94g18",
+      "title": "WATCH LIVE: President Donald Trump Departs White House En Route To Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/ZiKNMg94g18/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "CkM_CFtIDUs",
+      "title": "WATCH LIVE: Trump rallies Michigan voters ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/CkM_CFtIDUs/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -177,9 +183,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "pKiQErB7Ufs",
-      "title": "Potential Iran Strikes, Brazil Elections, Israel Elections | Bloomberg This Weekend: Oct 25th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/pKiQErB7Ufs/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -243,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T12:30:20.334Z",
+      "at": "2026-10-25T16:45:22.715Z",
       "checked": 33,
       "errors": 0
     }
