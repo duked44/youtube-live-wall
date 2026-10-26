@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T16:07:29.328Z",
+  "generatedAt": "2026-10-26T21:00:29.391Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "rjUpqOCzB3o",
-      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Montana Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/rjUpqOCzB3o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -30,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "75n6ytMjStI",
-      "title": "WATCH LIVE: Trump puts US-France relations in spotlight with Oval Office meeting",
-      "thumbnail": "https://i.ytimg.com/vi/75n6ytMjStI/hqdefault.jpg"
+      "videoId": "2efxtxIuekY",
+      "title": "WATCH LIVE: Vice President JD Vance headlines midterm campaign rally in Topeka, Kansas",
+      "thumbnail": "https://i.ytimg.com/vi/2efxtxIuekY/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -50,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -92,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "B82nPNMg_A0",
+      "title": "LIVE: Trump speaks at a rally for Cindy Hyde-Smith in Mississippi",
+      "thumbnail": "https://i.ytimg.com/vi/B82nPNMg_A0/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -132,9 +135,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "8_UY8FBhiPM",
-      "title": "Henry Nowak murder | Home Secretary announces independent review",
-      "thumbnail": "https://i.ytimg.com/vi/8_UY8FBhiPM/hqdefault.jpg"
+      "videoId": "xlJkpXWX4tI",
+      "title": "Live from Jerusalem on eve of historic Israeli election | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/xlJkpXWX4tI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -236,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "WucOPu8Lg44",
+      "title": "Decision 2026: Latest news and updates on Ontario's municipal elections | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/WucOPu8Lg44/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -250,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 7,
-      "channelChecks": 231,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-26T16:07:29.328Z",
+      "at": "2026-10-26T21:00:29.391Z",
       "checked": 33,
       "errors": 0
     }
