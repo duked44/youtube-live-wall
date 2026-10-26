@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-25T23:54:42.006Z",
+  "generatedAt": "2026-10-26T03:18:33.323Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "tSJ9WMI2ybA",
-      "title": "Brazil Election Results - LIVE Breaking News Coverage (Presidential Runoff: Lula vs. Bolsonaro)",
-      "thumbnail": "https://i.ytimg.com/vi/tSJ9WMI2ybA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -101,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "QGEjZHerkek",
+      "title": "LIVE: Maria Corina Machado returns to Venezuela",
+      "thumbnail": "https://i.ytimg.com/vi/QGEjZHerkek/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -206,10 +206,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "KCdGxvFNZUA",
-      "title": "LIVE: Decision Desk ‘26 Midterm preview powered by 2WAY and The Hill",
-      "thumbnail": "https://i.ytimg.com/vi/KCdGxvFNZUA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -252,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-25T23:54:42.006Z",
+      "at": "2026-10-26T03:18:33.323Z",
       "checked": 33,
       "errors": 0
     }
