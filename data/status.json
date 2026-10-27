@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-10-27T16:03:31.325Z",
+  "generatedAt": "2026-10-27T20:39:01.076Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "gKMmwkviJ6o",
+      "title": "Israel Election Results - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/gKMmwkviJ6o/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "9wJEKCP-meY",
-      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Michigan Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/9wJEKCP-meY/hqdefault.jpg"
+      "videoId": "KupAe3PXoUE",
+      "title": "LIVE: President Trump Delivers Remarks At Campaign Rally In Texas Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/KupAe3PXoUE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "qRN6erdvDPk",
-      "title": "WATCH LIVE: JD Vance rallies Michigan voters as midterm elections near",
-      "thumbnail": "https://i.ytimg.com/vi/qRN6erdvDPk/hqdefault.jpg"
+      "videoId": "jWoX_tccuBg",
+      "title": "WATCH LIVE: President Trump speaks at midterm rally in Corpus Christi, Texas",
+      "thumbnail": "https://i.ytimg.com/vi/jWoX_tccuBg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -51,9 +54,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "QG2qhlr-1Tw",
+      "title": "Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/QG2qhlr-1Tw/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -95,19 +98,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "mdJG6nl1-Uc",
-      "title": "LIVE: Trump speaks at a rally in Texas ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/mdJG6nl1-Uc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "5Lzbq9HPhcs",
-      "title": "LIVE: Israelis line up outside a Tel Aviv polling station",
-      "thumbnail": "https://i.ytimg.com/vi/5Lzbq9HPhcs/hqdefault.jpg"
+      "videoId": "t0-d_p9chDg",
+      "title": "LIVE: Eisenkot supporters react to initial Israeli election results",
+      "thumbnail": "https://i.ytimg.com/vi/t0-d_p9chDg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -150,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "D5bMMXl__ms",
-      "title": "LIVE: Parents of Alex Pretti give first news conference since their son was killed in January",
-      "thumbnail": "https://i.ytimg.com/vi/D5bMMXl__ms/hqdefault.jpg"
+      "videoId": "Rum3NCOw88o",
+      "title": "LIVE: Trump stumps in Texas again amid HIGHLY CONTESTED midterm election",
+      "thumbnail": "https://i.ytimg.com/vi/Rum3NCOw88o/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "wX4CYkKBMlY",
-      "title": "Rayner speaks at Antisemitism Conference",
-      "thumbnail": "https://i.ytimg.com/vi/wX4CYkKBMlY/hqdefault.jpg"
+      "videoId": "ipIVghPrYEM",
+      "title": "King Charles arrives in the Bahamas",
+      "thumbnail": "https://i.ytimg.com/vi/ipIVghPrYEM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -177,9 +177,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "videoId": "IPYX01axbD0",
+      "title": "Live: Netanyahu vs Eisenkot: What do the exit polls tell us? | DW News",
+      "thumbnail": "https://i.ytimg.com/vi/IPYX01axbD0/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -213,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "QRK30J9ouaU",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage",
-      "thumbnail": "https://i.ytimg.com/vi/QRK30J9ouaU/hqdefault.jpg"
+      "videoId": "TKF_6rN3MaA",
+      "title": "WATCH LIVE: Trump holds midterm rally in Corpus Christi, Texas",
+      "thumbnail": "https://i.ytimg.com/vi/TKF_6rN3MaA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -249,9 +249,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "5--C_rfW49w",
-      "title": "Carney welcomes the Crown Prince of Abu Dhabi for trade talks in Ottawa | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/5--C_rfW49w/hqdefault.jpg"
+      "videoId": "KoqknF-7kPU",
+      "title": "Danielle Smith announces end to DEI hiring practices in Alberta government | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/KoqknF-7kPU/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-27T16:03:31.325Z",
+      "at": "2026-10-27T20:39:01.076Z",
       "checked": 33,
       "errors": 0
     }
