@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T10:43:33.722Z",
+  "generatedAt": "2026-10-27T16:03:31.325Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "9wJEKCP-meY",
+      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Michigan Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/9wJEKCP-meY/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "qRN6erdvDPk",
+      "title": "WATCH LIVE: JD Vance rallies Michigan voters as midterm elections near",
+      "thumbnail": "https://i.ytimg.com/vi/qRN6erdvDPk/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -90,18 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "kY12_9JSacM",
-      "title": "LIVE: Netanyahu votes in Israel election that will decide his future as prime minister",
-      "thumbnail": "https://i.ytimg.com/vi/kY12_9JSacM/hqdefault.jpg"
+      "videoId": "mdJG6nl1-Uc",
+      "title": "LIVE: Trump speaks at a rally in Texas ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/mdJG6nl1-Uc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "HPX0cTDOrrI",
-      "title": "LIVE: Israel holds first general election since Oct. 7 attack",
-      "thumbnail": "https://i.ytimg.com/vi/HPX0cTDOrrI/hqdefault.jpg"
+      "videoId": "5Lzbq9HPhcs",
+      "title": "LIVE: Israelis line up outside a Tel Aviv polling station",
+      "thumbnail": "https://i.ytimg.com/vi/5Lzbq9HPhcs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,9 +132,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Bt-ZIVzUBtM",
+      "videoId": "ZwPOtUEfhz8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Bt-ZIVzUBtM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ZwPOtUEfhz8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +149,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "D5bMMXl__ms",
+      "title": "LIVE: Parents of Alex Pretti give first news conference since their son was killed in January",
+      "thumbnail": "https://i.ytimg.com/vi/D5bMMXl__ms/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "KyqEI8o_aTk",
-      "title": "Israelis voting in first election since October 7 attacks | Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/KyqEI8o_aTk/hqdefault.jpg"
+      "videoId": "wX4CYkKBMlY",
+      "title": "Rayner speaks at Antisemitism Conference",
+      "thumbnail": "https://i.ytimg.com/vi/wX4CYkKBMlY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -239,7 +248,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "5--C_rfW49w",
+      "title": "Carney welcomes the Crown Prince of Abu Dhabi for trade talks in Ottawa | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/5--C_rfW49w/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -253,12 +265,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-27T10:43:33.722Z",
+      "at": "2026-10-27T16:03:31.325Z",
       "checked": 33,
       "errors": 0
     }
