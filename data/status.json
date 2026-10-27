@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T05:20:25.728Z",
+  "generatedAt": "2026-10-27T10:43:33.722Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,9 +90,9 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "_ps3hEi1kBk",
-      "title": "LIVE: View of North Korea from South Korea as Pyongyang expands border defenses",
-      "thumbnail": "https://i.ytimg.com/vi/_ps3hEi1kBk/hqdefault.jpg"
+      "videoId": "kY12_9JSacM",
+      "title": "LIVE: Netanyahu votes in Israel election that will decide his future as prime minister",
+      "thumbnail": "https://i.ytimg.com/vi/kY12_9JSacM/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,18 +108,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "vhgNw0dKMGo",
+      "title": "LIVE: ABC News Live - Tuesday, October 27",
+      "thumbnail": "https://i.ytimg.com/vi/vhgNw0dKMGo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "_UHQ3Dhwnlw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/_UHQ3Dhwnlw/hqdefault.jpg"
+      "videoId": "wvY8yOPyNVI",
+      "title": "LIVE: NBC News NOW - Oct. 27",
+      "thumbnail": "https://i.ytimg.com/vi/wvY8yOPyNVI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "KyqEI8o_aTk",
+      "title": "Israelis voting in first election since October 7 attacks | Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/KyqEI8o_aTk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "JB2TvfhsEHE",
+      "title": "LIVE: Top Headlines You Need to Know Today",
+      "thumbnail": "https://i.ytimg.com/vi/JB2TvfhsEHE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-27T05:20:25.728Z",
+      "at": "2026-10-27T10:43:33.722Z",
       "checked": 33,
       "errors": 0
     }
