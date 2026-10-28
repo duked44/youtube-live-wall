@@ -1,41 +1,35 @@
 {
-  "generatedAt": "2026-10-28T17:20:09.520Z",
+  "generatedAt": "2026-10-28T21:46:13.346Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "CmuY1_7R72c",
-      "title": "Spain Train Crash Kills At Least 64 - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/CmuY1_7R72c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "QjSqO3qQXn4",
-      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In North Carolina Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/QjSqO3qQXn4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "uLqulRhRLJQ",
-      "title": "New Hampshire U.S. Senate Debate",
-      "thumbnail": "https://i.ytimg.com/vi/uLqulRhRLJQ/hqdefault.jpg"
+      "videoId": "DXiZio2O9RI",
+      "title": "C-SPAN Election Night Coverage (Part 1)",
+      "thumbnail": "https://i.ytimg.com/vi/DXiZio2O9RI/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "Wdc3Rd91YS4",
-      "title": "WATCH LIVE: Vance rallies midterm voters in North Carolina",
-      "thumbnail": "https://i.ytimg.com/vi/Wdc3Rd91YS4/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Night",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "nxXJShzY4jI",
-      "title": "LIVE: Fed Chair Kevin Warsh speaks after interest rate decision meeting",
-      "thumbnail": "https://i.ytimg.com/vi/nxXJShzY4jI/hqdefault.jpg"
+      "videoId": "dAII15aXfUE",
+      "title": "LIVE: Barack Obama rallies with Jon Ossoff ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/dAII15aXfUE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "e6KDszhoiLY",
-      "title": "LIVE: Mark Kelly joins Maine's Troy Jackson for canvassing",
-      "thumbnail": "https://i.ytimg.com/vi/e6KDszhoiLY/hqdefault.jpg"
+      "videoId": "GuseYdUlLeg",
+      "title": "LIVE: Aftermath of high-speed train collision in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/GuseYdUlLeg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -162,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "F86h8QDh3aI",
-      "title": "Spain train crash | At least 68 dead after two high-speed trains collide",
-      "thumbnail": "https://i.ytimg.com/vi/F86h8QDh3aI/hqdefault.jpg"
+      "videoId": "4cUYgibBoQE",
+      "title": "Spain train crash kills at least 68 people  | The World with Yalda Hakim",
+      "thumbnail": "https://i.ytimg.com/vi/4cUYgibBoQE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,10 +218,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "97g0LBPLmhU",
-      "title": "Are Dems pretending not to be radical? YOU debate Batya! | Prove It!",
-      "thumbnail": "https://i.ytimg.com/vi/97g0LBPLmhU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -273,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-28T17:20:09.520Z",
+      "at": "2026-10-28T21:46:13.346Z",
       "checked": 33,
       "errors": 0
     }
