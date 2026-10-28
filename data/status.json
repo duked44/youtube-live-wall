@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-10-28T11:32:25.199Z",
+  "generatedAt": "2026-10-28T17:20:09.520Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "CmuY1_7R72c",
+      "title": "Spain Train Crash Kills At Least 64 - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/CmuY1_7R72c/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "QjSqO3qQXn4",
+      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In North Carolina Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/QjSqO3qQXn4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +32,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Wdc3Rd91YS4",
+      "title": "WATCH LIVE: Vance rallies midterm voters in North Carolina",
+      "thumbnail": "https://i.ytimg.com/vi/Wdc3Rd91YS4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -45,9 +54,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "H_JvCiFPiTw",
-      "title": "Watch live: Dozens feared dead in Spain after two high-speed trains collide | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/H_JvCiFPiTw/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -89,16 +98,19 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "nxXJShzY4jI",
+      "title": "LIVE: Fed Chair Kevin Warsh speaks after interest rate decision meeting",
+      "thumbnail": "https://i.ytimg.com/vi/nxXJShzY4jI/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "wh3oBuUn7jk",
-      "title": "LIVE: Two high-speed trains collide in Spain",
-      "thumbnail": "https://i.ytimg.com/vi/wh3oBuUn7jk/hqdefault.jpg"
+      "videoId": "e6KDszhoiLY",
+      "title": "LIVE: Mark Kelly joins Maine's Troy Jackson for canvassing",
+      "thumbnail": "https://i.ytimg.com/vi/e6KDszhoiLY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -140,7 +152,10 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -148,7 +163,7 @@
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
       "videoId": "F86h8QDh3aI",
-      "title": "Spain train crash | At least 39 dead after two high-speed trains collide",
+      "title": "Spain train crash | At least 68 dead after two high-speed trains collide",
       "thumbnail": "https://i.ytimg.com/vi/F86h8QDh3aI/hqdefault.jpg"
     },
     {
@@ -209,7 +224,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "97g0LBPLmhU",
+      "title": "Are Dems pretending not to be radical? YOU debate Batya! | Prove It!",
+      "thumbnail": "https://i.ytimg.com/vi/97g0LBPLmhU/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -255,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-28T11:32:25.199Z",
+      "at": "2026-10-28T17:20:09.520Z",
       "checked": 33,
       "errors": 0
     }
