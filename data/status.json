@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T20:39:01.076Z",
+  "generatedAt": "2026-10-28T00:02:00.087Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -14,10 +14,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "KupAe3PXoUE",
-      "title": "LIVE: President Trump Delivers Remarks At Campaign Rally In Texas Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/KupAe3PXoUE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -33,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "jWoX_tccuBg",
-      "title": "WATCH LIVE: President Trump speaks at midterm rally in Corpus Christi, Texas",
-      "thumbnail": "https://i.ytimg.com/vi/jWoX_tccuBg/hqdefault.jpg"
+      "videoId": "7mkU_WfCkUE",
+      "title": "WATCH LIVE: President Donald Trump delivers remarks at Lubbock, Texas rally",
+      "thumbnail": "https://i.ytimg.com/vi/7mkU_WfCkUE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -54,15 +51,18 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "QG2qhlr-1Tw",
-      "title": "Israeli exit polls suggest no clear winner with Eisenkot's bloc just ahead of Netanyahu | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/QG2qhlr-1Tw/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "brMtWcMGeMk",
+      "title": "Israel Election Stalemate & Dancing Into the Midterms | Friendly Fire",
+      "thumbnail": "https://i.ytimg.com/vi/brMtWcMGeMk/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -105,9 +105,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "t0-d_p9chDg",
-      "title": "LIVE: Eisenkot supporters react to initial Israeli election results",
-      "thumbnail": "https://i.ytimg.com/vi/t0-d_p9chDg/hqdefault.jpg"
+      "videoId": "UiR2-qLasyA",
+      "title": "LIVE: Netanyahu supporters react to initial Israeli election results",
+      "thumbnail": "https://i.ytimg.com/vi/UiR2-qLasyA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,45 +123,45 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wvY8yOPyNVI",
+      "videoId": "VJ_CpdLJkJo",
       "title": "LIVE: NBC News NOW - Oct. 27",
-      "thumbnail": "https://i.ytimg.com/vi/wvY8yOPyNVI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/VJ_CpdLJkJo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ZwPOtUEfhz8",
+      "videoId": "KJeQk_wFj7o",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ZwPOtUEfhz8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/KJeQk_wFj7o/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "08EAaKvF678",
+      "title": "Live: With a week to go, Trump campaigns in Texas",
+      "thumbnail": "https://i.ytimg.com/vi/08EAaKvF678/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "Rum3NCOw88o",
+      "videoId": "Ba3AQ-AxE5A",
       "title": "LIVE: Trump stumps in Texas again amid HIGHLY CONTESTED midterm election",
-      "thumbnail": "https://i.ytimg.com/vi/Rum3NCOw88o/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Ba3AQ-AxE5A/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "ipIVghPrYEM",
-      "title": "King Charles arrives in the Bahamas",
-      "thumbnail": "https://i.ytimg.com/vi/ipIVghPrYEM/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -177,9 +177,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "IPYX01axbD0",
-      "title": "Live: Netanyahu vs Eisenkot: What do the exit polls tell us? | DW News",
-      "thumbnail": "https://i.ytimg.com/vi/IPYX01axbD0/hqdefault.jpg"
+      "videoId": "LuKwFajn37U",
+      "title": "DW News livestream | Headline news from around the world",
+      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -213,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "TKF_6rN3MaA",
-      "title": "WATCH LIVE: Trump holds midterm rally in Corpus Christi, Texas",
-      "thumbnail": "https://i.ytimg.com/vi/TKF_6rN3MaA/hqdefault.jpg"
+      "videoId": "HhFb6W8HIb8",
+      "title": "WATCH LIVE: Trump holds midterm rally in Lubbock, Texas",
+      "thumbnail": "https://i.ytimg.com/vi/HhFb6W8HIb8/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +227,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "JB2TvfhsEHE",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/JB2TvfhsEHE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -248,10 +245,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "KoqknF-7kPU",
-      "title": "Danielle Smith announces end to DEI hiring practices in Alberta government | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/KoqknF-7kPU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -270,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-27T20:39:01.076Z",
+      "at": "2026-10-28T00:02:00.087Z",
       "checked": 33,
       "errors": 0
     }
