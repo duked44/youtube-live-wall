@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-28T00:02:00.087Z",
+  "generatedAt": "2026-10-28T05:28:02.932Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "gKMmwkviJ6o",
-      "title": "Israel Election Results - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/gKMmwkviJ6o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "7mkU_WfCkUE",
-      "title": "WATCH LIVE: President Donald Trump delivers remarks at Lubbock, Texas rally",
-      "thumbnail": "https://i.ytimg.com/vi/7mkU_WfCkUE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -59,10 +53,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "brMtWcMGeMk",
-      "title": "Israel Election Stalemate & Dancing Into the Midterms | Friendly Fire",
-      "thumbnail": "https://i.ytimg.com/vi/brMtWcMGeMk/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -98,25 +89,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "J0JOQcFpZEc",
+      "title": "LIVE: Hegseth meets ASEAN defense ministers in the Philippines",
+      "thumbnail": "https://i.ytimg.com/vi/J0JOQcFpZEc/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "UiR2-qLasyA",
-      "title": "LIVE: Netanyahu supporters react to initial Israeli election results",
-      "thumbnail": "https://i.ytimg.com/vi/UiR2-qLasyA/hqdefault.jpg"
+      "videoId": "BjC1NGK1rH0",
+      "title": "LIVE: WMO releases annual Greenhouse Gas Bulletin",
+      "thumbnail": "https://i.ytimg.com/vi/BjC1NGK1rH0/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "vhgNw0dKMGo",
-      "title": "LIVE: ABC News Live - Tuesday, October 27",
-      "thumbnail": "https://i.ytimg.com/vi/vhgNw0dKMGo/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -124,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "VJ_CpdLJkJo",
-      "title": "LIVE: NBC News NOW - Oct. 27",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/VJ_CpdLJkJo/hqdefault.jpg"
     },
     {
@@ -141,18 +135,15 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "08EAaKvF678",
-      "title": "Live: With a week to go, Trump campaigns in Texas",
-      "thumbnail": "https://i.ytimg.com/vi/08EAaKvF678/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "Ba3AQ-AxE5A",
-      "title": "LIVE: Trump stumps in Texas again amid HIGHLY CONTESTED midterm election",
-      "thumbnail": "https://i.ytimg.com/vi/Ba3AQ-AxE5A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
@@ -259,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-28T00:02:00.087Z",
+      "at": "2026-10-28T05:28:02.932Z",
       "checked": 33,
       "errors": 0
     }
