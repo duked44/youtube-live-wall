@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T01:18:09.241Z",
+  "generatedAt": "2026-10-29T07:15:01.452Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "qvFahmye7Ns",
+      "title": "LIVE: Rescuers search wreckage after deadly train crash in Spain",
+      "thumbnail": "https://i.ytimg.com/vi/qvFahmye7Ns/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -118,7 +121,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "PuyDq8GPzN8",
-      "title": "LIVE: NBC News NOW - Oct. 28",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/PuyDq8GPzN8/hqdefault.jpg"
     },
     {
@@ -135,9 +138,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "ny7_1Wj3s7g",
+      "title": "Global Perspectives in Doha: Experts discuss the biggest stories",
+      "thumbnail": "https://i.ytimg.com/vi/ny7_1Wj3s7g/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "-ybU_7z0X_E",
+      "title": "Chancellor John Healey speaks to Sky News following the budget | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/-ybU_7z0X_E/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-29T01:18:09.241Z",
+      "at": "2026-10-29T07:15:01.452Z",
       "checked": 33,
       "errors": 0
     }
