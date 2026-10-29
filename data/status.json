@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:46:13.346Z",
+  "generatedAt": "2026-10-29T01:18:09.241Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "dAII15aXfUE",
-      "title": "LIVE: Barack Obama rallies with Jon Ossoff ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/dAII15aXfUE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "GuseYdUlLeg",
-      "title": "LIVE: Aftermath of high-speed train collision in Spain",
-      "thumbnail": "https://i.ytimg.com/vi/GuseYdUlLeg/hqdefault.jpg"
+      "videoId": "Xtg5lldd2cU",
+      "title": "LIVE: Fed Chair Warsh speaks after rates held steady",
+      "thumbnail": "https://i.ytimg.com/vi/Xtg5lldd2cU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -120,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-U3bjHDsJ44",
+      "videoId": "PuyDq8GPzN8",
       "title": "LIVE: NBC News NOW - Oct. 28",
-      "thumbnail": "https://i.ytimg.com/vi/-U3bjHDsJ44/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/PuyDq8GPzN8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "97aas54Le60",
+      "videoId": "fh4jbOeNJYk",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/97aas54Le60/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/fh4jbOeNJYk/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "4cUYgibBoQE",
-      "title": "Spain train crash kills at least 68 people  | The World with Yalda Hakim",
-      "thumbnail": "https://i.ytimg.com/vi/4cUYgibBoQE/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "HhFb6W8HIb8",
-      "title": "WATCH LIVE: Trump holds midterm rally in Lubbock, Texas",
-      "thumbnail": "https://i.ytimg.com/vi/HhFb6W8HIb8/hqdefault.jpg"
+      "videoId": "NMXKTM-QbcE",
+      "title": "WATCH LIVE: Trump rallies voters in Ohio after divisive Ramaswamy campaign ad",
+      "thumbnail": "https://i.ytimg.com/vi/NMXKTM-QbcE/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -224,10 +221,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "6QoD2SdG9yQ",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/6QoD2SdG9yQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-28T21:46:13.346Z",
+      "at": "2026-10-29T01:18:09.241Z",
       "checked": 33,
       "errors": 0
     }
