@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T19:47:24.204Z",
+  "generatedAt": "2026-10-29T23:39:27.739Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "8Rb4tkUbFbQ",
-      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Texas Ahead Of Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/8Rb4tkUbFbQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -30,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "MRREADgZK7c",
-      "title": "WATCH LIVE: JD Vance hits the campaign trail in Texas as midterms approach",
-      "thumbnail": "https://i.ytimg.com/vi/MRREADgZK7c/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Night",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,15 +96,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "6hPG3QImBqQ",
-      "title": "LIVE: Kamala Harris attends a NAACP event in Atlanta ahead of midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/6hPG3QImBqQ/hqdefault.jpg"
+      "videoId": "JucFd7L9DRE",
+      "title": "LIVE: Abdul El-Sayed and Elissa Slotkin speak at a rally in Kalamazoo, Michigan",
+      "thumbnail": "https://i.ytimg.com/vi/JucFd7L9DRE/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "N2KUu1xE4Rw",
+      "title": "LIVE: Acton and Brown rally supporters in Toledo",
+      "thumbnail": "https://i.ytimg.com/vi/N2KUu1xE4Rw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,18 +123,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "JYp206vrvxY",
+      "videoId": "6ja04ljfjR8",
       "title": "LIVE: NBC News NOW - Oct. 29",
-      "thumbnail": "https://i.ytimg.com/vi/JYp206vrvxY/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/6ja04ljfjR8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "AD9eA3W0xNU",
+      "videoId": "ELzc0rfQY6I",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/AD9eA3W0xNU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ELzc0rfQY6I/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "YWt2KzCLF2Q",
-      "title": "LIVE: Vance speaks at Texas midterm rally",
-      "thumbnail": "https://i.ytimg.com/vi/YWt2KzCLF2Q/hqdefault.jpg"
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "eZOxCf3tWpk",
-      "title": "Budget 2026: Why are living standards set to fall? | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/eZOxCf3tWpk/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,36 +213,30 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "KD6XL_MKF0w",
-      "title": "WATCH LIVE: Vance speaks at GOP midterm rally in Texas",
-      "thumbnail": "https://i.ytimg.com/vi/KD6XL_MKF0w/hqdefault.jpg"
+      "videoId": "QRK30J9ouaU",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage",
+      "thumbnail": "https://i.ytimg.com/vi/QRK30J9ouaU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "HSNcSKTGICI",
-      "title": "Is criticism of Abdul El-Sayed Islamophobic? Debate with Batya Ungar-Sargon and Corbin Trent",
-      "thumbnail": "https://i.ytimg.com/vi/HSNcSKTGICI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "JitQkD_91hw",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/JitQkD_91hw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "wDksz2cRwg4",
-      "title": "Astronauts step out of the ISS for spacewalk – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/wDksz2cRwg4/hqdefault.jpg"
+      "videoId": "GbnTlbbdWhM",
+      "title": "Ursula von der Leyen speaks at EU-Canada summit - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/GbnTlbbdWhM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -273,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-29T19:47:24.204Z",
+      "at": "2026-10-29T23:39:27.739Z",
       "checked": 33,
       "errors": 0
     }
