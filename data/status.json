@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T14:27:35.378Z",
+  "generatedAt": "2026-10-29T19:47:24.204Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,7 +11,10 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "8Rb4tkUbFbQ",
+      "title": "LIVE: VP JD Vance Delivers Remarks At Campaign Rally In Texas Ahead Of Midterms",
+      "thumbnail": "https://i.ytimg.com/vi/8Rb4tkUbFbQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "xoU6HLEysHU",
-      "title": "WATCH LIVE: DOJ makes major announcement on student loan fraud",
-      "thumbnail": "https://i.ytimg.com/vi/xoU6HLEysHU/hqdefault.jpg"
+      "videoId": "MRREADgZK7c",
+      "title": "WATCH LIVE: JD Vance hits the campaign trail in Texas as midterms approach",
+      "thumbnail": "https://i.ytimg.com/vi/MRREADgZK7c/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -74,7 +77,10 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": false
+      "live": true,
+      "videoId": "0ZczhReatGw",
+      "title": "[NOW STREAMING] The Rise of Netanyahu & The Road to War | Doc Marathon",
+      "thumbnail": "https://i.ytimg.com/vi/0ZczhReatGw/hqdefault.jpg"
     },
     {
       "id": "wsj",
@@ -93,18 +99,15 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "mLaKhAGYbFo",
-      "title": "LIVE: Lawyers for men accused in Cornell rape seek NY attorney general's removal from investigation",
-      "thumbnail": "https://i.ytimg.com/vi/mLaKhAGYbFo/hqdefault.jpg"
+      "videoId": "6hPG3QImBqQ",
+      "title": "LIVE: Kamala Harris attends a NAACP event in Atlanta ahead of midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/6hPG3QImBqQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "EhiPCnCyk_E",
-      "title": "LIVE: EU's von der Leyen speaks on EU-Canada relations",
-      "thumbnail": "https://i.ytimg.com/vi/EhiPCnCyk_E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -147,18 +150,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "YWt2KzCLF2Q",
+      "title": "LIVE: Vance speaks at Texas midterm rally",
+      "thumbnail": "https://i.ytimg.com/vi/YWt2KzCLF2Q/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "KNQi0hbGE7k",
-      "title": "Emergency crews continue grim search at deadly train crash in Spain",
-      "thumbnail": "https://i.ytimg.com/vi/KNQi0hbGE7k/hqdefault.jpg"
+      "videoId": "eZOxCf3tWpk",
+      "title": "Budget 2026: Why are living standards set to fall? | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/eZOxCf3tWpk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,15 +213,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "LVTpLGTL0So",
-      "title": "WATCH LIVE: Oz, Sonderling expected to announce pharmacy benefit manager fee disclosure final rules",
-      "thumbnail": "https://i.ytimg.com/vi/LVTpLGTL0So/hqdefault.jpg"
+      "videoId": "KD6XL_MKF0w",
+      "title": "WATCH LIVE: Vance speaks at GOP midterm rally in Texas",
+      "thumbnail": "https://i.ytimg.com/vi/KD6XL_MKF0w/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "HSNcSKTGICI",
+      "title": "Is criticism of Abdul El-Sayed Islamophobic? Debate with Batya Ungar-Sargon and Corbin Trent",
+      "thumbnail": "https://i.ytimg.com/vi/HSNcSKTGICI/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -248,10 +254,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "gvuWLMCP06k",
-      "title": "EU President Ursula von der Leyen talks EU-Canada relations at Montreal summit | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/gvuWLMCP06k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -270,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-29T14:27:35.378Z",
+      "at": "2026-10-29T19:47:24.204Z",
       "checked": 33,
       "errors": 0
     }
