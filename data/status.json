@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T02:58:45.309Z",
+  "generatedAt": "2026-10-30T09:52:24.101Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -74,10 +74,7 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": true,
-      "videoId": "0ZczhReatGw",
-      "title": "[NOW STREAMING] The Rise of Netanyahu & The Road to War | Doc Marathon",
-      "thumbnail": "https://i.ytimg.com/vi/0ZczhReatGw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "wsj",
@@ -101,7 +98,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "gZ3K5zkT8eE",
+      "title": "LIVE: Emergency services at Spain train crash site",
+      "thumbnail": "https://i.ytimg.com/vi/gZ3K5zkT8eE/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "3lUGOR0SRFg",
+      "title": "Crypto industry suffers 'largest bank heist in human history' | Mornings with Jones",
+      "thumbnail": "https://i.ytimg.com/vi/3lUGOR0SRFg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-30T02:58:45.309Z",
+      "at": "2026-10-30T09:52:24.101Z",
       "checked": 33,
       "errors": 0
     }
