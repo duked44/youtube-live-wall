@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-30T16:24:07.929Z",
+  "generatedAt": "2026-10-30T20:58:28.823Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "_t23wfAY1Dc",
+      "title": "Midterm Rallies and Updates (Trump, Talarico & More) - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/_t23wfAY1Dc/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -35,7 +38,10 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "5_ZvrUtdVrY",
+      "title": "LIVE: Chaotic Paris Protests Erupt For Third Straight Weekend",
+      "thumbnail": "https://i.ytimg.com/vi/5_ZvrUtdVrY/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -92,19 +98,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "p3XKmx6juU8",
-      "title": "LIVE: Mark Carney and Ursula von der Leyen hold a press conference",
-      "thumbnail": "https://i.ytimg.com/vi/p3XKmx6juU8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "gZ3K5zkT8eE",
-      "title": "LIVE: Emergency services at Spain train crash site",
-      "thumbnail": "https://i.ytimg.com/vi/gZ3K5zkT8eE/hqdefault.jpg"
+      "videoId": "9O3VuETHCsg",
+      "title": "LIVE: Secretary of State Marco Rubio hosts G20 foreign ministers in Atlanta",
+      "thumbnail": "https://i.ytimg.com/vi/9O3VuETHCsg/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -210,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "QRK30J9ouaU",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage",
-      "thumbnail": "https://i.ytimg.com/vi/QRK30J9ouaU/hqdefault.jpg"
+      "videoId": "B59flCc129Y",
+      "title": "PBS News Hour live episode, Oct. 30, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/B59flCc129Y/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -248,10 +251,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "3TpyaZMjJsw",
-      "title": "Carney, EU leaders address next steps in Canada–Europe partnership | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/3TpyaZMjJsw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-30T16:24:07.929Z",
+      "at": "2026-10-30T20:58:28.823Z",
       "checked": 33,
       "errors": 0
     }
