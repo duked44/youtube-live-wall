@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T23:39:27.739Z",
+  "generatedAt": "2026-10-30T02:58:45.309Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,28 +95,22 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "JucFd7L9DRE",
-      "title": "LIVE: Abdul El-Sayed and Elissa Slotkin speak at a rally in Kalamazoo, Michigan",
-      "thumbnail": "https://i.ytimg.com/vi/JucFd7L9DRE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "N2KUu1xE4Rw",
-      "title": "LIVE: Acton and Brown rally supporters in Toledo",
-      "thumbnail": "https://i.ytimg.com/vi/N2KUu1xE4Rw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "cOeqkfBgUOM",
-      "title": "LIVE: ABC News Live - Thursday, October 29",
-      "thumbnail": "https://i.ytimg.com/vi/cOeqkfBgUOM/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -124,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "6ja04ljfjR8",
-      "title": "LIVE: NBC News NOW - Oct. 29",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/6ja04ljfjR8/hqdefault.jpg"
     },
     {
@@ -267,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-29T23:39:27.739Z",
+      "at": "2026-10-30T02:58:45.309Z",
       "checked": 33,
       "errors": 0
     }
