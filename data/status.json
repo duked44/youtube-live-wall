@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T20:58:28.823Z",
+  "generatedAt": "2026-10-31T00:38:37.605Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "GvWSyescLv8",
-      "title": "WATCH LIVE: 2026 Midterm Election Night",
-      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
+      "videoId": "em8VbNNUGgE",
+      "title": "WATCH: President Trump holds midterm rally in Florida",
+      "thumbnail": "https://i.ytimg.com/vi/em8VbNNUGgE/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -104,10 +104,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "9O3VuETHCsg",
-      "title": "LIVE: Secretary of State Marco Rubio hosts G20 foreign ministers in Atlanta",
-      "thumbnail": "https://i.ytimg.com/vi/9O3VuETHCsg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -123,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "6h-FyZDQ9kU",
-      "title": "LIVE: NBC News NOW - Oct. 30",
-      "thumbnail": "https://i.ytimg.com/vi/6h-FyZDQ9kU/hqdefault.jpg"
+      "videoId": "qTTnbE3lz-s",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 30",
+      "thumbnail": "https://i.ytimg.com/vi/qTTnbE3lz-s/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -141,18 +138,18 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "4TgKwV9GsEQ",
+      "title": "Live: With four days to go, Trump campaigns in FL for Republican candidates",
+      "thumbnail": "https://i.ytimg.com/vi/4TgKwV9GsEQ/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "3G3VJyddhy4",
+      "title": "LIVE: Trump holds midterm rally in Florida with just days until elections",
+      "thumbnail": "https://i.ytimg.com/vi/3G3VJyddhy4/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -213,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "B59flCc129Y",
-      "title": "PBS News Hour live episode, Oct. 30, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/B59flCc129Y/hqdefault.jpg"
+      "videoId": "zFhsBARQx4o",
+      "title": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears",
+      "thumbnail": "https://i.ytimg.com/vi/zFhsBARQx4o/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -227,10 +224,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "7OYzRvCXD1A",
-      "title": "LIVE: Top Headlines You Need to Know Today",
-      "thumbnail": "https://i.ytimg.com/vi/7OYzRvCXD1A/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -270,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-30T20:58:28.823Z",
+      "at": "2026-10-31T00:38:37.605Z",
       "checked": 33,
       "errors": 0
     }
