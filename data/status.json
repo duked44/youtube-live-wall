@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-31T17:24:00.887Z",
+  "generatedAt": "2026-10-31T20:34:49.054Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "0owi6RUM0T0",
-      "title": "Protests in France (including Paris) - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/0owi6RUM0T0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -138,18 +135,18 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "LACc2OTvyoE",
-      "title": "Live: Omar's midterm battleground road trip Day 6",
-      "thumbnail": "https://i.ytimg.com/vi/LACc2OTvyoE/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "SgCjayat99A",
+      "title": "LIVE: James Talarico and Gina Hinojosa deliver remarks at a rally in Houston",
+      "thumbnail": "https://i.ytimg.com/vi/SgCjayat99A/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -245,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "c_zaz7Yv87c",
+      "title": "Day of the Dead: \"La Catrina\" skeletons parade through Mexico City in annual Grand Parade | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/c_zaz7Yv87c/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -259,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 6,
+      "channelChecks": 198,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T17:24:00.887Z",
+      "at": "2026-10-31T20:34:49.054Z",
       "checked": 33,
       "errors": 0
     }
