@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T06:18:13.199Z",
+  "generatedAt": "2026-10-31T12:49:04.918Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -108,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "5GIjlwoCblo",
-      "title": "LIVE: ABC News Live - Friday, October 30",
-      "thumbnail": "https://i.ytimg.com/vi/5GIjlwoCblo/hqdefault.jpg"
+      "videoId": "cidZ807JTBo",
+      "title": "LIVE: ABC News Live - Saturday, October 31",
+      "thumbnail": "https://i.ytimg.com/vi/cidZ807JTBo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -189,9 +189,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "5lKIW85jDDY",
+      "title": "Tech Stock Selloff, Trump Midterm Push, Israel Fallout | Bloomberg This Weekend: Oct 31st, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/5lKIW85jDDY/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -261,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T06:18:13.199Z",
+      "at": "2026-10-31T12:49:04.918Z",
       "checked": 33,
       "errors": 0
     }
