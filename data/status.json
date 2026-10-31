@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-10-31T12:49:04.918Z",
+  "generatedAt": "2026-10-31T17:24:00.887Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "0owi6RUM0T0",
+      "title": "Protests in France (including Paris) - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/0owi6RUM0T0/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -135,9 +138,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "LACc2OTvyoE",
+      "title": "Live: Omar's midterm battleground road trip Day 6",
+      "thumbnail": "https://i.ytimg.com/vi/LACc2OTvyoE/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -189,9 +192,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "5lKIW85jDDY",
-      "title": "Tech Stock Selloff, Trump Midterm Push, Israel Fallout | Bloomberg This Weekend: Oct 31st, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/5lKIW85jDDY/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -261,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T12:49:04.918Z",
+      "at": "2026-10-31T17:24:00.887Z",
       "checked": 33,
       "errors": 0
     }
