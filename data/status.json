@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T20:34:49.054Z",
+  "generatedAt": "2026-10-31T23:42:37.173Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -35,10 +35,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "5_ZvrUtdVrY",
-      "title": "LIVE: Chaotic Paris Protests Erupt For Third Straight Weekend",
-      "thumbnail": "https://i.ytimg.com/vi/5_ZvrUtdVrY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -50,10 +47,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -108,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "cidZ807JTBo",
-      "title": "LIVE: ABC News Live - Saturday, October 31",
-      "thumbnail": "https://i.ytimg.com/vi/cidZ807JTBo/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -135,18 +129,18 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "SgCjayat99A",
-      "title": "LIVE: James Talarico and Gina Hinojosa deliver remarks at a rally in Houston",
-      "thumbnail": "https://i.ytimg.com/vi/SgCjayat99A/hqdefault.jpg"
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -242,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "c_zaz7Yv87c",
-      "title": "Day of the Dead: \"La Catrina\" skeletons parade through Mexico City in annual Grand Parade | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/c_zaz7Yv87c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T20:34:49.054Z",
+      "at": "2026-10-31T23:42:37.173Z",
       "checked": 33,
       "errors": 0
     }
