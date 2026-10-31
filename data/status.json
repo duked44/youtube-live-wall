@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-10-31T00:38:37.605Z",
+  "generatedAt": "2026-10-31T06:18:13.199Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "_t23wfAY1Dc",
-      "title": "Midterm Rallies and Updates (Trump, Talarico & More) - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/_t23wfAY1Dc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -30,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "em8VbNNUGgE",
-      "title": "WATCH: President Trump holds midterm rally in Florida",
-      "thumbnail": "https://i.ytimg.com/vi/em8VbNNUGgE/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Night",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -120,36 +117,36 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "qTTnbE3lz-s",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Oct 30",
-      "thumbnail": "https://i.ytimg.com/vi/qTTnbE3lz-s/hqdefault.jpg"
+      "videoId": "GkQTef2ZDzk",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "LakqyH8vmWg",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/LakqyH8vmWg/hqdefault.jpg"
+      "videoId": "psO-rZpWp7I",
+      "title": "LIVE: Tracking the 2026 midterm races that will decide the control of Congress",
+      "thumbnail": "https://i.ytimg.com/vi/psO-rZpWp7I/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "4TgKwV9GsEQ",
-      "title": "Live: With four days to go, Trump campaigns in FL for Republican candidates",
-      "thumbnail": "https://i.ytimg.com/vi/4TgKwV9GsEQ/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "3G3VJyddhy4",
-      "title": "LIVE: Trump holds midterm rally in Florida with just days until elections",
-      "thumbnail": "https://i.ytimg.com/vi/3G3VJyddhy4/hqdefault.jpg"
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE!: VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -210,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "zFhsBARQx4o",
-      "title": "WATCH LIVE: Trump speaks at Florida midterm rally as Election Day nears",
-      "thumbnail": "https://i.ytimg.com/vi/zFhsBARQx4o/hqdefault.jpg"
+      "videoId": "3ABLwTR8Iqg",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
+      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -264,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T00:38:37.605Z",
+      "at": "2026-10-31T06:18:13.199Z",
       "checked": 33,
       "errors": 0
     }
