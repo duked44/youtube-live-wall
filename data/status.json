@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T23:42:37.173Z",
+  "generatedAt": "2026-11-01T02:38:41.243Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -47,7 +47,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -129,9 +132,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "GotlA1KKWoo",
-      "title": "CNN Headlines: 24/7 Live News",
-      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-10-31T23:42:37.173Z",
+      "at": "2026-11-01T02:38:41.243Z",
       "checked": 33,
       "errors": 0
     }
