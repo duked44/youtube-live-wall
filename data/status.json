@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:38:41.243Z",
+  "generatedAt": "2026-11-01T09:44:28.306Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "uUlaGqAOmIc",
+      "title": "Sunday Morning with... Fraser Nelson",
+      "thumbnail": "https://i.ytimg.com/vi/uUlaGqAOmIc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-01T02:38:41.243Z",
+      "at": "2026-11-01T09:44:28.306Z",
       "checked": 33,
       "errors": 0
     }
