@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T20:44:53.397Z",
+  "generatedAt": "2026-11-01T23:56:25.018Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "SlbkcwJop-Q",
-      "title": "WATCH LIVE: Trump rallies voters in Iowa ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/SlbkcwJop-Q/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Night",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -147,9 +147,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "c8wZpGEnLqU",
-      "title": "LIVE: Trump holds midterm rally in Iowa with just days until elections",
-      "thumbnail": "https://i.ytimg.com/vi/c8wZpGEnLqU/hqdefault.jpg"
+      "videoId": "ir9lzcy_Qeo",
+      "title": "LIVE: Trump delivers remarks at a rally in Kansas",
+      "thumbnail": "https://i.ytimg.com/vi/ir9lzcy_Qeo/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -210,15 +210,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "IoaJpiuuGdU",
-      "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
-      "thumbnail": "https://i.ytimg.com/vi/IoaJpiuuGdU/hqdefault.jpg"
+      "videoId": "3ABLwTR8Iqg",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
+      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "Um2vMiAzBQA",
+      "title": "LIVE: Decision Desk ‘26 Midterm preview powered by 2WAY and The Hill",
+      "thumbnail": "https://i.ytimg.com/vi/Um2vMiAzBQA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -264,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-01T20:44:53.397Z",
+      "at": "2026-11-01T23:56:25.018Z",
       "checked": 33,
       "errors": 0
     }
