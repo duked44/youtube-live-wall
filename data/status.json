@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-11-01T16:27:28.266Z",
+  "generatedAt": "2026-11-01T20:44:53.397Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "DAzVoDf-imw",
+      "title": "Midterms Coverage LIVE: Rallies & Breaking News Updates (Trump, El-Sayed, and More)",
+      "thumbnail": "https://i.ytimg.com/vi/DAzVoDf-imw/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -27,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "GvWSyescLv8",
-      "title": "WATCH LIVE: 2026 Midterm Election Night",
-      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
+      "videoId": "SlbkcwJop-Q",
+      "title": "WATCH LIVE: Trump rallies voters in Iowa ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/SlbkcwJop-Q/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -144,9 +147,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "c8wZpGEnLqU",
+      "title": "LIVE: Trump holds midterm rally in Iowa with just days until elections",
+      "thumbnail": "https://i.ytimg.com/vi/c8wZpGEnLqU/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -207,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3ABLwTR8Iqg",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
-      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
+      "videoId": "IoaJpiuuGdU",
+      "title": "WATCH LIVE: Trump rallies in Iowa as part of final push before Election Day",
+      "thumbnail": "https://i.ytimg.com/vi/IoaJpiuuGdU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -256,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 6,
-      "channelChecks": 198,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-01T16:27:28.266Z",
+      "at": "2026-11-01T20:44:53.397Z",
       "checked": 33,
       "errors": 0
     }
