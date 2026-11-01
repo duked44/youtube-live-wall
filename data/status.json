@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T09:44:28.306Z",
+  "generatedAt": "2026-11-01T16:27:28.266Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -74,7 +74,10 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": false
+      "live": true,
+      "videoId": "YsLFlM0PPrQ",
+      "title": "[NOW STREAMING] The Price of the American Dream | FRONTLINE Marathon",
+      "thumbnail": "https://i.ytimg.com/vi/YsLFlM0PPrQ/hqdefault.jpg"
     },
     {
       "id": "wsj",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "uUlaGqAOmIc",
-      "title": "Sunday Morning with... Fraser Nelson",
-      "thumbnail": "https://i.ytimg.com/vi/uUlaGqAOmIc/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-01T09:44:28.306Z",
+      "at": "2026-11-01T16:27:28.266Z",
       "checked": 33,
       "errors": 0
     }
