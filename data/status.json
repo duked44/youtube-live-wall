@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T13:26:21.668Z",
+  "generatedAt": "2026-11-02T22:26:41.937Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,15 +27,18 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "OBKJLU-AroQ",
-      "title": "WATCH LIVE: JD Vance makes final midterm push in New York",
-      "thumbnail": "https://i.ytimg.com/vi/OBKJLU-AroQ/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Night",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "Iwkk079Px3A",
+      "title": "LIVE: Midterm Voting Underway Nationwide",
+      "thumbnail": "https://i.ytimg.com/vi/Iwkk079Px3A/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -92,16 +95,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "uVrnfHPXWjc",
-      "title": "LIVE: British adventurer Karl Bushby arrives home after 28 years walking across the world",
-      "thumbnail": "https://i.ytimg.com/vi/uVrnfHPXWjc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "XB19P1nUlfI",
+      "title": "LIVE: Senator Jon Ossoff, Georgia Democrats campaign ahead of midterms",
+      "thumbnail": "https://i.ytimg.com/vi/XB19P1nUlfI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -144,18 +147,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "3dCexPtFavw",
+      "title": "LIVE: James Talarico and Gina Hinojosa rally in Texas on the final night before the midterms",
+      "thumbnail": "https://i.ytimg.com/vi/3dCexPtFavw/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Kd8DDCDd3ps",
-      "title": "Karl Bushby returns home after 28-year global trek",
-      "thumbnail": "https://i.ytimg.com/vi/Kd8DDCDd3ps/hqdefault.jpg"
+      "videoId": "HyROtQySlLM",
+      "title": "Home Secretary U-turns over migrant care worker plan | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/HyROtQySlLM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3ABLwTR8Iqg",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
-      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
+      "videoId": "lSVyWbdu5Hk",
+      "title": "PBS News Hour live episode, Nov. 2, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/lSVyWbdu5Hk/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -259,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-02T13:26:21.668Z",
+      "at": "2026-11-02T22:26:41.937Z",
       "checked": 33,
       "errors": 0
     }
