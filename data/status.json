@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:04:27.428Z",
+  "generatedAt": "2026-11-02T13:26:21.668Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "GvWSyescLv8",
-      "title": "WATCH LIVE: 2026 Midterm Election Night",
-      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
+      "videoId": "OBKJLU-AroQ",
+      "title": "WATCH LIVE: JD Vance makes final midterm push in New York",
+      "thumbnail": "https://i.ytimg.com/vi/OBKJLU-AroQ/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "uVrnfHPXWjc",
+      "title": "LIVE: British adventurer Karl Bushby arrives home after 28 years walking across the world",
+      "thumbnail": "https://i.ytimg.com/vi/uVrnfHPXWjc/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,27 +108,27 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "M4j8Jgs7ljU",
+      "title": "LIVE: ABC News Live - Monday, November 2",
+      "thumbnail": "https://i.ytimg.com/vi/M4j8Jgs7ljU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "GkQTef2ZDzk",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/GkQTef2ZDzk/hqdefault.jpg"
+      "videoId": "DxeVx5CVlQw",
+      "title": "LIVE: NBC News NOW - Nov. 2",
+      "thumbnail": "https://i.ytimg.com/vi/DxeVx5CVlQw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "psO-rZpWp7I",
-      "title": "LIVE: Tracking the 2026 midterm races that will decide the control of Congress",
-      "thumbnail": "https://i.ytimg.com/vi/psO-rZpWp7I/hqdefault.jpg"
+      "videoId": "Y1cGzQM1gy0",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/Y1cGzQM1gy0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "Kd8DDCDd3ps",
+      "title": "Karl Bushby returns home after 28-year global trek",
+      "thumbnail": "https://i.ytimg.com/vi/Kd8DDCDd3ps/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +221,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "VyHAZrQggtE",
+      "title": "LIVE: Nov. 2 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/VyHAZrQggtE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-02T05:04:27.428Z",
+      "at": "2026-11-02T13:26:21.668Z",
       "checked": 33,
       "errors": 0
     }
