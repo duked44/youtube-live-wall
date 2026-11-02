@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-01T23:56:25.018Z",
+  "generatedAt": "2026-11-02T05:04:27.428Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "DAzVoDf-imw",
-      "title": "Midterms Coverage LIVE: Rallies & Breaking News Updates (Trump, El-Sayed, and More)",
-      "thumbnail": "https://i.ytimg.com/vi/DAzVoDf-imw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -77,10 +74,7 @@
       "id": "frontline",
       "name": "FRONTLINE PBS",
       "channelId": "UC3ScyryU9Oy9Wse3a8OAmYQ",
-      "live": true,
-      "videoId": "YsLFlM0PPrQ",
-      "title": "[NOW STREAMING] The Price of the American Dream | FRONTLINE Marathon",
-      "thumbnail": "https://i.ytimg.com/vi/YsLFlM0PPrQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "wsj",
@@ -147,9 +141,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "ir9lzcy_Qeo",
-      "title": "LIVE: Trump delivers remarks at a rally in Kansas",
-      "thumbnail": "https://i.ytimg.com/vi/ir9lzcy_Qeo/hqdefault.jpg"
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -218,10 +212,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "Um2vMiAzBQA",
-      "title": "LIVE: Decision Desk ‘26 Midterm preview powered by 2WAY and The Hill",
-      "thumbnail": "https://i.ytimg.com/vi/Um2vMiAzBQA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -267,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-01T23:56:25.018Z",
+      "at": "2026-11-02T05:04:27.428Z",
       "checked": 33,
       "errors": 0
     }
