@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-11-03T18:31:14.900Z",
+  "generatedAt": "2026-11-03T23:38:26.686Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "2NUpxTfK6ww",
+      "title": "Midterm Election Results - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/2NUpxTfK6ww/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "Zz5wYz_B1P4",
+      "title": "LIVE LOOK: Democratic Leader Hakeem Jeffries Headquarters As Election Results Come In",
+      "thumbnail": "https://i.ytimg.com/vi/Zz5wYz_B1P4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -27,9 +33,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "QQjD3K4PP7o",
-      "title": "WATCH LIVE: NTSB examines possible midair breakup in deadly Florida jet crash",
-      "thumbnail": "https://i.ytimg.com/vi/QQjD3K4PP7o/hqdefault.jpg"
+      "videoId": "GvWSyescLv8",
+      "title": "WATCH LIVE: 2026 Midterm Election Results",
+      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -51,9 +57,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "SFxxr-rNyNQ",
+      "title": "LIVE: US midterm elections and results | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/SFxxr-rNyNQ/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -99,18 +105,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5B4dORVIvp4",
-      "title": "Election 2026: LIVE voting across the US",
-      "thumbnail": "https://i.ytimg.com/vi/5B4dORVIvp4/hqdefault.jpg"
+      "videoId": "Oqj_4qjCjL4",
+      "title": "Election 2026: LIVE U.S. Senate and House balance of power maps",
+      "thumbnail": "https://i.ytimg.com/vi/Oqj_4qjCjL4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "xhdLo8uJ3bI",
-      "title": "LIVE: Voters head to the polls in New York",
-      "thumbnail": "https://i.ytimg.com/vi/xhdLo8uJ3bI/hqdefault.jpg"
+      "videoId": "LokrBxbKST8",
+      "title": "LIVE: US citizens vote in the midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/LokrBxbKST8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -118,7 +124,7 @@
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
       "videoId": "wF8X-K_l5kY",
-      "title": "LIVE: Election Day in America: Vote 2026 | ABC News",
+      "title": "LIVE: Election Results - Vote 2026 | ABC News",
       "thumbnail": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg"
     },
     {
@@ -126,18 +132,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "MTsZwFVKRfA",
-      "title": "LIVE: Decision 2026 Election Day Coverage | NBC News NOW - Nov. 3",
-      "thumbnail": "https://i.ytimg.com/vi/MTsZwFVKRfA/hqdefault.jpg"
+      "videoId": "b043z24ErQk",
+      "title": "WATCH: Steve Kornacki analyzes midterm election results LIVE all night long",
+      "thumbnail": "https://i.ytimg.com/vi/b043z24ErQk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "74WjpIH4jeE",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/74WjpIH4jeE/hqdefault.jpg"
+      "videoId": "zHlI3KJIWMA",
+      "title": "Watch Live: 2026 midterm election results, news and analysis | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/zHlI3KJIWMA/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -162,9 +168,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "aPxWXFjcYXg",
-      "title": "US Midterms | On the ground as Americans head to the polls",
-      "thumbnail": "https://i.ytimg.com/vi/aPxWXFjcYXg/hqdefault.jpg"
+      "videoId": "WUTDiO_fXdE",
+      "title": "US midterms 2026 | Full coverage, results and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/WUTDiO_fXdE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -216,9 +222,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "qtxT9s3CCkM",
-      "title": "WATCH LIVE: House Democratic Leader Jeffries holds Election Day news conference",
-      "thumbnail": "https://i.ytimg.com/vi/qtxT9s3CCkM/hqdefault.jpg"
+      "videoId": "vz2qEvdnPhM",
+      "title": "PBS News Hour live episode, Nov. 3, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/vz2qEvdnPhM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -270,7 +276,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-03T18:31:14.900Z",
+      "at": "2026-11-03T23:38:26.686Z",
       "checked": 33,
       "errors": 0
     }
