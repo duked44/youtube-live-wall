@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T11:21:19.065Z",
+  "generatedAt": "2026-11-03T18:31:14.900Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "GvWSyescLv8",
-      "title": "WATCH LIVE: 2026 Midterm Election Night",
-      "thumbnail": "https://i.ytimg.com/vi/GvWSyescLv8/hqdefault.jpg"
+      "videoId": "QQjD3K4PP7o",
+      "title": "WATCH LIVE: NTSB examines possible midair breakup in deadly Florida jet crash",
+      "thumbnail": "https://i.ytimg.com/vi/QQjD3K4PP7o/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -59,7 +59,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "bMLSYwrtSBo",
+      "title": "Election Night 2026 with The Daily Wire",
+      "thumbnail": "https://i.ytimg.com/vi/bMLSYwrtSBo/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -105,36 +108,36 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "LokrBxbKST8",
-      "title": "LIVE: US citizens vote in the midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/LokrBxbKST8/hqdefault.jpg"
+      "videoId": "xhdLo8uJ3bI",
+      "title": "LIVE: Voters head to the polls in New York",
+      "thumbnail": "https://i.ytimg.com/vi/xhdLo8uJ3bI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "wF8X-K_l5kY",
+      "title": "LIVE: Election Day in America: Vote 2026 | ABC News",
+      "thumbnail": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "R6khjqIPmVA",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/R6khjqIPmVA/hqdefault.jpg"
+      "videoId": "MTsZwFVKRfA",
+      "title": "LIVE: Decision 2026 Election Day Coverage | NBC News NOW - Nov. 3",
+      "thumbnail": "https://i.ytimg.com/vi/MTsZwFVKRfA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "28dhuNKlZqU",
+      "videoId": "74WjpIH4jeE",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/28dhuNKlZqU/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/74WjpIH4jeE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -213,9 +216,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3ABLwTR8Iqg",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
-      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
+      "videoId": "qtxT9s3CCkM",
+      "title": "WATCH LIVE: House Democratic Leader Jeffries holds Election Day news conference",
+      "thumbnail": "https://i.ytimg.com/vi/qtxT9s3CCkM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -236,10 +239,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "GbnTlbbdWhM",
-      "title": "Ursula von der Leyen speaks at EU-Canada summit - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/GbnTlbbdWhM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -270,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-03T11:21:19.065Z",
+      "at": "2026-11-03T18:31:14.900Z",
       "checked": 33,
       "errors": 0
     }
