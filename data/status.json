@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T22:26:41.937Z",
+  "generatedAt": "2026-11-03T03:39:12.654Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -120,45 +120,45 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DxeVx5CVlQw",
-      "title": "LIVE: NBC News NOW - Nov. 2",
-      "thumbnail": "https://i.ytimg.com/vi/DxeVx5CVlQw/hqdefault.jpg"
+      "videoId": "R6khjqIPmVA",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/R6khjqIPmVA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "Y1cGzQM1gy0",
+      "videoId": "28dhuNKlZqU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/Y1cGzQM1gy0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/28dhuNKlZqU/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "XMonsb21rMQ",
+      "title": "Live: Talarico's final rally before midterm election day",
+      "thumbnail": "https://i.ytimg.com/vi/XMonsb21rMQ/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "3dCexPtFavw",
-      "title": "LIVE: James Talarico and Gina Hinojosa rally in Texas on the final night before the midterms",
-      "thumbnail": "https://i.ytimg.com/vi/3dCexPtFavw/hqdefault.jpg"
+      "videoId": "9TJCzGGDI9o",
+      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
+      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "HyROtQySlLM",
-      "title": "Home Secretary U-turns over migrant care worker plan | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/HyROtQySlLM/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -210,9 +210,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "lSVyWbdu5Hk",
-      "title": "PBS News Hour live episode, Nov. 2, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/lSVyWbdu5Hk/hqdefault.jpg"
+      "videoId": "3ABLwTR8Iqg",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
+      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -225,9 +225,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "VyHAZrQggtE",
-      "title": "LIVE: Nov. 2 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/VyHAZrQggtE/hqdefault.jpg"
+      "videoId": "HtDWCGGUQPo",
+      "title": "LIVE: Nov. 3 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/HtDWCGGUQPo/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -267,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-02T22:26:41.937Z",
+      "at": "2026-11-03T03:39:12.654Z",
       "checked": 33,
       "errors": 0
     }
