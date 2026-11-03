@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T03:39:12.654Z",
+  "generatedAt": "2026-11-03T11:21:19.065Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,25 +95,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "5B4dORVIvp4",
+      "title": "Election 2026: LIVE voting across the US",
+      "thumbnail": "https://i.ytimg.com/vi/5B4dORVIvp4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "XB19P1nUlfI",
-      "title": "LIVE: Senator Jon Ossoff, Georgia Democrats campaign ahead of midterms",
-      "thumbnail": "https://i.ytimg.com/vi/XB19P1nUlfI/hqdefault.jpg"
+      "videoId": "LokrBxbKST8",
+      "title": "LIVE: US citizens vote in the midterm elections",
+      "thumbnail": "https://i.ytimg.com/vi/LokrBxbKST8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "M4j8Jgs7ljU",
-      "title": "LIVE: ABC News Live - Monday, November 2",
-      "thumbnail": "https://i.ytimg.com/vi/M4j8Jgs7ljU/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -138,9 +141,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "XMonsb21rMQ",
-      "title": "Live: Talarico's final rally before midterm election day",
-      "thumbnail": "https://i.ytimg.com/vi/XMonsb21rMQ/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -156,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "aPxWXFjcYXg",
+      "title": "US Midterms | On the ground as Americans head to the polls",
+      "thumbnail": "https://i.ytimg.com/vi/aPxWXFjcYXg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -267,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-03T03:39:12.654Z",
+      "at": "2026-11-03T11:21:19.065Z",
       "checked": 33,
       "errors": 0
     }
