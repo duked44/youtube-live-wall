@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T18:39:56.217Z",
+  "generatedAt": "2026-11-04T23:56:31.246Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -48,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "SFxxr-rNyNQ",
-      "title": "Watch LIVE: US 2026 Midterm Elections and Results | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/SFxxr-rNyNQ/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -98,10 +98,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "yfO_remL2no",
-      "title": "LIVE: Pennsylvania Governor Josh Shapiro speaks after midterm election results",
-      "thumbnail": "https://i.ytimg.com/vi/yfO_remL2no/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -117,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "B9i_01yEgt0",
-      "title": "WATCH LIVE: Midterm Election 2026 Results and Analysis | NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/B9i_01yEgt0/hqdefault.jpg"
+      "videoId": "I0wBL9pgX3c",
+      "title": "LIVE: NBC News NOW - Nov. 4",
+      "thumbnail": "https://i.ytimg.com/vi/I0wBL9pgX3c/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "fR_tBsW550M",
-      "title": "News Hour | Blue wave sweeps America as Democrats win Midterms",
-      "thumbnail": "https://i.ytimg.com/vi/fR_tBsW550M/hqdefault.jpg"
+      "videoId": "YErwiD7IeVY",
+      "title": "Republicans reel as Trump's party suffers catastrophic midterms defeat | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/YErwiD7IeVY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,27 +201,24 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "4ggrNYTSojs",
-      "title": "WATCH LIVE: Pennsylvania Gov. Shapiro speaks after winning reelection",
-      "thumbnail": "https://i.ytimg.com/vi/4ggrNYTSojs/hqdefault.jpg"
+      "videoId": "YIuFb1sN6Uw",
+      "title": "PBS News Hour live episode, Nov. 4, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/YIuFb1sN6Uw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "eALM_CQq3-Y",
-      "title": "Midterms aftermath: Did Trump's war in Iran doom the GOP? Debate | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/eALM_CQq3-Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "hAavLm_mMmE",
-      "title": "LIVE: Nov. 4 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/hAavLm_mMmE/hqdefault.jpg"
+      "videoId": "m_3y-3Uslbc",
+      "title": "LIVE: Nov. 5 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/m_3y-3Uslbc/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -261,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-04T18:39:56.217Z",
+      "at": "2026-11-04T23:56:31.246Z",
       "checked": 33,
       "errors": 0
     }
