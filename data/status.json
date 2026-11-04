@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T23:38:26.686Z",
+  "generatedAt": "2026-11-04T03:17:08.745Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -15,18 +15,18 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "Zz5wYz_B1P4",
-      "title": "LIVE LOOK: Democratic Leader Hakeem Jeffries Headquarters As Election Results Come In",
-      "thumbnail": "https://i.ytimg.com/vi/Zz5wYz_B1P4/hqdefault.jpg"
+      "videoId": "cpany7cBR-o",
+      "title": "WATCH LIVE: Michigan Democrats Hold Election Night Watch Party",
+      "thumbnail": "https://i.ytimg.com/vi/cpany7cBR-o/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "DXiZio2O9RI",
-      "title": "C-SPAN Election Night Coverage (Part 1)",
-      "thumbnail": "https://i.ytimg.com/vi/DXiZio2O9RI/hqdefault.jpg"
+      "videoId": "12B6-yUwZnE",
+      "title": "Annie Andrews (D-SC) Election Night Speech",
+      "thumbnail": "https://i.ytimg.com/vi/12B6-yUwZnE/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -42,9 +42,9 @@
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
       "live": true,
-      "videoId": "Iwkk079Px3A",
-      "title": "LIVE: Midterm Voting Underway Nationwide",
-      "thumbnail": "https://i.ytimg.com/vi/Iwkk079Px3A/hqdefault.jpg"
+      "videoId": "vJVQjhbwAIc",
+      "title": "Live: 2026 Midterm Election Night in America Winners and Losers",
+      "thumbnail": "https://i.ytimg.com/vi/vJVQjhbwAIc/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -58,7 +58,7 @@
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
       "videoId": "SFxxr-rNyNQ",
-      "title": "LIVE: US midterm elections and results | BBC News",
+      "title": "US 2026 Midterm Elections and Results - Live  | BBC News",
       "thumbnail": "https://i.ytimg.com/vi/SFxxr-rNyNQ/hqdefault.jpg"
     },
     {
@@ -114,9 +114,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "LokrBxbKST8",
-      "title": "LIVE: US citizens vote in the midterm elections",
-      "thumbnail": "https://i.ytimg.com/vi/LokrBxbKST8/hqdefault.jpg"
+      "videoId": "OtSPiTo00Xc",
+      "title": "LIVE: US midterm election results reshaping Congress",
+      "thumbnail": "https://i.ytimg.com/vi/OtSPiTo00Xc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -124,7 +124,7 @@
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
       "videoId": "wF8X-K_l5kY",
-      "title": "LIVE: Election Results - Vote 2026 | ABC News",
+      "title": "LIVE: Midterm Election Results 2026 | ABC News",
       "thumbnail": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg"
     },
     {
@@ -141,27 +141,27 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "zHlI3KJIWMA",
-      "title": "Watch Live: 2026 midterm election results, news and analysis | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/zHlI3KJIWMA/hqdefault.jpg"
+      "videoId": "-lkBiIuYhvs",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/-lkBiIuYhvs/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "P0XeDwPCJs0",
+      "title": "Live: Midterm candidate HQ feeds & speeches as election results come in",
+      "thumbnail": "https://i.ytimg.com/vi/P0XeDwPCJs0/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "9TJCzGGDI9o",
-      "title": "WATCH LIVE! VelshiCast on Election Night 2026 | MS NOW",
-      "thumbnail": "https://i.ytimg.com/vi/9TJCzGGDI9o/hqdefault.jpg"
+      "videoId": "Ha1IxzMS88M",
+      "title": "MS NOW Members Lounge: Election Night Live Q & A!",
+      "thumbnail": "https://i.ytimg.com/vi/Ha1IxzMS88M/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -195,9 +195,9 @@
       "name": "FRANCE 24 English",
       "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "live": true,
-      "videoId": "HvZt-nh9sGg",
-      "title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream",
-      "thumbnail": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg"
+      "videoId": "Vi3ddVWiM1E",
+      "title": "🔴 🇺🇸 🗳️ US Midterms 2026: Follow FRANCE 24's special coverage",
+      "thumbnail": "https://i.ytimg.com/vi/Vi3ddVWiM1E/hqdefault.jpg"
     },
     {
       "id": "bloomberg-tv",
@@ -205,7 +205,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
+      "title": "Election Night 2026: Bloomberg Business News Live",
       "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
@@ -222,9 +222,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vz2qEvdnPhM",
-      "title": "PBS News Hour live episode, Nov. 3, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/vz2qEvdnPhM/hqdefault.jpg"
+      "videoId": "3ABLwTR8Iqg",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
+      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -237,9 +237,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "HtDWCGGUQPo",
-      "title": "LIVE: Nov. 3 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/HtDWCGGUQPo/hqdefault.jpg"
+      "videoId": "2L1ZToPygGs",
+      "title": "WATCH LIVE: Midterm Election Results on Scripps News",
+      "thumbnail": "https://i.ytimg.com/vi/2L1ZToPygGs/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -271,12 +271,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-03T23:38:26.686Z",
+      "at": "2026-11-04T03:17:08.745Z",
       "checked": 33,
       "errors": 0
     }
