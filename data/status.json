@@ -1,32 +1,26 @@
 {
-  "generatedAt": "2026-11-04T03:17:08.745Z",
+  "generatedAt": "2026-11-04T11:12:00.924Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "2NUpxTfK6ww",
-      "title": "Midterm Election Results - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/2NUpxTfK6ww/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "cpany7cBR-o",
-      "title": "WATCH LIVE: Michigan Democrats Hold Election Night Watch Party",
-      "thumbnail": "https://i.ytimg.com/vi/cpany7cBR-o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "12B6-yUwZnE",
-      "title": "Annie Andrews (D-SC) Election Night Speech",
-      "thumbnail": "https://i.ytimg.com/vi/12B6-yUwZnE/hqdefault.jpg"
+      "videoId": "QreQXPsApEE",
+      "title": "C-SPAN Election Night Coverage (Part 2)",
+      "thumbnail": "https://i.ytimg.com/vi/QreQXPsApEE/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -41,10 +35,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "vJVQjhbwAIc",
-      "title": "Live: 2026 Midterm Election Night in America Winners and Losers",
-      "thumbnail": "https://i.ytimg.com/vi/vJVQjhbwAIc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -65,10 +56,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "bMLSYwrtSBo",
-      "title": "Election Night 2026 with The Daily Wire",
-      "thumbnail": "https://i.ytimg.com/vi/bMLSYwrtSBo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -105,36 +93,36 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Oqj_4qjCjL4",
-      "title": "Election 2026: LIVE U.S. Senate and House balance of power maps",
-      "thumbnail": "https://i.ytimg.com/vi/Oqj_4qjCjL4/hqdefault.jpg"
+      "videoId": "tbAbicAzFU4",
+      "title": "Election results 2026: LIVE AP race calls and Senate and House maps",
+      "thumbnail": "https://i.ytimg.com/vi/tbAbicAzFU4/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "OtSPiTo00Xc",
-      "title": "LIVE: US midterm election results reshaping Congress",
-      "thumbnail": "https://i.ytimg.com/vi/OtSPiTo00Xc/hqdefault.jpg"
+      "videoId": "RUMUFjkWVq8",
+      "title": "LIVE: Georgia Democrat Jon Ossoff reacts to midterm election results",
+      "thumbnail": "https://i.ytimg.com/vi/RUMUFjkWVq8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "wF8X-K_l5kY",
-      "title": "LIVE: Midterm Election Results 2026 | ABC News",
-      "thumbnail": "https://i.ytimg.com/vi/wF8X-K_l5kY/hqdefault.jpg"
+      "videoId": "1ViVnrjVtQY",
+      "title": "LIVE: ABC News Live - Wednesday, November 4",
+      "thumbnail": "https://i.ytimg.com/vi/1ViVnrjVtQY/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "b043z24ErQk",
-      "title": "WATCH: Steve Kornacki analyzes midterm election results LIVE all night long",
-      "thumbnail": "https://i.ytimg.com/vi/b043z24ErQk/hqdefault.jpg"
+      "videoId": "yifzmO4ueG8",
+      "title": "WATCH LIVE: 2026 Midterm Election Results and Analysis | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/yifzmO4ueG8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,27 +138,24 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "P0XeDwPCJs0",
-      "title": "Live: Midterm candidate HQ feeds & speeches as election results come in",
-      "thumbnail": "https://i.ytimg.com/vi/P0XeDwPCJs0/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "Ha1IxzMS88M",
-      "title": "MS NOW Members Lounge: Election Night Live Q & A!",
-      "thumbnail": "https://i.ytimg.com/vi/Ha1IxzMS88M/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "WUTDiO_fXdE",
-      "title": "US midterms 2026 | Full coverage, results and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/WUTDiO_fXdE/hqdefault.jpg"
+      "videoId": "SbcKMHAMGwg",
+      "title": "Disaster for Trump as Democrats take control of Congress | Sky News coverage and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/SbcKMHAMGwg/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -195,9 +180,9 @@
       "name": "FRANCE 24 English",
       "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
       "live": true,
-      "videoId": "Vi3ddVWiM1E",
-      "title": "🔴 🇺🇸 🗳️ US Midterms 2026: Follow FRANCE 24's special coverage",
-      "thumbnail": "https://i.ytimg.com/vi/Vi3ddVWiM1E/hqdefault.jpg"
+      "videoId": "HvZt-nh9sGg",
+      "title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream",
+      "thumbnail": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg"
     },
     {
       "id": "bloomberg-tv",
@@ -222,9 +207,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "3ABLwTR8Iqg",
-      "title": "WATCH LIVE: Election 2026 PBS News special coverage with ASL interpretation",
-      "thumbnail": "https://i.ytimg.com/vi/3ABLwTR8Iqg/hqdefault.jpg"
+      "videoId": "QRK30J9ouaU",
+      "title": "WATCH LIVE: Election 2026 PBS News special coverage",
+      "thumbnail": "https://i.ytimg.com/vi/QRK30J9ouaU/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -237,9 +222,9 @@
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "2L1ZToPygGs",
-      "title": "WATCH LIVE: Midterm Election Results on Scripps News",
-      "thumbnail": "https://i.ytimg.com/vi/2L1ZToPygGs/hqdefault.jpg"
+      "videoId": "hAavLm_mMmE",
+      "title": "LIVE: Oct. 4 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/hAavLm_mMmE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -276,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-04T03:17:08.745Z",
+      "at": "2026-11-04T11:12:00.924Z",
       "checked": 33,
       "errors": 0
     }
