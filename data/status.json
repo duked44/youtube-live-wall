@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T05:48:59.221Z",
+  "generatedAt": "2026-11-05T13:32:04.509Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,40 +89,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "RTCfibO_SQ0",
+      "title": "LIVE: View of Rome airport after multiple flights in Europe diverted because of bomb threats",
+      "thumbnail": "https://i.ytimg.com/vi/RTCfibO_SQ0/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "sOlgbWO6iE8",
+      "title": "LIVE: Astronauts spacewalk outside ISS",
+      "thumbnail": "https://i.ytimg.com/vi/sOlgbWO6iE8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "JdXcXB1dVNs",
+      "title": "LIVE: ABC News Live - Thursday, November 5",
+      "thumbnail": "https://i.ytimg.com/vi/JdXcXB1dVNs/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "I0wBL9pgX3c",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/I0wBL9pgX3c/hqdefault.jpg"
+      "videoId": "dD1jAjrBedI",
+      "title": "LIVE: NBC News NOW - Nov. 5",
+      "thumbnail": "https://i.ytimg.com/vi/dD1jAjrBedI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "1w9CMPt0Sic",
+      "videoId": "S_-uVzcokmE",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/1w9CMPt0Sic/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/S_-uVzcokmE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "uR2ylBTtB9g",
+      "title": "Thousands of protesters face police in France",
+      "thumbnail": "https://i.ytimg.com/vi/uR2ylBTtB9g/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-05T05:48:59.221Z",
+      "at": "2026-11-05T13:32:04.509Z",
       "checked": 33,
       "errors": 0
     }
