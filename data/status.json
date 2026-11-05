@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T23:56:31.246Z",
+  "generatedAt": "2026-11-05T05:48:59.221Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,10 +17,7 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "Sq-BH5og2so",
-      "title": "C-SPAN Election Results Reaction & Analysis",
-      "thumbnail": "https://i.ytimg.com/vi/Sq-BH5og2so/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
@@ -105,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "1ViVnrjVtQY",
-      "title": "LIVE: ABC News Live - Wednesday, November 4",
-      "thumbnail": "https://i.ytimg.com/vi/1ViVnrjVtQY/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "I0wBL9pgX3c",
-      "title": "LIVE: NBC News NOW - Nov. 4",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/I0wBL9pgX3c/hqdefault.jpg"
     },
     {
@@ -123,9 +120,9 @@
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "JJJHa3WkINw",
+      "videoId": "1w9CMPt0Sic",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/JJJHa3WkINw/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/1w9CMPt0Sic/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YErwiD7IeVY",
-      "title": "Republicans reel as Trump's party suffers catastrophic midterms defeat | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/YErwiD7IeVY/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "YIuFb1sN6Uw",
-      "title": "PBS News Hour live episode, Nov. 4, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/YIuFb1sN6Uw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-04T23:56:31.246Z",
+      "at": "2026-11-05T05:48:59.221Z",
       "checked": 33,
       "errors": 0
     }
