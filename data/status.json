@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T13:32:04.509Z",
+  "generatedAt": "2026-11-05T20:48:35.660Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "RTCfibO_SQ0",
-      "title": "LIVE: View of Rome airport after multiple flights in Europe diverted because of bomb threats",
-      "thumbnail": "https://i.ytimg.com/vi/RTCfibO_SQ0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -117,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "dD1jAjrBedI",
-      "title": "LIVE: NBC News NOW - Nov. 5",
-      "thumbnail": "https://i.ytimg.com/vi/dD1jAjrBedI/hqdefault.jpg"
+      "videoId": "mVdM8bK8ibE",
+      "title": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/mVdM8bK8ibE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "uR2ylBTtB9g",
-      "title": "Thousands of protesters face police in France",
-      "thumbnail": "https://i.ytimg.com/vi/uR2ylBTtB9g/hqdefault.jpg"
+      "videoId": "cwUpmClSvoo",
+      "title": "Russell Brand faces lengthy prison sentence after rape conviction | Full special programme",
+      "thumbnail": "https://i.ytimg.com/vi/cwUpmClSvoo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,7 +206,10 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "7KhxjhOmcMM",
+      "title": "Is the Trump era OVER? Debate with Rachael Bade | Prove It! with Batya",
+      "thumbnail": "https://i.ytimg.com/vi/7KhxjhOmcMM/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -236,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "diJh2vM9AVw",
+      "title": "Canada’s 2026 federal budget: Champagne unveils Carney’s spending plan | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/diJh2vM9AVw/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-05T13:32:04.509Z",
+      "at": "2026-11-05T20:48:35.660Z",
       "checked": 33,
       "errors": 0
     }
