@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T07:56:28.287Z",
+  "generatedAt": "2026-11-06T15:46:51.330Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -90,45 +90,42 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "A-zqIOPHh6o",
-      "title": "LIVE: Thailand's king takes part in the royal barge procession",
-      "thumbnail": "https://i.ytimg.com/vi/A-zqIOPHh6o/hqdefault.jpg"
+      "videoId": "W1K79fqWh5k",
+      "title": "LIVE: Pope Leo XIV arrives in Uruguay for welcome ceremonies in Montevideo",
+      "thumbnail": "https://i.ytimg.com/vi/W1K79fqWh5k/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "jDk1siu2mZI",
-      "title": "LIVE: Russell Brand found guilty of rape",
-      "thumbnail": "https://i.ytimg.com/vi/jDk1siu2mZI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "1YXN4bsps9Y",
+      "title": "LIVE: ABC News Live - Friday, November 6",
+      "thumbnail": "https://i.ytimg.com/vi/1YXN4bsps9Y/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "0uwAtfBIVx0",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/0uwAtfBIVx0/hqdefault.jpg"
+      "videoId": "rLQn87cLJTE",
+      "title": "LIVE: NBC News NOW - Nov. 6",
+      "thumbnail": "https://i.ytimg.com/vi/rLQn87cLJTE/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "hs3DWpXnq1U",
+      "videoId": "qnTjYpH1FOY",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/hs3DWpXnq1U/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/qnTjYpH1FOY/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "VqBd0AUhv8k",
-      "title": "Doomsday cult leader sentenced for 191 Shakahola murders",
-      "thumbnail": "https://i.ytimg.com/vi/VqBd0AUhv8k/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,7 +200,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "k4u9yXTiwfA",
+      "title": "WATCH LIVE: Trump speaks at aerospace summit at NASA's Kennedy Space Center",
+      "thumbnail": "https://i.ytimg.com/vi/k4u9yXTiwfA/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-06T07:56:28.287Z",
+      "at": "2026-11-06T15:46:51.330Z",
       "checked": 33,
       "errors": 0
     }
