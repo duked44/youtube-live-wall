@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T20:48:35.660Z",
+  "generatedAt": "2026-11-06T01:10:56.272Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "sOlgbWO6iE8",
-      "title": "LIVE: Astronauts spacewalk outside ISS",
-      "thumbnail": "https://i.ytimg.com/vi/sOlgbWO6iE8/hqdefault.jpg"
+      "videoId": "jDk1siu2mZI",
+      "title": "LIVE: Russell Brand found guilty of rape",
+      "thumbnail": "https://i.ytimg.com/vi/jDk1siu2mZI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -114,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mVdM8bK8ibE",
-      "title": "LIVE: Melania Trump delivers remarks on humanitarian ceasefire she brokered in Ukraine | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/mVdM8bK8ibE/hqdefault.jpg"
+      "videoId": "DkbFjbespVc",
+      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Nov 5",
+      "thumbnail": "https://i.ytimg.com/vi/DkbFjbespVc/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "S_-uVzcokmE",
+      "videoId": "hs3DWpXnq1U",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/S_-uVzcokmE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/hs3DWpXnq1U/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "cwUpmClSvoo",
-      "title": "Russell Brand faces lengthy prison sentence after rape conviction | Full special programme",
-      "thumbnail": "https://i.ytimg.com/vi/cwUpmClSvoo/hqdefault.jpg"
+      "videoId": "Ber_fjQ3u7I",
+      "title": "Russell Brand faces years in prison for raping one of his fans | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/Ber_fjQ3u7I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,19 +206,16 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "7KhxjhOmcMM",
-      "title": "Is the Trump era OVER? Debate with Rachael Bade | Prove It! with Batya",
-      "thumbnail": "https://i.ytimg.com/vi/7KhxjhOmcMM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
       "live": true,
-      "videoId": "m_3y-3Uslbc",
-      "title": "LIVE: Nov. 5 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/m_3y-3Uslbc/hqdefault.jpg"
+      "videoId": "TivR1aPk0-8",
+      "title": "LIVE: Nov. 6 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/TivR1aPk0-8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -236,10 +233,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "diJh2vM9AVw",
-      "title": "Canada’s 2026 federal budget: Champagne unveils Carney’s spending plan | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/diJh2vM9AVw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -258,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-05T20:48:35.660Z",
+      "at": "2026-11-06T01:10:56.272Z",
       "checked": 33,
       "errors": 0
     }
