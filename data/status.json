@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T01:10:56.272Z",
+  "generatedAt": "2026-11-06T07:56:28.287Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -89,7 +89,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "A-zqIOPHh6o",
+      "title": "LIVE: Thailand's king takes part in the royal barge procession",
+      "thumbnail": "https://i.ytimg.com/vi/A-zqIOPHh6o/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,18 +108,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "JdXcXB1dVNs",
-      "title": "LIVE: ABC News Live - Thursday, November 5",
-      "thumbnail": "https://i.ytimg.com/vi/JdXcXB1dVNs/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "DkbFjbespVc",
-      "title": "Stay Tuned NOW Streaming Behind The Scenes! - Nov 5",
-      "thumbnail": "https://i.ytimg.com/vi/DkbFjbespVc/hqdefault.jpg"
+      "videoId": "0uwAtfBIVx0",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/0uwAtfBIVx0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Ber_fjQ3u7I",
-      "title": "Russell Brand faces years in prison for raping one of his fans | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/Ber_fjQ3u7I/hqdefault.jpg"
+      "videoId": "VqBd0AUhv8k",
+      "title": "Doomsday cult leader sentenced for 191 Shakahola murders",
+      "thumbnail": "https://i.ytimg.com/vi/VqBd0AUhv8k/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-06T01:10:56.272Z",
+      "at": "2026-11-06T07:56:28.287Z",
       "checked": 33,
       "errors": 0
     }
