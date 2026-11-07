@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T21:06:54.284Z",
+  "generatedAt": "2026-11-07T00:53:20.675Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -27,9 +27,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "HNyvsgQHz-o",
-      "title": "WATCH LIVE: Officials address reported arrest of Meghan Markle's father in Florida",
-      "thumbnail": "https://i.ytimg.com/vi/HNyvsgQHz-o/hqdefault.jpg"
+      "videoId": "fLA3Yk2E3-s",
+      "title": "WATCH: El-Sayed delivers remarks at Connect Arab America: Empowerment Summit",
+      "thumbnail": "https://i.ytimg.com/vi/fLA3Yk2E3-s/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,19 +92,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "W1K79fqWh5k",
-      "title": "LIVE: Pope Leo XIV arrives in Uruguay",
-      "thumbnail": "https://i.ytimg.com/vi/W1K79fqWh5k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "G6kRCAPyxTE",
-      "title": "LIVE: Pope Leo begins Latin America visit in Uruguay",
-      "thumbnail": "https://i.ytimg.com/vi/G6kRCAPyxTE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "rLQn87cLJTE",
+      "videoId": "4a4IWlRVth0",
       "title": "LIVE: NBC News NOW - Nov. 6",
-      "thumbnail": "https://i.ytimg.com/vi/rLQn87cLJTE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -206,10 +200,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "k4u9yXTiwfA",
-      "title": "WATCH LIVE: Trump speaks at aerospace summit at NASA's Kennedy Space Center",
-      "thumbnail": "https://i.ytimg.com/vi/k4u9yXTiwfA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -221,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "TivR1aPk0-8",
-      "title": "LIVE: Nov. 6 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/TivR1aPk0-8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -259,12 +247,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-06T21:06:54.284Z",
+      "at": "2026-11-07T00:53:20.675Z",
       "checked": 33,
       "errors": 0
     }
