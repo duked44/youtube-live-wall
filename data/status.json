@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T00:53:20.675Z",
+  "generatedAt": "2026-11-07T06:47:21.902Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -26,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "fLA3Yk2E3-s",
-      "title": "WATCH: El-Sayed delivers remarks at Connect Arab America: Empowerment Summit",
-      "thumbnail": "https://i.ytimg.com/vi/fLA3Yk2E3-s/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -47,10 +44,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -105,9 +99,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "1YXN4bsps9Y",
-      "title": "LIVE: ABC News Live - Friday, November 6",
-      "thumbnail": "https://i.ytimg.com/vi/1YXN4bsps9Y/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,26 +109,23 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "4a4IWlRVth0",
-      "title": "LIVE: NBC News NOW - Nov. 6",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/4a4IWlRVth0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "qnTjYpH1FOY",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/qnTjYpH1FOY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "GotlA1KKWoo",
+      "title": "CNN Headlines: 24/7 Live News",
+      "thumbnail": "https://i.ytimg.com/vi/GotlA1KKWoo/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -147,9 +138,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "lCipQTTo_o4",
+      "title": "Mornings | Saturday 7 November",
+      "thumbnail": "https://i.ytimg.com/vi/lCipQTTo_o4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-07T00:53:20.675Z",
+      "at": "2026-11-07T06:47:21.902Z",
       "checked": 33,
       "errors": 0
     }
