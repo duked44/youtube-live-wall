@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T07:32:54.073Z",
+  "generatedAt": "2026-11-08T14:29:57.737Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,9 +102,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "l2CF4rOllmU",
+      "title": "LIVE: ABC News Live - Sunday, November 8",
+      "thumbnail": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "dOHU1_D0z04",
+      "title": "Midterm Election Fallout; Oval Office Shakeup | Bloomberg This Weekend: Nov 8th, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/dOHU1_D0z04/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -225,9 +225,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "MJDCUK7hiNw",
-      "title": "Calgary remembers: Field of Crosses honours Canada's fallen soldiers on Remembrance Day | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/MJDCUK7hiNw/hqdefault.jpg"
+      "videoId": "OdskouxzElo",
+      "title": "David McGuinty touts investments in supportive and transitional housing | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/OdskouxzElo/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-08T07:32:54.073Z",
+      "at": "2026-11-08T14:29:57.737Z",
       "checked": 33,
       "errors": 0
     }
