@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T14:29:57.737Z",
+  "generatedAt": "2026-11-08T19:01:58.050Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -177,9 +177,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "dOHU1_D0z04",
-      "title": "Midterm Election Fallout; Oval Office Shakeup | Bloomberg This Weekend: Nov 8th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/dOHU1_D0z04/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -225,9 +225,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "OdskouxzElo",
-      "title": "David McGuinty touts investments in supportive and transitional housing | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/OdskouxzElo/hqdefault.jpg"
+      "videoId": "MJDCUK7hiNw",
+      "title": "Calgary remembers: Field of Crosses honours Canada's fallen soldiers on Remembrance Day | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/MJDCUK7hiNw/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-08T14:29:57.737Z",
+      "at": "2026-11-08T19:01:58.050Z",
       "checked": 33,
       "errors": 0
     }
