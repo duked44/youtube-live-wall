@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-09T02:06:30.575Z",
+  "generatedAt": "2026-11-09T09:43:09.916Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "YiKoqCXyFOo",
-      "title": "Nvidia CEO Has Affair w/Suspected Chinese Spy & Hegseth Impeachment This Week? - LIVE News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/YiKoqCXyFOo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -92,22 +89,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "hj91hVEtb4E",
+      "title": "LIVE: G7 foreign ministers' meeting in Paris",
+      "thumbnail": "https://i.ytimg.com/vi/hj91hVEtb4E/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "Qt3tEVDHV2c",
+      "title": "LIVE: Turkey hosts COP31 climate summit in Antalya",
+      "thumbnail": "https://i.ytimg.com/vi/Qt3tEVDHV2c/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "l2CF4rOllmU",
-      "title": "LIVE: ABC News Live - Sunday, November 8",
-      "thumbnail": "https://i.ytimg.com/vi/l2CF4rOllmU/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "M6W7qcDi1ME",
+      "title": "Outside court as Russell Brand set to be sentenced for rape and sexual assault | Full coverage",
+      "thumbnail": "https://i.ytimg.com/vi/M6W7qcDi1ME/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-09T02:06:30.575Z",
+      "at": "2026-11-09T09:43:09.916Z",
       "checked": 33,
       "errors": 0
     }
