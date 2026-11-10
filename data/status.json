@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:45:01.951Z",
+  "generatedAt": "2026-11-10T10:30:11.233Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,16 +11,19 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "tu6j0RRdvfQ",
+      "title": "LIVE: Pete Hegseth Holds Pentagon Press Briefing As Impeachment Effort Against Him Intensifies",
+      "thumbnail": "https://i.ytimg.com/vi/tu6j0RRdvfQ/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "odcW1lc3lps",
-      "title": "Washington Journal Primetime Premiere",
-      "thumbnail": "https://i.ytimg.com/vi/odcW1lc3lps/hqdefault.jpg"
+      "videoId": "IPS-usnDhMc",
+      "title": "Secretary Hegseth News Conference",
+      "thumbnail": "https://i.ytimg.com/vi/IPS-usnDhMc/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -96,18 +99,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ZFkJGpfqocw",
-      "title": "LIVE: NYSE opening bell rings",
-      "thumbnail": "https://i.ytimg.com/vi/ZFkJGpfqocw/hqdefault.jpg"
+      "videoId": "9IOozc_d10Y",
+      "title": "LIVE: Prince Harry, Meghan attend the Lost Screen Memorial in Brussels",
+      "thumbnail": "https://i.ytimg.com/vi/9IOozc_d10Y/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "AbH2x_OYasU",
-      "title": "LIVE: ABC News Live - Monday, November 9",
-      "thumbnail": "https://i.ytimg.com/vi/AbH2x_OYasU/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "lrZ_C9B4hZs",
-      "title": "LIVE: NBC News NOW - Nov. 9",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/lrZ_C9B4hZs/hqdefault.jpg"
     },
     {
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "eWrOJIeP0UQ",
+      "title": "Kemi Badenoch delivers speech on welfare",
+      "thumbnail": "https://i.ytimg.com/vi/eWrOJIeP0UQ/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-10T02:45:01.951Z",
+      "at": "2026-11-10T10:30:11.233Z",
       "checked": 33,
       "errors": 0
     }
