@@ -1,23 +1,17 @@
 {
-  "generatedAt": "2026-11-09T20:10:45.269Z",
+  "generatedAt": "2026-11-10T02:45:01.951Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "BUzMIi2tmuo",
-      "title": "Articles of Impeachment Introduced Against Pete Hegseth - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/BUzMIi2tmuo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "ngGe6_FDiT8",
-      "title": "LIVE: Department Of Justice Presents Model Cities Initiative Announcement In Jackson, Mississippi",
-      "thumbnail": "https://i.ytimg.com/vi/ngGe6_FDiT8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -32,10 +26,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "zBU2r0FqM3Q",
-      "title": "WATCH LIVE: Charlie Kirk murder suspect returns to court as judge weighs trial date",
-      "thumbnail": "https://i.ytimg.com/vi/zBU2r0FqM3Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -98,19 +89,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "EJH1Gc_dURs",
-      "title": "LIVE: Judge sets a trial date for Tyler Robinson in Charlie Kirk’s killing",
-      "thumbnail": "https://i.ytimg.com/vi/EJH1Gc_dURs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "uzCb6Jh0hDg",
-      "title": "LIVE: Republican Rep. Massie introduces articles of impeachment against Hegseth",
-      "thumbnail": "https://i.ytimg.com/vi/uzCb6Jh0hDg/hqdefault.jpg"
+      "videoId": "ZFkJGpfqocw",
+      "title": "LIVE: NYSE opening bell rings",
+      "thumbnail": "https://i.ytimg.com/vi/ZFkJGpfqocw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -126,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gYxWuStqezM",
+      "videoId": "lrZ_C9B4hZs",
       "title": "LIVE: NBC News NOW - Nov. 9",
-      "thumbnail": "https://i.ytimg.com/vi/gYxWuStqezM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/lrZ_C9B4hZs/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "fpwAtea0qy0",
+      "videoId": "iR0lwp9hrz8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/fpwAtea0qy0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/iR0lwp9hrz8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -159,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Q3QXrQtHC5A",
-      "title": "Russell Brand sentenced for over 10 years | The UK Tonight with Sarah-Jane Mee",
-      "thumbnail": "https://i.ytimg.com/vi/Q3QXrQtHC5A/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -213,27 +201,21 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "9c14zjOzPu4",
-      "title": "WATCH LIVE: Senate returns to Capitol Hill days after Democrats win back control",
-      "thumbnail": "https://i.ytimg.com/vi/9c14zjOzPu4/hqdefault.jpg"
+      "videoId": "mu1-pGMmyaw",
+      "title": "WATCH LIVE: Hegseth holds news conference as House impeachment vote looms",
+      "thumbnail": "https://i.ytimg.com/vi/mu1-pGMmyaw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "tNDn4JIkDLc",
-      "title": "LIVE: Next steps for accused Charlie Kirk shooter Tyler Robinson",
-      "thumbnail": "https://i.ytimg.com/vi/tNDn4JIkDLc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "6CsbqoJ9s3k",
-      "title": "LIVE: Nov 9 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/6CsbqoJ9s3k/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -268,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 3,
+      "channelChecks": 99,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-09T20:10:45.269Z",
+      "at": "2026-11-10T02:45:01.951Z",
       "checked": 33,
       "errors": 0
     }
