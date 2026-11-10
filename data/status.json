@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T10:30:11.233Z",
+  "generatedAt": "2026-11-10T18:10:40.335Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,25 +11,22 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "tu6j0RRdvfQ",
-      "title": "LIVE: Pete Hegseth Holds Pentagon Press Briefing As Impeachment Effort Against Him Intensifies",
-      "thumbnail": "https://i.ytimg.com/vi/tu6j0RRdvfQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "IPS-usnDhMc",
-      "title": "Secretary Hegseth News Conference",
-      "thumbnail": "https://i.ytimg.com/vi/IPS-usnDhMc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "H0mhCxloIGg",
+      "title": "WATCH LIVE: Republicans announce new Senate GOP leadership",
+      "thumbnail": "https://i.ytimg.com/vi/H0mhCxloIGg/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,43 +89,46 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "uMSPlBMAPKY",
+      "title": "LIVE: Spain’s King Felipe VI and Queen Letizia attend state funeral for train crash victims",
+      "thumbnail": "https://i.ytimg.com/vi/uMSPlBMAPKY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "9IOozc_d10Y",
-      "title": "LIVE: Prince Harry, Meghan attend the Lost Screen Memorial in Brussels",
-      "thumbnail": "https://i.ytimg.com/vi/9IOozc_d10Y/hqdefault.jpg"
+      "videoId": "IVw7ZfJDpgY",
+      "title": "LIVE: Spain holds state funeral for victims of Urda train crash",
+      "thumbnail": "https://i.ytimg.com/vi/IVw7ZfJDpgY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "6QFVhVT187M",
+      "title": "LIVE: ABC News Live - Tuesday, November 10",
+      "thumbnail": "https://i.ytimg.com/vi/6QFVhVT187M/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "lrZ_C9B4hZs",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/lrZ_C9B4hZs/hqdefault.jpg"
+      "videoId": "FQ0NTvfhK18",
+      "title": "LIVE: NBC News NOW - Nov. 10",
+      "thumbnail": "https://i.ytimg.com/vi/FQ0NTvfhK18/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "iR0lwp9hrz8",
+      "videoId": "YLofRVL0rS4",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/iR0lwp9hrz8/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/YLofRVL0rS4/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "eWrOJIeP0UQ",
-      "title": "Kemi Badenoch delivers speech on welfare",
-      "thumbnail": "https://i.ytimg.com/vi/eWrOJIeP0UQ/hqdefault.jpg"
+      "videoId": "9hUJCnLnR7E",
+      "title": "David Walliams named as celebrity who lost injunction bid | Full, breaking Sky News coverage",
+      "thumbnail": "https://i.ytimg.com/vi/9hUJCnLnR7E/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "mu1-pGMmyaw",
-      "title": "WATCH LIVE: Hegseth holds news conference as House impeachment vote looms",
-      "thumbnail": "https://i.ytimg.com/vi/mu1-pGMmyaw/hqdefault.jpg"
+      "videoId": "oGVlSxzwD0I",
+      "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
+      "thumbnail": "https://i.ytimg.com/vi/oGVlSxzwD0I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "gtbOEpSS7rg",
+      "title": "LIVE: Nov. 10 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/gtbOEpSS7rg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -237,9 +240,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "MJDCUK7hiNw",
-      "title": "Calgary remembers: Field of Crosses honours Canada's fallen soldiers on Remembrance Day | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/MJDCUK7hiNw/hqdefault.jpg"
+      "videoId": "Clv15yn7Uu4",
+      "title": "Connor Hellebuyck addresses decision not to play in his return to Winnipeg | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/Clv15yn7Uu4/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -253,12 +256,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 3,
-      "channelChecks": 99,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-10T10:30:11.233Z",
+      "at": "2026-11-10T18:10:40.335Z",
       "checked": 33,
       "errors": 0
     }
