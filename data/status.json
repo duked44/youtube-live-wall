@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-11-10T18:10:40.335Z",
+  "generatedAt": "2026-11-10T23:23:08.112Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "NzUdNryozuo",
+      "title": "Procedural Vote on Hegseth Impeachment - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/NzUdNryozuo/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "4IgTE_zNEHw",
+      "title": "LIVE: Lawmakers Battle On House Floor About Hegseth Impeachment Resolutions",
+      "thumbnail": "https://i.ytimg.com/vi/4IgTE_zNEHw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -23,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "H0mhCxloIGg",
-      "title": "WATCH LIVE: Republicans announce new Senate GOP leadership",
-      "thumbnail": "https://i.ytimg.com/vi/H0mhCxloIGg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -90,18 +93,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "uMSPlBMAPKY",
-      "title": "LIVE: Spain’s King Felipe VI and Queen Letizia attend state funeral for train crash victims",
-      "thumbnail": "https://i.ytimg.com/vi/uMSPlBMAPKY/hqdefault.jpg"
+      "videoId": "LGWqH6WVKhM",
+      "title": "LIVE: House votes on whether to advance an effort to impeach Pete Hegseth",
+      "thumbnail": "https://i.ytimg.com/vi/LGWqH6WVKhM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "IVw7ZfJDpgY",
-      "title": "LIVE: Spain holds state funeral for victims of Urda train crash",
-      "thumbnail": "https://i.ytimg.com/vi/IVw7ZfJDpgY/hqdefault.jpg"
+      "videoId": "agz56HJhzQk",
+      "title": "LIVE: House clerk reads impeachment charges against Hegseth",
+      "thumbnail": "https://i.ytimg.com/vi/agz56HJhzQk/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "FQ0NTvfhK18",
+      "videoId": "cX0nrZnRPJI",
       "title": "LIVE: NBC News NOW - Nov. 10",
-      "thumbnail": "https://i.ytimg.com/vi/FQ0NTvfhK18/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/cX0nrZnRPJI/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "YLofRVL0rS4",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/YLofRVL0rS4/hqdefault.jpg"
+      "videoId": "kWACTrGcLfE",
+      "title": "Watch Live: House tables effort to impeach Hegseth",
+      "thumbnail": "https://i.ytimg.com/vi/kWACTrGcLfE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -143,16 +146,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "zNmImcV1cjI",
+      "title": "LIVE: House takes first vote on Hegseth impeachment effort",
+      "thumbnail": "https://i.ytimg.com/vi/zNmImcV1cjI/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "9hUJCnLnR7E",
-      "title": "David Walliams named as celebrity who lost injunction bid | Full, breaking Sky News coverage",
-      "thumbnail": "https://i.ytimg.com/vi/9hUJCnLnR7E/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -204,15 +210,18 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "oGVlSxzwD0I",
-      "title": "WATCH LIVE: Senate considers bills on permitting, survivor justice as GOP mulls future leadership",
-      "thumbnail": "https://i.ytimg.com/vi/oGVlSxzwD0I/hqdefault.jpg"
+      "videoId": "RgU3x2Awh-4",
+      "title": "PBS News Hour live episode, Nov. 10, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/RgU3x2Awh-4/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "21RDML59IxA",
+      "title": "Curse of the Hope Diamond: Master Gem Cutter Reveals the Truth | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/21RDML59IxA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -240,9 +249,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "Clv15yn7Uu4",
-      "title": "Connor Hellebuyck addresses decision not to play in his return to Winnipeg | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/Clv15yn7Uu4/hqdefault.jpg"
+      "videoId": "LBl2L1JG_R8",
+      "title": "Remembrance Day 2026: Solemn ceremony in Ottawa pays tribute to Canada's fallen, veterans | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/LBl2L1JG_R8/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +270,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-10T18:10:40.335Z",
+      "at": "2026-11-10T23:23:08.112Z",
       "checked": 33,
       "errors": 0
     }
