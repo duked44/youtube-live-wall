@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T10:16:34.837Z",
+  "generatedAt": "2026-11-11T17:56:44.629Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,13 +17,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "jcCLHCbNGPA",
+      "title": "New York City Veterans Day Parade",
+      "thumbnail": "https://i.ytimg.com/vi/jcCLHCbNGPA/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "cKXXkW-6Oko",
+      "title": "WATCH LIVE: Congressional leaders honor veterans in Capitol Hill ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/cKXXkW-6Oko/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -87,54 +93,51 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "Qop1M0-sUjU",
-      "title": "LIVE: Macron leads Armistice Day ceremony in France",
-      "thumbnail": "https://i.ytimg.com/vi/Qop1M0-sUjU/hqdefault.jpg"
+      "videoId": "3cJLBcsdx3I",
+      "title": "LIVE: SS United States is sunk to create the world’s largest artificial reef",
+      "thumbnail": "https://i.ytimg.com/vi/3cJLBcsdx3I/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "y8fJNDw4iYY",
-      "title": "LIVE: World leaders to address COP31",
-      "thumbnail": "https://i.ytimg.com/vi/y8fJNDw4iYY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "x1t_803BM7Y",
+      "title": "LIVE: ABC News Live - Wednesday, November 11",
+      "thumbnail": "https://i.ytimg.com/vi/x1t_803BM7Y/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cX0nrZnRPJI",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/cX0nrZnRPJI/hqdefault.jpg"
+      "videoId": "JsaICjWKFY0",
+      "title": "LIVE: NBC News NOW - Nov. 11",
+      "thumbnail": "https://i.ytimg.com/vi/JsaICjWKFY0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "rL4Vt8PqvIM",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/rL4Vt8PqvIM/hqdefault.jpg"
+      "videoId": "_6fEHiuFtaA",
+      "title": "Watch Live: Trump speaks at Arlington National Cemetery on Veterans Day",
+      "thumbnail": "https://i.ytimg.com/vi/_6fEHiuFtaA/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "-ISQdBXSTb8",
+      "title": "Live: SS United States sinks in FL to become world’s largest artificial reef",
+      "thumbnail": "https://i.ytimg.com/vi/-ISQdBXSTb8/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -200,7 +203,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "vgcSqX8VRjw",
+      "title": "WATCH LIVE: Senate considers bill on permitting after Thune survives vote to remain GOP leader",
+      "thumbnail": "https://i.ytimg.com/vi/vgcSqX8VRjw/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -212,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "Ssa7q2bIdNM",
+      "title": "LIVE: Nov. 11 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/Ssa7q2bIdNM/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -234,9 +243,9 @@
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
       "live": true,
-      "videoId": "LBl2L1JG_R8",
-      "title": "Remembrance Day 2026: Solemn ceremony in Ottawa pays tribute to Canada's fallen, veterans | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/LBl2L1JG_R8/hqdefault.jpg"
+      "videoId": "VDlMJATvk_Q",
+      "title": "BC Remembers: Remembrance Day service from Vancouver's Victory Square",
+      "thumbnail": "https://i.ytimg.com/vi/VDlMJATvk_Q/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -255,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-11T10:16:34.837Z",
+      "at": "2026-11-11T17:56:44.629Z",
       "checked": 33,
       "errors": 0
     }
