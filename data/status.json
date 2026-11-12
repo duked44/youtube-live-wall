@@ -1,35 +1,38 @@
 {
-  "generatedAt": "2026-11-11T17:56:44.629Z",
+  "generatedAt": "2026-11-12T00:17:43.319Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "mnbMsjB9Ngc",
+      "title": "Jensen Huang Reportedly Had 2nd Affair, Nvidia Preparing to Fire Him - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/mnbMsjB9Ngc/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "GTRH9YMTkys",
+      "title": "WATCH LIVE: SS United States Ship Is Sunk To Create Major Artificial Reef",
+      "thumbnail": "https://i.ytimg.com/vi/GTRH9YMTkys/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "jcCLHCbNGPA",
-      "title": "New York City Veterans Day Parade",
-      "thumbnail": "https://i.ytimg.com/vi/jcCLHCbNGPA/hqdefault.jpg"
+      "videoId": "jOAMnVX_eMA",
+      "title": "SS United States Sinking",
+      "thumbnail": "https://i.ytimg.com/vi/jOAMnVX_eMA/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "cKXXkW-6Oko",
-      "title": "WATCH LIVE: Congressional leaders honor veterans in Capitol Hill ceremony",
-      "thumbnail": "https://i.ytimg.com/vi/cKXXkW-6Oko/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -56,7 +59,10 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": false
+      "live": true,
+      "videoId": "BtMW8jbvji4",
+      "title": "Confession | First Look",
+      "thumbnail": "https://i.ytimg.com/vi/BtMW8jbvji4/hqdefault.jpg"
     },
     {
       "id": "turningpointusa",
@@ -93,15 +99,18 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "3cJLBcsdx3I",
-      "title": "LIVE: SS United States is sunk to create the world’s largest artificial reef",
-      "thumbnail": "https://i.ytimg.com/vi/3cJLBcsdx3I/hqdefault.jpg"
+      "videoId": "_6lM7bHQfYo",
+      "title": "LIVE: Pope Leo XIV arrives in Peru",
+      "thumbnail": "https://i.ytimg.com/vi/_6lM7bHQfYo/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "wllGuJdylHs",
+      "title": "LIVE: Emergency crews scour debris after Brooklyn building collapses",
+      "thumbnail": "https://i.ytimg.com/vi/wllGuJdylHs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,18 +126,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "JsaICjWKFY0",
+      "videoId": "D_pDLnaeFVw",
       "title": "LIVE: NBC News NOW - Nov. 11",
-      "thumbnail": "https://i.ytimg.com/vi/JsaICjWKFY0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/D_pDLnaeFVw/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "_6fEHiuFtaA",
-      "title": "Watch Live: Trump speaks at Arlington National Cemetery on Veterans Day",
-      "thumbnail": "https://i.ytimg.com/vi/_6fEHiuFtaA/hqdefault.jpg"
+      "videoId": "_0ato-fy2sM",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/_0ato-fy2sM/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -204,9 +213,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "vgcSqX8VRjw",
-      "title": "WATCH LIVE: Senate considers bill on permitting after Thune survives vote to remain GOP leader",
-      "thumbnail": "https://i.ytimg.com/vi/vgcSqX8VRjw/hqdefault.jpg"
+      "videoId": "HqTd-iEu5KM",
+      "title": "WATCH LIVE: SS United States, once world’s fastest ocean liner, sinks to become reef off Florida",
+      "thumbnail": "https://i.ytimg.com/vi/HqTd-iEu5KM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -218,19 +227,16 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "Ssa7q2bIdNM",
-      "title": "LIVE: Nov. 11 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/Ssa7q2bIdNM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "c3ZQ-j4ZU-Q",
-      "title": "World leaders arrive ahead of giving speeches at Cop31 summit – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/c3ZQ-j4ZU-Q/hqdefault.jpg"
+      "videoId": "1rBixLdUZco",
+      "title": "Giant ocean liner sunk to become the world’s largest artificial reef - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/1rBixLdUZco/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -242,10 +248,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "VDlMJATvk_Q",
-      "title": "BC Remembers: Remembrance Day service from Vancouver's Victory Square",
-      "thumbnail": "https://i.ytimg.com/vi/VDlMJATvk_Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -259,12 +262,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 5,
-      "channelChecks": 165,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-11T17:56:44.629Z",
+      "at": "2026-11-12T00:17:43.319Z",
       "checked": 33,
       "errors": 0
     }
