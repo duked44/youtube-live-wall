@@ -1,17 +1,23 @@
 {
-  "generatedAt": "2026-11-12T07:25:55.948Z",
+  "generatedAt": "2026-11-12T16:08:22.391Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "zfFjdtH7HZg",
+      "title": "Nvidia CEO Jensen Huang Resigns - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/zfFjdtH7HZg/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "mDVljUdmNb4",
+      "title": "Threats To Christians In Nigeria Probed In The House Foreign Affairs Committee Republicans",
+      "thumbnail": "https://i.ytimg.com/vi/mDVljUdmNb4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -23,13 +29,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "pylwzvvp140",
+      "title": "WATCH LIVE: DOJ announces results of largest international dark web fentanyl operation",
+      "thumbnail": "https://i.ytimg.com/vi/pylwzvvp140/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "jAipMh9fyq4",
+      "title": "Watch Live: Aftermath of Collapsed Brooklyn Building That Killed At Least Eight",
+      "thumbnail": "https://i.ytimg.com/vi/jAipMh9fyq4/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -42,9 +54,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "2sYdQaM2iM0",
+      "title": "LIVE: One dead and four more shot in Washington DC | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/2sYdQaM2iM0/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,42 +99,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "D5nF2JloM6I",
-      "title": "LIVE: Greta Thunberg and climate activists speak on the sidelines of COP31",
-      "thumbnail": "https://i.ytimg.com/vi/D5nF2JloM6I/hqdefault.jpg"
+      "videoId": "4DNMA5GJ6QM",
+      "title": "LIVE: Aftermath of building collapse in New York",
+      "thumbnail": "https://i.ytimg.com/vi/4DNMA5GJ6QM/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "yuQFGviMSQY",
+      "title": "LIVE: Hakeem Jeffries holds a briefing",
+      "thumbnail": "https://i.ytimg.com/vi/yuQFGviMSQY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "8JK_3tFkXe0",
+      "title": "LIVE: ABC News Live - Thursday, November 12",
+      "thumbnail": "https://i.ytimg.com/vi/8JK_3tFkXe0/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "D_pDLnaeFVw",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/D_pDLnaeFVw/hqdefault.jpg"
+      "videoId": "cWdSlxa4Hhk",
+      "title": "SPECIAL REPORT: Four people shot, one killed in D.C. shooting | NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/cWdSlxa4Hhk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "_0ato-fy2sM",
+      "videoId": "dYHB6G1GGWc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/_0ato-fy2sM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/dYHB6G1GGWc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +159,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "_5vKMwyKAL0",
-      "title": "Two killed in 'devastating' New York building collapse | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/_5vKMwyKAL0/hqdefault.jpg"
+      "videoId": "EAF_SufXErY",
+      "title": "US markets open as Jensen Huang resigns as Nvidia CEO",
+      "thumbnail": "https://i.ytimg.com/vi/EAF_SufXErY/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,7 +212,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "GBlhDM9qu0I",
+      "title": "WATCH LIVE: Kennedy and Collins announce new PTSD research investment",
+      "thumbnail": "https://i.ytimg.com/vi/GBlhDM9qu0I/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -209,7 +227,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "JvnFNXO21Ig",
+      "title": "LIVE: Nov. 12 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/JvnFNXO21Ig/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -246,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-12T07:25:55.948Z",
+      "at": "2026-11-12T16:08:22.391Z",
       "checked": 33,
       "errors": 0
     }
