@@ -1,32 +1,23 @@
 {
-  "generatedAt": "2026-11-12T00:17:43.319Z",
+  "generatedAt": "2026-11-12T07:25:55.948Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "mnbMsjB9Ngc",
-      "title": "Jensen Huang Reportedly Had 2nd Affair, Nvidia Preparing to Fire Him - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/mnbMsjB9Ngc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "GTRH9YMTkys",
-      "title": "WATCH LIVE: SS United States Ship Is Sunk To Create Major Artificial Reef",
-      "thumbnail": "https://i.ytimg.com/vi/GTRH9YMTkys/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "jOAMnVX_eMA",
-      "title": "SS United States Sinking",
-      "thumbnail": "https://i.ytimg.com/vi/jOAMnVX_eMA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
@@ -59,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "BtMW8jbvji4",
-      "title": "Confession | First Look",
-      "thumbnail": "https://i.ytimg.com/vi/BtMW8jbvji4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -99,27 +87,24 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "_6lM7bHQfYo",
-      "title": "LIVE: Pope Leo XIV arrives in Peru",
-      "thumbnail": "https://i.ytimg.com/vi/_6lM7bHQfYo/hqdefault.jpg"
+      "videoId": "D5nF2JloM6I",
+      "title": "LIVE: Greta Thunberg and climate activists speak on the sidelines of COP31",
+      "thumbnail": "https://i.ytimg.com/vi/D5nF2JloM6I/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "wllGuJdylHs",
-      "title": "LIVE: Emergency crews scour debris after Brooklyn building collapses",
-      "thumbnail": "https://i.ytimg.com/vi/wllGuJdylHs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "x1t_803BM7Y",
-      "title": "LIVE: ABC News Live - Wednesday, November 11",
-      "thumbnail": "https://i.ytimg.com/vi/x1t_803BM7Y/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -127,7 +112,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "D_pDLnaeFVw",
-      "title": "LIVE: NBC News NOW - Nov. 11",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/D_pDLnaeFVw/hqdefault.jpg"
     },
     {
@@ -144,9 +129,9 @@
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "-ISQdBXSTb8",
-      "title": "Live: SS United States sinks in FL to become world’s largest artificial reef",
-      "thumbnail": "https://i.ytimg.com/vi/-ISQdBXSTb8/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -159,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "_5vKMwyKAL0",
+      "title": "Two killed in 'devastating' New York building collapse | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/_5vKMwyKAL0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,10 +197,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "HqTd-iEu5KM",
-      "title": "WATCH LIVE: SS United States, once world’s fastest ocean liner, sinks to become reef off Florida",
-      "thumbnail": "https://i.ytimg.com/vi/HqTd-iEu5KM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -233,10 +215,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "1rBixLdUZco",
-      "title": "Giant ocean liner sunk to become the world’s largest artificial reef - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/1rBixLdUZco/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -267,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-12T00:17:43.319Z",
+      "at": "2026-11-12T07:25:55.948Z",
       "checked": 33,
       "errors": 0
     }
