@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:40:36.174Z",
+  "generatedAt": "2026-11-13T10:00:57.231Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -42,9 +42,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "BwSxb_P3HzM",
+      "title": "Microsoft scrambles to solve global outage affecting Outlook and Teams | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/BwSxb_P3HzM/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -86,22 +86,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "oBUPXWMI8uw",
+      "title": "LIVE: Thailand's prime minister welcomes Chinese Premier Li Qiang",
+      "thumbnail": "https://i.ytimg.com/vi/oBUPXWMI8uw/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "2oWsX9OI5Gw",
+      "title": "LIVE: EU leaders arrive for AI summit in Dublin",
+      "thumbnail": "https://i.ytimg.com/vi/2oWsX9OI5Gw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "8JK_3tFkXe0",
-      "title": "LIVE: ABC News Live - Thursday, November 12",
-      "thumbnail": "https://i.ytimg.com/vi/8JK_3tFkXe0/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -109,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "g4vI3ZplCys",
-      "title": "LIVE: NBC News NOW - Nov. 12",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/g4vI3ZplCys/hqdefault.jpg"
     },
     {
@@ -243,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-13T02:40:36.174Z",
+      "at": "2026-11-13T10:00:57.231Z",
       "checked": 33,
       "errors": 0
     }
