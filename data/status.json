@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T22:14:28.705Z",
+  "generatedAt": "2026-11-13T02:40:36.174Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -50,10 +50,7 @@
       "id": "dailywire",
       "name": "The Daily Wire",
       "channelId": "UCaeO5vkdj5xOQHp4UmIN6dw",
-      "live": true,
-      "videoId": "-9zCQ4Diihs",
-      "title": "Friendly Fire: The Making of Confession",
-      "thumbnail": "https://i.ytimg.com/vi/-9zCQ4Diihs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "turningpointusa",
@@ -89,19 +86,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "EocFRMaTT-c",
-      "title": "LIVE: Democrats gather in Denver to discuss the party’s future",
-      "thumbnail": "https://i.ytimg.com/vi/EocFRMaTT-c/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "8oqEmeFSy3w",
-      "title": "LIVE: Senator-elect James Talarico speaks at Democrats’ Denver event",
-      "thumbnail": "https://i.ytimg.com/vi/8oqEmeFSy3w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -117,27 +108,27 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "cWdSlxa4Hhk",
+      "videoId": "g4vI3ZplCys",
       "title": "LIVE: NBC News NOW - Nov. 12",
-      "thumbnail": "https://i.ytimg.com/vi/cWdSlxa4Hhk/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/g4vI3ZplCys/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "dYHB6G1GGWc",
+      "videoId": "7IhhvdVUlKM",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/dYHB6G1GGWc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/7IhhvdVUlKM/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "fiumeQkkwD0",
-      "title": "Live: 2028 Democratic hopefuls gather in Denver to plot party’s future",
-      "thumbnail": "https://i.ytimg.com/vi/fiumeQkkwD0/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -150,9 +141,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "qRm0ivlMzGE",
-      "title": "Rayner approves plans to house migrants at MoD site | The Wrap with Gillian Joseph",
-      "thumbnail": "https://i.ytimg.com/vi/qRm0ivlMzGE/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,28 +194,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "AVWE1uxNquE",
-      "title": "PBS News Hour live episode, Nov. 12, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/AVWE1uxNquE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "5OYoXXYigRg",
-      "title": "Romance, Seduction, Manipulation: How Spies Are Trained to 'Honey Trap' | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/5OYoXXYigRg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "JvnFNXO21Ig",
-      "title": "LIVE: Nov. 12 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/JvnFNXO21Ig/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -242,10 +224,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "jfPhmJaAXmA",
-      "title": "Industry Minister Joly speaks after meeting with Stellantis and workers’ union | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/jfPhmJaAXmA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +243,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-12T22:14:28.705Z",
+      "at": "2026-11-13T02:40:36.174Z",
       "checked": 33,
       "errors": 0
     }
