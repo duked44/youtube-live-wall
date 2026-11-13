@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T10:00:57.231Z",
+  "generatedAt": "2026-11-13T17:39:31.344Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -17,13 +17,19 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "E9yi0cu2_gE",
+      "title": "Democratic Lawmakers and Presidential Hopefuls at 2028 Strategy Conference",
+      "thumbnail": "https://i.ytimg.com/vi/E9yi0cu2_gE/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "KOMtOdPVa9M",
+      "title": "WATCH LIVE: Democrats plot their next move as Jeffries takes the stage",
+      "thumbnail": "https://i.ytimg.com/vi/KOMtOdPVa9M/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -42,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "BwSxb_P3HzM",
-      "title": "Microsoft scrambles to solve global outage affecting Outlook and Teams | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/BwSxb_P3HzM/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -87,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "oBUPXWMI8uw",
-      "title": "LIVE: Thailand's prime minister welcomes Chinese Premier Li Qiang",
-      "thumbnail": "https://i.ytimg.com/vi/oBUPXWMI8uw/hqdefault.jpg"
+      "videoId": "TaEW4ytUi6g",
+      "title": "LIVE: Pope Leo XIV leads Mass at Pampas de Pimentel in Chiclayo, Peru",
+      "thumbnail": "https://i.ytimg.com/vi/TaEW4ytUi6g/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "2oWsX9OI5Gw",
-      "title": "LIVE: EU leaders arrive for AI summit in Dublin",
-      "thumbnail": "https://i.ytimg.com/vi/2oWsX9OI5Gw/hqdefault.jpg"
+      "videoId": "82ledimpeUA",
+      "title": "LIVE: EU leaders hold a briefing after AI summit",
+      "thumbnail": "https://i.ytimg.com/vi/82ledimpeUA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "sq9r3gFKphU",
+      "title": "LIVE: ABC News Live - Friday, November 13",
+      "thumbnail": "https://i.ytimg.com/vi/sq9r3gFKphU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "g4vI3ZplCys",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/g4vI3ZplCys/hqdefault.jpg"
+      "videoId": "65kQUIlyM-4",
+      "title": "LIVE: NBC News NOW - Nov. 13",
+      "thumbnail": "https://i.ytimg.com/vi/65kQUIlyM-4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "7IhhvdVUlKM",
+      "videoId": "b0ZhJhN_Sn8",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/7IhhvdVUlKM/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -212,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "P-D23A08cAE",
+      "title": "LIVE: Nov. 13 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/P-D23A08cAE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -230,7 +239,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "-c1yCOnP2XY",
+      "title": "Energy Minister Tim Hodgson makes LNG funding announcement in BC | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/-c1yCOnP2XY/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -249,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-13T10:00:57.231Z",
+      "at": "2026-11-13T17:39:31.344Z",
       "checked": 33,
       "errors": 0
     }
