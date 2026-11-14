@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-14T02:53:31.550Z",
+  "generatedAt": "2026-11-14T09:45:58.040Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "S3s7bpc4sI4",
-      "title": "FAA Issues Nationwide Ground Stop in U.S. - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/S3s7bpc4sI4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -92,10 +89,7 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "42i1Czr7DA8",
-      "title": "LIVE: FAA lifts nationwide ground stop",
-      "thumbnail": "https://i.ytimg.com/vi/42i1Czr7DA8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
@@ -111,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "sq9r3gFKphU",
-      "title": "LIVE: ABC News Live - Friday, November 13",
-      "thumbnail": "https://i.ytimg.com/vi/sq9r3gFKphU/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -128,10 +122,7 @@
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "b0ZhJhN_Sn8",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -153,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "GPpOPaNQoss",
+      "title": "US airspace reopens after 'extraordinary circumstances' grounded flights | Mornings",
+      "thumbnail": "https://i.ytimg.com/vi/GPpOPaNQoss/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -250,12 +241,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 5,
+      "channelChecks": 165,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-14T02:53:31.550Z",
+      "at": "2026-11-14T09:45:58.040Z",
       "checked": 33,
       "errors": 0
     }
