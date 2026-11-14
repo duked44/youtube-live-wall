@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T22:53:36.381Z",
+  "generatedAt": "2026-11-14T02:53:31.550Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -20,25 +20,22 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "oBWE1oiMca8",
-      "title": "SpaceX Launches Starship Flight 15",
-      "thumbnail": "https://i.ytimg.com/vi/oBWE1oiMca8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "E9dNEqzsLoQ",
-      "title": "WATCH LIVE: Officials give update on tanker, ship crash near Port of New Orleans",
-      "thumbnail": "https://i.ytimg.com/vi/E9dNEqzsLoQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "4iafjffXT1I",
+      "title": "Live: FAA Lifts Nationwide Ground Stop, 4 Hours After Air Traffic Chaos Began",
+      "thumbnail": "https://i.ytimg.com/vi/4iafjffXT1I/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -97,7 +94,7 @@
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
       "videoId": "42i1Czr7DA8",
-      "title": "LIVE: FAA grounds all flights across the US",
+      "title": "LIVE: FAA lifts nationwide ground stop",
       "thumbnail": "https://i.ytimg.com/vi/42i1Czr7DA8/hqdefault.jpg"
     },
     {
@@ -105,45 +102,45 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "8yuY_md7Ukk",
-      "title": "LIVE: SpaceX expected to launch Starship test flight",
-      "thumbnail": "https://i.ytimg.com/vi/8yuY_md7Ukk/hqdefault.jpg"
+      "videoId": "03WZomylSF8",
+      "title": "LIVE: Flight activity over US after FAA issues ground stop",
+      "thumbnail": "https://i.ytimg.com/vi/03WZomylSF8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "Btn-Eg3JXL4",
-      "title": "LIVE: FAA orders nationwide ground stop due to communications issue l ABC News Special Report",
-      "thumbnail": "https://i.ytimg.com/vi/Btn-Eg3JXL4/hqdefault.jpg"
+      "videoId": "sq9r3gFKphU",
+      "title": "LIVE: ABC News Live - Friday, November 13",
+      "thumbnail": "https://i.ytimg.com/vi/sq9r3gFKphU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "wJqzNMMsr-s",
-      "title": "LIVE: SpaceX launches Starship on Flight 15 mission | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/wJqzNMMsr-s/hqdefault.jpg"
+      "videoId": "Hz1cNNgtLtM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "g3E_g8iKFl0",
-      "title": "Watch Live: SpaceX launches Starship Flight 15",
-      "thumbnail": "https://i.ytimg.com/vi/g3E_g8iKFl0/hqdefault.jpg"
+      "videoId": "b0ZhJhN_Sn8",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/b0ZhJhN_Sn8/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "z4tokY0jbLM",
-      "title": "Live: SpaceX attempts to land entire Starship intact for first time",
-      "thumbnail": "https://i.ytimg.com/vi/z4tokY0jbLM/hqdefault.jpg"
+      "videoId": "yD2DZt0lq24",
+      "title": "Stream the best of CNN Originals 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
     },
     {
       "id": "msnow",
@@ -156,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Jrgk_ng35Uw",
-      "title": "All flights grounded by Federal Aviation Administration due to 'extraordinary circumstances'",
-      "thumbnail": "https://i.ytimg.com/vi/Jrgk_ng35Uw/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,28 +206,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "ULy36YEjcBw",
-      "title": "WATCH LIVE: Rubio delivers keynote address at Federalist Society National Lawyers Convention",
-      "thumbnail": "https://i.ytimg.com/vi/ULy36YEjcBw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "AoKW83PNLV4",
-      "title": "LIVE: SpaceX launches Starship Flight 15 in historic test",
-      "thumbnail": "https://i.ytimg.com/vi/AoKW83PNLV4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "P-D23A08cAE",
-      "title": "LIVE: Nov. 13 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/P-D23A08cAE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -267,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-13T22:53:36.381Z",
+      "at": "2026-11-14T02:53:31.550Z",
       "checked": 33,
       "errors": 0
     }
