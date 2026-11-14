@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-11-14T16:10:16.267Z",
+  "generatedAt": "2026-11-14T20:43:41.153Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "wi77nPD4IHw",
-      "title": "Nationwide Ground Stop Press Conference - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/wi77nPD4IHw/hqdefault.jpg"
+      "videoId": "k-G_QSUTeuA",
+      "title": "SpaceX Starship Returns to Earth - Landing & Catch - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/k-G_QSUTeuA/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "5MgMHX-lNn4",
+      "title": "LIVE: Markwayne Mullin Testifies Before Congress Following FAA Nationwide Ground Stop",
+      "thumbnail": "https://i.ytimg.com/vi/5MgMHX-lNn4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,10 +29,7 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "Sn98zuhx_aQ",
-      "title": "WATCH LIVE: Secretary Duffy, FAA officials share updates after nationwide ground stop",
-      "thumbnail": "https://i.ytimg.com/vi/Sn98zuhx_aQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -108,27 +108,24 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "CwGyFvysbdQ",
-      "title": "LIVE: Transportation secretary updates on Friday's nationwide ground stop",
-      "thumbnail": "https://i.ytimg.com/vi/CwGyFvysbdQ/hqdefault.jpg"
+      "videoId": "je3p8hTLWvc",
+      "title": "LIVE: ABC News Live - Saturday, November 14",
+      "thumbnail": "https://i.ytimg.com/vi/je3p8hTLWvc/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "ox-nQQZVSII",
-      "title": "LIVE: Transportation Secretary Sean Duffy holds FAA press conference | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/ox-nQQZVSII/hqdefault.jpg"
+      "videoId": "dhoRglU2rkM",
+      "title": "LIVE: SpaceX’s Starship Flight 15 plans to return to Earth after space launch | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/dhoRglU2rkM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "4ShW2bKK2AI",
-      "title": "Watch Live: Duffy gives update following nationwide FAA ground stop that disrupted travel | CBS News",
-      "thumbnail": "https://i.ytimg.com/vi/4ShW2bKK2AI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -143,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "tL3LrMJgZbo",
-      "title": "LIVE: Secretary Duffy gives update after nationwide ground stop",
-      "thumbnail": "https://i.ytimg.com/vi/tL3LrMJgZbo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "YsBXc1jqg2E",
-      "title": "US transport secretary gives update after major flight disruption",
-      "thumbnail": "https://i.ytimg.com/vi/YsBXc1jqg2E/hqdefault.jpg"
+      "videoId": "huDipD3GbG4",
+      "title": "SpaceX launches its 15th Starship flight as booster explodes in sea after lift-off",
+      "thumbnail": "https://i.ytimg.com/vi/huDipD3GbG4/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -236,10 +230,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "QOFevC2CR4U",
-      "title": "Officials speak as flights resume after nationwide US flight ground stop lifted | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/QOFevC2CR4U/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -258,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-14T16:10:16.267Z",
+      "at": "2026-11-14T20:43:41.153Z",
       "checked": 33,
       "errors": 0
     }
