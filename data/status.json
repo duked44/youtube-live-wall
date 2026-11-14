@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-11-14T09:45:58.040Z",
+  "generatedAt": "2026-11-14T16:10:16.267Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "wi77nPD4IHw",
+      "title": "Nationwide Ground Stop Press Conference - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/wi77nPD4IHw/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -23,16 +26,16 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "Sn98zuhx_aQ",
+      "title": "WATCH LIVE: Secretary Duffy, FAA officials share updates after nationwide ground stop",
+      "thumbnail": "https://i.ytimg.com/vi/Sn98zuhx_aQ/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "4iafjffXT1I",
-      "title": "Live: FAA Lifts Nationwide Ground Stop, 4 Hours After Air Traffic Chaos Began",
-      "thumbnail": "https://i.ytimg.com/vi/4iafjffXT1I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -96,33 +99,36 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "03WZomylSF8",
-      "title": "LIVE: Flight activity over US after FAA issues ground stop",
-      "thumbnail": "https://i.ytimg.com/vi/03WZomylSF8/hqdefault.jpg"
+      "videoId": "XykDr_zArcI",
+      "title": "LIVE: Pope Leo vists Peruvian city where he served as bishop",
+      "thumbnail": "https://i.ytimg.com/vi/XykDr_zArcI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "CwGyFvysbdQ",
+      "title": "LIVE: Transportation secretary updates on Friday's nationwide ground stop",
+      "thumbnail": "https://i.ytimg.com/vi/CwGyFvysbdQ/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "Hz1cNNgtLtM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg"
+      "videoId": "ox-nQQZVSII",
+      "title": "LIVE: Transportation Secretary Sean Duffy holds FAA press conference | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/ox-nQQZVSII/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "4ShW2bKK2AI",
+      "title": "Watch Live: Duffy gives update following nationwide FAA ground stop that disrupted travel | CBS News",
+      "thumbnail": "https://i.ytimg.com/vi/4ShW2bKK2AI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -137,16 +143,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "tL3LrMJgZbo",
+      "title": "LIVE: Secretary Duffy gives update after nationwide ground stop",
+      "thumbnail": "https://i.ytimg.com/vi/tL3LrMJgZbo/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "GPpOPaNQoss",
-      "title": "US airspace reopens after 'extraordinary circumstances' grounded flights | Mornings",
-      "thumbnail": "https://i.ytimg.com/vi/GPpOPaNQoss/hqdefault.jpg"
+      "videoId": "YsBXc1jqg2E",
+      "title": "US transport secretary gives update after major flight disruption",
+      "thumbnail": "https://i.ytimg.com/vi/YsBXc1jqg2E/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -227,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "QOFevC2CR4U",
+      "title": "Officials speak as flights resume after nationwide US flight ground stop lifted | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/QOFevC2CR4U/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -246,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-14T09:45:58.040Z",
+      "at": "2026-11-14T16:10:16.267Z",
       "checked": 33,
       "errors": 0
     }
