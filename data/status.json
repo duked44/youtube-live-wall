@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-14T20:43:41.153Z",
+  "generatedAt": "2026-11-15T00:23:31.563Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "k-G_QSUTeuA",
-      "title": "SpaceX Starship Returns to Earth - Landing & Catch - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/k-G_QSUTeuA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -108,18 +105,18 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "je3p8hTLWvc",
-      "title": "LIVE: ABC News Live - Saturday, November 14",
-      "thumbnail": "https://i.ytimg.com/vi/je3p8hTLWvc/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "dhoRglU2rkM",
-      "title": "LIVE: SpaceX’s Starship Flight 15 plans to return to Earth after space launch | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/dhoRglU2rkM/hqdefault.jpg"
+      "videoId": "Hz1cNNgtLtM",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -147,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "huDipD3GbG4",
-      "title": "SpaceX launches its 15th Starship flight as booster explodes in sea after lift-off",
-      "thumbnail": "https://i.ytimg.com/vi/huDipD3GbG4/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-14T20:43:41.153Z",
+      "at": "2026-11-15T00:23:31.563Z",
       "checked": 33,
       "errors": 0
     }
