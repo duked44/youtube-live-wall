@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T19:56:51.383Z",
+  "generatedAt": "2026-11-15T23:52:11.581Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "lkMaQ4ifvNs",
+      "title": "The Wrap | Sunday 15 November 2026",
+      "thumbnail": "https://i.ytimg.com/vi/lkMaQ4ifvNs/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-15T19:56:51.383Z",
+      "at": "2026-11-15T23:52:11.581Z",
       "checked": 33,
       "errors": 0
     }
