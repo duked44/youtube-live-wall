@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T14:35:59.024Z",
+  "generatedAt": "2026-11-15T19:56:51.383Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -44,7 +44,10 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": false
+      "live": true,
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -92,13 +95,19 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "XykDr_zArcI",
+      "title": "LIVE: Pope Leo vists Peruvian city where he served as bishop",
+      "thumbnail": "https://i.ytimg.com/vi/XykDr_zArcI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "live": false
+      "live": true,
+      "videoId": "SftX338Iueo",
+      "title": "LIVE: ABC News Live - Sunday, November 15",
+      "thumbnail": "https://i.ytimg.com/vi/SftX338Iueo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -171,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "xlMJeeMu1Q0",
-      "title": "Trump Set For Asia Trip; US Air Travel Struggles To Recover | Bloomberg This Weekend: Nov 15th, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/xlMJeeMu1Q0/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -237,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-15T14:35:59.024Z",
+      "at": "2026-11-15T19:56:51.383Z",
       "checked": 33,
       "errors": 0
     }
