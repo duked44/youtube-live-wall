@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T23:52:11.581Z",
+  "generatedAt": "2026-11-16T03:59:01.667Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,10 +11,7 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "5MgMHX-lNn4",
-      "title": "LIVE: Markwayne Mullin Testifies Before Congress Following FAA Nationwide Ground Stop",
-      "thumbnail": "https://i.ytimg.com/vi/5MgMHX-lNn4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
@@ -44,10 +41,7 @@
       "id": "bbcnews",
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
-      "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dailywire",
@@ -95,28 +89,19 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "XykDr_zArcI",
-      "title": "LIVE: Pope Leo vists Peruvian city where he served as bishop",
-      "thumbnail": "https://i.ytimg.com/vi/XykDr_zArcI/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
-      "live": true,
-      "videoId": "SftX338Iueo",
-      "title": "LIVE: ABC News Live - Sunday, November 15",
-      "thumbnail": "https://i.ytimg.com/vi/SftX338Iueo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
-      "live": true,
-      "videoId": "Hz1cNNgtLtM",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/Hz1cNNgtLtM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cbsnews",
@@ -128,10 +113,7 @@
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
-      "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "msnow",
@@ -143,55 +125,37 @@
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
-      "live": true,
-      "videoId": "lkMaQ4ifvNs",
-      "title": "The Wrap | Sunday 15 November 2026",
-      "thumbnail": "https://i.ytimg.com/vi/lkMaQ4ifvNs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "aljazeeraenglish",
       "name": "Al Jazeera English",
       "channelId": "UCNye-wNBqNL5ZzHSJj3l8Bg",
-      "live": true,
-      "videoId": "gCNeDWCI0vo",
-      "title": "🔴 Al Jazeera English | Live",
-      "thumbnail": "https://i.ytimg.com/vi/gCNeDWCI0vo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "dwnews",
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
-      "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "france24-en",
       "name": "FRANCE 24 English",
       "channelId": "UCQfwfsi5VrQ8yKZ-UWmAEFg",
-      "live": true,
-      "videoId": "HvZt-nh9sGg",
-      "title": "FRANCE 24 English – LIVE – International Breaking News & Top stories - 24/7 stream",
-      "thumbnail": "https://i.ytimg.com/vi/HvZt-nh9sGg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "bloomberg-tv",
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
-      "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnbc",
       "name": "CNBC",
       "channelId": "UCvJJ_dzjViJCoLf5uKUTwoA",
-      "live": true,
-      "videoId": "9NyxcX3rhQs",
-      "title": "LIVE: CNBC Marathon - Documentaries and deep dives 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/9NyxcX3rhQs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "pbsnewshour",
@@ -233,10 +197,7 @@
       "id": "cna",
       "name": "CNA",
       "channelId": "UC83jt4dlz1Gjl58fzQrrKZg",
-      "live": true,
-      "videoId": "-PWMxjBgr0k",
-      "title": "CNA 24/7 LIVE: Breaking news on Asia and award-winning documentaries and shows",
-      "thumbnail": "https://i.ytimg.com/vi/-PWMxjBgr0k/hqdefault.jpg"
+      "live": false
     }
   ],
   "health": {
@@ -246,7 +207,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-15T23:52:11.581Z",
+      "at": "2026-11-16T03:59:01.667Z",
       "checked": 33,
       "errors": 0
     }
