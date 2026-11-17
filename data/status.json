@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-17T04:44:33.775Z",
+  "generatedAt": "2026-11-17T13:54:35.233Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "B8N_kvFEsgw",
-      "title": "Ukraine Attacks Russia’s Crimean Bridge (Kerch Bridge) - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/B8N_kvFEsgw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -29,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "BDXVmxcbs9o",
+      "title": "WATCH LIVE: DOJ announces new VA benefits fraud cases in nationwide crackdown",
+      "thumbnail": "https://i.ytimg.com/vi/BDXVmxcbs9o/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -48,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "-NabWfv-VdA",
-      "title": "Watch BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
+      "videoId": "4oRtWRzC6tA",
+      "title": "LIVE: 'A lost generation'? Neets report revealed | BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/4oRtWRzC6tA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -93,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "XBC82n5n-WA",
-      "title": "LIVE: India's PM Modi attends ASEAN-India summit in Manila",
-      "thumbnail": "https://i.ytimg.com/vi/XBC82n5n-WA/hqdefault.jpg"
+      "videoId": "tNZJLydY1EA",
+      "title": "LIVE: Protests in Paris as unions demand higher pay",
+      "thumbnail": "https://i.ytimg.com/vi/tNZJLydY1EA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "FkhdzaXwok8",
-      "title": "LIVE: ASEAN leaders and international partners gather for 49th summit",
-      "thumbnail": "https://i.ytimg.com/vi/FkhdzaXwok8/hqdefault.jpg"
+      "videoId": "T8TPZtyIwCc",
+      "title": "LIVE: Defense ministers arrive at NATO headquarters",
+      "thumbnail": "https://i.ytimg.com/vi/T8TPZtyIwCc/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "2bJyb9-tnKU",
+      "title": "LIVE: ABC News Live - Tuesday, November 17",
+      "thumbnail": "https://i.ytimg.com/vi/2bJyb9-tnKU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "C5BUYsiW9n4",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/C5BUYsiW9n4/hqdefault.jpg"
+      "videoId": "GQXZIzMiXow",
+      "title": "LIVE: NBC News NOW - Nov. 17",
+      "thumbnail": "https://i.ytimg.com/vi/GQXZIzMiXow/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "tvl69iYzlKQ",
+      "videoId": "ASwsKXCT2qI",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/tvl69iYzlKQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ASwsKXCT2qI/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "umLWFz4izTM",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
+      "videoId": "lBhsF4YU67c",
+      "title": "NATO member countries meet to discuss Ukraine war",
+      "thumbnail": "https://i.ytimg.com/vi/lBhsF4YU67c/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,25 +206,37 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "kjWIvGr_WSs",
+      "title": "WATCH LIVE: Senate Armed Services Committee confirmation hearing for Hung Cao as Navy secretary",
+      "thumbnail": "https://i.ytimg.com/vi/kjWIvGr_WSs/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "s1YqM2AxjoQ",
+      "title": "Dead for 2,800 Years… and Still Failed a Drug Test | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/s1YqM2AxjoQ/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "gVLmoSk6rh8",
+      "title": "LIVE: Nov. 17 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/gVLmoSk6rh8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "ra-Q7qSU4L0",
+      "title": "Reactions to the Milburn report from the Commons – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/ra-Q7qSU4L0/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-17T04:44:33.775Z",
+      "at": "2026-11-17T13:54:35.233Z",
       "checked": 33,
       "errors": 0
     }
