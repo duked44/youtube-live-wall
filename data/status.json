@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T13:54:35.233Z",
+  "generatedAt": "2026-11-17T22:01:54.824Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,24 +12,24 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "FOIRKW36UHk",
-      "title": "LIVE: Senate Looks At Roblox In Hearing Probing 'Digital Playgrounds Endangering America's Children'",
-      "thumbnail": "https://i.ytimg.com/vi/FOIRKW36UHk/hqdefault.jpg"
+      "videoId": "LeUa_BCdMIc",
+      "title": "LIVE: AOC, Paris Hilton Hold Press Briefing On The DEFIANCE Act",
+      "thumbnail": "https://i.ytimg.com/vi/LeUa_BCdMIc/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "A9NP5HXXXBU",
+      "title": "DHS Secretary Testifies on Worldwide Threats",
+      "thumbnail": "https://i.ytimg.com/vi/A9NP5HXXXBU/hqdefault.jpg"
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "BDXVmxcbs9o",
-      "title": "WATCH LIVE: DOJ announces new VA benefits fraud cases in nationwide crackdown",
-      "thumbnail": "https://i.ytimg.com/vi/BDXVmxcbs9o/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -48,9 +48,9 @@
       "name": "BBC News",
       "channelId": "UC16niRr50-MSBwiO3YDb3RA",
       "live": true,
-      "videoId": "4oRtWRzC6tA",
-      "title": "LIVE: 'A lost generation'? Neets report revealed | BBC News",
-      "thumbnail": "https://i.ytimg.com/vi/4oRtWRzC6tA/hqdefault.jpg"
+      "videoId": "-NabWfv-VdA",
+      "title": "Watch BBC News",
+      "thumbnail": "https://i.ytimg.com/vi/-NabWfv-VdA/hqdefault.jpg"
     },
     {
       "id": "dailywire",
@@ -92,19 +92,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "tNZJLydY1EA",
-      "title": "LIVE: Protests in Paris as unions demand higher pay",
-      "thumbnail": "https://i.ytimg.com/vi/tNZJLydY1EA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "T8TPZtyIwCc",
-      "title": "LIVE: Defense ministers arrive at NATO headquarters",
-      "thumbnail": "https://i.ytimg.com/vi/T8TPZtyIwCc/hqdefault.jpg"
+      "videoId": "vng0nub-vKw",
+      "title": "LIVE: French labor unions call for another day of strikes",
+      "thumbnail": "https://i.ytimg.com/vi/vng0nub-vKw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lBhsF4YU67c",
-      "title": "NATO member countries meet to discuss Ukraine war",
-      "thumbnail": "https://i.ytimg.com/vi/lBhsF4YU67c/hqdefault.jpg"
+      "videoId": "G3lu4k9G-Mk",
+      "title": "Milburn review into youth unemployment published | The Wrap with Anna Botting",
+      "thumbnail": "https://i.ytimg.com/vi/G3lu4k9G-Mk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -207,9 +204,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "kjWIvGr_WSs",
-      "title": "WATCH LIVE: Senate Armed Services Committee confirmation hearing for Hung Cao as Navy secretary",
-      "thumbnail": "https://i.ytimg.com/vi/kjWIvGr_WSs/hqdefault.jpg"
+      "videoId": "1mxWGDbZY0g",
+      "title": "WATCH LIVE: Paris Hilton joins Ocasio-Cortez to push for legislation on sexually explicit deepfakes",
+      "thumbnail": "https://i.ytimg.com/vi/1mxWGDbZY0g/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -233,10 +230,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "ra-Q7qSU4L0",
-      "title": "Reactions to the Milburn report from the Commons – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/ra-Q7qSU4L0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -248,7 +242,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "jTbE8Ff3ChE",
+      "title": "AOC, Paris Hilton push Congress to pass DEFIANCE Act | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/jTbE8Ff3ChE/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -262,12 +259,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 3,
-      "channelChecks": 99,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-17T13:54:35.233Z",
+      "at": "2026-11-17T22:01:54.824Z",
       "checked": 33,
       "errors": 0
     }
