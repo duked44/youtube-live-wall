@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-16T22:29:30.528Z",
+  "generatedAt": "2026-11-17T04:44:33.775Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
       "live": true,
-      "videoId": "ArAxjdWSvk8",
-      "title": "United Airlines Experiencing “Widespread System Outage” - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/ArAxjdWSvk8/hqdefault.jpg"
+      "videoId": "B8N_kvFEsgw",
+      "title": "Ukraine Attacks Russia’s Crimean Bridge (Kerch Bridge) - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/B8N_kvFEsgw/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "5MgMHX-lNn4",
-      "title": "LIVE: Markwayne Mullin Testifies Before Congress Following FAA Nationwide Ground Stop",
-      "thumbnail": "https://i.ytimg.com/vi/5MgMHX-lNn4/hqdefault.jpg"
+      "videoId": "FOIRKW36UHk",
+      "title": "LIVE: Senate Looks At Roblox In Hearing Probing 'Digital Playgrounds Endangering America's Children'",
+      "thumbnail": "https://i.ytimg.com/vi/FOIRKW36UHk/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -93,45 +93,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "9OyTvHr_ywQ",
-      "title": "LIVE: Senate considers Daniel Domenico’s nomination to the Tenth Circuit",
-      "thumbnail": "https://i.ytimg.com/vi/9OyTvHr_ywQ/hqdefault.jpg"
+      "videoId": "XBC82n5n-WA",
+      "title": "LIVE: India's PM Modi attends ASEAN-India summit in Manila",
+      "thumbnail": "https://i.ytimg.com/vi/XBC82n5n-WA/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "QjaJVJluzuk",
-      "title": "LIVE: Reuters NEXT Newsmaker with Rohit Chopra, California Consumer Chief",
-      "thumbnail": "https://i.ytimg.com/vi/QjaJVJluzuk/hqdefault.jpg"
+      "videoId": "FkhdzaXwok8",
+      "title": "LIVE: ASEAN leaders and international partners gather for 49th summit",
+      "thumbnail": "https://i.ytimg.com/vi/FkhdzaXwok8/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "q5NLEgG7kmY",
-      "title": "LIVE: ABC News Live - Monday, November 16",
-      "thumbnail": "https://i.ytimg.com/vi/q5NLEgG7kmY/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "p3Iqs2N9THg",
-      "title": "LIVE: NBC News NOW - Nov. 16",
-      "thumbnail": "https://i.ytimg.com/vi/p3Iqs2N9THg/hqdefault.jpg"
+      "videoId": "C5BUYsiW9n4",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/C5BUYsiW9n4/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "yP-vl4KBsys",
+      "videoId": "tvl69iYzlKQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yP-vl4KBsys/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/tvl69iYzlKQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Shl7KTD27V0",
-      "title": "Brand's message from prison being 'urgently investigated', Downing Street says | The Wrap",
-      "thumbnail": "https://i.ytimg.com/vi/Shl7KTD27V0/hqdefault.jpg"
+      "videoId": "umLWFz4izTM",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/umLWFz4izTM/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,10 +206,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "rKmd434CZPM",
-      "title": "WATCH LIVE: Senate convenes to consider judicial nomination",
-      "thumbnail": "https://i.ytimg.com/vi/rKmd434CZPM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -221,10 +218,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "UPK1oAiSsrY",
-      "title": "LIVE: Nov. 16 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/UPK1oAiSsrY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -256,12 +250,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 3,
+      "channelChecks": 99,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-16T22:29:30.528Z",
+      "at": "2026-11-17T04:44:33.775Z",
       "checked": 33,
       "errors": 0
     }
