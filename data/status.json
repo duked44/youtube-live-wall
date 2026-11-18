@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T22:01:54.824Z",
+  "generatedAt": "2026-11-18T03:39:21.243Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "LeUa_BCdMIc",
-      "title": "LIVE: AOC, Paris Hilton Hold Press Briefing On The DEFIANCE Act",
-      "thumbnail": "https://i.ytimg.com/vi/LeUa_BCdMIc/hqdefault.jpg"
+      "videoId": "5MgMHX-lNn4",
+      "title": "LIVE: Markwayne Mullin Testifies Before Congress Following FAA Nationwide Ground Stop",
+      "thumbnail": "https://i.ytimg.com/vi/5MgMHX-lNn4/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -29,7 +29,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "XIpqVbcJqJU",
+      "title": "WATCH LIVE: President Trump meets with President Marcos in the Philippines",
+      "thumbnail": "https://i.ytimg.com/vi/XIpqVbcJqJU/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -92,7 +95,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "AeaM4Blj0rk",
+      "title": "LIVE: Trump meets Philippines President Marcos in Manila",
+      "thumbnail": "https://i.ytimg.com/vi/AeaM4Blj0rk/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -117,18 +123,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "GQXZIzMiXow",
-      "title": "LIVE: NBC News NOW - Nov. 17",
-      "thumbnail": "https://i.ytimg.com/vi/GQXZIzMiXow/hqdefault.jpg"
+      "videoId": "4R9xJX04WY8",
+      "title": "LIVE: Trump attends ASEAN summit in the Philippines | NBC News",
+      "thumbnail": "https://i.ytimg.com/vi/4R9xJX04WY8/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ASwsKXCT2qI",
+      "videoId": "ToNKKYWVQdE",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ASwsKXCT2qI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ToNKKYWVQdE/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "G3lu4k9G-Mk",
-      "title": "Milburn review into youth unemployment published | The Wrap with Anna Botting",
-      "thumbnail": "https://i.ytimg.com/vi/G3lu4k9G-Mk/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,28 +209,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "1mxWGDbZY0g",
-      "title": "WATCH LIVE: Paris Hilton joins Ocasio-Cortez to push for legislation on sexually explicit deepfakes",
-      "thumbnail": "https://i.ytimg.com/vi/1mxWGDbZY0g/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "s1YqM2AxjoQ",
-      "title": "Dead for 2,800 Years… and Still Failed a Drug Test | Hot Take with Jesse Weber",
-      "thumbnail": "https://i.ytimg.com/vi/s1YqM2AxjoQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "gVLmoSk6rh8",
-      "title": "LIVE: Nov. 17 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/gVLmoSk6rh8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -242,10 +239,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "jTbE8Ff3ChE",
-      "title": "AOC, Paris Hilton push Congress to pass DEFIANCE Act | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/jTbE8Ff3ChE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -264,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-17T22:01:54.824Z",
+      "at": "2026-11-18T03:39:21.243Z",
       "checked": 33,
       "errors": 0
     }
