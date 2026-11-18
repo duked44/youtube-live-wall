@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T12:16:25.626Z",
+  "generatedAt": "2026-11-18T20:42:19.672Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,28 +11,19 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "5MgMHX-lNn4",
-      "title": "LIVE: Markwayne Mullin Testifies Before Congress Following FAA Nationwide Ground Stop",
-      "thumbnail": "https://i.ytimg.com/vi/5MgMHX-lNn4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "A9NP5HXXXBU",
-      "title": "DHS Secretary Testifies on Worldwide Threats",
-      "thumbnail": "https://i.ytimg.com/vi/A9NP5HXXXBU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "a9L6kvtRHxA",
-      "title": "WATCH LIVE: Trump arrives in China for high-stakes summit with Xi, Putin",
-      "thumbnail": "https://i.ytimg.com/vi/a9L6kvtRHxA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
@@ -95,19 +86,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "0MmFhDYyo1Y",
-      "title": "LIVE: Markwayne Mullin testifies on worldwide threats as administration faces tech outages",
-      "thumbnail": "https://i.ytimg.com/vi/0MmFhDYyo1Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "F_YRmq-rBvo",
-      "title": "LIVE: UK Prime Minister Burnham takes questions in parliament",
-      "thumbnail": "https://i.ytimg.com/vi/F_YRmq-rBvo/hqdefault.jpg"
+      "videoId": "vng0nub-vKw",
+      "title": "LIVE: French labor unions call for another day of strikes",
+      "thumbnail": "https://i.ytimg.com/vi/vng0nub-vKw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -156,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "rko4oIV7JS8",
-      "title": "PMQs in full | Andy Burnham faces questions from Kemi Badenoch in the Commons",
-      "thumbnail": "https://i.ytimg.com/vi/rko4oIV7JS8/hqdefault.jpg"
+      "videoId": "lHHrXHlbbVw",
+      "title": "Calls to stop NDAs silencing victims | The UK Tonight with Sarah-Jane Mee",
+      "thumbnail": "https://i.ytimg.com/vi/lHHrXHlbbVw/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,13 +197,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "EKWwUe0Lvyo",
+      "title": "WATCH LIVE: Johnson presents posthumous Congressional Gold Medal to former Egyptian President Sadat",
+      "thumbnail": "https://i.ytimg.com/vi/EKWwUe0Lvyo/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "4F1lAeQwAwA",
+      "title": "Was Nvidia complicit in chip smuggling to China?  YOU get to debate Batya! | Prove It!",
+      "thumbnail": "https://i.ytimg.com/vi/4F1lAeQwAwA/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
@@ -230,10 +224,7 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "V2mE0d_Gw-Q",
-      "title": "PMQs: Andy Burnham takes questions – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -264,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-18T12:16:25.626Z",
+      "at": "2026-11-18T20:42:19.672Z",
       "checked": 33,
       "errors": 0
     }
