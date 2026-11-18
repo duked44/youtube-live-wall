@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T03:39:21.243Z",
+  "generatedAt": "2026-11-18T12:16:25.626Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "XIpqVbcJqJU",
-      "title": "WATCH LIVE: President Trump meets with President Marcos in the Philippines",
-      "thumbnail": "https://i.ytimg.com/vi/XIpqVbcJqJU/hqdefault.jpg"
+      "videoId": "a9L6kvtRHxA",
+      "title": "WATCH LIVE: Trump arrives in China for high-stakes summit with Xi, Putin",
+      "thumbnail": "https://i.ytimg.com/vi/a9L6kvtRHxA/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -96,45 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "AeaM4Blj0rk",
-      "title": "LIVE: Trump meets Philippines President Marcos in Manila",
-      "thumbnail": "https://i.ytimg.com/vi/AeaM4Blj0rk/hqdefault.jpg"
+      "videoId": "0MmFhDYyo1Y",
+      "title": "LIVE: Markwayne Mullin testifies on worldwide threats as administration faces tech outages",
+      "thumbnail": "https://i.ytimg.com/vi/0MmFhDYyo1Y/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "vng0nub-vKw",
-      "title": "LIVE: French labor unions call for another day of strikes",
-      "thumbnail": "https://i.ytimg.com/vi/vng0nub-vKw/hqdefault.jpg"
+      "videoId": "F_YRmq-rBvo",
+      "title": "LIVE: UK Prime Minister Burnham takes questions in parliament",
+      "thumbnail": "https://i.ytimg.com/vi/F_YRmq-rBvo/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "2bJyb9-tnKU",
-      "title": "LIVE: ABC News Live - Tuesday, November 17",
-      "thumbnail": "https://i.ytimg.com/vi/2bJyb9-tnKU/hqdefault.jpg"
+      "videoId": "kyh14T8Oa8M",
+      "title": "LIVE: ABC News Live - Wednesday, November 18",
+      "thumbnail": "https://i.ytimg.com/vi/kyh14T8Oa8M/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "4R9xJX04WY8",
-      "title": "LIVE: Trump attends ASEAN summit in the Philippines | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/4R9xJX04WY8/hqdefault.jpg"
+      "videoId": "d407BwnLeVA",
+      "title": "LIVE: NBC News NOW - Nov. 18",
+      "thumbnail": "https://i.ytimg.com/vi/d407BwnLeVA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ToNKKYWVQdE",
+      "videoId": "fkAhVjVttpc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ToNKKYWVQdE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/fkAhVjVttpc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "rko4oIV7JS8",
+      "title": "PMQs in full | Andy Burnham faces questions from Kemi Badenoch in the Commons",
+      "thumbnail": "https://i.ytimg.com/vi/rko4oIV7JS8/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,13 +221,19 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "jnJTWQY2wkE",
+      "title": "LIVE: Nov. 18 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/jnJTWQY2wkE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "V2mE0d_Gw-Q",
+      "title": "PMQs: Andy Burnham takes questions – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/V2mE0d_Gw-Q/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -258,7 +264,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-18T03:39:21.243Z",
+      "at": "2026-11-18T12:16:25.626Z",
       "checked": 33,
       "errors": 0
     }
