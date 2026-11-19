@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T20:42:19.672Z",
+  "generatedAt": "2026-11-19T02:01:51.217Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -23,13 +23,19 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "A7SlyYioTrw",
+      "title": "WATCH: President Trump joins APEC Leaders’ Family Photo and Plenary Session",
+      "thumbnail": "https://i.ytimg.com/vi/A7SlyYioTrw/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "D3-DZFFXPqY",
+      "title": "LIVE: Trump Meets Xi Jinping and Putin in Historic First-Ever Trilateral Summit in Shenzhen",
+      "thumbnail": "https://i.ytimg.com/vi/D3-DZFFXPqY/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -86,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "5VzAaR2TlNo",
+      "title": "WATCH: Trump, Xi and Putin to meet after APEC leaders pose for a family photo",
+      "thumbnail": "https://i.ytimg.com/vi/5VzAaR2TlNo/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "d407BwnLeVA",
+      "videoId": "mRiwuwH2Tlk",
       "title": "LIVE: NBC News NOW - Nov. 18",
-      "thumbnail": "https://i.ytimg.com/vi/d407BwnLeVA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/mRiwuwH2Tlk/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "fkAhVjVttpc",
+      "videoId": "3jW0K6C7zHQ",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/fkAhVjVttpc/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/3jW0K6C7zHQ/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -144,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "lHHrXHlbbVw",
-      "title": "Calls to stop NDAs silencing victims | The UK Tonight with Sarah-Jane Mee",
-      "thumbnail": "https://i.ytimg.com/vi/lHHrXHlbbVw/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -197,28 +206,19 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "EKWwUe0Lvyo",
-      "title": "WATCH LIVE: Johnson presents posthumous Congressional Gold Medal to former Egyptian President Sadat",
-      "thumbnail": "https://i.ytimg.com/vi/EKWwUe0Lvyo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "4F1lAeQwAwA",
-      "title": "Was Nvidia complicit in chip smuggling to China?  YOU get to debate Batya! | Prove It!",
-      "thumbnail": "https://i.ytimg.com/vi/4F1lAeQwAwA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "jnJTWQY2wkE",
-      "title": "LIVE: Nov. 18 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/jnJTWQY2wkE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-18T20:42:19.672Z",
+      "at": "2026-11-19T02:01:51.217Z",
       "checked": 33,
       "errors": 0
     }
