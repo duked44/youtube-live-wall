@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-11-19T02:01:51.217Z",
+  "generatedAt": "2026-11-19T10:10:38.411Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "XEk4o0s2lcU",
+      "title": "Trump, Putin & Xi Meeting - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/XEk4o0s2lcU/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -23,19 +26,13 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": true,
-      "videoId": "A7SlyYioTrw",
-      "title": "WATCH: President Trump joins APEC Leaders’ Family Photo and Plenary Session",
-      "thumbnail": "https://i.ytimg.com/vi/A7SlyYioTrw/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "D3-DZFFXPqY",
-      "title": "LIVE: Trump Meets Xi Jinping and Putin in Historic First-Ever Trilateral Summit in Shenzhen",
-      "thumbnail": "https://i.ytimg.com/vi/D3-DZFFXPqY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -93,27 +90,27 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "5VzAaR2TlNo",
-      "title": "WATCH: Trump, Xi and Putin to meet after APEC leaders pose for a family photo",
-      "thumbnail": "https://i.ytimg.com/vi/5VzAaR2TlNo/hqdefault.jpg"
+      "videoId": "cpIlQK6p9cY",
+      "title": "LIVE: Anthropic begins trading on Nasdaq after largest IPO on record",
+      "thumbnail": "https://i.ytimg.com/vi/cpIlQK6p9cY/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "vng0nub-vKw",
-      "title": "LIVE: French labor unions call for another day of strikes",
-      "thumbnail": "https://i.ytimg.com/vi/vng0nub-vKw/hqdefault.jpg"
+      "videoId": "ShLiCWcHhdw",
+      "title": "LIVE: IEA launches World Energy Outlook",
+      "thumbnail": "https://i.ytimg.com/vi/ShLiCWcHhdw/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "kyh14T8Oa8M",
-      "title": "LIVE: ABC News Live - Wednesday, November 18",
-      "thumbnail": "https://i.ytimg.com/vi/kyh14T8Oa8M/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -121,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "mRiwuwH2Tlk",
-      "title": "LIVE: NBC News NOW - Nov. 18",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/mRiwuwH2Tlk/hqdefault.jpg"
     },
     {
@@ -153,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "jKC75ZC7O6s",
+      "title": "ICJ rule on whether Myanmar committed genocide of Rohingya",
+      "thumbnail": "https://i.ytimg.com/vi/jKC75ZC7O6s/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -224,7 +221,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "PX3qIp-F9fg",
+      "title": "UN court makes historic genocide verdict over Rohingya massacres – watch live",
+      "thumbnail": "https://i.ytimg.com/vi/PX3qIp-F9fg/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -255,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-19T02:01:51.217Z",
+      "at": "2026-11-19T10:10:38.411Z",
       "checked": 33,
       "errors": 0
     }
