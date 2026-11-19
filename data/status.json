@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-11-19T10:10:38.411Z",
+  "generatedAt": "2026-11-19T18:59:44.112Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "XEk4o0s2lcU",
-      "title": "Trump, Putin & Xi Meeting - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/XEk4o0s2lcU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "hQBIZURX5hw",
+      "title": "LIVE: Elissa Slotkin and Mark Kelly Hold Press Conference",
+      "thumbnail": "https://i.ytimg.com/vi/hQBIZURX5hw/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -26,7 +26,10 @@
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
-      "live": false
+      "live": true,
+      "videoId": "wcY4K5CNVx4",
+      "title": "WATCH LIVE: Fox News All-American Christmas tree lighting",
+      "thumbnail": "https://i.ytimg.com/vi/wcY4K5CNVx4/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -99,36 +102,36 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "ShLiCWcHhdw",
-      "title": "LIVE: IEA launches World Energy Outlook",
-      "thumbnail": "https://i.ytimg.com/vi/ShLiCWcHhdw/hqdefault.jpg"
+      "videoId": "naFskWzvLog",
+      "title": "LIVE: National strike in Colombia",
+      "thumbnail": "https://i.ytimg.com/vi/naFskWzvLog/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "qHToRlozwHo",
+      "title": "LIVE: ABC News Live - Thursday, November 19",
+      "thumbnail": "https://i.ytimg.com/vi/qHToRlozwHo/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "mRiwuwH2Tlk",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/mRiwuwH2Tlk/hqdefault.jpg"
+      "videoId": "AowNYm8dxFA",
+      "title": "LIVE: NBC News NOW - Nov. 19",
+      "thumbnail": "https://i.ytimg.com/vi/AowNYm8dxFA/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "3jW0K6C7zHQ",
+      "videoId": "YwMKWQd1W7Y",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/3jW0K6C7zHQ/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/YwMKWQd1W7Y/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "jKC75ZC7O6s",
-      "title": "ICJ rule on whether Myanmar committed genocide of Rohingya",
-      "thumbnail": "https://i.ytimg.com/vi/jKC75ZC7O6s/hqdefault.jpg"
+      "videoId": "Xh92ft_m_8I",
+      "title": "Joanne Young shows same courage that turned Gisele Pelicot into global icon | The Cathy Newman Show",
+      "thumbnail": "https://i.ytimg.com/vi/Xh92ft_m_8I/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -187,7 +190,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
+      "title": "Anthropic to Start Trading on Nasdaq | Bloomberg Business News Live",
       "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
@@ -203,7 +206,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "v0-JdZfzsnI",
+      "title": "WATCH LIVE: Senate meets for legislative business as Trump returns from Putin-Xi talks in China",
+      "thumbnail": "https://i.ytimg.com/vi/v0-JdZfzsnI/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -215,16 +221,16 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "WdBx62yXUNE",
+      "title": "LIVE: Nov. 19 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/WdBx62yXUNE/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": true,
-      "videoId": "PX3qIp-F9fg",
-      "title": "UN court makes historic genocide verdict over Rohingya massacres – watch live",
-      "thumbnail": "https://i.ytimg.com/vi/PX3qIp-F9fg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "channel4news",
@@ -255,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-19T10:10:38.411Z",
+      "at": "2026-11-19T18:59:44.112Z",
       "checked": 33,
       "errors": 0
     }
