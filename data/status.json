@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T01:11:00.739Z",
+  "generatedAt": "2026-11-20T08:34:11.355Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -92,7 +92,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "NRKxqszU49I",
+      "title": "LIVE: Workers march in Rome during a nationwide general strike",
+      "thumbnail": "https://i.ytimg.com/vi/NRKxqszU49I/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -105,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "qHToRlozwHo",
-      "title": "LIVE: ABC News Live - Thursday, November 19",
-      "thumbnail": "https://i.ytimg.com/vi/qHToRlozwHo/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -115,7 +118,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "Qj_oQ0yQAME",
-      "title": "LIVE: NBC News NOW - Nov. 19",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/Qj_oQ0yQAME/hqdefault.jpg"
     },
     {
@@ -147,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "mT_oMyFx0f0",
+      "title": "PM in Brussels for Brexit reset talks with EU leaders | Mornings with Jones and Melbourne",
+      "thumbnail": "https://i.ytimg.com/vi/mT_oMyFx0f0/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -209,10 +212,7 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": true,
-      "videoId": "UFCDdcN3-EE",
-      "title": "Your money questions answered LIVE with Jade Warshaw and Jeff Rossen | NewsNation",
-      "thumbnail": "https://i.ytimg.com/vi/UFCDdcN3-EE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "scrippsnews",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-20T01:11:00.739Z",
+      "at": "2026-11-20T08:34:11.355Z",
       "checked": 33,
       "errors": 0
     }
