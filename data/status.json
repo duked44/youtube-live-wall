@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T18:59:44.112Z",
+  "generatedAt": "2026-11-20T01:11:00.739Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "hQBIZURX5hw",
-      "title": "LIVE: Elissa Slotkin and Mark Kelly Hold Press Conference",
-      "thumbnail": "https://i.ytimg.com/vi/hQBIZURX5hw/hqdefault.jpg"
+      "videoId": "h9HnumFcF0w",
+      "title": "LIVE: President Trump Holds Press Briefing After Meeting With Vladimir Putin And Xi Jinping",
+      "thumbnail": "https://i.ytimg.com/vi/h9HnumFcF0w/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -92,19 +92,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "cpIlQK6p9cY",
-      "title": "LIVE: Anthropic begins trading on Nasdaq after largest IPO on record",
-      "thumbnail": "https://i.ytimg.com/vi/cpIlQK6p9cY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "naFskWzvLog",
-      "title": "LIVE: National strike in Colombia",
-      "thumbnail": "https://i.ytimg.com/vi/naFskWzvLog/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,18 +114,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "AowNYm8dxFA",
+      "videoId": "Qj_oQ0yQAME",
       "title": "LIVE: NBC News NOW - Nov. 19",
-      "thumbnail": "https://i.ytimg.com/vi/AowNYm8dxFA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/Qj_oQ0yQAME/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "YwMKWQd1W7Y",
+      "videoId": "-XgqNLGYxHU",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/YwMKWQd1W7Y/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/-XgqNLGYxHU/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "Xh92ft_m_8I",
-      "title": "Joanne Young shows same courage that turned Gisele Pelicot into global icon | The Cathy Newman Show",
-      "thumbnail": "https://i.ytimg.com/vi/Xh92ft_m_8I/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -190,7 +184,7 @@
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
       "videoId": "QB5BNdBFujE",
-      "title": "Anthropic to Start Trading on Nasdaq | Bloomberg Business News Live",
+      "title": "Bloomberg Business News Live",
       "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
@@ -215,16 +209,16 @@
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "UFCDdcN3-EE",
+      "title": "Your money questions answered LIVE with Jade Warshaw and Jeff Rossen | NewsNation",
+      "thumbnail": "https://i.ytimg.com/vi/UFCDdcN3-EE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "WdBx62yXUNE",
-      "title": "LIVE: Nov. 19 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/WdBx62yXUNE/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -242,7 +236,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "UnHgZkwSFS4",
+      "title": "New BC premier Lorne Doerkson and his cabinet are officially sworn in | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/UnHgZkwSFS4/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-19T18:59:44.112Z",
+      "at": "2026-11-20T01:11:00.739Z",
       "checked": 33,
       "errors": 0
     }
