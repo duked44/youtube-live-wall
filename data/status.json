@@ -1,50 +1,38 @@
 {
-  "generatedAt": "2026-11-20T17:18:13.058Z",
+  "generatedAt": "2026-11-20T23:09:35.829Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "gJvh0Py-A40",
-      "title": "President Trump News Conference - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/gJvh0Py-A40/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": true,
-      "videoId": "h9HnumFcF0w",
-      "title": "LIVE: President Trump Holds Press Briefing After Meeting With Vladimir Putin And Xi Jinping",
-      "thumbnail": "https://i.ytimg.com/vi/h9HnumFcF0w/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": true,
-      "videoId": "IidTrEpdcCQ",
-      "title": "President Trump News Conference",
-      "thumbnail": "https://i.ytimg.com/vi/IidTrEpdcCQ/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "foxnews",
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "EjCg8HOwfqI",
-      "title": "WATCH LIVE: Trump addresses the nation following Asia trip",
-      "thumbnail": "https://i.ytimg.com/vi/EjCg8HOwfqI/hqdefault.jpg"
+      "videoId": "wcY4K5CNVx4",
+      "title": "WATCH LIVE: Fox News All-American Christmas tree lighting",
+      "thumbnail": "https://i.ytimg.com/vi/wcY4K5CNVx4/hqdefault.jpg"
     },
     {
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "647SubxNXmo",
-      "title": "LIVE: President Trump Delivers Remarks Following His Trip to Asia",
-      "thumbnail": "https://i.ytimg.com/vi/647SubxNXmo/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -101,19 +89,16 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "VD-KP5xTESY",
-      "title": "LIVE: Trump holds a press conference after meeting with Putin and Xi",
-      "thumbnail": "https://i.ytimg.com/vi/VD-KP5xTESY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "008kxEtm6oQ",
-      "title": "LIVE: The Capitol Christmas Tree arrives in DC 🎄",
-      "thumbnail": "https://i.ytimg.com/vi/008kxEtm6oQ/hqdefault.jpg"
+      "videoId": "lQOlQH6nsys",
+      "title": "LIVE: Celebration of life service for civil rights leader Dolores Huerta",
+      "thumbnail": "https://i.ytimg.com/vi/lQOlQH6nsys/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -129,9 +114,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "T8OUcBT37dI",
-      "title": "LIVE: Trump holds press briefing after historic meeting with Xi and Putin | NBC News",
-      "thumbnail": "https://i.ytimg.com/vi/T8OUcBT37dI/hqdefault.jpg"
+      "videoId": "pJZBppLlwJo",
+      "title": "LIVE: NBC News NOW - Nov. 20",
+      "thumbnail": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -155,19 +140,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "ZMgQCs_EyN4",
-      "title": "LIVE: Trump holds press conference after Asia trip, meetings with Xi Jinping and Putin",
-      "thumbnail": "https://i.ytimg.com/vi/ZMgQCs_EyN4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "rrTMOy0dQ-U",
-      "title": "Donald Trump speaks at White House after meeting Xi and Putin",
-      "thumbnail": "https://i.ytimg.com/vi/rrTMOy0dQ-U/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -219,9 +201,9 @@
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
       "live": true,
-      "videoId": "XBt_02mMN7U",
-      "title": "WATCH LIVE: Trump hosts news conference after meeting with Xi, Putin",
-      "thumbnail": "https://i.ytimg.com/vi/XBt_02mMN7U/hqdefault.jpg"
+      "videoId": "EUk2y4hj0js",
+      "title": "PBS News Hour live episode, Nov. 20, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/EUk2y4hj0js/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -254,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "x7GV5BedGlM",
-      "title": "Melanie Joly, Doug Ford and Lana Payne announce reopening of Ford's Oakville plant | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/x7GV5BedGlM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -276,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-20T17:18:13.058Z",
+      "at": "2026-11-20T23:09:35.829Z",
       "checked": 33,
       "errors": 0
     }
