@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T12:25:55.984Z",
+  "generatedAt": "2026-11-21T19:39:46.864Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "TvESnX_Xdno",
+      "title": "LIVE: ABC News Live - Saturday, November 21",
+      "thumbnail": "https://i.ytimg.com/vi/TvESnX_Xdno/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "8hDNSyNezPs",
-      "title": "Anthropic Slides, Goldman Says Stock Selloff Has Legs | Bloomberg This Weekend: Nov 21, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/8hDNSyNezPs/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-21T12:25:55.984Z",
+      "at": "2026-11-21T19:39:46.864Z",
       "checked": 33,
       "errors": 0
     }
