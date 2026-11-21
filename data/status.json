@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T23:09:35.829Z",
+  "generatedAt": "2026-11-21T03:58:28.815Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -96,9 +96,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "lQOlQH6nsys",
-      "title": "LIVE: Celebration of life service for civil rights leader Dolores Huerta",
-      "thumbnail": "https://i.ytimg.com/vi/lQOlQH6nsys/hqdefault.jpg"
+      "videoId": "KwO9hg4k8Hs",
+      "title": "LIVE: Trump holds briefing after returning from Asia",
+      "thumbnail": "https://i.ytimg.com/vi/KwO9hg4k8Hs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -115,7 +115,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "pJZBppLlwJo",
-      "title": "LIVE: NBC News NOW - Nov. 20",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg"
     },
     {
@@ -200,10 +200,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "EUk2y4hj0js",
-      "title": "PBS News Hour live episode, Nov. 20, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/EUk2y4hj0js/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -215,10 +212,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "DLqpTLQL-u4",
-      "title": "LIVE: Nov. 20— Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/DLqpTLQL-u4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -255,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-20T23:09:35.829Z",
+      "at": "2026-11-21T03:58:28.815Z",
       "checked": 33,
       "errors": 0
     }
