@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T03:58:28.815Z",
+  "generatedAt": "2026-11-21T12:25:55.984Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "QpWEiHwtGIE",
-      "title": "LIVE: ABC News Live - Friday, November 20",
-      "thumbnail": "https://i.ytimg.com/vi/QpWEiHwtGIE/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -122,10 +122,7 @@
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "bPYHE3vcFvM",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/bPYHE3vcFvM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -183,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "8hDNSyNezPs",
+      "title": "Anthropic Slides, Goldman Says Stock Selloff Has Legs | Bloomberg This Weekend: Nov 21, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/8hDNSyNezPs/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -249,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-21T03:58:28.815Z",
+      "at": "2026-11-21T12:25:55.984Z",
       "checked": 33,
       "errors": 0
     }
