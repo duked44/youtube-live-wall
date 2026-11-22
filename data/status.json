@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T23:56:08.454Z",
+  "generatedAt": "2026-11-22T05:41:45.955Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "TvESnX_Xdno",
-      "title": "LIVE: ABC News Live - Saturday, November 21",
-      "thumbnail": "https://i.ytimg.com/vi/TvESnX_Xdno/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -246,7 +246,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-21T23:56:08.454Z",
+      "at": "2026-11-22T05:41:45.955Z",
       "checked": 33,
       "errors": 0
     }
