@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T05:41:45.955Z",
+  "generatedAt": "2026-11-22T13:38:02.243Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -105,9 +105,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "QbWsfPZrRpA",
+      "title": "LIVE: ABC News Live - Sunday, November 22",
+      "thumbnail": "https://i.ytimg.com/vi/QbWsfPZrRpA/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "tP8etKB7IIk",
+      "title": "COP31 climate talks collapse after deal rejected",
+      "thumbnail": "https://i.ytimg.com/vi/tP8etKB7IIk/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -162,9 +162,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "LuKwFajn37U",
-      "title": "DW News livestream | Headline news from around the world",
-      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
+      "videoId": "ouG7Yty3Wak",
+      "title": "Live: Climate talks collapse as EU rejects petro-states' 'greenwashing' | DW News",
+      "thumbnail": "https://i.ytimg.com/vi/ouG7Yty3Wak/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "QB5BNdBFujE",
-      "title": "Bloomberg Business News Live",
-      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
+      "videoId": "emyNoh1bWz0",
+      "title": "AI-Led Selloff Fears, Russia Hits Ukrainian Energy Facilities | Bloomberg This Weekend: Nov 22, 2026",
+      "thumbnail": "https://i.ytimg.com/vi/emyNoh1bWz0/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -215,7 +215,10 @@
       "id": "guardiannews",
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
-      "live": false
+      "live": true,
+      "videoId": "SjbEJIlv9j0",
+      "title": "Plenary session as Cop31 runs further into overtime - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/SjbEJIlv9j0/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -246,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-22T05:41:45.955Z",
+      "at": "2026-11-22T13:38:02.243Z",
       "checked": 33,
       "errors": 0
     }
