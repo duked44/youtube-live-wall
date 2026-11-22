@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T13:38:02.243Z",
+  "generatedAt": "2026-11-22T20:28:39.511Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -144,9 +144,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "tP8etKB7IIk",
-      "title": "COP31 climate talks collapse after deal rejected",
-      "thumbnail": "https://i.ytimg.com/vi/tP8etKB7IIk/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -162,9 +162,9 @@
       "name": "DW News",
       "channelId": "UCknLrEdhRCp1aegoMqRaCZg",
       "live": true,
-      "videoId": "ouG7Yty3Wak",
-      "title": "Live: Climate talks collapse as EU rejects petro-states' 'greenwashing' | DW News",
-      "thumbnail": "https://i.ytimg.com/vi/ouG7Yty3Wak/hqdefault.jpg"
+      "videoId": "LuKwFajn37U",
+      "title": "DW News livestream | Headline news from around the world",
+      "thumbnail": "https://i.ytimg.com/vi/LuKwFajn37U/hqdefault.jpg"
     },
     {
       "id": "france24-en",
@@ -180,9 +180,9 @@
       "name": "Bloomberg Television",
       "channelId": "UCIALMKvObZNtJ6AmdCLP7Lg",
       "live": true,
-      "videoId": "emyNoh1bWz0",
-      "title": "AI-Led Selloff Fears, Russia Hits Ukrainian Energy Facilities | Bloomberg This Weekend: Nov 22, 2026",
-      "thumbnail": "https://i.ytimg.com/vi/emyNoh1bWz0/hqdefault.jpg"
+      "videoId": "QB5BNdBFujE",
+      "title": "Bloomberg Business News Live",
+      "thumbnail": "https://i.ytimg.com/vi/QB5BNdBFujE/hqdefault.jpg"
     },
     {
       "id": "cnbc",
@@ -216,9 +216,9 @@
       "name": "Guardian News",
       "channelId": "UCIRYBXDze5krPDzAEOxFGVA",
       "live": true,
-      "videoId": "SjbEJIlv9j0",
-      "title": "Plenary session as Cop31 runs further into overtime - watch live",
-      "thumbnail": "https://i.ytimg.com/vi/SjbEJIlv9j0/hqdefault.jpg"
+      "videoId": "0EUeHpg3VdM",
+      "title": "Cop31 plenary continues following repeated delays - watch live",
+      "thumbnail": "https://i.ytimg.com/vi/0EUeHpg3VdM/hqdefault.jpg"
     },
     {
       "id": "channel4news",
@@ -249,7 +249,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-22T13:38:02.243Z",
+      "at": "2026-11-22T20:28:39.511Z",
       "checked": 33,
       "errors": 0
     }
