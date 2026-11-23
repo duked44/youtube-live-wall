@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T08:58:12.113Z",
+  "generatedAt": "2026-11-23T21:10:39.730Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -11,13 +11,19 @@
       "id": "forbesbreakingnews",
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
-      "live": false
+      "live": true,
+      "videoId": "f2nr8zBIbdo",
+      "title": "LIVE: President Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO",
+      "thumbnail": "https://i.ytimg.com/vi/f2nr8zBIbdo/hqdefault.jpg"
     },
     {
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "yhGhRf0XUgo",
+      "title": "President Trump participates in National Thanksgiving Turkey Pardoning Ceremony",
+      "thumbnail": "https://i.ytimg.com/vi/yhGhRf0XUgo/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -32,7 +38,10 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": false
+      "live": true,
+      "videoId": "gx7TzC-Z5Z0",
+      "title": "Live: President Trump Delivers Remarks on Protecting American Families",
+      "thumbnail": "https://i.ytimg.com/vi/gx7TzC-Z5Z0/hqdefault.jpg"
     },
     {
       "id": "livenowfromfox",
@@ -89,43 +98,43 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "hdaZftitWBs",
-      "title": "LIVE: Zelenskyy addresses NATO Parliamentary Assembly",
-      "thumbnail": "https://i.ytimg.com/vi/hdaZftitWBs/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "dj-SKmCQlLA",
-      "title": "LIVE: NATO’s Rutte addresses the German parliament",
-      "thumbnail": "https://i.ytimg.com/vi/dj-SKmCQlLA/hqdefault.jpg"
+      "videoId": "qFcl7JRivVI",
+      "title": "LIVE: Nvidia board reinstates Jensen Huang, shares surge",
+      "thumbnail": "https://i.ytimg.com/vi/qFcl7JRivVI/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "xNtZEaroM5U",
+      "title": "Hawaii's Kīlauea volcano spews lava during eruption",
+      "thumbnail": "https://i.ytimg.com/vi/xNtZEaroM5U/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "pJZBppLlwJo",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/pJZBppLlwJo/hqdefault.jpg"
+      "videoId": "oySB38T4DY0",
+      "title": "LIVE: NBC News NOW - Nov. 23",
+      "thumbnail": "https://i.ytimg.com/vi/oySB38T4DY0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": false
+      "live": true,
+      "videoId": "fTxbsAXTY44",
+      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
+      "thumbnail": "https://i.ytimg.com/vi/fTxbsAXTY44/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -140,16 +149,19 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "2Pq24JkXru4",
+      "title": "LIVE: See markets react after Nvidia REINSTATES Jensen Huang as CEO",
+      "thumbnail": "https://i.ytimg.com/vi/2Pq24JkXru4/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "x9SmI2jRICo",
-      "title": "Political leaders speak at CBI conference in London",
-      "thumbnail": "https://i.ytimg.com/vi/x9SmI2jRICo/hqdefault.jpg"
+      "videoId": "zTgNo9Fyf-g",
+      "title": "Why Donald Trump needs Jensen Huang | The World with Yalda Hakim live from New York",
+      "thumbnail": "https://i.ytimg.com/vi/zTgNo9Fyf-g/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -200,19 +212,28 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "pwJDvWZCYNM",
+      "title": "WATCH LIVE: Trump delivers address at the Justice Department",
+      "thumbnail": "https://i.ytimg.com/vi/pwJDvWZCYNM/hqdefault.jpg"
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
-      "live": false
+      "live": true,
+      "videoId": "4X8Db0s4Otc",
+      "title": "Trump Brought Jensen Huang Back. YIKES! | Prove It! with Batya + Guest Josh Rogin",
+      "thumbnail": "https://i.ytimg.com/vi/4X8Db0s4Otc/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "PgsO-EvLgU8",
+      "title": "LIVE: Nov. 23 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/PgsO-EvLgU8/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -247,12 +268,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 4,
-      "channelChecks": 132,
+      "runs": 3,
+      "channelChecks": 99,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-23T08:58:12.113Z",
+      "at": "2026-11-23T21:10:39.730Z",
       "checked": 33,
       "errors": 0
     }
