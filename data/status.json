@@ -1,11 +1,14 @@
 {
-  "generatedAt": "2026-11-22T20:28:39.511Z",
+  "generatedAt": "2026-11-23T01:05:39.187Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": false
+      "live": true,
+      "videoId": "xnfk1wxEp_Y",
+      "title": "Army Plans Iowa Explosion & Ukraine Attacks Russian Ships - LIVE Breaking News Coverage",
+      "thumbnail": "https://i.ytimg.com/vi/xnfk1wxEp_Y/hqdefault.jpg"
     },
     {
       "id": "forbesbreakingnews",
@@ -249,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-22T20:28:39.511Z",
+      "at": "2026-11-23T01:05:39.187Z",
       "checked": 33,
       "errors": 0
     }
