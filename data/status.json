@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-23T01:05:39.187Z",
+  "generatedAt": "2026-11-23T08:58:12.113Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "xnfk1wxEp_Y",
-      "title": "Army Plans Iowa Explosion & Ukraine Attacks Russian Ships - LIVE Breaking News Coverage",
-      "thumbnail": "https://i.ytimg.com/vi/xnfk1wxEp_Y/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -92,25 +89,28 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "hdaZftitWBs",
+      "title": "LIVE: Zelenskyy addresses NATO Parliamentary Assembly",
+      "thumbnail": "https://i.ytimg.com/vi/hdaZftitWBs/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "KwO9hg4k8Hs",
-      "title": "LIVE: Trump holds briefing after returning from Asia",
-      "thumbnail": "https://i.ytimg.com/vi/KwO9hg4k8Hs/hqdefault.jpg"
+      "videoId": "dj-SKmCQlLA",
+      "title": "LIVE: NATO’s Rutte addresses the German parliament",
+      "thumbnail": "https://i.ytimg.com/vi/dj-SKmCQlLA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "QbWsfPZrRpA",
-      "title": "LIVE: ABC News Live - Sunday, November 22",
-      "thumbnail": "https://i.ytimg.com/vi/QbWsfPZrRpA/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -147,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "x9SmI2jRICo",
+      "title": "Political leaders speak at CBI conference in London",
+      "thumbnail": "https://i.ytimg.com/vi/x9SmI2jRICo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -252,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-23T01:05:39.187Z",
+      "at": "2026-11-23T08:58:12.113Z",
       "checked": 33,
       "errors": 0
     }
