@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T21:10:39.730Z",
+  "generatedAt": "2026-11-24T05:19:43.202Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "f2nr8zBIbdo",
-      "title": "LIVE: President Trump Holds Public Event After Jensen Huang Reinstated As Nvidia CEO",
-      "thumbnail": "https://i.ytimg.com/vi/f2nr8zBIbdo/hqdefault.jpg"
+      "videoId": "UGq-iaW2CKI",
+      "title": "LIVE: Jensen Huang Testifies Publicly Before The Senate After Shock Nvidia Reinstatement",
+      "thumbnail": "https://i.ytimg.com/vi/UGq-iaW2CKI/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -38,10 +38,7 @@
       "id": "nypost",
       "name": "New York Post",
       "channelId": "UCrvhNP_lWuPIP6QZzJmM-bw",
-      "live": true,
-      "videoId": "gx7TzC-Z5Z0",
-      "title": "Live: President Trump Delivers Remarks on Protecting American Families",
-      "thumbnail": "https://i.ytimg.com/vi/gx7TzC-Z5Z0/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "livenowfromfox",
@@ -105,9 +102,9 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "qFcl7JRivVI",
+      "videoId": "vysQXkgUE8o",
       "title": "LIVE: Nvidia board reinstates Jensen Huang, shares surge",
-      "thumbnail": "https://i.ytimg.com/vi/qFcl7JRivVI/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/vysQXkgUE8o/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -123,18 +120,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "oySB38T4DY0",
-      "title": "LIVE: NBC News NOW - Nov. 23",
-      "thumbnail": "https://i.ytimg.com/vi/oySB38T4DY0/hqdefault.jpg"
+      "videoId": "VjdWroHy3P0",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/VjdWroHy3P0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "fTxbsAXTY44",
+      "videoId": "ImuzD8q2mJ0",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/fTxbsAXTY44/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/ImuzD8q2mJ0/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -149,19 +146,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "2Pq24JkXru4",
-      "title": "LIVE: See markets react after Nvidia REINSTATES Jensen Huang as CEO",
-      "thumbnail": "https://i.ytimg.com/vi/2Pq24JkXru4/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "zTgNo9Fyf-g",
-      "title": "Why Donald Trump needs Jensen Huang | The World with Yalda Hakim live from New York",
-      "thumbnail": "https://i.ytimg.com/vi/zTgNo9Fyf-g/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -212,28 +206,22 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "pwJDvWZCYNM",
-      "title": "WATCH LIVE: Trump delivers address at the Justice Department",
-      "thumbnail": "https://i.ytimg.com/vi/pwJDvWZCYNM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
       "name": "NewsNation",
       "channelId": "UCCjG8NtOig0USdrT5D1FpxQ",
       "live": true,
-      "videoId": "4X8Db0s4Otc",
-      "title": "Trump Brought Jensen Huang Back. YIKES! | Prove It! with Batya + Guest Josh Rogin",
-      "thumbnail": "https://i.ytimg.com/vi/4X8Db0s4Otc/hqdefault.jpg"
+      "videoId": "9GsL-1ywpPE",
+      "title": "Footprints, Stench and Missing Elk: Inside the Bigfoot Files | Hot Take with Jesse Weber",
+      "thumbnail": "https://i.ytimg.com/vi/9GsL-1ywpPE/hqdefault.jpg"
     },
     {
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "PgsO-EvLgU8",
-      "title": "LIVE: Nov. 23 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/PgsO-EvLgU8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -273,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-23T21:10:39.730Z",
+      "at": "2026-11-24T05:19:43.202Z",
       "checked": 33,
       "errors": 0
     }
