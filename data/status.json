@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:19:43.202Z",
+  "generatedAt": "2026-11-24T16:01:12.912Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "UGq-iaW2CKI",
-      "title": "LIVE: Jensen Huang Testifies Publicly Before The Senate After Shock Nvidia Reinstatement",
-      "thumbnail": "https://i.ytimg.com/vi/UGq-iaW2CKI/hqdefault.jpg"
+      "videoId": "neBboWDAMfE",
+      "title": "LIVE: AG Todd Blanche Holds Press Conference On Cyber Scam Crackdown",
+      "thumbnail": "https://i.ytimg.com/vi/neBboWDAMfE/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -30,9 +30,9 @@
       "name": "Fox News",
       "channelId": "UCXIJgqnII2ZOINSWNOGFThA",
       "live": true,
-      "videoId": "wcY4K5CNVx4",
-      "title": "WATCH LIVE: Fox News' All-American Christmas tree",
-      "thumbnail": "https://i.ytimg.com/vi/wcY4K5CNVx4/hqdefault.jpg"
+      "videoId": "JcoY2kBzKxI",
+      "title": "WATCH LIVE: DOJ launches new crackdown on cyber scams targeting Americans",
+      "thumbnail": "https://i.ytimg.com/vi/JcoY2kBzKxI/hqdefault.jpg"
     },
     {
       "id": "nypost",
@@ -95,67 +95,73 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "F5O4vGNBIyQ",
+      "title": "LIVE: Officials provide update on detonating degraded bomb-making material in Iowa",
+      "thumbnail": "https://i.ytimg.com/vi/F5O4vGNBIyQ/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "vysQXkgUE8o",
-      "title": "LIVE: Nvidia board reinstates Jensen Huang, shares surge",
-      "thumbnail": "https://i.ytimg.com/vi/vysQXkgUE8o/hqdefault.jpg"
+      "videoId": "WIeXvmr9tDA",
+      "title": "LIVE: US federal officials hold briefing on Iowa detonation",
+      "thumbnail": "https://i.ytimg.com/vi/WIeXvmr9tDA/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "xNtZEaroM5U",
-      "title": "Hawaii's Kīlauea volcano spews lava during eruption",
-      "thumbnail": "https://i.ytimg.com/vi/xNtZEaroM5U/hqdefault.jpg"
+      "videoId": "pLuQnu_VVic",
+      "title": "Federal officials give update on planned detonation in Middletown, Iowa",
+      "thumbnail": "https://i.ytimg.com/vi/pLuQnu_VVic/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "VjdWroHy3P0",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/VjdWroHy3P0/hqdefault.jpg"
+      "videoId": "13rFWn3k36s",
+      "title": "LIVE: NBC News NOW - Nov. 24",
+      "thumbnail": "https://i.ytimg.com/vi/13rFWn3k36s/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "ImuzD8q2mJ0",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/ImuzD8q2mJ0/hqdefault.jpg"
+      "videoId": "8COcAkRHL10",
+      "title": "Watch Live: Trump officials on controversial plan to detonate explosives in Iowa set for Wednesday",
+      "thumbnail": "https://i.ytimg.com/vi/8COcAkRHL10/hqdefault.jpg"
     },
     {
       "id": "cnn",
       "name": "CNN",
       "channelId": "UCupvZG-5ko_eiXAupbDfxWw",
       "live": true,
-      "videoId": "yD2DZt0lq24",
-      "title": "Stream the best of CNN Originals 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/yD2DZt0lq24/hqdefault.jpg"
+      "videoId": "mWJjg9veOW8",
+      "title": "Live: SpaceX launches classified Space Force mission",
+      "thumbnail": "https://i.ytimg.com/vi/mWJjg9veOW8/hqdefault.jpg"
     },
     {
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": false
+      "live": true,
+      "videoId": "8XF4kID-s90",
+      "title": "U.S. Army holds news conference on plans to detonate degraded lead stockpile",
+      "thumbnail": "https://i.ytimg.com/vi/8XF4kID-s90/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "j1rBUjc_O5g",
+      "title": "US markets open for day two after Nvidia CEO return",
+      "thumbnail": "https://i.ytimg.com/vi/j1rBUjc_O5g/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -206,7 +212,10 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": false
+      "live": true,
+      "videoId": "wl4coFS1v0g",
+      "title": "WATCH LIVE: Blanche holds news conference on combatting cyber-enabled scams",
+      "thumbnail": "https://i.ytimg.com/vi/wl4coFS1v0g/hqdefault.jpg"
     },
     {
       "id": "newsnation",
@@ -221,7 +230,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "Ixr_HzHbAsY",
+      "title": "LIVE: Nov. 24 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/Ixr_HzHbAsY/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -261,7 +273,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-24T05:19:43.202Z",
+      "at": "2026-11-24T16:01:12.912Z",
       "checked": 33,
       "errors": 0
     }
