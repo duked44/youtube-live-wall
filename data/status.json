@@ -1,14 +1,11 @@
 {
-  "generatedAt": "2026-11-25T00:34:23.657Z",
+  "generatedAt": "2026-11-25T09:06:03.045Z",
   "channels": [
     {
       "id": "agendafreetv",
       "name": "Agenda-Free TV",
       "channelId": "UCshCsg1YVKli8yBai-wa78w",
-      "live": true,
-      "videoId": "TETzOW8lmKM",
-      "title": "Iowa Explosion Tomorrow Morning - LIVE Breaking News Coverage (Army to Explode Lead Azide)",
-      "thumbnail": "https://i.ytimg.com/vi/TETzOW8lmKM/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "forbesbreakingnews",
@@ -23,7 +20,10 @@
       "id": "cspan",
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
-      "live": false
+      "live": true,
+      "videoId": "6rGQCQ1qXYs",
+      "title": "Detonation of Iowa Ammunition Plant",
+      "thumbnail": "https://i.ytimg.com/vi/6rGQCQ1qXYs/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -95,7 +95,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "JEiPEAMShP8",
+      "title": "LIVE: Kilmar Abrego Garcia expected to arrive in Spain after voluntarily leaving the US",
+      "thumbnail": "https://i.ytimg.com/vi/JEiPEAMShP8/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -108,9 +111,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "E303pvvBujg",
-      "title": "LIVE: ABC News Live - Tuesday, November 24",
-      "thumbnail": "https://i.ytimg.com/vi/E303pvvBujg/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -118,7 +121,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "8igLkrFYQ8k",
-      "title": "LIVE: NBC News NOW - Nov. 24",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/8igLkrFYQ8k/hqdefault.jpg"
     },
     {
@@ -150,9 +153,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "OF9_Adiywro",
+      "title": "Energy bills to soar by more than £400 as new price cap announced | Mornings with Ridge and Frost",
+      "thumbnail": "https://i.ytimg.com/vi/OF9_Adiywro/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-25T00:34:23.657Z",
+      "at": "2026-11-25T09:06:03.045Z",
       "checked": 33,
       "errors": 0
     }
