@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T09:06:03.045Z",
+  "generatedAt": "2026-11-25T19:12:07.569Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -21,9 +21,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "6rGQCQ1qXYs",
-      "title": "Detonation of Iowa Ammunition Plant",
-      "thumbnail": "https://i.ytimg.com/vi/6rGQCQ1qXYs/hqdefault.jpg"
+      "videoId": "KHXsEA4Pg18",
+      "title": "Nvidia CEO Jensen Huang Testifies before U.S. Senate",
+      "thumbnail": "https://i.ytimg.com/vi/KHXsEA4Pg18/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -96,42 +96,45 @@
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
       "live": true,
-      "videoId": "JEiPEAMShP8",
-      "title": "LIVE: Kilmar Abrego Garcia expected to arrive in Spain after voluntarily leaving the US",
-      "thumbnail": "https://i.ytimg.com/vi/JEiPEAMShP8/hqdefault.jpg"
+      "videoId": "b-8d-D9i4_E",
+      "title": "LIVE: Macy’s Thanksgiving Day Parade balloons are inflated in New York",
+      "thumbnail": "https://i.ytimg.com/vi/b-8d-D9i4_E/hqdefault.jpg"
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "iMh-VDJ8-VY",
+      "title": "LIVE: Protest in Madrid to demand end to violence against women",
+      "thumbnail": "https://i.ytimg.com/vi/iMh-VDJ8-VY/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "KQhNZQ_Uag8",
-      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
-      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
+      "videoId": "MHZmpChT55c",
+      "title": "LIVE: ABC News Live - Wednesday, November 25",
+      "thumbnail": "https://i.ytimg.com/vi/MHZmpChT55c/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "8igLkrFYQ8k",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/8igLkrFYQ8k/hqdefault.jpg"
+      "videoId": "-LSuaW99Bn0",
+      "title": "LIVE: NBC News NOW - Nov. 25",
+      "thumbnail": "https://i.ytimg.com/vi/-LSuaW99Bn0/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "p9y2FOI49FE",
+      "videoId": "qQKeNs9is20",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/p9y2FOI49FE/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/qQKeNs9is20/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -153,9 +156,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "OF9_Adiywro",
-      "title": "Energy bills to soar by more than £400 as new price cap announced | Mornings with Ridge and Frost",
-      "thumbnail": "https://i.ytimg.com/vi/OF9_Adiywro/hqdefault.jpg"
+      "videoId": "qHz2IynE9LI",
+      "title": "The Cathy Newman Show | Wednesday 25 November 2026",
+      "thumbnail": "https://i.ytimg.com/vi/qHz2IynE9LI/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -218,7 +221,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "p1OhtCNJT3I",
+      "title": "LIVE: Nov. 25 — Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/p1OhtCNJT3I/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -239,7 +245,10 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": false
+      "live": true,
+      "videoId": "uuoYxSznRH8",
+      "title": "It's Spider-Man! Balloons inflated in preparation of 100th annual Macy's Thanksgiving Parade | LIVE",
+      "thumbnail": "https://i.ytimg.com/vi/uuoYxSznRH8/hqdefault.jpg"
     },
     {
       "id": "cna",
@@ -258,7 +267,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-25T09:06:03.045Z",
+      "at": "2026-11-25T19:12:07.569Z",
       "checked": 33,
       "errors": 0
     }
