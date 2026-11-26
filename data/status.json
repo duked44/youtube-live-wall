@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T02:14:24.820Z",
+  "generatedAt": "2026-11-26T11:00:52.286Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -21,9 +21,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "A80QKzFeV7A",
-      "title": "Chicago Thanksgiving Day Parade",
-      "thumbnail": "https://i.ytimg.com/vi/A80QKzFeV7A/hqdefault.jpg"
+      "videoId": "KHXsEA4Pg18",
+      "title": "Nvidia CEO Jensen Huang Testifies before U.S. Senate",
+      "thumbnail": "https://i.ytimg.com/vi/KHXsEA4Pg18/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -108,9 +108,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "MHZmpChT55c",
-      "title": "LIVE: ABC News Live - Wednesday, November 25",
-      "thumbnail": "https://i.ytimg.com/vi/MHZmpChT55c/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -118,17 +118,14 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "9ERRSqJNoSQ",
-      "title": "LIVE: NBC News NOW - Nov. 25",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/9ERRSqJNoSQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
-      "live": true,
-      "videoId": "vVieIWEkISc",
-      "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/vVieIWEkISc/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cnn",
@@ -150,9 +147,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "N7lklIZnbgc",
+      "title": "New Mandelson files to be released today | Full coverage",
+      "thumbnail": "https://i.ytimg.com/vi/N7lklIZnbgc/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -255,7 +252,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-26T02:14:24.820Z",
+      "at": "2026-11-26T11:00:52.286Z",
       "checked": 33,
       "errors": 0
     }
