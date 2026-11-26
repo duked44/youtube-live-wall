@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:12:07.569Z",
+  "generatedAt": "2026-11-26T02:14:24.820Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -21,9 +21,9 @@
       "name": "C-SPAN",
       "channelId": "UCb--64Gl51jIEVE-GLDAVTg",
       "live": true,
-      "videoId": "KHXsEA4Pg18",
-      "title": "Nvidia CEO Jensen Huang Testifies before U.S. Senate",
-      "thumbnail": "https://i.ytimg.com/vi/KHXsEA4Pg18/hqdefault.jpg"
+      "videoId": "A80QKzFeV7A",
+      "title": "Chicago Thanksgiving Day Parade",
+      "thumbnail": "https://i.ytimg.com/vi/A80QKzFeV7A/hqdefault.jpg"
     },
     {
       "id": "foxnews",
@@ -95,19 +95,13 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": true,
-      "videoId": "b-8d-D9i4_E",
-      "title": "LIVE: Macy’s Thanksgiving Day Parade balloons are inflated in New York",
-      "thumbnail": "https://i.ytimg.com/vi/b-8d-D9i4_E/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "iMh-VDJ8-VY",
-      "title": "LIVE: Protest in Madrid to demand end to violence against women",
-      "thumbnail": "https://i.ytimg.com/vi/iMh-VDJ8-VY/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -123,18 +117,18 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "-LSuaW99Bn0",
+      "videoId": "9ERRSqJNoSQ",
       "title": "LIVE: NBC News NOW - Nov. 25",
-      "thumbnail": "https://i.ytimg.com/vi/-LSuaW99Bn0/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/9ERRSqJNoSQ/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
       "name": "CBS News",
       "channelId": "UC8p1vwvWtl6T73JiExfWs1g",
       "live": true,
-      "videoId": "qQKeNs9is20",
+      "videoId": "vVieIWEkISc",
       "title": "LIVE: Breaking News and Top Stories on CBS News 24/7",
-      "thumbnail": "https://i.ytimg.com/vi/qQKeNs9is20/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/vVieIWEkISc/hqdefault.jpg"
     },
     {
       "id": "cnn",
@@ -156,9 +150,9 @@
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "qHz2IynE9LI",
-      "title": "The Cathy Newman Show | Wednesday 25 November 2026",
-      "thumbnail": "https://i.ytimg.com/vi/qHz2IynE9LI/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -221,10 +215,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "p1OhtCNJT3I",
-      "title": "LIVE: Nov. 25 — Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/p1OhtCNJT3I/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -245,10 +236,7 @@
       "id": "globalnews",
       "name": "Global News",
       "channelId": "UChLtXXpo4Ge1ReTEboVvTDg",
-      "live": true,
-      "videoId": "uuoYxSznRH8",
-      "title": "It's Spider-Man! Balloons inflated in preparation of 100th annual Macy's Thanksgiving Parade | LIVE",
-      "thumbnail": "https://i.ytimg.com/vi/uuoYxSznRH8/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "cna",
@@ -267,7 +255,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-25T19:12:07.569Z",
+      "at": "2026-11-26T02:14:24.820Z",
       "checked": 33,
       "errors": 0
     }
