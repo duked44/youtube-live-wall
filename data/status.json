@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:29:12.736Z",
+  "generatedAt": "2026-11-27T20:14:42.118Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -12,9 +12,9 @@
       "name": "Forbes Breaking News",
       "channelId": "UCg40OxZ1GYh3u3jBntB6DLg",
       "live": true,
-      "videoId": "UGq-iaW2CKI",
-      "title": "LIVE: Jensen Huang Testifies Publicly Before The Senate After Shock Nvidia Reinstatement",
-      "thumbnail": "https://i.ytimg.com/vi/UGq-iaW2CKI/hqdefault.jpg"
+      "videoId": "WVSmKPB-pyc",
+      "title": "LIVE: Transportation Secretary Sean Duffy Testifies Before The Senate After Nationwide Ground Stop",
+      "thumbnail": "https://i.ytimg.com/vi/WVSmKPB-pyc/hqdefault.jpg"
     },
     {
       "id": "cspan",
@@ -101,10 +101,7 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": true,
-      "videoId": "wy7_qJjxHVU",
-      "title": "LIVE: Shoppers look for Black Friday bargains in New York",
-      "thumbnail": "https://i.ytimg.com/vi/wy7_qJjxHVU/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "abcnews",
@@ -120,9 +117,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "k_ygu0jVZ3o",
-      "title": "LIVE: NBC News NOW",
-      "thumbnail": "https://i.ytimg.com/vi/k_ygu0jVZ3o/hqdefault.jpg"
+      "videoId": "gKULTIDM-8s",
+      "title": "LIVE: NBC News NOW - Nov. 27",
+      "thumbnail": "https://i.ytimg.com/vi/gKULTIDM-8s/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -144,9 +141,9 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "GjX7SROH1s4",
-      "title": "BEST of 'The Best People with Nicolle Wallace': MS NOW Thanksgiving Marathon",
-      "thumbnail": "https://i.ytimg.com/vi/GjX7SROH1s4/hqdefault.jpg"
+      "videoId": "EIqVYck-K20",
+      "title": "WATCH: Top MS NOW Interviews of 2026",
+      "thumbnail": "https://i.ytimg.com/vi/EIqVYck-K20/hqdefault.jpg"
     },
     {
       "id": "skynews",
@@ -261,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-27T11:29:12.736Z",
+      "at": "2026-11-27T20:14:42.118Z",
       "checked": 33,
       "errors": 0
     }
