@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T02:49:40.827Z",
+  "generatedAt": "2026-11-27T11:29:12.736Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -102,18 +102,18 @@
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
       "live": true,
-      "videoId": "LeZ-C1hYKCs",
-      "title": "LIVE: Weather map showing storm moving along the US East Coast",
-      "thumbnail": "https://i.ytimg.com/vi/LeZ-C1hYKCs/hqdefault.jpg"
+      "videoId": "wy7_qJjxHVU",
+      "title": "LIVE: Shoppers look for Black Friday bargains in New York",
+      "thumbnail": "https://i.ytimg.com/vi/wy7_qJjxHVU/hqdefault.jpg"
     },
     {
       "id": "abcnews",
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "0HDN5-2M1VE",
-      "title": "LIVE: ABC News Live - Thursday, November 26",
-      "thumbnail": "https://i.ytimg.com/vi/0HDN5-2M1VE/hqdefault.jpg"
+      "videoId": "d8eOeIS1EFU",
+      "title": "LIVE: ABC News Live - Friday, November 27",
+      "thumbnail": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -121,7 +121,7 @@
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
       "videoId": "k_ygu0jVZ3o",
-      "title": "LIVE: NBC News NOW - Nov. 26",
+      "title": "LIVE: NBC News NOW",
       "thumbnail": "https://i.ytimg.com/vi/k_ygu0jVZ3o/hqdefault.jpg"
     },
     {
@@ -218,7 +218,10 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": false
+      "live": true,
+      "videoId": "PbqnmWAgkAg",
+      "title": "LIVE: Nov. 27— Breaking News & Top Headlines",
+      "thumbnail": "https://i.ytimg.com/vi/PbqnmWAgkAg/hqdefault.jpg"
     },
     {
       "id": "guardiannews",
@@ -258,7 +261,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-27T02:49:40.827Z",
+      "at": "2026-11-27T11:29:12.736Z",
       "checked": 33,
       "errors": 0
     }
