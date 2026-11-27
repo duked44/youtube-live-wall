@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T20:05:51.366Z",
+  "generatedAt": "2026-11-27T02:49:40.827Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -101,7 +101,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "LeZ-C1hYKCs",
+      "title": "LIVE: Weather map showing storm moving along the US East Coast",
+      "thumbnail": "https://i.ytimg.com/vi/LeZ-C1hYKCs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "dlQf_B0OGrA",
+      "videoId": "k_ygu0jVZ3o",
       "title": "LIVE: NBC News NOW - Nov. 26",
-      "thumbnail": "https://i.ytimg.com/vi/dlQf_B0OGrA/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/k_ygu0jVZ3o/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -141,18 +144,18 @@
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
       "live": true,
-      "videoId": "4W2U0738Lis",
+      "videoId": "GjX7SROH1s4",
       "title": "BEST of 'The Best People with Nicolle Wallace': MS NOW Thanksgiving Marathon",
-      "thumbnail": "https://i.ytimg.com/vi/4W2U0738Lis/hqdefault.jpg"
+      "thumbnail": "https://i.ytimg.com/vi/GjX7SROH1s4/hqdefault.jpg"
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "S7pjx7J_PEU",
-      "title": "Huntingdon train attacker guilty of 14 counts of attempted murder | The UK Tonight",
-      "thumbnail": "https://i.ytimg.com/vi/S7pjx7J_PEU/hqdefault.jpg"
+      "videoId": "53SxFKpbKDE",
+      "title": "Watch Sky News live",
+      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -203,10 +206,7 @@
       "id": "pbsnewshour",
       "name": "PBS NewsHour",
       "channelId": "UC6ZFN9Tx6xh-skXCuRHCDpQ",
-      "live": true,
-      "videoId": "beasdZ4SomA",
-      "title": "WATCH LIVE: President Trump and first lady call U.S. service members on Thanksgiving",
-      "thumbnail": "https://i.ytimg.com/vi/beasdZ4SomA/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "newsnation",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-26T20:05:51.366Z",
+      "at": "2026-11-27T02:49:40.827Z",
       "checked": 33,
       "errors": 0
     }
