@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T20:14:42.118Z",
+  "generatedAt": "2026-11-28T02:46:19.596Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -101,7 +101,10 @@
       "id": "reuters",
       "name": "Reuters",
       "channelId": "UChqUTb7kYRX8-EiaN3XFrSQ",
-      "live": false
+      "live": true,
+      "videoId": "UjKx31gXXUs",
+      "title": "LIVE: Bolivian workers protest against government",
+      "thumbnail": "https://i.ytimg.com/vi/UjKx31gXXUs/hqdefault.jpg"
     },
     {
       "id": "abcnews",
@@ -117,9 +120,9 @@
       "name": "NBC News",
       "channelId": "UCeY0bbntWzzVIaj2z3QigXg",
       "live": true,
-      "videoId": "gKULTIDM-8s",
-      "title": "LIVE: NBC News NOW - Nov. 27",
-      "thumbnail": "https://i.ytimg.com/vi/gKULTIDM-8s/hqdefault.jpg"
+      "videoId": "0vNukUbpBbU",
+      "title": "LIVE: NBC News NOW",
+      "thumbnail": "https://i.ytimg.com/vi/0vNukUbpBbU/hqdefault.jpg"
     },
     {
       "id": "cbsnews",
@@ -215,10 +218,7 @@
       "id": "scrippsnews",
       "name": "Scripps News",
       "channelId": "UCTln5ss6h6L_xNfMeujfPbg",
-      "live": true,
-      "videoId": "PbqnmWAgkAg",
-      "title": "LIVE: Nov. 27— Breaking News & Top Headlines",
-      "thumbnail": "https://i.ytimg.com/vi/PbqnmWAgkAg/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "guardiannews",
@@ -253,12 +253,12 @@
   ],
   "health": {
     "last24h": {
-      "runs": 3,
-      "channelChecks": 99,
+      "runs": 4,
+      "channelChecks": 132,
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-27T20:14:42.118Z",
+      "at": "2026-11-28T02:46:19.596Z",
       "checked": 33,
       "errors": 0
     }
