@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T02:46:19.596Z",
+  "generatedAt": "2026-11-28T10:56:47.234Z",
   "channels": [
     {
       "id": "agendafreetv",
@@ -95,7 +95,10 @@
       "id": "associatedpress",
       "name": "Associated Press",
       "channelId": "UC52X5wxOL_s5yw0dQk7NtgA",
-      "live": false
+      "live": true,
+      "videoId": "PLzntfFgQWI",
+      "title": "LIVE: Crowds watch the Macy’s Thanksgiving Day Parade 2026",
+      "thumbnail": "https://i.ytimg.com/vi/PLzntfFgQWI/hqdefault.jpg"
     },
     {
       "id": "reuters",
@@ -111,9 +114,9 @@
       "name": "ABC News",
       "channelId": "UCBi2mrWuNuyYy4gbM6fU18Q",
       "live": true,
-      "videoId": "d8eOeIS1EFU",
-      "title": "LIVE: ABC News Live - Friday, November 27",
-      "thumbnail": "https://i.ytimg.com/vi/d8eOeIS1EFU/hqdefault.jpg"
+      "videoId": "KQhNZQ_Uag8",
+      "title": "LIVE: ABC News Live - 24/7 news, context and analysis",
+      "thumbnail": "https://i.ytimg.com/vi/KQhNZQ_Uag8/hqdefault.jpg"
     },
     {
       "id": "nbcnews",
@@ -143,19 +146,16 @@
       "id": "msnow",
       "name": "MS NOW",
       "channelId": "UCaXkIU1QidjPwiAYu6GcHjg",
-      "live": true,
-      "videoId": "EIqVYck-K20",
-      "title": "WATCH: Top MS NOW Interviews of 2026",
-      "thumbnail": "https://i.ytimg.com/vi/EIqVYck-K20/hqdefault.jpg"
+      "live": false
     },
     {
       "id": "skynews",
       "name": "Sky News",
       "channelId": "UCoMdktPbSTixAyNGwb-UYkQ",
       "live": true,
-      "videoId": "53SxFKpbKDE",
-      "title": "Watch Sky News live",
-      "thumbnail": "https://i.ytimg.com/vi/53SxFKpbKDE/hqdefault.jpg"
+      "videoId": "CYFymGKS6Eo",
+      "title": "Controlled detonation of German hard coal power plant",
+      "thumbnail": "https://i.ytimg.com/vi/CYFymGKS6Eo/hqdefault.jpg"
     },
     {
       "id": "aljazeeraenglish",
@@ -258,7 +258,7 @@
       "errors": 0
     },
     "lastRun": {
-      "at": "2026-11-28T02:46:19.596Z",
+      "at": "2026-11-28T10:56:47.234Z",
       "checked": 33,
       "errors": 0
     }
